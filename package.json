@@ -21,7 +21,8 @@
     }
   },
   "bin": {
-    "scrape-pos": "lib/cjs/index.js"
+    "scrape-pos": "lib/cjs/index.js",
+    "pos-cli": "lib/cjs/cli.js"
   },
   "scripts": {
     "start": "ts-node src/index.ts",
@@ -56,9 +57,9 @@
     "cheerio": "^1.2.0",
     "cli-progress": "^3.12.0",
     "commander": "^14.0.3",
+    "fuse.js": "^7.1.0",
     "puppeteer": "^24.39.0",
     "qs": "^6.15.0",
-    "fuse.js": "^7.1.0",
     "winston": "^3.19.0"
   },
   "devDependencies": {
