@@ -1,0 +1,102 @@
+[
+  {
+    "code": "11.01.01.2001",
+    "name": "Keude Bakongan",
+    "districtCode": "11.01.01",
+    "type": "DESA",
+    "provinceName": "Aceh",
+    "regencyName": "Kab.",
+    "districtName": "Bakongan",
+    "postalCode": "23773"
+  },
+  {
+    "code": "11.01.01.2002",
+    "name": "Ujong Mangki",
+    "districtCode": "11.01.01",
+    "type": "DESA",
+    "provinceName": "Aceh",
+    "regencyName": "Kab.",
+    "districtName": "Bakongan",
+    "postalCode": "23773"
+  },
+  {
+    "code": "11.01.01.2003",
+    "name": "Ujong Padang",
+    "districtCode": "11.01.01",
+    "type": "DESA",
+    "provinceName": "Aceh",
+    "regencyName": "Kab.",
+    "districtName": "Bakongan",
+    "postalCode": "23773"
+  },
+  {
+    "code": "11.01.01.2004",
+    "name": "Gampong Drien",
+    "districtCode": "11.01.01",
+    "type": "DESA",
+    "provinceName": "Aceh",
+    "regencyName": "Kab.",
+    "districtName": "Bakongan",
+    "postalCode": "23773"
+  },
+  {
+    "code": "11.01.01.2015",
+    "name": "Darul Ikhsan",
+    "districtCode": "11.01.01",
+    "type": "DESA",
+    "provinceName": "Aceh",
+    "regencyName": "Kab.",
+    "districtName": "Bakongan",
+    "postalCode": "23773"
+  },
+  {
+    "code": "11.01.01.2016",
+    "name": "Padang Beurahan",
+    "districtCode": "11.01.01",
+    "type": "DESA",
+    "provinceName": "Aceh",
+    "regencyName": "Kab.",
+    "districtName": "Bakongan",
+    "postalCode": "23773"
+  },
+  {
+    "code": "11.01.01.2017",
+    "name": "Gampong Baro",
+    "districtCode": "11.01.01",
+    "type": "DESA",
+    "provinceName": "Aceh",
+    "regencyName": "Kab.",
+    "districtName": "Bakongan",
+    "postalCode": "23773"
+  },
+  {
+    "code": "11.01.02.2001",
+    "name": "Fajar Harapan",
+    "districtCode": "11.01.02",
+    "type": "DESA",
+    "provinceName": "Aceh",
+    "regencyName": "Kab.",
+    "districtName": "Kluet Utara",
+    "postalCode": "23771"
+  },
+  {
+    "code": "11.01.02.2002",
+    "name": "Krueng Batee",
+    "districtCode": "11.01.02",
+    "type": "DESA",
+    "provinceName": "Aceh",
+    "regencyName": "Kab.",
+    "districtName": "Kluet Utara",
+    "postalCode": "23771"
+  },
+  {
+    "code": "11.01.02.2003",
+    "name": "Pasi Kuala Asahan",
+    "districtCode": "11.01.02",
+    "type": "DESA",
+    "provinceName": "Aceh",
+    "regencyName": "Kab.",
+    "districtName": "Kluet Utara",
+    "postalCode": "23771"
+  }
+]
