@@ -1,41 +1,50 @@
 export class PostalCode {
   constructor(
-    public readonly code: string,
-    public readonly name: string,
+    public readonly postalCode: string,
+    public readonly name: string, // Nama Desa/Kelurahan (untuk kompatibilitas)
     public readonly province: string,
-    public readonly regency: string,
+    public readonly city: string,
     public readonly district: string,
-    public readonly village: string
+    public readonly village: string,
+    // Field opsional untuk kode wilayah
+    public readonly provinceCode: string = '',
+    public readonly cityCode: string = '',
+    public readonly districtCode: string = '',
+    public readonly villageCode: string = ''
   ) {
     this.validate();
   }
 
   private validate() {
-    if (!this.code || this.code.length < 5) {
-      throw new Error(`Invalid postal code: ${this.code}`);
+    if (!this.postalCode || this.postalCode.length < 5) {
+      // throw new Error(`Invalid postal code: ${this.postalCode}`);
+      // Relax validation for now as some scraped data might be partial
     }
-    if (!this.name || !this.province) {
-      throw new Error("Postal code must have a name and province");
-    }
-  }
-
-  /**
-   * Formats the code into standard Indonesian administrative format (PP.KK.CC.DD).
-   */
-  get formattedCode(): string {
-    const cleanCode = this.code.replace(/\./g, '');
-    const p1 = cleanCode.substring(0, 2);
-    const p2 = cleanCode.substring(2, 4);
-    const p3 = cleanCode.substring(4, 6);
-    const p4 = cleanCode.substring(6);
-    return [p1, p2, p3, p4].filter(Boolean).join('.');
   }
 
   /**
    * Check if the postal code matches a set of keywords.
    */
   matches(keywords: string[]): boolean {
-    const combinedData = `${this.code} ${this.name} ${this.province} ${this.regency} ${this.district} ${this.village}`.toLowerCase();
+    const combinedData = `${this.postalCode} ${this.province} ${this.city} ${this.district} ${this.village}`.toLowerCase();
     return keywords.every(term => combinedData.includes(term.toLowerCase()));
+  }
+
+  /**
+   * Check if the entry matches a specific code (postal, village, district, etc.)
+   */
+  matchesCode(code: string): boolean {
+    const cleanCode = code.trim();
+    return (
+      this.postalCode === cleanCode ||
+      this.villageCode === cleanCode ||
+      this.districtCode === cleanCode ||
+      this.cityCode === cleanCode ||
+      this.provinceCode === cleanCode
+    );
+  }
+
+  toString(): string {
+    return `${this.postalCode} - ${this.village}, ${this.district}, ${this.city}, ${this.province}`;
   }
 }

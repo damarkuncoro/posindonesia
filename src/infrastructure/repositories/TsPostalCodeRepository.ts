@@ -20,13 +20,21 @@ export class TsPostalCodeRepository implements PostalCodeRepository {
           item.province,
           item.city,
           item.district,
-          item.village
+          item.village,
+          item.provinceCode,
+          item.cityCode,
+          item.districtCode,
+          item.villageCode
         )
     );
   }
 
   async findByKeywords(keywords: string[]): Promise<PostalCode[]> {
     return this.instances.filter((pc) => pc.matches(keywords));
+  }
+
+  async findByCode(code: string): Promise<PostalCode[]> {
+    return this.instances.filter((pc) => pc.matchesCode(code));
   }
 
   async fetchExternal(_villageName: string, _cookie?: string): Promise<PostalCode[]> {
