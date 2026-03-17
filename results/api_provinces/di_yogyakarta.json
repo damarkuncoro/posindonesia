@@ -358,5 +358,1621 @@
     "kecamatan": "Gedongtengen",
     "kabupaten_kota": "KOTA YOGYAKARTA",
     "provinsi": "DAERAH ISTIMEWA YOGYAKARTA"
+  },
+  {
+    "no": "1",
+    "kodepos": "50228",
+    "desa_kelurahan": "Patemon",
+    "kecamatan": "Gunungpati",
+    "kabupaten_kota": "KOTA SEMARANG",
+    "provinsi": "JAWA TENGAH"
+  },
+  {
+    "no": "2",
+    "kodepos": "50575",
+    "desa_kelurahan": "Patemon",
+    "kecamatan": "Tengaran",
+    "kabupaten_kota": "KAB. SEMARANG",
+    "provinsi": "JAWA TENGAH"
+  },
+  {
+    "no": "3",
+    "kodepos": "53362",
+    "desa_kelurahan": "Patemon",
+    "kecamatan": "Bojongsari",
+    "kabupaten_kota": "KAB. PURBALINGGA",
+    "provinsi": "JAWA TENGAH"
+  },
+  {
+    "no": "4",
+    "kodepos": "54375",
+    "desa_kelurahan": "Patemon",
+    "kecamatan": "Gombong",
+    "kabupaten_kota": "KAB. KEBUMEN",
+    "provinsi": "JAWA TENGAH"
+  },
+  {
+    "no": "5",
+    "kodepos": "55654",
+    "desa_kelurahan": "Kebonrejo",
+    "kecamatan": "Temon",
+    "kabupaten_kota": "KAB. KULON PROGO",
+    "provinsi": "DAERAH ISTIMEWA YOGYAKARTA"
+  },
+  {
+    "no": "6",
+    "kodepos": "55654",
+    "desa_kelurahan": "Kaligintung",
+    "kecamatan": "Temon",
+    "kabupaten_kota": "KAB. KULON PROGO",
+    "provinsi": "DAERAH ISTIMEWA YOGYAKARTA"
+  },
+  {
+    "no": "7",
+    "kodepos": "55654",
+    "desa_kelurahan": "Temon Kulon",
+    "kecamatan": "Temon",
+    "kabupaten_kota": "KAB. KULON PROGO",
+    "provinsi": "DAERAH ISTIMEWA YOGYAKARTA"
+  },
+  {
+    "no": "8",
+    "kodepos": "55654",
+    "desa_kelurahan": "Sindutan",
+    "kecamatan": "Temon",
+    "kabupaten_kota": "KAB. KULON PROGO",
+    "provinsi": "DAERAH ISTIMEWA YOGYAKARTA"
+  },
+  {
+    "no": "9",
+    "kodepos": "55654",
+    "desa_kelurahan": "Temon Wetan",
+    "kecamatan": "Temon",
+    "kabupaten_kota": "KAB. KULON PROGO",
+    "provinsi": "DAERAH ISTIMEWA YOGYAKARTA"
+  },
+  {
+    "no": "10",
+    "kodepos": "55654",
+    "desa_kelurahan": "Janten",
+    "kecamatan": "Temon",
+    "kabupaten_kota": "KAB. KULON PROGO",
+    "provinsi": "DAERAH ISTIMEWA YOGYAKARTA"
+  },
+  {
+    "no": "11",
+    "kodepos": "55654",
+    "desa_kelurahan": "Glagah",
+    "kecamatan": "Temon",
+    "kabupaten_kota": "KAB. KULON PROGO",
+    "provinsi": "DAERAH ISTIMEWA YOGYAKARTA"
+  },
+  {
+    "no": "12",
+    "kodepos": "55654",
+    "desa_kelurahan": "Kulur",
+    "kecamatan": "Temon",
+    "kabupaten_kota": "KAB. KULON PROGO",
+    "provinsi": "DAERAH ISTIMEWA YOGYAKARTA"
+  },
+  {
+    "no": "13",
+    "kodepos": "55654",
+    "desa_kelurahan": "Palihan",
+    "kecamatan": "Temon",
+    "kabupaten_kota": "KAB. KULON PROGO",
+    "provinsi": "DAERAH ISTIMEWA YOGYAKARTA"
+  },
+  {
+    "no": "14",
+    "kodepos": "55654",
+    "desa_kelurahan": "Plumbon",
+    "kecamatan": "Temon",
+    "kabupaten_kota": "KAB. KULON PROGO",
+    "provinsi": "DAERAH ISTIMEWA YOGYAKARTA"
+  },
+  {
+    "no": "15",
+    "kodepos": "55654",
+    "desa_kelurahan": "Demen",
+    "kecamatan": "Temon",
+    "kabupaten_kota": "KAB. KULON PROGO",
+    "provinsi": "DAERAH ISTIMEWA YOGYAKARTA"
+  },
+  {
+    "no": "16",
+    "kodepos": "55654",
+    "desa_kelurahan": "Karangwuluh",
+    "kecamatan": "Temon",
+    "kabupaten_kota": "KAB. KULON PROGO",
+    "provinsi": "DAERAH ISTIMEWA YOGYAKARTA"
+  },
+  {
+    "no": "17",
+    "kodepos": "55654",
+    "desa_kelurahan": "Jangkaran",
+    "kecamatan": "Temon",
+    "kabupaten_kota": "KAB. KULON PROGO",
+    "provinsi": "DAERAH ISTIMEWA YOGYAKARTA"
+  },
+  {
+    "no": "18",
+    "kodepos": "55654",
+    "desa_kelurahan": "Kedundang",
+    "kecamatan": "Temon",
+    "kabupaten_kota": "KAB. KULON PROGO",
+    "provinsi": "DAERAH ISTIMEWA YOGYAKARTA"
+  },
+  {
+    "no": "19",
+    "kodepos": "55654",
+    "desa_kelurahan": "Kalidengen",
+    "kecamatan": "Temon",
+    "kabupaten_kota": "KAB. KULON PROGO",
+    "provinsi": "DAERAH ISTIMEWA YOGYAKARTA"
+  },
+  {
+    "no": "20",
+    "kodepos": "57377",
+    "desa_kelurahan": "Temon",
+    "kecamatan": "Simo",
+    "kabupaten_kota": "KAB. BOYOLALI",
+    "provinsi": "JAWA TENGAH"
+  },
+  {
+    "no": "21",
+    "kodepos": "57673",
+    "desa_kelurahan": "Temon",
+    "kecamatan": "Baturetno",
+    "kabupaten_kota": "KAB. WONOGIRI",
+    "provinsi": "JAWA TENGAH"
+  },
+  {
+    "no": "22",
+    "kodepos": "58153",
+    "desa_kelurahan": "Temon",
+    "kecamatan": "Brati",
+    "kabupaten_kota": "KAB. GROBOGAN",
+    "provinsi": "JAWA TENGAH"
+  },
+  {
+    "no": "23",
+    "kodepos": "60252",
+    "desa_kelurahan": "Petemon",
+    "kecamatan": "Sawahan",
+    "kabupaten_kota": "KOTA SURABAYA",
+    "provinsi": "JAWA TIMUR"
+  },
+  {
+    "no": "24",
+    "kodepos": "61362",
+    "desa_kelurahan": "Temon",
+    "kecamatan": "Trowulan",
+    "kabupaten_kota": "KAB. MOJOKERTO",
+    "provinsi": "JAWA TIMUR"
+  },
+  {
+    "no": "25",
+    "kodepos": "63464",
+    "desa_kelurahan": "Temon",
+    "kecamatan": "Ngrayun",
+    "kabupaten_kota": "KAB. PONOROGO",
+    "provinsi": "JAWA TIMUR"
+  },
+  {
+    "no": "26",
+    "kodepos": "63475",
+    "desa_kelurahan": "Temon",
+    "kecamatan": "Sawoo",
+    "kabupaten_kota": "KAB. PONOROGO",
+    "provinsi": "JAWA TIMUR"
+  },
+  {
+    "no": "27",
+    "kodepos": "63581",
+    "desa_kelurahan": "Temon",
+    "kecamatan": "Arjosari",
+    "kabupaten_kota": "KAB. PACITAN",
+    "provinsi": "JAWA TIMUR"
+  },
+  {
+    "no": "28",
+    "kodepos": "67284",
+    "desa_kelurahan": "Patemon",
+    "kecamatan": "Krejengan",
+    "kabupaten_kota": "KAB. PROBOLINGGO",
+    "provinsi": "JAWA TIMUR"
+  },
+  {
+    "no": "29",
+    "kodepos": "67292",
+    "desa_kelurahan": "Petemon Kulon",
+    "kecamatan": "Pakuniran",
+    "kabupaten_kota": "KAB. PROBOLINGGO",
+    "provinsi": "JAWA TIMUR"
+  },
+  {
+    "no": "30",
+    "kodepos": "68155",
+    "desa_kelurahan": "Patemon",
+    "kecamatan": "Tanggul",
+    "kabupaten_kota": "KAB. JEMBER",
+    "provinsi": "JAWA TIMUR"
+  },
+  {
+    "no": "31",
+    "kodepos": "68181",
+    "desa_kelurahan": "Patemon",
+    "kecamatan": "Pakusari",
+    "kabupaten_kota": "KAB. JEMBER",
+    "provinsi": "JAWA TIMUR"
+  },
+  {
+    "no": "32",
+    "kodepos": "68253",
+    "desa_kelurahan": "Patemon",
+    "kecamatan": "Pakem",
+    "kabupaten_kota": "KAB. BONDOWOSO",
+    "provinsi": "JAWA TIMUR"
+  },
+  {
+    "no": "33",
+    "kodepos": "68272",
+    "desa_kelurahan": "Patemon",
+    "kecamatan": "Tlogosari",
+    "kabupaten_kota": "KAB. BONDOWOSO",
+    "provinsi": "JAWA TIMUR"
+  },
+  {
+    "no": "34",
+    "kodepos": "68357",
+    "desa_kelurahan": "Patemon",
+    "kecamatan": "Jatibanteng",
+    "kabupaten_kota": "KAB. SITUBONDO",
+    "provinsi": "JAWA TIMUR"
+  },
+  {
+    "no": "35",
+    "kodepos": "68358",
+    "desa_kelurahan": "Patemon",
+    "kecamatan": "Bungatan",
+    "kabupaten_kota": "KAB. SITUBONDO",
+    "provinsi": "JAWA TIMUR"
+  },
+  {
+    "no": "36",
+    "kodepos": "69172",
+    "desa_kelurahan": "Patemon",
+    "kecamatan": "Tanah Merah",
+    "kabupaten_kota": "KAB. BANGKALAN",
+    "provinsi": "JAWA TIMUR"
+  },
+  {
+    "no": "37",
+    "kodepos": "69312",
+    "desa_kelurahan": "Patemon",
+    "kecamatan": "Pamekasan",
+    "kabupaten_kota": "KAB. PAMEKASAN",
+    "provinsi": "JAWA TIMUR"
+  },
+  {
+    "no": "38",
+    "kodepos": "81153",
+    "desa_kelurahan": "Patemon",
+    "kecamatan": "Seririt",
+    "kabupaten_kota": "KAB. BULELENG",
+    "provinsi": "BALI"
+  },
+  {
+    "no": "1",
+    "kodepos": "16742",
+    "desa_kelurahan": "Watesjaya",
+    "kecamatan": "Cigombong",
+    "kabupaten_kota": "KAB. BOGOR",
+    "provinsi": "JAWA BARAT"
+  },
+  {
+    "no": "2",
+    "kodepos": "34278",
+    "desa_kelurahan": "Wates",
+    "kecamatan": "Bumi Ratu Nuban",
+    "kabupaten_kota": "KAB. LAMPUNG TENGAH",
+    "provinsi": "LAMPUNG"
+  },
+  {
+    "no": "3",
+    "kodepos": "34763",
+    "desa_kelurahan": "Bumi Agung Wates",
+    "kecamatan": "Bahuga",
+    "kabupaten_kota": "KAB. WAY KANAN",
+    "provinsi": "LAMPUNG"
+  },
+  {
+    "no": "4",
+    "kodepos": "34817",
+    "desa_kelurahan": "Wates",
+    "kecamatan": "Balik Bukit",
+    "kabupaten_kota": "KAB. LAMPUNG BARAT",
+    "provinsi": "LAMPUNG"
+  },
+  {
+    "no": "5",
+    "kodepos": "35363",
+    "desa_kelurahan": "Negea Ratu Wates",
+    "kecamatan": "Tegineneng",
+    "kabupaten_kota": "KAB. PESAWARAN",
+    "provinsi": "LAMPUNG"
+  },
+  {
+    "no": "6",
+    "kodepos": "35372",
+    "desa_kelurahan": "Wates Selatan",
+    "kecamatan": "Gading Rejo",
+    "kabupaten_kota": "KAB. PRINGSEWU",
+    "provinsi": "LAMPUNG"
+  },
+  {
+    "no": "7",
+    "kodepos": "35372",
+    "desa_kelurahan": "Wates",
+    "kecamatan": "Gading Rejo",
+    "kabupaten_kota": "KAB. PRINGSEWU",
+    "provinsi": "LAMPUNG"
+  },
+  {
+    "no": "8",
+    "kodepos": "35372",
+    "desa_kelurahan": "Wates Timur",
+    "kecamatan": "Gading Rejo",
+    "kabupaten_kota": "KAB. PRINGSEWU",
+    "provinsi": "LAMPUNG"
+  },
+  {
+    "no": "9",
+    "kodepos": "35451",
+    "desa_kelurahan": "Wates Way Ratai",
+    "kecamatan": "Way Ratai",
+    "kabupaten_kota": "KAB. PESAWARAN",
+    "provinsi": "LAMPUNG"
+  },
+  {
+    "no": "10",
+    "kodepos": "40269",
+    "desa_kelurahan": "Wates",
+    "kecamatan": "Bandung Kidul",
+    "kabupaten_kota": "KOTA BANDUNG",
+    "provinsi": "JAWA BARAT"
+  },
+  {
+    "no": "11",
+    "kodepos": "50188",
+    "desa_kelurahan": "Wates",
+    "kecamatan": "Ngaliyan",
+    "kabupaten_kota": "KOTA SEMARANG",
+    "provinsi": "JAWA TENGAH"
+  },
+  {
+    "no": "12",
+    "kodepos": "50574",
+    "desa_kelurahan": "Wates",
+    "kecamatan": "Getasan",
+    "kabupaten_kota": "KAB. SEMARANG",
+    "provinsi": "JAWA TENGAH"
+  },
+  {
+    "no": "13",
+    "kodepos": "51216",
+    "desa_kelurahan": "Watesalit",
+    "kecamatan": "Batang",
+    "kabupaten_kota": "KAB. BATANG",
+    "provinsi": "JAWA TENGAH"
+  },
+  {
+    "no": "14",
+    "kodepos": "51253",
+    "desa_kelurahan": "Wates",
+    "kecamatan": "Wonotunggal",
+    "kabupaten_kota": "KAB. BATANG",
+    "provinsi": "JAWA TENGAH"
+  },
+  {
+    "no": "15",
+    "kodepos": "55611",
+    "desa_kelurahan": "Wates",
+    "kecamatan": "Wates",
+    "kabupaten_kota": "KAB. KULON PROGO",
+    "provinsi": "DAERAH ISTIMEWA YOGYAKARTA"
+  },
+  {
+    "no": "16",
+    "kodepos": "55612",
+    "desa_kelurahan": "Giripeni",
+    "kecamatan": "Wates",
+    "kabupaten_kota": "KAB. KULON PROGO",
+    "provinsi": "DAERAH ISTIMEWA YOGYAKARTA"
+  },
+  {
+    "no": "17",
+    "kodepos": "55613",
+    "desa_kelurahan": "Karangwuni",
+    "kecamatan": "Wates",
+    "kabupaten_kota": "KAB. KULON PROGO",
+    "provinsi": "DAERAH ISTIMEWA YOGYAKARTA"
+  },
+  {
+    "no": "18",
+    "kodepos": "55614",
+    "desa_kelurahan": "Triharjo",
+    "kecamatan": "Wates",
+    "kabupaten_kota": "KAB. KULON PROGO",
+    "provinsi": "DAERAH ISTIMEWA YOGYAKARTA"
+  },
+  {
+    "no": "19",
+    "kodepos": "55615",
+    "desa_kelurahan": "Bendungan",
+    "kecamatan": "Wates",
+    "kabupaten_kota": "KAB. KULON PROGO",
+    "provinsi": "DAERAH ISTIMEWA YOGYAKARTA"
+  },
+  {
+    "no": "20",
+    "kodepos": "55616",
+    "desa_kelurahan": "Sogan",
+    "kecamatan": "Wates",
+    "kabupaten_kota": "KAB. KULON PROGO",
+    "provinsi": "DAERAH ISTIMEWA YOGYAKARTA"
+  },
+  {
+    "no": "21",
+    "kodepos": "55617",
+    "desa_kelurahan": "Ngestiharjo",
+    "kecamatan": "Wates",
+    "kabupaten_kota": "KAB. KULON PROGO",
+    "provinsi": "DAERAH ISTIMEWA YOGYAKARTA"
+  },
+  {
+    "no": "22",
+    "kodepos": "55618",
+    "desa_kelurahan": "Kulwaru",
+    "kecamatan": "Wates",
+    "kabupaten_kota": "KAB. KULON PROGO",
+    "provinsi": "DAERAH ISTIMEWA YOGYAKARTA"
+  },
+  {
+    "no": "23",
+    "kodepos": "56113",
+    "desa_kelurahan": "Wates",
+    "kecamatan": "Magelang Utara",
+    "kabupaten_kota": "KOTA MAGELANG",
+    "provinsi": "JAWA TENGAH"
+  },
+  {
+    "no": "24",
+    "kodepos": "56266",
+    "desa_kelurahan": "Wates",
+    "kecamatan": "Wonoboyo",
+    "kabupaten_kota": "KAB. TEMANGGUNG",
+    "provinsi": "JAWA TENGAH"
+  },
+  {
+    "no": "25",
+    "kodepos": "56482",
+    "desa_kelurahan": "Wates",
+    "kecamatan": "Dukun",
+    "kabupaten_kota": "KAB. MAGELANG",
+    "provinsi": "JAWA TENGAH"
+  },
+  {
+    "no": "26",
+    "kodepos": "57377",
+    "desa_kelurahan": "Wates",
+    "kecamatan": "Simo",
+    "kabupaten_kota": "KAB. BOYOLALI",
+    "provinsi": "JAWA TENGAH"
+  },
+  {
+    "no": "27",
+    "kodepos": "58167",
+    "desa_kelurahan": "Wates",
+    "kecamatan": "Kedungjati",
+    "kabupaten_kota": "KAB. GROBOGAN",
+    "provinsi": "JAWA TENGAH"
+  },
+  {
+    "no": "28",
+    "kodepos": "58255",
+    "desa_kelurahan": "Sendangwates",
+    "kecamatan": "Kunduran",
+    "kabupaten_kota": "KAB. BLORA",
+    "provinsi": "JAWA TENGAH"
+  },
+  {
+    "no": "29",
+    "kodepos": "59183",
+    "desa_kelurahan": "Wateshaji",
+    "kecamatan": "Pucakwangi",
+    "kabupaten_kota": "KAB. PATI",
+    "provinsi": "JAWA TENGAH"
+  },
+  {
+    "no": "30",
+    "kodepos": "59372",
+    "desa_kelurahan": "Wates",
+    "kecamatan": "Undaan",
+    "kabupaten_kota": "KAB. KUDUS",
+    "provinsi": "JAWA TENGAH"
+  },
+  {
+    "no": "31",
+    "kodepos": "61176",
+    "desa_kelurahan": "Watestanjung",
+    "kecamatan": "Wringinanom",
+    "kabupaten_kota": "KAB. GRESIK",
+    "provinsi": "JAWA TIMUR"
+  },
+  {
+    "no": "32",
+    "kodepos": "61263",
+    "desa_kelurahan": "Watesari",
+    "kecamatan": "Balongbendo",
+    "kabupaten_kota": "KAB. SIDOARJO",
+    "provinsi": "JAWA TIMUR"
+  },
+  {
+    "no": "33",
+    "kodepos": "61317",
+    "desa_kelurahan": "Wates",
+    "kecamatan": "Magersari",
+    "kabupaten_kota": "KOTA MOJOKERTO",
+    "provinsi": "JAWA TIMUR"
+  },
+  {
+    "no": "34",
+    "kodepos": "61353",
+    "desa_kelurahan": "Watesprojo",
+    "kecamatan": "Kemlagi",
+    "kabupaten_kota": "KAB. MOJOKERTO",
+    "provinsi": "JAWA TIMUR"
+  },
+  {
+    "no": "35",
+    "kodepos": "61353",
+    "desa_kelurahan": "Mojowatesrejo",
+    "kecamatan": "Kemlagi",
+    "kabupaten_kota": "KAB. MOJOKERTO",
+    "provinsi": "JAWA TIMUR"
+  },
+  {
+    "no": "36",
+    "kodepos": "61362",
+    "desa_kelurahan": "Watesumpak",
+    "kecamatan": "Trowulan",
+    "kabupaten_kota": "KAB. MOJOKERTO",
+    "provinsi": "JAWA TIMUR"
+  },
+  {
+    "no": "37",
+    "kodepos": "61385",
+    "desa_kelurahan": "Watesnegoro",
+    "kecamatan": "Ngoro",
+    "kabupaten_kota": "KAB. MOJOKERTO",
+    "provinsi": "JAWA TIMUR"
+  },
+  {
+    "no": "38",
+    "kodepos": "61452",
+    "desa_kelurahan": "Jatiwates",
+    "kecamatan": "Tembelang",
+    "kabupaten_kota": "KAB. JOMBANG",
+    "provinsi": "JAWA TIMUR"
+  },
+  {
+    "no": "39",
+    "kodepos": "62194",
+    "desa_kelurahan": "Pohwates",
+    "kecamatan": "Kepohbaru",
+    "kabupaten_kota": "KAB. BOJONEGORO",
+    "provinsi": "JAWA TIMUR"
+  },
+  {
+    "no": "40",
+    "kodepos": "62282",
+    "desa_kelurahan": "Kaliwates",
+    "kecamatan": "Kembangbahu",
+    "kabupaten_kota": "KAB. LAMONGAN",
+    "provinsi": "JAWA TIMUR"
+  },
+  {
+    "no": "41",
+    "kodepos": "62284",
+    "desa_kelurahan": "Wateswinangun",
+    "kecamatan": "Sambeng",
+    "kabupaten_kota": "KAB. LAMONGAN",
+    "provinsi": "JAWA TIMUR"
+  },
+  {
+    "no": "42",
+    "kodepos": "63352",
+    "desa_kelurahan": "Wates",
+    "kecamatan": "Panekan",
+    "kabupaten_kota": "KAB. MAGETAN",
+    "provinsi": "JAWA TIMUR"
+  },
+  {
+    "no": "43",
+    "kodepos": "63463",
+    "desa_kelurahan": "Wates",
+    "kecamatan": "Slahung",
+    "kabupaten_kota": "KAB. PONOROGO",
+    "provinsi": "JAWA TIMUR"
+  },
+  {
+    "no": "44",
+    "kodepos": "63492",
+    "desa_kelurahan": "Wates",
+    "kecamatan": "Jenangan",
+    "kabupaten_kota": "KAB. PONOROGO",
+    "provinsi": "JAWA TIMUR"
+  },
+  {
+    "no": "45",
+    "kodepos": "64174",
+    "desa_kelurahan": "Duwet",
+    "kecamatan": "Wates",
+    "kabupaten_kota": "KAB. KEDIRI",
+    "provinsi": "JAWA TIMUR"
+  },
+  {
+    "no": "46",
+    "kodepos": "64174",
+    "desa_kelurahan": "Tunge",
+    "kecamatan": "Wates",
+    "kabupaten_kota": "KAB. KEDIRI",
+    "provinsi": "JAWA TIMUR"
+  },
+  {
+    "no": "47",
+    "kodepos": "64174",
+    "desa_kelurahan": "Joho",
+    "kecamatan": "Wates",
+    "kabupaten_kota": "KAB. KEDIRI",
+    "provinsi": "JAWA TIMUR"
+  },
+  {
+    "no": "48",
+    "kodepos": "64174",
+    "desa_kelurahan": "Jajar",
+    "kecamatan": "Wates",
+    "kabupaten_kota": "KAB. KEDIRI",
+    "provinsi": "JAWA TIMUR"
+  },
+  {
+    "no": "49",
+    "kodepos": "64174",
+    "desa_kelurahan": "Silir",
+    "kecamatan": "Wates",
+    "kabupaten_kota": "KAB. KEDIRI",
+    "provinsi": "JAWA TIMUR"
+  },
+  {
+    "no": "50",
+    "kodepos": "64174",
+    "desa_kelurahan": "Wates",
+    "kecamatan": "Wates",
+    "kabupaten_kota": "KAB. KEDIRI",
+    "provinsi": "JAWA TIMUR"
+  },
+  {
+    "no": "51",
+    "kodepos": "64174",
+    "desa_kelurahan": "Pagu",
+    "kecamatan": "Wates",
+    "kabupaten_kota": "KAB. KEDIRI",
+    "provinsi": "JAWA TIMUR"
+  },
+  {
+    "no": "52",
+    "kodepos": "64174",
+    "desa_kelurahan": "Segaran",
+    "kecamatan": "Wates",
+    "kabupaten_kota": "KAB. KEDIRI",
+    "provinsi": "JAWA TIMUR"
+  },
+  {
+    "no": "53",
+    "kodepos": "64174",
+    "desa_kelurahan": "Plaosan",
+    "kecamatan": "Wates",
+    "kabupaten_kota": "KAB. KEDIRI",
+    "provinsi": "JAWA TIMUR"
+  },
+  {
+    "no": "54",
+    "kodepos": "64174",
+    "desa_kelurahan": "Pojok",
+    "kecamatan": "Wates",
+    "kabupaten_kota": "KAB. KEDIRI",
+    "provinsi": "JAWA TIMUR"
+  },
+  {
+    "no": "55",
+    "kodepos": "64174",
+    "desa_kelurahan": "Tempurejo",
+    "kecamatan": "Wates",
+    "kabupaten_kota": "KAB. KEDIRI",
+    "provinsi": "JAWA TIMUR"
+  },
+  {
+    "no": "56",
+    "kodepos": "64174",
+    "desa_kelurahan": "Karanganyar",
+    "kecamatan": "Wates",
+    "kabupaten_kota": "KAB. KEDIRI",
+    "provinsi": "JAWA TIMUR"
+  },
+  {
+    "no": "57",
+    "kodepos": "64174",
+    "desa_kelurahan": "Sidomulyo",
+    "kecamatan": "Wates",
+    "kabupaten_kota": "KAB. KEDIRI",
+    "provinsi": "JAWA TIMUR"
+  },
+  {
+    "no": "58",
+    "kodepos": "64174",
+    "desa_kelurahan": "Janti",
+    "kecamatan": "Wates",
+    "kabupaten_kota": "KAB. KEDIRI",
+    "provinsi": "JAWA TIMUR"
+  },
+  {
+    "no": "59",
+    "kodepos": "64174",
+    "desa_kelurahan": "Sumberagung",
+    "kecamatan": "Wates",
+    "kabupaten_kota": "KAB. KEDIRI",
+    "provinsi": "JAWA TIMUR"
+  },
+  {
+    "no": "60",
+    "kodepos": "64174",
+    "desa_kelurahan": "Tawang",
+    "kecamatan": "Wates",
+    "kabupaten_kota": "KAB. KEDIRI",
+    "provinsi": "JAWA TIMUR"
+  },
+  {
+    "no": "61",
+    "kodepos": "64174",
+    "desa_kelurahan": "Gadungan",
+    "kecamatan": "Wates",
+    "kabupaten_kota": "KAB. KEDIRI",
+    "provinsi": "JAWA TIMUR"
+  },
+  {
+    "no": "62",
+    "kodepos": "64174",
+    "desa_kelurahan": "Wonorejo",
+    "kecamatan": "Wates",
+    "kabupaten_kota": "KAB. KEDIRI",
+    "provinsi": "JAWA TIMUR"
+  },
+  {
+    "no": "63",
+    "kodepos": "64183",
+    "desa_kelurahan": "Wates",
+    "kecamatan": "Pagu",
+    "kabupaten_kota": "KAB. KEDIRI",
+    "provinsi": "JAWA TIMUR"
+  },
+  {
+    "no": "64",
+    "kodepos": "64483",
+    "desa_kelurahan": "Wates",
+    "kecamatan": "Tanjunganom",
+    "kabupaten_kota": "KAB. NGANJUK",
+    "provinsi": "JAWA TIMUR"
+  },
+  {
+    "no": "65",
+    "kodepos": "66194",
+    "desa_kelurahan": "Ringinrejo",
+    "kecamatan": "Wates",
+    "kabupaten_kota": "KAB. BLITAR",
+    "provinsi": "JAWA TIMUR"
+  },
+  {
+    "no": "66",
+    "kodepos": "66194",
+    "desa_kelurahan": "Sumberarum",
+    "kecamatan": "Wates",
+    "kabupaten_kota": "KAB. BLITAR",
+    "provinsi": "JAWA TIMUR"
+  },
+  {
+    "no": "67",
+    "kodepos": "66194",
+    "desa_kelurahan": "Mojorejo",
+    "kecamatan": "Wates",
+    "kabupaten_kota": "KAB. BLITAR",
+    "provinsi": "JAWA TIMUR"
+  },
+  {
+    "no": "68",
+    "kodepos": "66194",
+    "desa_kelurahan": "Wates",
+    "kecamatan": "Wates",
+    "kabupaten_kota": "KAB. BLITAR",
+    "provinsi": "JAWA TIMUR"
+  },
+  {
+    "no": "69",
+    "kodepos": "66194",
+    "desa_kelurahan": "Purworejo",
+    "kecamatan": "Wates",
+    "kabupaten_kota": "KAB. BLITAR",
+    "provinsi": "JAWA TIMUR"
+  },
+  {
+    "no": "70",
+    "kodepos": "66194",
+    "desa_kelurahan": "Tugurejo",
+    "kecamatan": "Wates",
+    "kabupaten_kota": "KAB. BLITAR",
+    "provinsi": "JAWA TIMUR"
+  },
+  {
+    "no": "71",
+    "kodepos": "66194",
+    "desa_kelurahan": "Tulungrejo",
+    "kecamatan": "Wates",
+    "kabupaten_kota": "KAB. BLITAR",
+    "provinsi": "JAWA TIMUR"
+  },
+  {
+    "no": "72",
+    "kodepos": "66194",
+    "desa_kelurahan": "Sukorejo",
+    "kecamatan": "Wates",
+    "kabupaten_kota": "KAB. BLITAR",
+    "provinsi": "JAWA TIMUR"
+  },
+  {
+    "no": "73",
+    "kodepos": "66272",
+    "desa_kelurahan": "Wates",
+    "kecamatan": "Campurdarat",
+    "kabupaten_kota": "KAB. TULUNGAGUNG",
+    "provinsi": "JAWA TIMUR"
+  },
+  {
+    "no": "74",
+    "kodepos": "66275",
+    "desa_kelurahan": "Wateskroyo",
+    "kecamatan": "Besuki",
+    "kabupaten_kota": "KAB. TULUNGAGUNG",
+    "provinsi": "JAWA TIMUR"
+  },
+  {
+    "no": "75",
+    "kodepos": "66291",
+    "desa_kelurahan": "Wates",
+    "kecamatan": "Sumbergempol",
+    "kabupaten_kota": "KAB. TULUNGAGUNG",
+    "provinsi": "JAWA TIMUR"
+  },
+  {
+    "no": "76",
+    "kodepos": "66363",
+    "desa_kelurahan": "Salamwates",
+    "kecamatan": "Dongko",
+    "kabupaten_kota": "KAB. TRENGGALEK",
+    "provinsi": "JAWA TIMUR"
+  },
+  {
+    "no": "77",
+    "kodepos": "67157",
+    "desa_kelurahan": "Candiwates",
+    "kecamatan": "Prigen",
+    "kabupaten_kota": "KAB. PASURUAN",
+    "provinsi": "JAWA TIMUR"
+  },
+  {
+    "no": "78",
+    "kodepos": "67185",
+    "desa_kelurahan": "Watestani",
+    "kecamatan": "Nguling",
+    "kabupaten_kota": "KAB. PASURUAN",
+    "provinsi": "JAWA TIMUR"
+  },
+  {
+    "no": "79",
+    "kodepos": "67186",
+    "desa_kelurahan": "Wates",
+    "kecamatan": "Lekok",
+    "kabupaten_kota": "KAB. PASURUAN",
+    "provinsi": "JAWA TIMUR"
+  },
+  {
+    "no": "80",
+    "kodepos": "67357",
+    "desa_kelurahan": "Wates Kulon",
+    "kecamatan": "Ranuyoso",
+    "kabupaten_kota": "KAB. LUMAJANG",
+    "provinsi": "JAWA TIMUR"
+  },
+  {
+    "no": "81",
+    "kodepos": "67357",
+    "desa_kelurahan": "Wates Wetan",
+    "kecamatan": "Ranuyoso",
+    "kabupaten_kota": "KAB. LUMAJANG",
+    "provinsi": "JAWA TIMUR"
+  },
+  {
+    "no": "82",
+    "kodepos": "68131",
+    "desa_kelurahan": "Jemberkidul",
+    "kecamatan": "Kaliwates",
+    "kabupaten_kota": "KAB. JEMBER",
+    "provinsi": "JAWA TIMUR"
+  },
+  {
+    "no": "83",
+    "kodepos": "68132",
+    "desa_kelurahan": "Tegalbesar",
+    "kecamatan": "Kaliwates",
+    "kabupaten_kota": "KAB. JEMBER",
+    "provinsi": "JAWA TIMUR"
+  },
+  {
+    "no": "84",
+    "kodepos": "68133",
+    "desa_kelurahan": "Kaliwates",
+    "kecamatan": "Kaliwates",
+    "kabupaten_kota": "KAB. JEMBER",
+    "provinsi": "JAWA TIMUR"
+  },
+  {
+    "no": "85",
+    "kodepos": "68134",
+    "desa_kelurahan": "Kebonagung",
+    "kecamatan": "Kaliwates",
+    "kabupaten_kota": "KAB. JEMBER",
+    "provinsi": "JAWA TIMUR"
+  },
+  {
+    "no": "86",
+    "kodepos": "68135",
+    "desa_kelurahan": "Sempusari",
+    "kecamatan": "Kaliwates",
+    "kabupaten_kota": "KAB. JEMBER",
+    "provinsi": "JAWA TIMUR"
+  },
+  {
+    "no": "87",
+    "kodepos": "68136",
+    "desa_kelurahan": "Mangli",
+    "kecamatan": "Kaliwates",
+    "kabupaten_kota": "KAB. JEMBER",
+    "provinsi": "JAWA TIMUR"
+  },
+  {
+    "no": "88",
+    "kodepos": "68137",
+    "desa_kelurahan": "Kepatihan",
+    "kecamatan": "Kaliwates",
+    "kabupaten_kota": "KAB. JEMBER",
+    "provinsi": "JAWA TIMUR"
+  },
+  {
+    "no": "1",
+    "kodepos": "54364",
+    "desa_kelurahan": "Panjatan",
+    "kecamatan": "Karanganyar",
+    "kabupaten_kota": "KAB. KEBUMEN",
+    "provinsi": "JAWA TENGAH"
+  },
+  {
+    "no": "2",
+    "kodepos": "55655",
+    "desa_kelurahan": "Pleret",
+    "kecamatan": "Panjatan",
+    "kabupaten_kota": "KAB. KULON PROGO",
+    "provinsi": "DAERAH ISTIMEWA YOGYAKARTA"
+  },
+  {
+    "no": "3",
+    "kodepos": "55655",
+    "desa_kelurahan": "Gotakan",
+    "kecamatan": "Panjatan",
+    "kabupaten_kota": "KAB. KULON PROGO",
+    "provinsi": "DAERAH ISTIMEWA YOGYAKARTA"
+  },
+  {
+    "no": "4",
+    "kodepos": "55655",
+    "desa_kelurahan": "Krembangan",
+    "kecamatan": "Panjatan",
+    "kabupaten_kota": "KAB. KULON PROGO",
+    "provinsi": "DAERAH ISTIMEWA YOGYAKARTA"
+  },
+  {
+    "no": "5",
+    "kodepos": "55655",
+    "desa_kelurahan": "Tayuban",
+    "kecamatan": "Panjatan",
+    "kabupaten_kota": "KAB. KULON PROGO",
+    "provinsi": "DAERAH ISTIMEWA YOGYAKARTA"
+  },
+  {
+    "no": "6",
+    "kodepos": "55655",
+    "desa_kelurahan": "Bugel",
+    "kecamatan": "Panjatan",
+    "kabupaten_kota": "KAB. KULON PROGO",
+    "provinsi": "DAERAH ISTIMEWA YOGYAKARTA"
+  },
+  {
+    "no": "7",
+    "kodepos": "55655",
+    "desa_kelurahan": "Bojong",
+    "kecamatan": "Panjatan",
+    "kabupaten_kota": "KAB. KULON PROGO",
+    "provinsi": "DAERAH ISTIMEWA YOGYAKARTA"
+  },
+  {
+    "no": "8",
+    "kodepos": "55655",
+    "desa_kelurahan": "Depok",
+    "kecamatan": "Panjatan",
+    "kabupaten_kota": "KAB. KULON PROGO",
+    "provinsi": "DAERAH ISTIMEWA YOGYAKARTA"
+  },
+  {
+    "no": "9",
+    "kodepos": "55655",
+    "desa_kelurahan": "Cerme",
+    "kecamatan": "Panjatan",
+    "kabupaten_kota": "KAB. KULON PROGO",
+    "provinsi": "DAERAH ISTIMEWA YOGYAKARTA"
+  },
+  {
+    "no": "10",
+    "kodepos": "55655",
+    "desa_kelurahan": "Garongan",
+    "kecamatan": "Panjatan",
+    "kabupaten_kota": "KAB. KULON PROGO",
+    "provinsi": "DAERAH ISTIMEWA YOGYAKARTA"
+  },
+  {
+    "no": "11",
+    "kodepos": "55655",
+    "desa_kelurahan": "Kanoman",
+    "kecamatan": "Panjatan",
+    "kabupaten_kota": "KAB. KULON PROGO",
+    "provinsi": "DAERAH ISTIMEWA YOGYAKARTA"
+  },
+  {
+    "no": "12",
+    "kodepos": "55655",
+    "desa_kelurahan": "Panjatan",
+    "kecamatan": "Panjatan",
+    "kabupaten_kota": "KAB. KULON PROGO",
+    "provinsi": "DAERAH ISTIMEWA YOGYAKARTA"
+  },
+  {
+    "no": "1",
+    "kodepos": "10530",
+    "desa_kelurahan": "Galur",
+    "kecamatan": "Johar Baru",
+    "kabupaten_kota": "KOTA ADM. JAKARTA PUSAT",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "2",
+    "kodepos": "41267",
+    "desa_kelurahan": "Tegalurung",
+    "kecamatan": "Legonkulon",
+    "kabupaten_kota": "KAB. SUBANG",
+    "provinsi": "JAWA BARAT"
+  },
+  {
+    "no": "3",
+    "kodepos": "41386",
+    "desa_kelurahan": "Tegalurung",
+    "kecamatan": "Cilamaya Kulon",
+    "kabupaten_kota": "KAB. KARAWANG",
+    "provinsi": "JAWA BARAT"
+  },
+  {
+    "no": "4",
+    "kodepos": "45285",
+    "desa_kelurahan": "Tegalurung",
+    "kecamatan": "Balongan",
+    "kabupaten_kota": "KAB. INDRAMAYU",
+    "provinsi": "JAWA BARAT"
+  },
+  {
+    "no": "5",
+    "kodepos": "55662",
+    "desa_kelurahan": "Brosot",
+    "kecamatan": "Galur",
+    "kabupaten_kota": "KAB. KULON PROGO",
+    "provinsi": "DAERAH ISTIMEWA YOGYAKARTA"
+  },
+  {
+    "no": "6",
+    "kodepos": "55662",
+    "desa_kelurahan": "Banaran",
+    "kecamatan": "Galur",
+    "kabupaten_kota": "KAB. KULON PROGO",
+    "provinsi": "DAERAH ISTIMEWA YOGYAKARTA"
+  },
+  {
+    "no": "7",
+    "kodepos": "55662",
+    "desa_kelurahan": "Karangsewu",
+    "kecamatan": "Galur",
+    "kabupaten_kota": "KAB. KULON PROGO",
+    "provinsi": "DAERAH ISTIMEWA YOGYAKARTA"
+  },
+  {
+    "no": "8",
+    "kodepos": "55662",
+    "desa_kelurahan": "Kranggan",
+    "kecamatan": "Galur",
+    "kabupaten_kota": "KAB. KULON PROGO",
+    "provinsi": "DAERAH ISTIMEWA YOGYAKARTA"
+  },
+  {
+    "no": "9",
+    "kodepos": "55662",
+    "desa_kelurahan": "Tirtorahayu",
+    "kecamatan": "Galur",
+    "kabupaten_kota": "KAB. KULON PROGO",
+    "provinsi": "DAERAH ISTIMEWA YOGYAKARTA"
+  },
+  {
+    "no": "10",
+    "kodepos": "55662",
+    "desa_kelurahan": "Nomporejo",
+    "kecamatan": "Galur",
+    "kabupaten_kota": "KAB. KULON PROGO",
+    "provinsi": "DAERAH ISTIMEWA YOGYAKARTA"
+  },
+  {
+    "no": "11",
+    "kodepos": "55662",
+    "desa_kelurahan": "Pandowan",
+    "kecamatan": "Galur",
+    "kabupaten_kota": "KAB. KULON PROGO",
+    "provinsi": "DAERAH ISTIMEWA YOGYAKARTA"
+  },
+  {
+    "no": "12",
+    "kodepos": "56253",
+    "desa_kelurahan": "Tegalurung",
+    "kecamatan": "Bulu",
+    "kabupaten_kota": "KAB. TEMANGGUNG",
+    "provinsi": "JAWA TENGAH"
+  },
+  {
+    "no": "13",
+    "kodepos": "59582",
+    "desa_kelurahan": "Ngaluran",
+    "kecamatan": "Karanganyar",
+    "kabupaten_kota": "KAB. DEMAK",
+    "provinsi": "JAWA TENGAH"
+  },
+  {
+    "no": "14",
+    "kodepos": "86361",
+    "desa_kelurahan": "Ngaluroga",
+    "kecamatan": "Ndona",
+    "kabupaten_kota": "KAB. ENDE",
+    "provinsi": "NUSA TENGGARA TIMUR"
+  },
+  {
+    "no": "1",
+    "kodepos": "55663",
+    "desa_kelurahan": "Sidorejo",
+    "kecamatan": "Lendah",
+    "kabupaten_kota": "KAB. KULON PROGO",
+    "provinsi": "DAERAH ISTIMEWA YOGYAKARTA"
+  },
+  {
+    "no": "2",
+    "kodepos": "55663",
+    "desa_kelurahan": "Jatirejo",
+    "kecamatan": "Lendah",
+    "kabupaten_kota": "KAB. KULON PROGO",
+    "provinsi": "DAERAH ISTIMEWA YOGYAKARTA"
+  },
+  {
+    "no": "3",
+    "kodepos": "55663",
+    "desa_kelurahan": "Ngentakrejo",
+    "kecamatan": "Lendah",
+    "kabupaten_kota": "KAB. KULON PROGO",
+    "provinsi": "DAERAH ISTIMEWA YOGYAKARTA"
+  },
+  {
+    "no": "4",
+    "kodepos": "55663",
+    "desa_kelurahan": "Bumirejo",
+    "kecamatan": "Lendah",
+    "kabupaten_kota": "KAB. KULON PROGO",
+    "provinsi": "DAERAH ISTIMEWA YOGYAKARTA"
+  },
+  {
+    "no": "5",
+    "kodepos": "55663",
+    "desa_kelurahan": "Wahyuharjo",
+    "kecamatan": "Lendah",
+    "kabupaten_kota": "KAB. KULON PROGO",
+    "provinsi": "DAERAH ISTIMEWA YOGYAKARTA"
+  },
+  {
+    "no": "6",
+    "kodepos": "55663",
+    "desa_kelurahan": "Gulurejo",
+    "kecamatan": "Lendah",
+    "kabupaten_kota": "KAB. KULON PROGO",
+    "provinsi": "DAERAH ISTIMEWA YOGYAKARTA"
+  },
+  {
+    "no": "1",
+    "kodepos": "55664",
+    "desa_kelurahan": "Sukoreno",
+    "kecamatan": "Sentolo",
+    "kabupaten_kota": "KAB. KULON PROGO",
+    "provinsi": "DAERAH ISTIMEWA YOGYAKARTA"
+  },
+  {
+    "no": "2",
+    "kodepos": "55664",
+    "desa_kelurahan": "Banguncipto",
+    "kecamatan": "Sentolo",
+    "kabupaten_kota": "KAB. KULON PROGO",
+    "provinsi": "DAERAH ISTIMEWA YOGYAKARTA"
+  },
+  {
+    "no": "3",
+    "kodepos": "55664",
+    "desa_kelurahan": "Srikayangan",
+    "kecamatan": "Sentolo",
+    "kabupaten_kota": "KAB. KULON PROGO",
+    "provinsi": "DAERAH ISTIMEWA YOGYAKARTA"
+  },
+  {
+    "no": "4",
+    "kodepos": "55664",
+    "desa_kelurahan": "Sentolo",
+    "kecamatan": "Sentolo",
+    "kabupaten_kota": "KAB. KULON PROGO",
+    "provinsi": "DAERAH ISTIMEWA YOGYAKARTA"
+  },
+  {
+    "no": "5",
+    "kodepos": "55664",
+    "desa_kelurahan": "Kaliagung",
+    "kecamatan": "Sentolo",
+    "kabupaten_kota": "KAB. KULON PROGO",
+    "provinsi": "DAERAH ISTIMEWA YOGYAKARTA"
+  },
+  {
+    "no": "6",
+    "kodepos": "55664",
+    "desa_kelurahan": "Salamrejo",
+    "kecamatan": "Sentolo",
+    "kabupaten_kota": "KAB. KULON PROGO",
+    "provinsi": "DAERAH ISTIMEWA YOGYAKARTA"
+  },
+  {
+    "no": "7",
+    "kodepos": "55664",
+    "desa_kelurahan": "Demangrejo",
+    "kecamatan": "Sentolo",
+    "kabupaten_kota": "KAB. KULON PROGO",
+    "provinsi": "DAERAH ISTIMEWA YOGYAKARTA"
+  },
+  {
+    "no": "8",
+    "kodepos": "55664",
+    "desa_kelurahan": "Tuksono",
+    "kecamatan": "Sentolo",
+    "kabupaten_kota": "KAB. KULON PROGO",
+    "provinsi": "DAERAH ISTIMEWA YOGYAKARTA"
+  },
+  {
+    "no": "1",
+    "kodepos": "55652",
+    "desa_kelurahan": "Margosari",
+    "kecamatan": "Pengasih",
+    "kabupaten_kota": "KAB. KULON PROGO",
+    "provinsi": "DAERAH ISTIMEWA YOGYAKARTA"
+  },
+  {
+    "no": "2",
+    "kodepos": "55652",
+    "desa_kelurahan": "Tawangsari",
+    "kecamatan": "Pengasih",
+    "kabupaten_kota": "KAB. KULON PROGO",
+    "provinsi": "DAERAH ISTIMEWA YOGYAKARTA"
+  },
+  {
+    "no": "3",
+    "kodepos": "55652",
+    "desa_kelurahan": "Sidomulyo",
+    "kecamatan": "Pengasih",
+    "kabupaten_kota": "KAB. KULON PROGO",
+    "provinsi": "DAERAH ISTIMEWA YOGYAKARTA"
+  },
+  {
+    "no": "4",
+    "kodepos": "55652",
+    "desa_kelurahan": "Sendangsari",
+    "kecamatan": "Pengasih",
+    "kabupaten_kota": "KAB. KULON PROGO",
+    "provinsi": "DAERAH ISTIMEWA YOGYAKARTA"
+  },
+  {
+    "no": "5",
+    "kodepos": "55652",
+    "desa_kelurahan": "Pengasih",
+    "kecamatan": "Pengasih",
+    "kabupaten_kota": "KAB. KULON PROGO",
+    "provinsi": "DAERAH ISTIMEWA YOGYAKARTA"
+  },
+  {
+    "no": "6",
+    "kodepos": "55652",
+    "desa_kelurahan": "Kedungsari",
+    "kecamatan": "Pengasih",
+    "kabupaten_kota": "KAB. KULON PROGO",
+    "provinsi": "DAERAH ISTIMEWA YOGYAKARTA"
+  },
+  {
+    "no": "7",
+    "kodepos": "55652",
+    "desa_kelurahan": "Karangsari",
+    "kecamatan": "Pengasih",
+    "kabupaten_kota": "KAB. KULON PROGO",
+    "provinsi": "DAERAH ISTIMEWA YOGYAKARTA"
+  },
+  {
+    "no": "1",
+    "kodepos": "55653",
+    "desa_kelurahan": "Hargorejo",
+    "kecamatan": "Kokap",
+    "kabupaten_kota": "KAB. KULON PROGO",
+    "provinsi": "DAERAH ISTIMEWA YOGYAKARTA"
+  },
+  {
+    "no": "2",
+    "kodepos": "55653",
+    "desa_kelurahan": "Hargotirto",
+    "kecamatan": "Kokap",
+    "kabupaten_kota": "KAB. KULON PROGO",
+    "provinsi": "DAERAH ISTIMEWA YOGYAKARTA"
+  },
+  {
+    "no": "3",
+    "kodepos": "55653",
+    "desa_kelurahan": "Hargowilis",
+    "kecamatan": "Kokap",
+    "kabupaten_kota": "KAB. KULON PROGO",
+    "provinsi": "DAERAH ISTIMEWA YOGYAKARTA"
+  },
+  {
+    "no": "4",
+    "kodepos": "55653",
+    "desa_kelurahan": "Kalirejo",
+    "kecamatan": "Kokap",
+    "kabupaten_kota": "KAB. KULON PROGO",
+    "provinsi": "DAERAH ISTIMEWA YOGYAKARTA"
+  },
+  {
+    "no": "5",
+    "kodepos": "55653",
+    "desa_kelurahan": "Hargomulyo",
+    "kecamatan": "Kokap",
+    "kabupaten_kota": "KAB. KULON PROGO",
+    "provinsi": "DAERAH ISTIMEWA YOGYAKARTA"
+  },
+  {
+    "no": "6",
+    "kodepos": "68292",
+    "desa_kelurahan": "Sumberkokap",
+    "kecamatan": "Taman Krocok",
+    "kabupaten_kota": "KAB. BONDOWOSO",
+    "provinsi": "JAWA TIMUR"
+  },
+  {
+    "no": "7",
+    "kodepos": "93355",
+    "desa_kelurahan": "Kokapi",
+    "kecamatan": "Sawa",
+    "kabupaten_kota": "KAB. KONAWE UTARA",
+    "provinsi": "SULAWESI TENGGARA"
+  },
+  {
+    "no": "8",
+    "kodepos": "95784",
+    "desa_kelurahan": "Kokapoi",
+    "kecamatan": "Mooat",
+    "kabupaten_kota": "KAB. BOLAANG MONGONDOW TIMUR",
+    "provinsi": "SULAWESI UTARA"
+  },
+  {
+    "no": "9",
+    "kodepos": "95784",
+    "desa_kelurahan": "Kokapoi Timur",
+    "kecamatan": "Mooat",
+    "kabupaten_kota": "KAB. BOLAANG MONGONDOW TIMUR",
+    "provinsi": "SULAWESI UTARA"
+  },
+  {
+    "no": "1",
+    "kodepos": "54162",
+    "desa_kelurahan": "Girimulyo",
+    "kecamatan": "Kemiri",
+    "kabupaten_kota": "KAB. PURWOREJO",
+    "provinsi": "JAWA TENGAH"
+  },
+  {
+    "no": "2",
+    "kodepos": "55674",
+    "desa_kelurahan": "Purwosari",
+    "kecamatan": "Girimulyo",
+    "kabupaten_kota": "KAB. KULON PROGO",
+    "provinsi": "DAERAH ISTIMEWA YOGYAKARTA"
+  },
+  {
+    "no": "3",
+    "kodepos": "55674",
+    "desa_kelurahan": "Jatimulyo",
+    "kecamatan": "Girimulyo",
+    "kabupaten_kota": "KAB. KULON PROGO",
+    "provinsi": "DAERAH ISTIMEWA YOGYAKARTA"
+  },
+  {
+    "no": "4",
+    "kodepos": "55674",
+    "desa_kelurahan": "Pendoworejo",
+    "kecamatan": "Girimulyo",
+    "kabupaten_kota": "KAB. KULON PROGO",
+    "provinsi": "DAERAH ISTIMEWA YOGYAKARTA"
+  },
+  {
+    "no": "5",
+    "kodepos": "55674",
+    "desa_kelurahan": "Giripurwo",
+    "kecamatan": "Girimulyo",
+    "kabupaten_kota": "KAB. KULON PROGO",
+    "provinsi": "DAERAH ISTIMEWA YOGYAKARTA"
+  },
+  {
+    "no": "6",
+    "kodepos": "55872",
+    "desa_kelurahan": "Girimulyo",
+    "kecamatan": "Panggang",
+    "kabupaten_kota": "KAB. GUNUNGKIDUL",
+    "provinsi": "DAERAH ISTIMEWA YOGYAKARTA"
+  },
+  {
+    "no": "7",
+    "kodepos": "56152",
+    "desa_kelurahan": "Girimulyo",
+    "kecamatan": "Windusari",
+    "kabupaten_kota": "KAB. MAGELANG",
+    "provinsi": "JAWA TENGAH"
+  },
+  {
+    "no": "8",
+    "kodepos": "57693",
+    "desa_kelurahan": "Girimulyo",
+    "kecamatan": "Jatipurno",
+    "kabupaten_kota": "KAB. WONOGIRI",
+    "provinsi": "JAWA TENGAH"
+  },
+  {
+    "no": "9",
+    "kodepos": "57793",
+    "desa_kelurahan": "Girimulyo",
+    "kecamatan": "Ngargoyoso",
+    "kabupaten_kota": "KAB. KARANGANYAR",
+    "provinsi": "JAWA TENGAH"
+  },
+  {
+    "no": "10",
+    "kodepos": "63262",
+    "desa_kelurahan": "Girimulyo",
+    "kecamatan": "Jogorogo",
+    "kabupaten_kota": "KAB. NGAWI",
+    "provinsi": "JAWA TIMUR"
+  },
+  {
+    "no": "11",
+    "kodepos": "65178",
+    "desa_kelurahan": "Girimulyo",
+    "kecamatan": "Gedangan",
+    "kabupaten_kota": "KAB. MALANG",
+    "provinsi": "JAWA TIMUR"
+  },
+  {
+    "no": "12",
+    "kodepos": "98814",
+    "desa_kelurahan": "Girimulyo",
+    "kecamatan": "Nabire",
+    "kabupaten_kota": "KAB. NABIRE",
+    "provinsi": "PAPUA TENGAH"
+  },
+  {
+    "no": "1",
+    "kodepos": "51357",
+    "desa_kelurahan": "Penanggulan",
+    "kecamatan": "Pegandon",
+    "kabupaten_kota": "KAB. KENDAL",
+    "provinsi": "JAWA TENGAH"
+  },
+  {
+    "no": "2",
+    "kodepos": "55671",
+    "desa_kelurahan": "Wijimulyo",
+    "kecamatan": "Nanggulan",
+    "kabupaten_kota": "KAB. KULON PROGO",
+    "provinsi": "DAERAH ISTIMEWA YOGYAKARTA"
+  },
+  {
+    "no": "3",
+    "kodepos": "55671",
+    "desa_kelurahan": "Banyuroto",
+    "kecamatan": "Nanggulan",
+    "kabupaten_kota": "KAB. KULON PROGO",
+    "provinsi": "DAERAH ISTIMEWA YOGYAKARTA"
+  },
+  {
+    "no": "4",
+    "kodepos": "55671",
+    "desa_kelurahan": "Tanjungharjo",
+    "kecamatan": "Nanggulan",
+    "kabupaten_kota": "KAB. KULON PROGO",
+    "provinsi": "DAERAH ISTIMEWA YOGYAKARTA"
+  },
+  {
+    "no": "5",
+    "kodepos": "55671",
+    "desa_kelurahan": "Donomulyo",
+    "kecamatan": "Nanggulan",
+    "kabupaten_kota": "KAB. KULON PROGO",
+    "provinsi": "DAERAH ISTIMEWA YOGYAKARTA"
+  },
+  {
+    "no": "6",
+    "kodepos": "55671",
+    "desa_kelurahan": "Jatisarono",
+    "kecamatan": "Nanggulan",
+    "kabupaten_kota": "KAB. KULON PROGO",
+    "provinsi": "DAERAH ISTIMEWA YOGYAKARTA"
+  },
+  {
+    "no": "7",
+    "kodepos": "55671",
+    "desa_kelurahan": "Kembang",
+    "kecamatan": "Nanggulan",
+    "kabupaten_kota": "KAB. KULON PROGO",
+    "provinsi": "DAERAH ISTIMEWA YOGYAKARTA"
+  },
+  {
+    "no": "8",
+    "kodepos": "57463",
+    "desa_kelurahan": "Nanggulan",
+    "kecamatan": "Cawas",
+    "kabupaten_kota": "KAB. KLATEN",
+    "provinsi": "JAWA TENGAH"
   }
 ]

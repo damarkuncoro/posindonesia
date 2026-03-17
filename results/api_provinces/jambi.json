@@ -1990,5 +1990,1413 @@
     "kecamatan": "Manis Mata",
     "kabupaten_kota": "KAB. KETAPANG",
     "provinsi": "KALIMANTAN BARAT"
+  },
+  {
+    "no": "1",
+    "kodepos": "31482",
+    "desa_kelurahan": "Gunung Raya",
+    "kecamatan": "Tanjungsakti Pumu",
+    "kabupaten_kota": "KAB. LAHAT",
+    "provinsi": "SUMATERA SELATAN"
+  },
+  {
+    "no": "2",
+    "kodepos": "31491",
+    "desa_kelurahan": "Gunung Raya",
+    "kecamatan": "Jarai",
+    "kabupaten_kota": "KAB. LAHAT",
+    "provinsi": "SUMATERA SELATAN"
+  },
+  {
+    "no": "3",
+    "kodepos": "32253",
+    "desa_kelurahan": "Gunung Raya",
+    "kecamatan": "Warkuk Ranau Selatan",
+    "kabupaten_kota": "KAB. OGAN KOMERING ULU SELATAN",
+    "provinsi": "SUMATERA SELATAN"
+  },
+  {
+    "no": "4",
+    "kodepos": "34284",
+    "desa_kelurahan": "Gunung Raya",
+    "kecamatan": "Pubian",
+    "kabupaten_kota": "KAB. LAMPUNG TENGAH",
+    "provinsi": "LAMPUNG"
+  },
+  {
+    "no": "5",
+    "kodepos": "34389",
+    "desa_kelurahan": "Gunung Raya",
+    "kecamatan": "Marga Sekampung",
+    "kabupaten_kota": "KAB. LAMPUNG TIMUR",
+    "provinsi": "LAMPUNG"
+  },
+  {
+    "no": "6",
+    "kodepos": "35375",
+    "desa_kelurahan": "Gunung Raya",
+    "kecamatan": "Pagelaran Utara",
+    "kabupaten_kota": "KAB. PRINGSEWU",
+    "provinsi": "LAMPUNG"
+  },
+  {
+    "no": "7",
+    "kodepos": "37174",
+    "desa_kelurahan": "Lempur Tengah",
+    "kecamatan": "Gunung Raya",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "8",
+    "kodepos": "37174",
+    "desa_kelurahan": "Selam Paung",
+    "kecamatan": "Gunung Raya",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "9",
+    "kodepos": "37174",
+    "desa_kelurahan": "Dusun Baru Lempur",
+    "kecamatan": "Gunung Raya",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "10",
+    "kodepos": "37174",
+    "desa_kelurahan": "Masgo",
+    "kecamatan": "Gunung Raya",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "11",
+    "kodepos": "37174",
+    "desa_kelurahan": "Lempur Hilir",
+    "kecamatan": "Gunung Raya",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "12",
+    "kodepos": "37174",
+    "desa_kelurahan": "Kebun Baru",
+    "kecamatan": "Gunung Raya",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "13",
+    "kodepos": "37174",
+    "desa_kelurahan": "Manjunto Lempur",
+    "kecamatan": "Gunung Raya",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "14",
+    "kodepos": "37174",
+    "desa_kelurahan": "Air Mumu",
+    "kecamatan": "Gunung Raya",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "15",
+    "kodepos": "37174",
+    "desa_kelurahan": "Perikan Tengah",
+    "kecamatan": "Gunung Raya",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "16",
+    "kodepos": "37174",
+    "desa_kelurahan": "Kebun Lima",
+    "kecamatan": "Gunung Raya",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "17",
+    "kodepos": "37174",
+    "desa_kelurahan": "Lempur Mudik",
+    "kecamatan": "Gunung Raya",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "18",
+    "kodepos": "37174",
+    "desa_kelurahan": "Sungaihangat",
+    "kecamatan": "Gunung Raya",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "1",
+    "kodepos": "37175",
+    "desa_kelurahan": "Muara Hemat",
+    "kecamatan": "Batang Merangin",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "2",
+    "kodepos": "37175",
+    "desa_kelurahan": "Tarutung",
+    "kecamatan": "Batang Merangin",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "3",
+    "kodepos": "37175",
+    "desa_kelurahan": "Batang Merangin",
+    "kecamatan": "Batang Merangin",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "4",
+    "kodepos": "37175",
+    "desa_kelurahan": "Lubuk Paku",
+    "kecamatan": "Batang Merangin",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "5",
+    "kodepos": "37175",
+    "desa_kelurahan": "Baru Pulau Sangkar",
+    "kecamatan": "Batang Merangin",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "6",
+    "kodepos": "37175",
+    "desa_kelurahan": "Pasar Tamiai",
+    "kecamatan": "Batang Merangin",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "7",
+    "kodepos": "37175",
+    "desa_kelurahan": "Tamiai",
+    "kecamatan": "Batang Merangin",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "8",
+    "kodepos": "37175",
+    "desa_kelurahan": "Pematang Lingkung",
+    "kecamatan": "Batang Merangin",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "9",
+    "kodepos": "37175",
+    "desa_kelurahan": "Seberang Merangin",
+    "kecamatan": "Batang Merangin",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "1",
+    "kodepos": "37173",
+    "desa_kelurahan": "Talang Lindung",
+    "kecamatan": "Keliling Danau",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "2",
+    "kodepos": "37173",
+    "desa_kelurahan": "Tanjungbatu",
+    "kecamatan": "Keliling Danau",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "3",
+    "kodepos": "37173",
+    "desa_kelurahan": "Kt Tuo P. Tengah",
+    "kecamatan": "Keliling Danau",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "4",
+    "kodepos": "37173",
+    "desa_kelurahan": "Koto Agung",
+    "kecamatan": "Keliling Danau",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "5",
+    "kodepos": "37173",
+    "desa_kelurahan": "Pancuran Bangko",
+    "kecamatan": "Keliling Danau",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "6",
+    "kodepos": "37173",
+    "desa_kelurahan": "Pidung",
+    "kecamatan": "Keliling Danau",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "7",
+    "kodepos": "37173",
+    "desa_kelurahan": "Jembatan Merah Pulau Tengah",
+    "kecamatan": "Keliling Danau",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "8",
+    "kodepos": "37173",
+    "desa_kelurahan": "Jujun",
+    "kecamatan": "Keliling Danau",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "9",
+    "kodepos": "37173",
+    "desa_kelurahan": "Kt. Dian P. Tengah",
+    "kecamatan": "Keliling Danau",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "10",
+    "kodepos": "37173",
+    "desa_kelurahan": "Telago",
+    "kecamatan": "Keliling Danau",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "11",
+    "kodepos": "37173",
+    "desa_kelurahan": "Dsn. Baru P. Tengah",
+    "kecamatan": "Keliling Danau",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "12",
+    "kodepos": "37173",
+    "desa_kelurahan": "Pulautengah",
+    "kecamatan": "Keliling Danau",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "13",
+    "kodepos": "37173",
+    "desa_kelurahan": "Koto Baru",
+    "kecamatan": "Keliling Danau",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "14",
+    "kodepos": "37173",
+    "desa_kelurahan": "Pasar Jujun",
+    "kecamatan": "Keliling Danau",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "15",
+    "kodepos": "37173",
+    "desa_kelurahan": "Keluru",
+    "kecamatan": "Keliling Danau",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "16",
+    "kodepos": "37173",
+    "desa_kelurahan": "Limok Manaih Pulau Tengah",
+    "kecamatan": "Keliling Danau",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "17",
+    "kodepos": "37173",
+    "desa_kelurahan": "Benik",
+    "kecamatan": "Keliling Danau",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "18",
+    "kodepos": "37173",
+    "desa_kelurahan": "Lempur Danau",
+    "kecamatan": "Keliling Danau",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "1",
+    "kodepos": "37172",
+    "desa_kelurahan": "Tebing Tinggi",
+    "kecamatan": "Danau Kerinci",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "2",
+    "kodepos": "37172",
+    "desa_kelurahan": "Simpang Empat",
+    "kecamatan": "Danau Kerinci",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "3",
+    "kodepos": "37172",
+    "desa_kelurahan": "Pasar Sore Seleman",
+    "kecamatan": "Danau Kerinci",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "4",
+    "kodepos": "37172",
+    "desa_kelurahan": "Dusun Baru Tanjung Tanah",
+    "kecamatan": "Danau Kerinci",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "5",
+    "kodepos": "37172",
+    "desa_kelurahan": "Tanjungtanah",
+    "kecamatan": "Danau Kerinci",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "6",
+    "kodepos": "37172",
+    "desa_kelurahan": "Sanggaran Agung",
+    "kecamatan": "Danau Kerinci",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "7",
+    "kodepos": "37172",
+    "desa_kelurahan": "Talang Kemulun",
+    "kecamatan": "Danau Kerinci",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "8",
+    "kodepos": "37172",
+    "desa_kelurahan": "Tanjungharapan",
+    "kecamatan": "Danau Kerinci",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "9",
+    "kodepos": "37172",
+    "desa_kelurahan": "Pendung Talang Genting",
+    "kecamatan": "Danau Kerinci",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "10",
+    "kodepos": "37172",
+    "desa_kelurahan": "Cupak",
+    "kecamatan": "Danau Kerinci",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "11",
+    "kodepos": "37172",
+    "desa_kelurahan": "Seleman",
+    "kecamatan": "Danau Kerinci",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "12",
+    "kodepos": "37172",
+    "desa_kelurahan": "Kota Baru Sanggaran Agung",
+    "kecamatan": "Danau Kerinci",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "13",
+    "kodepos": "37172",
+    "desa_kelurahan": "Koto Tengah",
+    "kecamatan": "Danau Kerinci",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "14",
+    "kodepos": "37173",
+    "desa_kelurahan": "Tanjung Pauh Mudik",
+    "kecamatan": "Danau Kerinci Barat",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "15",
+    "kodepos": "37173",
+    "desa_kelurahan": "Punai Merindu",
+    "kecamatan": "Danau Kerinci Barat",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "16",
+    "kodepos": "37173",
+    "desa_kelurahan": "Tanjung Pauh Hilir",
+    "kecamatan": "Danau Kerinci Barat",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "17",
+    "kodepos": "37173",
+    "desa_kelurahan": "Semerap",
+    "kecamatan": "Danau Kerinci Barat",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "18",
+    "kodepos": "37173",
+    "desa_kelurahan": "Pondok Saguang",
+    "kecamatan": "Danau Kerinci Barat",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "19",
+    "kodepos": "37173",
+    "desa_kelurahan": "Koto Patah",
+    "kecamatan": "Danau Kerinci Barat",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "20",
+    "kodepos": "37173",
+    "desa_kelurahan": "Bukit Pulai",
+    "kecamatan": "Danau Kerinci Barat",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "21",
+    "kodepos": "37173",
+    "desa_kelurahan": "Permai Baru",
+    "kecamatan": "Danau Kerinci Barat",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "22",
+    "kodepos": "37173",
+    "desa_kelurahan": "Koto Baru Semerap",
+    "kecamatan": "Danau Kerinci Barat",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "23",
+    "kodepos": "37173",
+    "desa_kelurahan": "Serumpun Pauh",
+    "kecamatan": "Danau Kerinci Barat",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "24",
+    "kodepos": "37173",
+    "desa_kelurahan": "Pasar Semerap",
+    "kecamatan": "Danau Kerinci Barat",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "25",
+    "kodepos": "37173",
+    "desa_kelurahan": "Koto Tengah",
+    "kecamatan": "Danau Kerinci Barat",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "26",
+    "kodepos": "37173",
+    "desa_kelurahan": "Pancuran Tiga",
+    "kecamatan": "Danau Kerinci Barat",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "27",
+    "kodepos": "37173",
+    "desa_kelurahan": "Sumur Jauh",
+    "kecamatan": "Danau Kerinci Barat",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "1",
+    "kodepos": "37171",
+    "desa_kelurahan": "Betung Kuning",
+    "kecamatan": "Sitinjau Laut",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "2",
+    "kodepos": "37171",
+    "desa_kelurahan": "Ambai Bawah",
+    "kecamatan": "Sitinjau Laut",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "3",
+    "kodepos": "37171",
+    "desa_kelurahan": "Tanjungmudo",
+    "kecamatan": "Sitinjau Laut",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "4",
+    "kodepos": "37171",
+    "desa_kelurahan": "Hiang Lestari",
+    "kecamatan": "Sitinjau Laut",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "5",
+    "kodepos": "37171",
+    "desa_kelurahan": "Hiang Karya",
+    "kecamatan": "Sitinjau Laut",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "6",
+    "kodepos": "37171",
+    "desa_kelurahan": "Koto Sekilan Ambai",
+    "kecamatan": "Sitinjau Laut",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "7",
+    "kodepos": "37171",
+    "desa_kelurahan": "Penawar Tinggi",
+    "kecamatan": "Sitinjau Laut",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "8",
+    "kodepos": "37171",
+    "desa_kelurahan": "Hiang Sakti",
+    "kecamatan": "Sitinjau Laut",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "9",
+    "kodepos": "37171",
+    "desa_kelurahan": "Pendung Tengah",
+    "kecamatan": "Sitinjau Laut",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "10",
+    "kodepos": "37171",
+    "desa_kelurahan": "Hiang Tinggi",
+    "kecamatan": "Sitinjau Laut",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "11",
+    "kodepos": "37171",
+    "desa_kelurahan": "Ambai Atas",
+    "kecamatan": "Sitinjau Laut",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "12",
+    "kodepos": "37171",
+    "desa_kelurahan": "Pendung Hilir",
+    "kecamatan": "Sitinjau Laut",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "13",
+    "kodepos": "37171",
+    "desa_kelurahan": "Koto Baru Hiang",
+    "kecamatan": "Sitinjau Laut",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "14",
+    "kodepos": "37171",
+    "desa_kelurahan": "Angkasa Pura",
+    "kecamatan": "Sitinjau Laut",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "1",
+    "kodepos": "37161",
+    "desa_kelurahan": "Pugu",
+    "kecamatan": "Air Hangat Barat",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "2",
+    "kodepos": "37161",
+    "desa_kelurahan": "Koto Dua Baru",
+    "kecamatan": "Air Hangat Barat",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "3",
+    "kodepos": "37161",
+    "desa_kelurahan": "Air Panas",
+    "kecamatan": "Air Hangat Barat",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "4",
+    "kodepos": "37161",
+    "desa_kelurahan": "Koto Mudik",
+    "kecamatan": "Air Hangat Barat",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "5",
+    "kodepos": "37161",
+    "desa_kelurahan": "Kecil",
+    "kecamatan": "Air Hangat Barat",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "6",
+    "kodepos": "37161",
+    "desa_kelurahan": "Koto Tengah",
+    "kecamatan": "Air Hangat Barat",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "7",
+    "kodepos": "37161",
+    "desa_kelurahan": "Baru",
+    "kecamatan": "Air Hangat Barat",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "8",
+    "kodepos": "37161",
+    "desa_kelurahan": "Koto Mebai",
+    "kecamatan": "Air Hangat Barat",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "9",
+    "kodepos": "37161",
+    "desa_kelurahan": "Hamparan Pugu",
+    "kecamatan": "Air Hangat Barat",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "10",
+    "kodepos": "37161",
+    "desa_kelurahan": "Koto Cayo",
+    "kecamatan": "Air Hangat Barat",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "11",
+    "kodepos": "37161",
+    "desa_kelurahan": "Air Bersih",
+    "kecamatan": "Air Hangat Barat",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "12",
+    "kodepos": "37161",
+    "desa_kelurahan": "Koto Datuk",
+    "kecamatan": "Air Hangat Barat",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "13",
+    "kodepos": "37161",
+    "desa_kelurahan": "Koto Majidin Mudik",
+    "kecamatan": "Air Hangat",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "14",
+    "kodepos": "37161",
+    "desa_kelurahan": "Sawahan Koto Majidin",
+    "kecamatan": "Air Hangat",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "15",
+    "kodepos": "37161",
+    "desa_kelurahan": "Koto Dua Lama",
+    "kecamatan": "Air Hangat",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "16",
+    "kodepos": "37161",
+    "desa_kelurahan": "Koto Majidin Hilir",
+    "kecamatan": "Air Hangat",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "17",
+    "kodepos": "37161",
+    "desa_kelurahan": "Air Tenang",
+    "kecamatan": "Air Hangat",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "18",
+    "kodepos": "37161",
+    "desa_kelurahan": "Baru Semurup",
+    "kecamatan": "Air Hangat",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "19",
+    "kodepos": "37161",
+    "desa_kelurahan": "Pendung Hilir",
+    "kecamatan": "Air Hangat",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "20",
+    "kodepos": "37161",
+    "desa_kelurahan": "Koto Di Air",
+    "kecamatan": "Air Hangat",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "21",
+    "kodepos": "37161",
+    "desa_kelurahan": "Muara Semerah Mudik",
+    "kecamatan": "Air Hangat",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "22",
+    "kodepos": "37161",
+    "desa_kelurahan": "Pendung Tengah",
+    "kecamatan": "Air Hangat",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "23",
+    "kodepos": "37161",
+    "desa_kelurahan": "Muara Semerah",
+    "kecamatan": "Air Hangat",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "24",
+    "kodepos": "37161",
+    "desa_kelurahan": "Sawahan Jaya",
+    "kecamatan": "Air Hangat",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "25",
+    "kodepos": "37161",
+    "desa_kelurahan": "Balai",
+    "kecamatan": "Air Hangat",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "26",
+    "kodepos": "37161",
+    "desa_kelurahan": "Koto Majidin Di Air",
+    "kecamatan": "Air Hangat",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "27",
+    "kodepos": "37161",
+    "desa_kelurahan": "Pasar Semurup",
+    "kecamatan": "Air Hangat",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "28",
+    "kodepos": "37161",
+    "desa_kelurahan": "Pendung Mudik",
+    "kecamatan": "Air Hangat",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "29",
+    "kodepos": "37171",
+    "desa_kelurahan": "Kemantan Raya",
+    "kecamatan": "Air Hangat Timur",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "30",
+    "kodepos": "37171",
+    "desa_kelurahan": "Pondok Sungaiabu",
+    "kecamatan": "Air Hangat Timur",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "31",
+    "kodepos": "37171",
+    "desa_kelurahan": "Sungaitutung",
+    "kecamatan": "Air Hangat Timur",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "32",
+    "kodepos": "37171",
+    "desa_kelurahan": "Sungaiabu",
+    "kecamatan": "Air Hangat Timur",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "33",
+    "kodepos": "37171",
+    "desa_kelurahan": "Kemantan Hilir",
+    "kecamatan": "Air Hangat Timur",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "34",
+    "kodepos": "37171",
+    "desa_kelurahan": "Taman Jernih Sungaitutung",
+    "kecamatan": "Air Hangat Timur",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "35",
+    "kodepos": "37171",
+    "desa_kelurahan": "Air Panas Sungaiabu",
+    "kecamatan": "Air Hangat Timur",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "36",
+    "kodepos": "37171",
+    "desa_kelurahan": "Baru Sungaideras",
+    "kecamatan": "Air Hangat Timur",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "37",
+    "kodepos": "37171",
+    "desa_kelurahan": "Kemantan Mudik",
+    "kecamatan": "Air Hangat Timur",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "38",
+    "kodepos": "37171",
+    "desa_kelurahan": "Kemantan Agung",
+    "kecamatan": "Air Hangat Timur",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "39",
+    "kodepos": "37171",
+    "desa_kelurahan": "Koto Tebat",
+    "kecamatan": "Air Hangat Timur",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "40",
+    "kodepos": "37171",
+    "desa_kelurahan": "Kemantan Tinggi",
+    "kecamatan": "Air Hangat Timur",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "41",
+    "kodepos": "37171",
+    "desa_kelurahan": "Pungut Hilir",
+    "kecamatan": "Air Hangat Timur",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "42",
+    "kodepos": "37171",
+    "desa_kelurahan": "Kemantan Darat",
+    "kecamatan": "Air Hangat Timur",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "43",
+    "kodepos": "37171",
+    "desa_kelurahan": "Sungaimedang",
+    "kecamatan": "Air Hangat Timur",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "44",
+    "kodepos": "37171",
+    "desa_kelurahan": "Pungut Tengah",
+    "kecamatan": "Air Hangat Timur",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "45",
+    "kodepos": "37171",
+    "desa_kelurahan": "Baru Sungai Tutung",
+    "kecamatan": "Air Hangat Timur",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "46",
+    "kodepos": "37171",
+    "desa_kelurahan": "Sungaideras",
+    "kecamatan": "Air Hangat Timur",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "47",
+    "kodepos": "37171",
+    "desa_kelurahan": "Baru Sungaiabu",
+    "kecamatan": "Air Hangat Timur",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "48",
+    "kodepos": "37171",
+    "desa_kelurahan": "Kemantan Kebalai",
+    "kecamatan": "Air Hangat Timur",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "49",
+    "kodepos": "37171",
+    "desa_kelurahan": "Pungut Mudik",
+    "kecamatan": "Air Hangat Timur",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "50",
+    "kodepos": "37171",
+    "desa_kelurahan": "Simpang Empat Sungai Tutung",
+    "kecamatan": "Air Hangat Timur",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "51",
+    "kodepos": "37171",
+    "desa_kelurahan": "Baru Air Hangat",
+    "kecamatan": "Air Hangat Timur",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "52",
+    "kodepos": "37171",
+    "desa_kelurahan": "Air Hangat",
+    "kecamatan": "Air Hangat Timur",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "53",
+    "kodepos": "37171",
+    "desa_kelurahan": "Baru Sungaimedang",
+    "kecamatan": "Air Hangat Timur",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "1",
+    "kodepos": "37171",
+    "desa_kelurahan": "Baru Sungaideras",
+    "kecamatan": "Air Hangat Timur",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "2",
+    "kodepos": "37171",
+    "desa_kelurahan": "Kemantan Mudik",
+    "kecamatan": "Air Hangat Timur",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "3",
+    "kodepos": "37171",
+    "desa_kelurahan": "Sungaiabu",
+    "kecamatan": "Air Hangat Timur",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "4",
+    "kodepos": "37171",
+    "desa_kelurahan": "Kemantan Hilir",
+    "kecamatan": "Air Hangat Timur",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "5",
+    "kodepos": "37171",
+    "desa_kelurahan": "Taman Jernih Sungaitutung",
+    "kecamatan": "Air Hangat Timur",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "6",
+    "kodepos": "37171",
+    "desa_kelurahan": "Air Panas Sungaiabu",
+    "kecamatan": "Air Hangat Timur",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "7",
+    "kodepos": "37171",
+    "desa_kelurahan": "Kemantan Raya",
+    "kecamatan": "Air Hangat Timur",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "8",
+    "kodepos": "37171",
+    "desa_kelurahan": "Baru Sungai Tutung",
+    "kecamatan": "Air Hangat Timur",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "9",
+    "kodepos": "37171",
+    "desa_kelurahan": "Sungaideras",
+    "kecamatan": "Air Hangat Timur",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "10",
+    "kodepos": "37171",
+    "desa_kelurahan": "Baru Sungaiabu",
+    "kecamatan": "Air Hangat Timur",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "11",
+    "kodepos": "37171",
+    "desa_kelurahan": "Koto Tebat",
+    "kecamatan": "Air Hangat Timur",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "12",
+    "kodepos": "37171",
+    "desa_kelurahan": "Pondok Sungaiabu",
+    "kecamatan": "Air Hangat Timur",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "13",
+    "kodepos": "37171",
+    "desa_kelurahan": "Sungaitutung",
+    "kecamatan": "Air Hangat Timur",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "14",
+    "kodepos": "37171",
+    "desa_kelurahan": "Kemantan Tinggi",
+    "kecamatan": "Air Hangat Timur",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "15",
+    "kodepos": "37171",
+    "desa_kelurahan": "Pungut Hilir",
+    "kecamatan": "Air Hangat Timur",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "16",
+    "kodepos": "37171",
+    "desa_kelurahan": "Kemantan Darat",
+    "kecamatan": "Air Hangat Timur",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "17",
+    "kodepos": "37171",
+    "desa_kelurahan": "Sungaimedang",
+    "kecamatan": "Air Hangat Timur",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "18",
+    "kodepos": "37171",
+    "desa_kelurahan": "Pungut Tengah",
+    "kecamatan": "Air Hangat Timur",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "19",
+    "kodepos": "37171",
+    "desa_kelurahan": "Kemantan Agung",
+    "kecamatan": "Air Hangat Timur",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "20",
+    "kodepos": "37171",
+    "desa_kelurahan": "Air Hangat",
+    "kecamatan": "Air Hangat Timur",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "21",
+    "kodepos": "37171",
+    "desa_kelurahan": "Baru Sungaimedang",
+    "kecamatan": "Air Hangat Timur",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "22",
+    "kodepos": "37171",
+    "desa_kelurahan": "Kemantan Kebalai",
+    "kecamatan": "Air Hangat Timur",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "23",
+    "kodepos": "37171",
+    "desa_kelurahan": "Pungut Mudik",
+    "kecamatan": "Air Hangat Timur",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "24",
+    "kodepos": "37171",
+    "desa_kelurahan": "Simpang Empat Sungai Tutung",
+    "kecamatan": "Air Hangat Timur",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "25",
+    "kodepos": "37171",
+    "desa_kelurahan": "Baru Air Hangat",
+    "kecamatan": "Air Hangat Timur",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "1",
+    "kodepos": "37161",
+    "desa_kelurahan": "Koto Mudik",
+    "kecamatan": "Air Hangat Barat",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "2",
+    "kodepos": "37161",
+    "desa_kelurahan": "Kecil",
+    "kecamatan": "Air Hangat Barat",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "3",
+    "kodepos": "37161",
+    "desa_kelurahan": "Koto Mebai",
+    "kecamatan": "Air Hangat Barat",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "4",
+    "kodepos": "37161",
+    "desa_kelurahan": "Hamparan Pugu",
+    "kecamatan": "Air Hangat Barat",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "5",
+    "kodepos": "37161",
+    "desa_kelurahan": "Koto Dua Baru",
+    "kecamatan": "Air Hangat Barat",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "6",
+    "kodepos": "37161",
+    "desa_kelurahan": "Koto Tengah",
+    "kecamatan": "Air Hangat Barat",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "7",
+    "kodepos": "37161",
+    "desa_kelurahan": "Koto Cayo",
+    "kecamatan": "Air Hangat Barat",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "8",
+    "kodepos": "37161",
+    "desa_kelurahan": "Air Bersih",
+    "kecamatan": "Air Hangat Barat",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "9",
+    "kodepos": "37161",
+    "desa_kelurahan": "Air Panas",
+    "kecamatan": "Air Hangat Barat",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "10",
+    "kodepos": "37161",
+    "desa_kelurahan": "Pugu",
+    "kecamatan": "Air Hangat Barat",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "11",
+    "kodepos": "37161",
+    "desa_kelurahan": "Baru",
+    "kecamatan": "Air Hangat Barat",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "12",
+    "kodepos": "37161",
+    "desa_kelurahan": "Koto Datuk",
+    "kecamatan": "Air Hangat Barat",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
   }
 ]

@@ -4014,5 +4014,605 @@
     "kecamatan": "Tarakan Timur",
     "kabupaten_kota": "KOTA TARAKAN",
     "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "6",
+    "kodepos": "78694",
+    "desa_kelurahan": "Nanga Tampang",
+    "kecamatan": "Kayan Hulu",
+    "kabupaten_kota": "KAB. SINTANG",
+    "provinsi": "KALIMANTAN BARAT"
+  },
+  {
+    "no": "7",
+    "kodepos": "78694",
+    "desa_kelurahan": "Riam Panjang",
+    "kecamatan": "Kayan Hulu",
+    "kabupaten_kota": "KAB. SINTANG",
+    "provinsi": "KALIMANTAN BARAT"
+  },
+  {
+    "no": "8",
+    "kodepos": "78694",
+    "desa_kelurahan": "Tanjung Lalau",
+    "kecamatan": "Kayan Hulu",
+    "kabupaten_kota": "KAB. SINTANG",
+    "provinsi": "KALIMANTAN BARAT"
+  },
+  {
+    "no": "9",
+    "kodepos": "78694",
+    "desa_kelurahan": "Empakan",
+    "kecamatan": "Kayan Hulu",
+    "kabupaten_kota": "KAB. SINTANG",
+    "provinsi": "KALIMANTAN BARAT"
+  },
+  {
+    "no": "10",
+    "kodepos": "78694",
+    "desa_kelurahan": "Nanga Toran",
+    "kecamatan": "Kayan Hulu",
+    "kabupaten_kota": "KAB. SINTANG",
+    "provinsi": "KALIMANTAN BARAT"
+  },
+  {
+    "no": "11",
+    "kodepos": "78694",
+    "desa_kelurahan": "Nanga Tonggoi",
+    "kecamatan": "Kayan Hulu",
+    "kabupaten_kota": "KAB. SINTANG",
+    "provinsi": "KALIMANTAN BARAT"
+  },
+  {
+    "no": "12",
+    "kodepos": "78694",
+    "desa_kelurahan": "Nanga Abai",
+    "kecamatan": "Kayan Hulu",
+    "kabupaten_kota": "KAB. SINTANG",
+    "provinsi": "KALIMANTAN BARAT"
+  },
+  {
+    "no": "13",
+    "kodepos": "78694",
+    "desa_kelurahan": "Buluh Merindu",
+    "kecamatan": "Kayan Hulu",
+    "kabupaten_kota": "KAB. SINTANG",
+    "provinsi": "KALIMANTAN BARAT"
+  },
+  {
+    "no": "14",
+    "kodepos": "78694",
+    "desa_kelurahan": "Entogong",
+    "kecamatan": "Kayan Hulu",
+    "kabupaten_kota": "KAB. SINTANG",
+    "provinsi": "KALIMANTAN BARAT"
+  },
+  {
+    "no": "15",
+    "kodepos": "78694",
+    "desa_kelurahan": "Emponyang",
+    "kecamatan": "Kayan Hulu",
+    "kabupaten_kota": "KAB. SINTANG",
+    "provinsi": "KALIMANTAN BARAT"
+  },
+  {
+    "no": "16",
+    "kodepos": "78694",
+    "desa_kelurahan": "Mapan Jaya",
+    "kecamatan": "Kayan Hulu",
+    "kabupaten_kota": "KAB. SINTANG",
+    "provinsi": "KALIMANTAN BARAT"
+  },
+  {
+    "no": "17",
+    "kodepos": "78694",
+    "desa_kelurahan": "Landau Bara",
+    "kecamatan": "Kayan Hulu",
+    "kabupaten_kota": "KAB. SINTANG",
+    "provinsi": "KALIMANTAN BARAT"
+  },
+  {
+    "no": "18",
+    "kodepos": "78694",
+    "desa_kelurahan": "Kebarau",
+    "kecamatan": "Kayan Hulu",
+    "kabupaten_kota": "KAB. SINTANG",
+    "provinsi": "KALIMANTAN BARAT"
+  },
+  {
+    "no": "19",
+    "kodepos": "78694",
+    "desa_kelurahan": "Tanjung Bunga",
+    "kecamatan": "Kayan Hulu",
+    "kabupaten_kota": "KAB. SINTANG",
+    "provinsi": "KALIMANTAN BARAT"
+  },
+  {
+    "no": "20",
+    "kodepos": "78694",
+    "desa_kelurahan": "Nanga Oran",
+    "kecamatan": "Kayan Hulu",
+    "kabupaten_kota": "KAB. SINTANG",
+    "provinsi": "KALIMANTAN BARAT"
+  },
+  {
+    "no": "21",
+    "kodepos": "78694",
+    "desa_kelurahan": "Topan Nanga",
+    "kecamatan": "Kayan Hulu",
+    "kabupaten_kota": "KAB. SINTANG",
+    "provinsi": "KALIMANTAN BARAT"
+  },
+  {
+    "no": "22",
+    "kodepos": "78694",
+    "desa_kelurahan": "Nanga Payak",
+    "kecamatan": "Kayan Hulu",
+    "kabupaten_kota": "KAB. SINTANG",
+    "provinsi": "KALIMANTAN BARAT"
+  },
+  {
+    "no": "23",
+    "kodepos": "78694",
+    "desa_kelurahan": "Nanga Masau",
+    "kecamatan": "Kayan Hulu",
+    "kabupaten_kota": "KAB. SINTANG",
+    "provinsi": "KALIMANTAN BARAT"
+  },
+  {
+    "no": "24",
+    "kodepos": "78694",
+    "desa_kelurahan": "Tapang Manua",
+    "kecamatan": "Kayan Hulu",
+    "kabupaten_kota": "KAB. SINTANG",
+    "provinsi": "KALIMANTAN BARAT"
+  },
+  {
+    "no": "25",
+    "kodepos": "78694",
+    "desa_kelurahan": "Nanga Tebidah",
+    "kecamatan": "Kayan Hulu",
+    "kabupaten_kota": "KAB. SINTANG",
+    "provinsi": "KALIMANTAN BARAT"
+  },
+  {
+    "no": "26",
+    "kodepos": "78694",
+    "desa_kelurahan": "Tanah Merah",
+    "kecamatan": "Kayan Hulu",
+    "kabupaten_kota": "KAB. SINTANG",
+    "provinsi": "KALIMANTAN BARAT"
+  },
+  {
+    "no": "27",
+    "kodepos": "78694",
+    "desa_kelurahan": "Merah Arai",
+    "kecamatan": "Kayan Hulu",
+    "kabupaten_kota": "KAB. SINTANG",
+    "provinsi": "KALIMANTAN BARAT"
+  },
+  {
+    "no": "28",
+    "kodepos": "78694",
+    "desa_kelurahan": "Riam Muntik",
+    "kecamatan": "Kayan Hulu",
+    "kabupaten_kota": "KAB. SINTANG",
+    "provinsi": "KALIMANTAN BARAT"
+  },
+  {
+    "no": "29",
+    "kodepos": "78694",
+    "desa_kelurahan": "Nangkak Lestari",
+    "kecamatan": "Kayan Hulu",
+    "kabupaten_kota": "KAB. SINTANG",
+    "provinsi": "KALIMANTAN BARAT"
+  },
+  {
+    "no": "30",
+    "kodepos": "78694",
+    "desa_kelurahan": "Lintang Tambuk",
+    "kecamatan": "Kayan Hulu",
+    "kabupaten_kota": "KAB. SINTANG",
+    "provinsi": "KALIMANTAN BARAT"
+  },
+  {
+    "no": "31",
+    "kodepos": "78694",
+    "desa_kelurahan": "Tonak Goneh",
+    "kecamatan": "Kayan Hulu",
+    "kabupaten_kota": "KAB. SINTANG",
+    "provinsi": "KALIMANTAN BARAT"
+  },
+  {
+    "no": "32",
+    "kodepos": "78694",
+    "desa_kelurahan": "Nanga Laar",
+    "kecamatan": "Kayan Hulu",
+    "kabupaten_kota": "KAB. SINTANG",
+    "provinsi": "KALIMANTAN BARAT"
+  },
+  {
+    "no": "33",
+    "kodepos": "78694",
+    "desa_kelurahan": "Tanjung Miru",
+    "kecamatan": "Kayan Hulu",
+    "kabupaten_kota": "KAB. SINTANG",
+    "provinsi": "KALIMANTAN BARAT"
+  },
+  {
+    "no": "34",
+    "kodepos": "78694",
+    "desa_kelurahan": "Merahau Permai",
+    "kecamatan": "Kayan Hulu",
+    "kabupaten_kota": "KAB. SINTANG",
+    "provinsi": "KALIMANTAN BARAT"
+  },
+  {
+    "no": "35",
+    "kodepos": "78694",
+    "desa_kelurahan": "Kerapuk Jaya",
+    "kecamatan": "Kayan Hulu",
+    "kabupaten_kota": "KAB. SINTANG",
+    "provinsi": "KALIMANTAN BARAT"
+  },
+  {
+    "no": "36",
+    "kodepos": "78694",
+    "desa_kelurahan": "Nanga Ungai",
+    "kecamatan": "Kayan Hulu",
+    "kabupaten_kota": "KAB. SINTANG",
+    "provinsi": "KALIMANTAN BARAT"
+  },
+  {
+    "no": "6",
+    "kodepos": "78693",
+    "desa_kelurahan": "Tanjung Putar",
+    "kecamatan": "Kayan Hilir",
+    "kabupaten_kota": "KAB. SINTANG",
+    "provinsi": "KALIMANTAN BARAT"
+  },
+  {
+    "no": "7",
+    "kodepos": "78693",
+    "desa_kelurahan": "Batu Netak",
+    "kecamatan": "Kayan Hilir",
+    "kabupaten_kota": "KAB. SINTANG",
+    "provinsi": "KALIMANTAN BARAT"
+  },
+  {
+    "no": "8",
+    "kodepos": "78693",
+    "desa_kelurahan": "Buluk Jegara",
+    "kecamatan": "Kayan Hilir",
+    "kabupaten_kota": "KAB. SINTANG",
+    "provinsi": "KALIMANTAN BARAT"
+  },
+  {
+    "no": "9",
+    "kodepos": "78693",
+    "desa_kelurahan": "Sungai Emang",
+    "kecamatan": "Kayan Hilir",
+    "kabupaten_kota": "KAB. SINTANG",
+    "provinsi": "KALIMANTAN BARAT"
+  },
+  {
+    "no": "10",
+    "kodepos": "78693",
+    "desa_kelurahan": "Lalang Inggar",
+    "kecamatan": "Kayan Hilir",
+    "kabupaten_kota": "KAB. SINTANG",
+    "provinsi": "KALIMANTAN BARAT"
+  },
+  {
+    "no": "11",
+    "kodepos": "78693",
+    "desa_kelurahan": "Natai Lesung",
+    "kecamatan": "Kayan Hilir",
+    "kabupaten_kota": "KAB. SINTANG",
+    "provinsi": "KALIMANTAN BARAT"
+  },
+  {
+    "no": "12",
+    "kodepos": "78693",
+    "desa_kelurahan": "Sungai Buaya",
+    "kecamatan": "Kayan Hilir",
+    "kabupaten_kota": "KAB. SINTANG",
+    "provinsi": "KALIMANTAN BARAT"
+  },
+  {
+    "no": "13",
+    "kodepos": "78693",
+    "desa_kelurahan": "Begendang Mal",
+    "kecamatan": "Kayan Hilir",
+    "kabupaten_kota": "KAB. SINTANG",
+    "provinsi": "KALIMANTAN BARAT"
+  },
+  {
+    "no": "14",
+    "kodepos": "78693",
+    "desa_kelurahan": "Pakak",
+    "kecamatan": "Kayan Hilir",
+    "kabupaten_kota": "KAB. SINTANG",
+    "provinsi": "KALIMANTAN BARAT"
+  },
+  {
+    "no": "15",
+    "kodepos": "78693",
+    "desa_kelurahan": "Sungai Sintang",
+    "kecamatan": "Kayan Hilir",
+    "kabupaten_kota": "KAB. SINTANG",
+    "provinsi": "KALIMANTAN BARAT"
+  },
+  {
+    "no": "16",
+    "kodepos": "78693",
+    "desa_kelurahan": "Paoh Desa",
+    "kecamatan": "Kayan Hilir",
+    "kabupaten_kota": "KAB. SINTANG",
+    "provinsi": "KALIMANTAN BARAT"
+  },
+  {
+    "no": "17",
+    "kodepos": "78693",
+    "desa_kelurahan": "Sungai Menuang",
+    "kecamatan": "Kayan Hilir",
+    "kabupaten_kota": "KAB. SINTANG",
+    "provinsi": "KALIMANTAN BARAT"
+  },
+  {
+    "no": "18",
+    "kodepos": "78693",
+    "desa_kelurahan": "Bukit Segaloh",
+    "kecamatan": "Kayan Hilir",
+    "kabupaten_kota": "KAB. SINTANG",
+    "provinsi": "KALIMANTAN BARAT"
+  },
+  {
+    "no": "19",
+    "kodepos": "78693",
+    "desa_kelurahan": "Sungai Ranap",
+    "kecamatan": "Kayan Hilir",
+    "kabupaten_kota": "KAB. SINTANG",
+    "provinsi": "KALIMANTAN BARAT"
+  },
+  {
+    "no": "20",
+    "kodepos": "78693",
+    "desa_kelurahan": "Lengkong Bindu",
+    "kecamatan": "Kayan Hilir",
+    "kabupaten_kota": "KAB. SINTANG",
+    "provinsi": "KALIMANTAN BARAT"
+  },
+  {
+    "no": "21",
+    "kodepos": "78693",
+    "desa_kelurahan": "Buluk Panjang",
+    "kecamatan": "Kayan Hilir",
+    "kabupaten_kota": "KAB. SINTANG",
+    "provinsi": "KALIMANTAN BARAT"
+  },
+  {
+    "no": "22",
+    "kodepos": "78693",
+    "desa_kelurahan": "Nanga Lidau",
+    "kecamatan": "Kayan Hilir",
+    "kabupaten_kota": "KAB. SINTANG",
+    "provinsi": "KALIMANTAN BARAT"
+  },
+  {
+    "no": "23",
+    "kodepos": "78693",
+    "desa_kelurahan": "Neran Baya",
+    "kecamatan": "Kayan Hilir",
+    "kabupaten_kota": "KAB. SINTANG",
+    "provinsi": "KALIMANTAN BARAT"
+  },
+  {
+    "no": "24",
+    "kodepos": "78693",
+    "desa_kelurahan": "Tuguk",
+    "kecamatan": "Kayan Hilir",
+    "kabupaten_kota": "KAB. SINTANG",
+    "provinsi": "KALIMANTAN BARAT"
+  },
+  {
+    "no": "25",
+    "kodepos": "78693",
+    "desa_kelurahan": "Mekar Mandiri",
+    "kecamatan": "Kayan Hilir",
+    "kabupaten_kota": "KAB. SINTANG",
+    "provinsi": "KALIMANTAN BARAT"
+  },
+  {
+    "no": "26",
+    "kodepos": "78693",
+    "desa_kelurahan": "Engkerangan",
+    "kecamatan": "Kayan Hilir",
+    "kabupaten_kota": "KAB. SINTANG",
+    "provinsi": "KALIMANTAN BARAT"
+  },
+  {
+    "no": "27",
+    "kodepos": "78693",
+    "desa_kelurahan": "Pelaik",
+    "kecamatan": "Kayan Hilir",
+    "kabupaten_kota": "KAB. SINTANG",
+    "provinsi": "KALIMANTAN BARAT"
+  },
+  {
+    "no": "28",
+    "kodepos": "78693",
+    "desa_kelurahan": "Mentunai",
+    "kecamatan": "Kayan Hilir",
+    "kabupaten_kota": "KAB. SINTANG",
+    "provinsi": "KALIMANTAN BARAT"
+  },
+  {
+    "no": "29",
+    "kodepos": "78693",
+    "desa_kelurahan": "Jaya Sakti",
+    "kecamatan": "Kayan Hilir",
+    "kabupaten_kota": "KAB. SINTANG",
+    "provinsi": "KALIMANTAN BARAT"
+  },
+  {
+    "no": "30",
+    "kodepos": "78693",
+    "desa_kelurahan": "Sungai Pengga",
+    "kecamatan": "Kayan Hilir",
+    "kabupaten_kota": "KAB. SINTANG",
+    "provinsi": "KALIMANTAN BARAT"
+  },
+  {
+    "no": "31",
+    "kodepos": "78693",
+    "desa_kelurahan": "Linggam Permai",
+    "kecamatan": "Kayan Hilir",
+    "kabupaten_kota": "KAB. SINTANG",
+    "provinsi": "KALIMANTAN BARAT"
+  },
+  {
+    "no": "32",
+    "kodepos": "78693",
+    "desa_kelurahan": "Tanjung Keliling",
+    "kecamatan": "Kayan Hilir",
+    "kabupaten_kota": "KAB. SINTANG",
+    "provinsi": "KALIMANTAN BARAT"
+  },
+  {
+    "no": "33",
+    "kodepos": "78693",
+    "desa_kelurahan": "Monbai Begununk",
+    "kecamatan": "Kayan Hilir",
+    "kabupaten_kota": "KAB. SINTANG",
+    "provinsi": "KALIMANTAN BARAT"
+  },
+  {
+    "no": "34",
+    "kodepos": "78693",
+    "desa_kelurahan": "Nanga Mau",
+    "kecamatan": "Kayan Hilir",
+    "kabupaten_kota": "KAB. SINTANG",
+    "provinsi": "KALIMANTAN BARAT"
+  },
+  {
+    "no": "35",
+    "kodepos": "78693",
+    "desa_kelurahan": "Melingkat",
+    "kecamatan": "Kayan Hilir",
+    "kabupaten_kota": "KAB. SINTANG",
+    "provinsi": "KALIMANTAN BARAT"
+  },
+  {
+    "no": "36",
+    "kodepos": "78693",
+    "desa_kelurahan": "Nanga Tikan",
+    "kecamatan": "Kayan Hilir",
+    "kabupaten_kota": "KAB. SINTANG",
+    "provinsi": "KALIMANTAN BARAT"
+  },
+  {
+    "no": "37",
+    "kodepos": "78693",
+    "desa_kelurahan": "Sungai Meraya",
+    "kecamatan": "Kayan Hilir",
+    "kabupaten_kota": "KAB. SINTANG",
+    "provinsi": "KALIMANTAN BARAT"
+  },
+  {
+    "no": "38",
+    "kodepos": "78693",
+    "desa_kelurahan": "Karya Baru",
+    "kecamatan": "Kayan Hilir",
+    "kabupaten_kota": "KAB. SINTANG",
+    "provinsi": "KALIMANTAN BARAT"
+  },
+  {
+    "no": "39",
+    "kodepos": "78693",
+    "desa_kelurahan": "Kerapa Sepan",
+    "kecamatan": "Kayan Hilir",
+    "kabupaten_kota": "KAB. SINTANG",
+    "provinsi": "KALIMANTAN BARAT"
+  },
+  {
+    "no": "40",
+    "kodepos": "78693",
+    "desa_kelurahan": "Landau Beringin",
+    "kecamatan": "Kayan Hilir",
+    "kabupaten_kota": "KAB. SINTANG",
+    "provinsi": "KALIMANTAN BARAT"
+  },
+  {
+    "no": "41",
+    "kodepos": "78693",
+    "desa_kelurahan": "Nyangkom",
+    "kecamatan": "Kayan Hilir",
+    "kabupaten_kota": "KAB. SINTANG",
+    "provinsi": "KALIMANTAN BARAT"
+  },
+  {
+    "no": "42",
+    "kodepos": "78693",
+    "desa_kelurahan": "Jambu",
+    "kecamatan": "Kayan Hilir",
+    "kabupaten_kota": "KAB. SINTANG",
+    "provinsi": "KALIMANTAN BARAT"
+  },
+  {
+    "no": "43",
+    "kodepos": "78693",
+    "desa_kelurahan": "Tertung Mau",
+    "kecamatan": "Kayan Hilir",
+    "kabupaten_kota": "KAB. SINTANG",
+    "provinsi": "KALIMANTAN BARAT"
+  },
+  {
+    "no": "44",
+    "kodepos": "78693",
+    "desa_kelurahan": "Natai Tebedak",
+    "kecamatan": "Kayan Hilir",
+    "kabupaten_kota": "KAB. SINTANG",
+    "provinsi": "KALIMANTAN BARAT"
+  },
+  {
+    "no": "45",
+    "kodepos": "78693",
+    "desa_kelurahan": "Mengkirai",
+    "kecamatan": "Kayan Hilir",
+    "kabupaten_kota": "KAB. SINTANG",
+    "provinsi": "KALIMANTAN BARAT"
+  },
+  {
+    "no": "46",
+    "kodepos": "78693",
+    "desa_kelurahan": "Kempas Raya",
+    "kecamatan": "Kayan Hilir",
+    "kabupaten_kota": "KAB. SINTANG",
+    "provinsi": "KALIMANTAN BARAT"
+  },
+  {
+    "no": "47",
+    "kodepos": "78693",
+    "desa_kelurahan": "Ipoh Emang",
+    "kecamatan": "Kayan Hilir",
+    "kabupaten_kota": "KAB. SINTANG",
+    "provinsi": "KALIMANTAN BARAT"
+  },
+  {
+    "no": "48",
+    "kodepos": "78693",
+    "desa_kelurahan": "Sungai Garong",
+    "kecamatan": "Kayan Hilir",
+    "kabupaten_kota": "KAB. SINTANG",
+    "provinsi": "KALIMANTAN BARAT"
+  },
+  {
+    "no": "10",
+    "kodepos": "82163",
+    "desa_kelurahan": "Pujungan",
+    "kecamatan": "Pupuan",
+    "kabupaten_kota": "KAB. TABANAN",
+    "provinsi": "BALI"
   }
 ]

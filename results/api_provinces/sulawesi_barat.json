@@ -5126,5 +5126,53 @@
     "kecamatan": "Topoyo",
     "kabupaten_kota": "KAB. MAMUJU TENGAH",
     "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "18",
+    "kodepos": "92261",
+    "desa_kelurahan": "Banggae",
+    "kecamatan": "Mangarabombang",
+    "kabupaten_kota": "KAB. TAKALAR",
+    "provinsi": "SULAWESI SELATAN"
+  },
+  {
+    "no": "32",
+    "kodepos": "91925",
+    "desa_kelurahan": "Mawa",
+    "kecamatan": "Sendana",
+    "kabupaten_kota": "KOTA PALOPO",
+    "provinsi": "SULAWESI SELATAN"
+  },
+  {
+    "no": "33",
+    "kodepos": "91925",
+    "desa_kelurahan": "Purangi",
+    "kecamatan": "Sendana",
+    "kabupaten_kota": "KOTA PALOPO",
+    "provinsi": "SULAWESI SELATAN"
+  },
+  {
+    "no": "34",
+    "kodepos": "91925",
+    "desa_kelurahan": "Sendana",
+    "kecamatan": "Sendana",
+    "kabupaten_kota": "KOTA PALOPO",
+    "provinsi": "SULAWESI SELATAN"
+  },
+  {
+    "no": "35",
+    "kodepos": "91925",
+    "desa_kelurahan": "Peta",
+    "kecamatan": "Sendana",
+    "kabupaten_kota": "KOTA PALOPO",
+    "provinsi": "SULAWESI SELATAN"
+  },
+  {
+    "no": "36",
+    "kodepos": "94462",
+    "desa_kelurahan": "Sendana",
+    "kecamatan": "Kasimbar",
+    "kabupaten_kota": "KAB. PARIGI MOUTONG",
+    "provinsi": "SULAWESI TENGAH"
   }
 ]

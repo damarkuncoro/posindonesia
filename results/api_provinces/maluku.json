@@ -4014,5 +4014,725 @@
     "kecamatan": "Morotai Timur",
     "kabupaten_kota": "KAB. PULAU MOROTAI",
     "provinsi": "MALUKU UTARA"
+  },
+  {
+    "no": "1",
+    "kodepos": "97465",
+    "desa_kelurahan": "Ilngei",
+    "kecamatan": "Tanimbar Selatan",
+    "kabupaten_kota": "KAB. KEPULAUAN TANIMBAR",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "2",
+    "kodepos": "97465",
+    "desa_kelurahan": "Sifnana",
+    "kecamatan": "Tanimbar Selatan",
+    "kabupaten_kota": "KAB. KEPULAUAN TANIMBAR",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "3",
+    "kodepos": "97465",
+    "desa_kelurahan": "Matakus",
+    "kecamatan": "Tanimbar Selatan",
+    "kabupaten_kota": "KAB. KEPULAUAN TANIMBAR",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "4",
+    "kodepos": "97465",
+    "desa_kelurahan": "Olilit Raya",
+    "kecamatan": "Tanimbar Selatan",
+    "kabupaten_kota": "KAB. KEPULAUAN TANIMBAR",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "5",
+    "kodepos": "97465",
+    "desa_kelurahan": "Bomaki",
+    "kecamatan": "Tanimbar Selatan",
+    "kabupaten_kota": "KAB. KEPULAUAN TANIMBAR",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "6",
+    "kodepos": "97465",
+    "desa_kelurahan": "Wowonda",
+    "kecamatan": "Tanimbar Selatan",
+    "kabupaten_kota": "KAB. KEPULAUAN TANIMBAR",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "7",
+    "kodepos": "97465",
+    "desa_kelurahan": "Latdalam",
+    "kecamatan": "Tanimbar Selatan",
+    "kabupaten_kota": "KAB. KEPULAUAN TANIMBAR",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "8",
+    "kodepos": "97465",
+    "desa_kelurahan": "Lermatang",
+    "kecamatan": "Tanimbar Selatan",
+    "kabupaten_kota": "KAB. KEPULAUAN TANIMBAR",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "9",
+    "kodepos": "97465",
+    "desa_kelurahan": "Saumlaki Utara",
+    "kecamatan": "Tanimbar Selatan",
+    "kabupaten_kota": "KAB. KEPULAUAN TANIMBAR",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "10",
+    "kodepos": "97465",
+    "desa_kelurahan": "Kabiarat",
+    "kecamatan": "Tanimbar Selatan",
+    "kabupaten_kota": "KAB. KEPULAUAN TANIMBAR",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "11",
+    "kodepos": "97465",
+    "desa_kelurahan": "Lauran",
+    "kecamatan": "Tanimbar Selatan",
+    "kabupaten_kota": "KAB. KEPULAUAN TANIMBAR",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "12",
+    "kodepos": "97465",
+    "desa_kelurahan": "Saumlaki",
+    "kecamatan": "Tanimbar Selatan",
+    "kabupaten_kota": "KAB. KEPULAUAN TANIMBAR",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "1",
+    "kodepos": "97466",
+    "desa_kelurahan": "Atubul Dol",
+    "kecamatan": "Wer Tamrian",
+    "kabupaten_kota": "KAB. KEPULAUAN TANIMBAR",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "2",
+    "kodepos": "97466",
+    "desa_kelurahan": "Lorulun",
+    "kecamatan": "Wer Tamrian",
+    "kabupaten_kota": "KAB. KEPULAUAN TANIMBAR",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "3",
+    "kodepos": "97466",
+    "desa_kelurahan": "Atubul Da",
+    "kecamatan": "Wer Tamrian",
+    "kabupaten_kota": "KAB. KEPULAUAN TANIMBAR",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "4",
+    "kodepos": "97466",
+    "desa_kelurahan": "Arui Bab",
+    "kecamatan": "Wer Tamrian",
+    "kabupaten_kota": "KAB. KEPULAUAN TANIMBAR",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "5",
+    "kodepos": "97466",
+    "desa_kelurahan": "Amdasa",
+    "kecamatan": "Wer Tamrian",
+    "kabupaten_kota": "KAB. KEPULAUAN TANIMBAR",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "6",
+    "kodepos": "97466",
+    "desa_kelurahan": "Arui Das",
+    "kecamatan": "Wer Tamrian",
+    "kabupaten_kota": "KAB. KEPULAUAN TANIMBAR",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "7",
+    "kodepos": "97466",
+    "desa_kelurahan": "Tumbur",
+    "kecamatan": "Wer Tamrian",
+    "kabupaten_kota": "KAB. KEPULAUAN TANIMBAR",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "8",
+    "kodepos": "97466",
+    "desa_kelurahan": "Sangliat Dol",
+    "kecamatan": "Wer Tamrian",
+    "kabupaten_kota": "KAB. KEPULAUAN TANIMBAR",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "9",
+    "kodepos": "97466",
+    "desa_kelurahan": "Sangliat Krawain",
+    "kecamatan": "Wer Tamrian",
+    "kabupaten_kota": "KAB. KEPULAUAN TANIMBAR",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "1",
+    "kodepos": "97471",
+    "desa_kelurahan": "Kamatubun",
+    "kecamatan": "Wer Maktian",
+    "kabupaten_kota": "KAB. KEPULAUAN TANIMBAR",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "2",
+    "kodepos": "97471",
+    "desa_kelurahan": "Welutu",
+    "kecamatan": "Wer Maktian",
+    "kabupaten_kota": "KAB. KEPULAUAN TANIMBAR",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "3",
+    "kodepos": "97471",
+    "desa_kelurahan": "Weratan",
+    "kecamatan": "Wer Maktian",
+    "kabupaten_kota": "KAB. KEPULAUAN TANIMBAR",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "4",
+    "kodepos": "97471",
+    "desa_kelurahan": "Themin",
+    "kecamatan": "Wer Maktian",
+    "kabupaten_kota": "KAB. KEPULAUAN TANIMBAR",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "5",
+    "kodepos": "97471",
+    "desa_kelurahan": "Batu Putih",
+    "kecamatan": "Wer Maktian",
+    "kabupaten_kota": "KAB. KEPULAUAN TANIMBAR",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "6",
+    "kodepos": "97471",
+    "desa_kelurahan": "Wermatang",
+    "kecamatan": "Wer Maktian",
+    "kabupaten_kota": "KAB. KEPULAUAN TANIMBAR",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "7",
+    "kodepos": "97471",
+    "desa_kelurahan": "Makatian",
+    "kecamatan": "Wer Maktian",
+    "kabupaten_kota": "KAB. KEPULAUAN TANIMBAR",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "8",
+    "kodepos": "97471",
+    "desa_kelurahan": "Marantutul",
+    "kecamatan": "Wer Maktian",
+    "kabupaten_kota": "KAB. KEPULAUAN TANIMBAR",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "9",
+    "kodepos": "97471",
+    "desa_kelurahan": "Rumahsalut",
+    "kecamatan": "Wer Maktian",
+    "kabupaten_kota": "KAB. KEPULAUAN TANIMBAR",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "1",
+    "kodepos": "72151",
+    "desa_kelurahan": "Selaru",
+    "kecamatan": "Pulau Laut Tengah",
+    "kabupaten_kota": "KAB. KOTABARU",
+    "provinsi": "KALIMANTAN SELATAN"
+  },
+  {
+    "no": "2",
+    "kodepos": "97464",
+    "desa_kelurahan": "Namtabung",
+    "kecamatan": "Selaru",
+    "kabupaten_kota": "KAB. KEPULAUAN TANIMBAR",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "3",
+    "kodepos": "97464",
+    "desa_kelurahan": "Kandar",
+    "kecamatan": "Selaru",
+    "kabupaten_kota": "KAB. KEPULAUAN TANIMBAR",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "4",
+    "kodepos": "97464",
+    "desa_kelurahan": "Lingat",
+    "kecamatan": "Selaru",
+    "kabupaten_kota": "KAB. KEPULAUAN TANIMBAR",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "5",
+    "kodepos": "97464",
+    "desa_kelurahan": "Eliasa",
+    "kecamatan": "Selaru",
+    "kabupaten_kota": "KAB. KEPULAUAN TANIMBAR",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "6",
+    "kodepos": "97464",
+    "desa_kelurahan": "Fursuy",
+    "kecamatan": "Selaru",
+    "kabupaten_kota": "KAB. KEPULAUAN TANIMBAR",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "7",
+    "kodepos": "97464",
+    "desa_kelurahan": "Adaut",
+    "kecamatan": "Selaru",
+    "kabupaten_kota": "KAB. KEPULAUAN TANIMBAR",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "8",
+    "kodepos": "97464",
+    "desa_kelurahan": "Werain",
+    "kecamatan": "Selaru",
+    "kabupaten_kota": "KAB. KEPULAUAN TANIMBAR",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "1",
+    "kodepos": "97463",
+    "desa_kelurahan": "Ritabel",
+    "kecamatan": "Tanimbar Utara",
+    "kabupaten_kota": "KAB. KEPULAUAN TANIMBAR",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "2",
+    "kodepos": "97463",
+    "desa_kelurahan": "Kilobar",
+    "kecamatan": "Tanimbar Utara",
+    "kabupaten_kota": "KAB. KEPULAUAN TANIMBAR",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "3",
+    "kodepos": "97463",
+    "desa_kelurahan": "Lamdesar Timur",
+    "kecamatan": "Tanimbar Utara",
+    "kabupaten_kota": "KAB. KEPULAUAN TANIMBAR",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "4",
+    "kodepos": "97463",
+    "desa_kelurahan": "Lelingluan",
+    "kecamatan": "Tanimbar Utara",
+    "kabupaten_kota": "KAB. KEPULAUAN TANIMBAR",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "5",
+    "kodepos": "97463",
+    "desa_kelurahan": "Watidal",
+    "kecamatan": "Tanimbar Utara",
+    "kabupaten_kota": "KAB. KEPULAUAN TANIMBAR",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "6",
+    "kodepos": "97463",
+    "desa_kelurahan": "Lamdesar Barat",
+    "kecamatan": "Tanimbar Utara",
+    "kabupaten_kota": "KAB. KEPULAUAN TANIMBAR",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "7",
+    "kodepos": "97463",
+    "desa_kelurahan": "Kelaan",
+    "kecamatan": "Tanimbar Utara",
+    "kabupaten_kota": "KAB. KEPULAUAN TANIMBAR",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "8",
+    "kodepos": "97463",
+    "desa_kelurahan": "Ridool",
+    "kecamatan": "Tanimbar Utara",
+    "kabupaten_kota": "KAB. KEPULAUAN TANIMBAR",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "1",
+    "kodepos": "24252",
+    "desa_kelurahan": "Juli Payaru",
+    "kecamatan": "Juli",
+    "kabupaten_kota": "KAB. BIREUEN",
+    "provinsi": "ACEH"
+  },
+  {
+    "no": "2",
+    "kodepos": "73556",
+    "desa_kelurahan": "Tumbang Manyarung",
+    "kecamatan": "Mandau Talawang",
+    "kabupaten_kota": "KAB. KAPUAS",
+    "provinsi": "KALIMANTAN TENGAH"
+  },
+  {
+    "no": "3",
+    "kodepos": "79251",
+    "desa_kelurahan": "Nyarumkop",
+    "kecamatan": "Singkawang Timur",
+    "kabupaten_kota": "KOTA SINGKAWANG",
+    "provinsi": "KALIMANTAN BARAT"
+  },
+  {
+    "no": "4",
+    "kodepos": "97479",
+    "desa_kelurahan": "Sofyanin",
+    "kecamatan": "Yaru",
+    "kabupaten_kota": "KAB. KEPULAUAN TANIMBAR",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "5",
+    "kodepos": "97479",
+    "desa_kelurahan": "Adodo Fordata",
+    "kecamatan": "Yaru",
+    "kabupaten_kota": "KAB. KEPULAUAN TANIMBAR",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "6",
+    "kodepos": "97479",
+    "desa_kelurahan": "Romean",
+    "kecamatan": "Yaru",
+    "kabupaten_kota": "KAB. KEPULAUAN TANIMBAR",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "7",
+    "kodepos": "97479",
+    "desa_kelurahan": "Walerang",
+    "kecamatan": "Yaru",
+    "kabupaten_kota": "KAB. KEPULAUAN TANIMBAR",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "8",
+    "kodepos": "97479",
+    "desa_kelurahan": "Rumngeur",
+    "kecamatan": "Yaru",
+    "kabupaten_kota": "KAB. KEPULAUAN TANIMBAR",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "9",
+    "kodepos": "97479",
+    "desa_kelurahan": "Awear",
+    "kecamatan": "Yaru",
+    "kabupaten_kota": "KAB. KEPULAUAN TANIMBAR",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "10",
+    "kodepos": "98573",
+    "desa_kelurahan": "Yaru",
+    "kecamatan": "Aroba",
+    "kabupaten_kota": "KAB. TELUK BINTUNI",
+    "provinsi": "PAPUA BARAT"
+  },
+  {
+    "no": "11",
+    "kodepos": "98573",
+    "desa_kelurahan": "Yaru",
+    "kecamatan": "Aroba",
+    "kabupaten_kota": "KAB. TELUK BINTUNI",
+    "provinsi": "PAPUA BARAT DAYA"
+  },
+  {
+    "no": "12",
+    "kodepos": "99091",
+    "desa_kelurahan": "Yaruhuk",
+    "kecamatan": "Hilipuk",
+    "kabupaten_kota": "KAB. YAHUKIMO",
+    "provinsi": "PAPUA PEGUNUNGAN"
+  },
+  {
+    "no": "13",
+    "kodepos": "99358",
+    "desa_kelurahan": "Sabro Yaru",
+    "kecamatan": "Sentani Barat",
+    "kabupaten_kota": "KAB. JAYAPURA",
+    "provinsi": "PAPUA"
+  },
+  {
+    "no": "1",
+    "kodepos": "97472",
+    "desa_kelurahan": "Awear Rumngeur",
+    "kecamatan": "Wuar Labobar",
+    "kabupaten_kota": "KAB. KEPULAUAN TANIMBAR",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "2",
+    "kodepos": "97472",
+    "desa_kelurahan": "Abat",
+    "kecamatan": "Wuar Labobar",
+    "kabupaten_kota": "KAB. KEPULAUAN TANIMBAR",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "3",
+    "kodepos": "97472",
+    "desa_kelurahan": "Labobar",
+    "kecamatan": "Wuar Labobar",
+    "kabupaten_kota": "KAB. KEPULAUAN TANIMBAR",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "4",
+    "kodepos": "97472",
+    "desa_kelurahan": "Watmasa",
+    "kecamatan": "Wuar Labobar",
+    "kabupaten_kota": "KAB. KEPULAUAN TANIMBAR",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "5",
+    "kodepos": "97472",
+    "desa_kelurahan": "Teineman",
+    "kecamatan": "Wuar Labobar",
+    "kabupaten_kota": "KAB. KEPULAUAN TANIMBAR",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "6",
+    "kodepos": "97472",
+    "desa_kelurahan": "Karatat",
+    "kecamatan": "Wuar Labobar",
+    "kabupaten_kota": "KAB. KEPULAUAN TANIMBAR",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "7",
+    "kodepos": "97472",
+    "desa_kelurahan": "Lingada",
+    "kecamatan": "Wuar Labobar",
+    "kabupaten_kota": "KAB. KEPULAUAN TANIMBAR",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "8",
+    "kodepos": "97472",
+    "desa_kelurahan": "Kiloon",
+    "kecamatan": "Wuar Labobar",
+    "kabupaten_kota": "KAB. KEPULAUAN TANIMBAR",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "9",
+    "kodepos": "97472",
+    "desa_kelurahan": "Wabar",
+    "kecamatan": "Wuar Labobar",
+    "kabupaten_kota": "KAB. KEPULAUAN TANIMBAR",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "10",
+    "kodepos": "97472",
+    "desa_kelurahan": "Romnus",
+    "kecamatan": "Wuar Labobar",
+    "kabupaten_kota": "KAB. KEPULAUAN TANIMBAR",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "11",
+    "kodepos": "97472",
+    "desa_kelurahan": "Wunlah",
+    "kecamatan": "Wuar Labobar",
+    "kabupaten_kota": "KAB. KEPULAUAN TANIMBAR",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "1",
+    "kodepos": "97468",
+    "desa_kelurahan": "Arma",
+    "kecamatan": "Nirunmas",
+    "kabupaten_kota": "KAB. KEPULAUAN TANIMBAR",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "2",
+    "kodepos": "97468",
+    "desa_kelurahan": "Watmuri",
+    "kecamatan": "Nirunmas",
+    "kabupaten_kota": "KAB. KEPULAUAN TANIMBAR",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "3",
+    "kodepos": "97468",
+    "desa_kelurahan": "Tutukembong",
+    "kecamatan": "Nirunmas",
+    "kabupaten_kota": "KAB. KEPULAUAN TANIMBAR",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "4",
+    "kodepos": "97468",
+    "desa_kelurahan": "Waturu",
+    "kecamatan": "Nirunmas",
+    "kabupaten_kota": "KAB. KEPULAUAN TANIMBAR",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "5",
+    "kodepos": "97468",
+    "desa_kelurahan": "Manglusi",
+    "kecamatan": "Nirunmas",
+    "kabupaten_kota": "KAB. KEPULAUAN TANIMBAR",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "1",
+    "kodepos": "97467",
+    "desa_kelurahan": "Alusi Batjasi",
+    "kecamatan": "Kormomolin",
+    "kabupaten_kota": "KAB. KEPULAUAN TANIMBAR",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "2",
+    "kodepos": "97467",
+    "desa_kelurahan": "Meyano Bab",
+    "kecamatan": "Kormomolin",
+    "kabupaten_kota": "KAB. KEPULAUAN TANIMBAR",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "3",
+    "kodepos": "97467",
+    "desa_kelurahan": "Lumasebu",
+    "kecamatan": "Kormomolin",
+    "kabupaten_kota": "KAB. KEPULAUAN TANIMBAR",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "4",
+    "kodepos": "97467",
+    "desa_kelurahan": "Alusi Kelaan",
+    "kecamatan": "Kormomolin",
+    "kabupaten_kota": "KAB. KEPULAUAN TANIMBAR",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "5",
+    "kodepos": "97467",
+    "desa_kelurahan": "Kilmasa",
+    "kecamatan": "Kormomolin",
+    "kabupaten_kota": "KAB. KEPULAUAN TANIMBAR",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "6",
+    "kodepos": "97467",
+    "desa_kelurahan": "Alusi Krawain",
+    "kecamatan": "Kormomolin",
+    "kabupaten_kota": "KAB. KEPULAUAN TANIMBAR",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "7",
+    "kodepos": "97467",
+    "desa_kelurahan": "Alusi Tamrian",
+    "kecamatan": "Kormomolin",
+    "kabupaten_kota": "KAB. KEPULAUAN TANIMBAR",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "8",
+    "kodepos": "97467",
+    "desa_kelurahan": "Meyano Das",
+    "kecamatan": "Kormomolin",
+    "kabupaten_kota": "KAB. KEPULAUAN TANIMBAR",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "9",
+    "kodepos": "97467",
+    "desa_kelurahan": "Alusi Bukjalim",
+    "kecamatan": "Kormomolin",
+    "kabupaten_kota": "KAB. KEPULAUAN TANIMBAR",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "10",
+    "kodepos": "97467",
+    "desa_kelurahan": "Lorwembun",
+    "kecamatan": "Kormomolin",
+    "kabupaten_kota": "KAB. KEPULAUAN TANIMBAR",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "1",
+    "kodepos": "97473",
+    "desa_kelurahan": "Wulmasa",
+    "kecamatan": "Molu Maru",
+    "kabupaten_kota": "KAB. KEPULAUAN TANIMBAR",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "2",
+    "kodepos": "97473",
+    "desa_kelurahan": "Tutunametal",
+    "kecamatan": "Molu Maru",
+    "kabupaten_kota": "KAB. KEPULAUAN TANIMBAR",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "3",
+    "kodepos": "97473",
+    "desa_kelurahan": "Nurkat",
+    "kecamatan": "Molu Maru",
+    "kabupaten_kota": "KAB. KEPULAUAN TANIMBAR",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "4",
+    "kodepos": "97473",
+    "desa_kelurahan": "Wadankou",
+    "kecamatan": "Molu Maru",
+    "kabupaten_kota": "KAB. KEPULAUAN TANIMBAR",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "5",
+    "kodepos": "97473",
+    "desa_kelurahan": "Adodo Molu",
+    "kecamatan": "Molu Maru",
+    "kabupaten_kota": "KAB. KEPULAUAN TANIMBAR",
+    "provinsi": "MALUKU"
   }
 ]

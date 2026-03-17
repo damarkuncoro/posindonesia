@@ -654,5 +654,2533 @@
     "kecamatan": "Pangkalan Banteng",
     "kabupaten_kota": "KAB. KOTAWARINGIN BARAT",
     "provinsi": "KALIMANTAN TENGAH"
+  },
+  {
+    "no": "1",
+    "kodepos": "10640",
+    "desa_kelurahan": "Sumur Batu",
+    "kecamatan": "Kemayoran",
+    "kabupaten_kota": "KOTA ADM. JAKARTA PUSAT",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "2",
+    "kodepos": "15114",
+    "desa_kelurahan": "Sumur Pacing",
+    "kecamatan": "Karawaci",
+    "kabupaten_kota": "KOTA TANGERANG",
+    "provinsi": "BANTEN"
+  },
+  {
+    "no": "3",
+    "kodepos": "15643",
+    "desa_kelurahan": "Sumur Bandung",
+    "kecamatan": "Jayanti",
+    "kabupaten_kota": "KAB. TANGERANG",
+    "provinsi": "BANTEN"
+  },
+  {
+    "no": "4",
+    "kodepos": "16866",
+    "desa_kelurahan": "Sumurbatu",
+    "kecamatan": "Babakan Madang",
+    "kabupaten_kota": "KAB. BOGOR",
+    "provinsi": "JAWA BARAT"
+  },
+  {
+    "no": "5",
+    "kodepos": "17154",
+    "desa_kelurahan": "Sumurbatu",
+    "kecamatan": "Bantargebang",
+    "kabupaten_kota": "KOTA BEKASI",
+    "provinsi": "JAWA BARAT"
+  },
+  {
+    "no": "6",
+    "kodepos": "22738",
+    "desa_kelurahan": "Sumuran",
+    "kecamatan": "Batang Toru",
+    "kabupaten_kota": "KAB. TAPANULI SELATAN",
+    "provinsi": "SUMATERA UTARA"
+  },
+  {
+    "no": "7",
+    "kodepos": "24663",
+    "desa_kelurahan": "Lawe Sumur",
+    "kecamatan": "Babul Rahmah",
+    "kabupaten_kota": "KAB. ACEH TENGGARA",
+    "provinsi": "ACEH"
+  },
+  {
+    "no": "8",
+    "kodepos": "24672",
+    "desa_kelurahan": "Buah Pala",
+    "kecamatan": "Lawe Sumur",
+    "kabupaten_kota": "KAB. ACEH TENGGARA",
+    "provinsi": "ACEH"
+  },
+  {
+    "no": "9",
+    "kodepos": "24672",
+    "desa_kelurahan": "Kisam Lestari",
+    "kecamatan": "Lawe Sumur",
+    "kabupaten_kota": "KAB. ACEH TENGGARA",
+    "provinsi": "ACEH"
+  },
+  {
+    "no": "10",
+    "kodepos": "24672",
+    "desa_kelurahan": "Setia Baru",
+    "kecamatan": "Lawe Sumur",
+    "kabupaten_kota": "KAB. ACEH TENGGARA",
+    "provinsi": "ACEH"
+  },
+  {
+    "no": "11",
+    "kodepos": "24672",
+    "desa_kelurahan": "Kute Lesung",
+    "kecamatan": "Lawe Sumur",
+    "kabupaten_kota": "KAB. ACEH TENGGARA",
+    "provinsi": "ACEH"
+  },
+  {
+    "no": "12",
+    "kodepos": "24672",
+    "desa_kelurahan": "Lawes Sumur Sepakat",
+    "kecamatan": "Lawe Sumur",
+    "kabupaten_kota": "KAB. ACEH TENGGARA",
+    "provinsi": "ACEH"
+  },
+  {
+    "no": "13",
+    "kodepos": "24672",
+    "desa_kelurahan": "Kisam Kute Rambe",
+    "kecamatan": "Lawe Sumur",
+    "kabupaten_kota": "KAB. ACEH TENGGARA",
+    "provinsi": "ACEH"
+  },
+  {
+    "no": "14",
+    "kodepos": "24672",
+    "desa_kelurahan": "Panosan",
+    "kecamatan": "Lawe Sumur",
+    "kabupaten_kota": "KAB. ACEH TENGGARA",
+    "provinsi": "ACEH"
+  },
+  {
+    "no": "15",
+    "kodepos": "24672",
+    "desa_kelurahan": "Lawe Sumur Baru",
+    "kecamatan": "Lawe Sumur",
+    "kabupaten_kota": "KAB. ACEH TENGGARA",
+    "provinsi": "ACEH"
+  },
+  {
+    "no": "16",
+    "kodepos": "24672",
+    "desa_kelurahan": "Lawe Polak",
+    "kecamatan": "Lawe Sumur",
+    "kabupaten_kota": "KAB. ACEH TENGGARA",
+    "provinsi": "ACEH"
+  },
+  {
+    "no": "17",
+    "kodepos": "24672",
+    "desa_kelurahan": "Kisam Kute Pasir",
+    "kecamatan": "Lawe Sumur",
+    "kabupaten_kota": "KAB. ACEH TENGGARA",
+    "provinsi": "ACEH"
+  },
+  {
+    "no": "18",
+    "kodepos": "24672",
+    "desa_kelurahan": "Terutung Megara Lawe Pasaran",
+    "kecamatan": "Lawe Sumur",
+    "kabupaten_kota": "KAB. ACEH TENGGARA",
+    "provinsi": "ACEH"
+  },
+  {
+    "no": "19",
+    "kodepos": "24672",
+    "desa_kelurahan": "Berandang",
+    "kecamatan": "Lawe Sumur",
+    "kabupaten_kota": "KAB. ACEH TENGGARA",
+    "provinsi": "ACEH"
+  },
+  {
+    "no": "20",
+    "kodepos": "24672",
+    "desa_kelurahan": "Lawe Pasaran Tengku Mbelin",
+    "kecamatan": "Lawe Sumur",
+    "kabupaten_kota": "KAB. ACEH TENGGARA",
+    "provinsi": "ACEH"
+  },
+  {
+    "no": "21",
+    "kodepos": "24672",
+    "desa_kelurahan": "Teger Miko",
+    "kecamatan": "Lawe Sumur",
+    "kabupaten_kota": "KAB. ACEH TENGGARA",
+    "provinsi": "ACEH"
+  },
+  {
+    "no": "22",
+    "kodepos": "24672",
+    "desa_kelurahan": "Kute Bunin",
+    "kecamatan": "Lawe Sumur",
+    "kabupaten_kota": "KAB. ACEH TENGGARA",
+    "provinsi": "ACEH"
+  },
+  {
+    "no": "23",
+    "kodepos": "24672",
+    "desa_kelurahan": "Terutung Megahke MBakhu",
+    "kecamatan": "Lawe Sumur",
+    "kabupaten_kota": "KAB. ACEH TENGGARA",
+    "provinsi": "ACEH"
+  },
+  {
+    "no": "24",
+    "kodepos": "24672",
+    "desa_kelurahan": "Lawe Sumur",
+    "kecamatan": "Lawe Sumur",
+    "kabupaten_kota": "KAB. ACEH TENGGARA",
+    "provinsi": "ACEH"
+  },
+  {
+    "no": "25",
+    "kodepos": "24672",
+    "desa_kelurahan": "Kisam Gabungan",
+    "kecamatan": "Lawe Sumur",
+    "kabupaten_kota": "KAB. ACEH TENGGARA",
+    "provinsi": "ACEH"
+  },
+  {
+    "no": "26",
+    "kodepos": "31494",
+    "desa_kelurahan": "Sumur",
+    "kecamatan": "Pajar Bulan",
+    "kabupaten_kota": "KAB. LAHAT",
+    "provinsi": "SUMATERA SELATAN"
+  },
+  {
+    "no": "27",
+    "kodepos": "34386",
+    "desa_kelurahan": "Sumur Kucing",
+    "kecamatan": "Pasir Sakti",
+    "kabupaten_kota": "KAB. LAMPUNG TIMUR",
+    "provinsi": "LAMPUNG"
+  },
+  {
+    "no": "28",
+    "kodepos": "34396",
+    "desa_kelurahan": "Sumur Bandung",
+    "kecamatan": "Way Jepara",
+    "kabupaten_kota": "KAB. LAMPUNG TIMUR",
+    "provinsi": "LAMPUNG"
+  },
+  {
+    "no": "29",
+    "kodepos": "35214",
+    "desa_kelurahan": "Sumur Batu",
+    "kecamatan": "Telukbetung Utara",
+    "kabupaten_kota": "KOTA BANDAR LAMPUNG",
+    "provinsi": "LAMPUNG"
+  },
+  {
+    "no": "30",
+    "kodepos": "35222",
+    "desa_kelurahan": "Sumur Putri",
+    "kecamatan": "Telukbetung Selatan",
+    "kabupaten_kota": "KOTA BANDAR LAMPUNG",
+    "provinsi": "LAMPUNG"
+  },
+  {
+    "no": "31",
+    "kodepos": "35519",
+    "desa_kelurahan": "Sumur Kumbang",
+    "kecamatan": "Kalianda",
+    "kabupaten_kota": "KAB. LAMPUNG SELATAN",
+    "provinsi": "LAMPUNG"
+  },
+  {
+    "no": "32",
+    "kodepos": "35596",
+    "desa_kelurahan": "Sumur",
+    "kecamatan": "Ketapang",
+    "kabupaten_kota": "KAB. LAMPUNG SELATAN",
+    "provinsi": "LAMPUNG"
+  },
+  {
+    "no": "33",
+    "kodepos": "35685",
+    "desa_kelurahan": "Sumur Tujuh",
+    "kecamatan": "Wonosobo",
+    "kabupaten_kota": "KAB. TANGGAMUS",
+    "provinsi": "LAMPUNG"
+  },
+  {
+    "no": "34",
+    "kodepos": "35985",
+    "desa_kelurahan": "Sumur Jaya",
+    "kecamatan": "Pesisir Selatan",
+    "kabupaten_kota": "KAB. PESISIR BARAT",
+    "provinsi": "LAMPUNG"
+  },
+  {
+    "no": "35",
+    "kodepos": "37111",
+    "desa_kelurahan": "Sumur Anyir",
+    "kecamatan": "Sungai Bungkal",
+    "kabupaten_kota": "KOTA SUNGAI PENUH",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "36",
+    "kodepos": "37152",
+    "desa_kelurahan": "Sumur Gedang",
+    "kecamatan": "Pesisir Bukit",
+    "kabupaten_kota": "KOTA SUNGAI PENUH",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "37",
+    "kodepos": "37173",
+    "desa_kelurahan": "Sumur Jauh",
+    "kecamatan": "Danau Kerinci Barat",
+    "kabupaten_kota": "KAB. KERINCI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "38",
+    "kodepos": "38113",
+    "desa_kelurahan": "Sumur Meleleh",
+    "kecamatan": "Teluk Segara",
+    "kabupaten_kota": "KOTA BENGKULU",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "39",
+    "kodepos": "38218",
+    "desa_kelurahan": "Sumur Dewa",
+    "kecamatan": "Selebar",
+    "kabupaten_kota": "KOTA BENGKULU",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "40",
+    "kodepos": "40111",
+    "desa_kelurahan": "Braga",
+    "kecamatan": "Sumur Bandung",
+    "kabupaten_kota": "KOTA BANDUNG",
+    "provinsi": "JAWA BARAT"
+  },
+  {
+    "no": "41",
+    "kodepos": "40112",
+    "desa_kelurahan": "Kebon Pisang",
+    "kecamatan": "Sumur Bandung",
+    "kabupaten_kota": "KOTA BANDUNG",
+    "provinsi": "JAWA BARAT"
+  },
+  {
+    "no": "42",
+    "kodepos": "40113",
+    "desa_kelurahan": "Merdeka",
+    "kecamatan": "Sumur Bandung",
+    "kabupaten_kota": "KOTA BANDUNG",
+    "provinsi": "JAWA BARAT"
+  },
+  {
+    "no": "43",
+    "kodepos": "40113",
+    "desa_kelurahan": "Babakan Ciamis",
+    "kecamatan": "Sumur Bandung",
+    "kabupaten_kota": "KOTA BANDUNG",
+    "provinsi": "JAWA BARAT"
+  },
+  {
+    "no": "44",
+    "kodepos": "40754",
+    "desa_kelurahan": "Sumurbandung",
+    "kecamatan": "Cipatat",
+    "kabupaten_kota": "KAB. BANDUNG BARAT",
+    "provinsi": "JAWA BARAT"
+  },
+  {
+    "no": "45",
+    "kodepos": "41174",
+    "desa_kelurahan": "Sumurugul",
+    "kecamatan": "Wanayasa",
+    "kabupaten_kota": "KAB. PURWAKARTA",
+    "provinsi": "JAWA BARAT"
+  },
+  {
+    "no": "46",
+    "kodepos": "41274",
+    "desa_kelurahan": "Sumurgintung",
+    "kecamatan": "Pagaden Barat",
+    "kabupaten_kota": "KAB. SUBANG",
+    "provinsi": "JAWA BARAT"
+  },
+  {
+    "no": "47",
+    "kodepos": "41285",
+    "desa_kelurahan": "Sumurbarang",
+    "kecamatan": "Cibogo",
+    "kabupaten_kota": "KAB. SUBANG",
+    "provinsi": "JAWA BARAT"
+  },
+  {
+    "no": "48",
+    "kodepos": "41357",
+    "desa_kelurahan": "Tambaksumur",
+    "kecamatan": "Tirtajaya",
+    "kabupaten_kota": "KAB. KARAWANG",
+    "provinsi": "JAWA BARAT"
+  },
+  {
+    "no": "49",
+    "kodepos": "41357",
+    "desa_kelurahan": "Sumurlaban",
+    "kecamatan": "Tirtajaya",
+    "kabupaten_kota": "KAB. KARAWANG",
+    "provinsi": "JAWA BARAT"
+  },
+  {
+    "no": "50",
+    "kodepos": "41371",
+    "desa_kelurahan": "Sumurkondang",
+    "kecamatan": "Klari",
+    "kabupaten_kota": "KAB. KARAWANG",
+    "provinsi": "JAWA BARAT"
+  },
+  {
+    "no": "51",
+    "kodepos": "41386",
+    "desa_kelurahan": "Sumurgede",
+    "kecamatan": "Cilamaya Kulon",
+    "kabupaten_kota": "KAB. KARAWANG",
+    "provinsi": "JAWA BARAT"
+  },
+  {
+    "no": "52",
+    "kodepos": "42118",
+    "desa_kelurahan": "Sumur Pecung",
+    "kecamatan": "Serang",
+    "kabupaten_kota": "KOTA SERANG",
+    "provinsi": "BANTEN"
+  },
+  {
+    "no": "53",
+    "kodepos": "42155",
+    "desa_kelurahan": "Sumuranja",
+    "kecamatan": "Pulo Ampel",
+    "kabupaten_kota": "KAB. SERANG",
+    "provinsi": "BANTEN"
+  },
+  {
+    "no": "54",
+    "kodepos": "42178",
+    "desa_kelurahan": "Rancasumur",
+    "kecamatan": "Kopo",
+    "kabupaten_kota": "KAB. SERANG",
+    "provinsi": "BANTEN"
+  },
+  {
+    "no": "55",
+    "kodepos": "42277",
+    "desa_kelurahan": "Sumurlaban",
+    "kecamatan": "Angsana",
+    "kabupaten_kota": "KAB. PANDEGLANG",
+    "provinsi": "BANTEN"
+  },
+  {
+    "no": "56",
+    "kodepos": "42283",
+    "desa_kelurahan": "Kertamukti",
+    "kecamatan": "Sumur",
+    "kabupaten_kota": "KAB. PANDEGLANG",
+    "provinsi": "BANTEN"
+  },
+  {
+    "no": "57",
+    "kodepos": "42283",
+    "desa_kelurahan": "Tunggaljaya",
+    "kecamatan": "Sumur",
+    "kabupaten_kota": "KAB. PANDEGLANG",
+    "provinsi": "BANTEN"
+  },
+  {
+    "no": "58",
+    "kodepos": "42283",
+    "desa_kelurahan": "Kertajaya",
+    "kecamatan": "Sumur",
+    "kabupaten_kota": "KAB. PANDEGLANG",
+    "provinsi": "BANTEN"
+  },
+  {
+    "no": "59",
+    "kodepos": "42283",
+    "desa_kelurahan": "Tamanjaya",
+    "kecamatan": "Sumur",
+    "kabupaten_kota": "KAB. PANDEGLANG",
+    "provinsi": "BANTEN"
+  },
+  {
+    "no": "60",
+    "kodepos": "42283",
+    "desa_kelurahan": "Sumberjaya",
+    "kecamatan": "Sumur",
+    "kabupaten_kota": "KAB. PANDEGLANG",
+    "provinsi": "BANTEN"
+  },
+  {
+    "no": "61",
+    "kodepos": "42283",
+    "desa_kelurahan": "Ujungjaya",
+    "kecamatan": "Sumur",
+    "kabupaten_kota": "KAB. PANDEGLANG",
+    "provinsi": "BANTEN"
+  },
+  {
+    "no": "62",
+    "kodepos": "42283",
+    "desa_kelurahan": "Cigorondong",
+    "kecamatan": "Sumur",
+    "kabupaten_kota": "KAB. PANDEGLANG",
+    "provinsi": "BANTEN"
+  },
+  {
+    "no": "63",
+    "kodepos": "42286",
+    "desa_kelurahan": "Sumurbatu",
+    "kecamatan": "Cikeusik",
+    "kabupaten_kota": "KAB. PANDEGLANG",
+    "provinsi": "BANTEN"
+  },
+  {
+    "no": "64",
+    "kodepos": "42356",
+    "desa_kelurahan": "Sumurbandung",
+    "kecamatan": "Cikulur",
+    "kabupaten_kota": "KAB. LEBAK",
+    "provinsi": "BANTEN"
+  },
+  {
+    "no": "65",
+    "kodepos": "45257",
+    "desa_kelurahan": "Sumuradem",
+    "kecamatan": "Sukra",
+    "kabupaten_kota": "KAB. INDRAMAYU",
+    "provinsi": "JAWA BARAT"
+  },
+  {
+    "no": "66",
+    "kodepos": "45257",
+    "desa_kelurahan": "Sumuradem Timur",
+    "kecamatan": "Sukra",
+    "kabupaten_kota": "KAB. INDRAMAYU",
+    "provinsi": "JAWA BARAT"
+  },
+  {
+    "no": "67",
+    "kodepos": "45588",
+    "desa_kelurahan": "Sumurwiru",
+    "kecamatan": "Cibeureum",
+    "kabupaten_kota": "KAB. KUNINGAN",
+    "provinsi": "JAWA BARAT"
+  },
+  {
+    "no": "68",
+    "kodepos": "45695",
+    "desa_kelurahan": "Sumurkondang",
+    "kecamatan": "Karangwareng",
+    "kabupaten_kota": "KAB. CIREBON",
+    "provinsi": "JAWA BARAT"
+  },
+  {
+    "no": "69",
+    "kodepos": "46497",
+    "desa_kelurahan": "Batusumur",
+    "kecamatan": "Manonjaya",
+    "kabupaten_kota": "KAB. TASIKMALAYA",
+    "provinsi": "JAWA BARAT"
+  },
+  {
+    "no": "70",
+    "kodepos": "50226",
+    "desa_kelurahan": "Sumurrejo",
+    "kecamatan": "Gunungpati",
+    "kabupaten_kota": "KOTA SEMARANG",
+    "provinsi": "JAWA TENGAH"
+  },
+  {
+    "no": "71",
+    "kodepos": "50269",
+    "desa_kelurahan": "Sumurboto",
+    "kecamatan": "Banyumanik",
+    "kabupaten_kota": "KOTA SEMARANG",
+    "provinsi": "JAWA TENGAH"
+  },
+  {
+    "no": "72",
+    "kodepos": "51156",
+    "desa_kelurahan": "Sumurjomblangbogo",
+    "kecamatan": "Bojong",
+    "kabupaten_kota": "KAB. PEKALONGAN",
+    "provinsi": "JAWA TENGAH"
+  },
+  {
+    "no": "73",
+    "kodepos": "51272",
+    "desa_kelurahan": "Sumurbanger",
+    "kecamatan": "Tersono",
+    "kabupaten_kota": "KAB. BATANG",
+    "provinsi": "JAWA TENGAH"
+  },
+  {
+    "no": "74",
+    "kodepos": "51371",
+    "desa_kelurahan": "Sumur",
+    "kecamatan": "Brangsong",
+    "kabupaten_kota": "KAB. KENDAL",
+    "provinsi": "JAWA TENGAH"
+  },
+  {
+    "no": "75",
+    "kodepos": "52141",
+    "desa_kelurahan": "Sumurpanggang",
+    "kecamatan": "Margadana",
+    "kabupaten_kota": "KOTA TEGAL",
+    "provinsi": "JAWA TENGAH"
+  },
+  {
+    "no": "76",
+    "kodepos": "52273",
+    "desa_kelurahan": "Kalisumur",
+    "kecamatan": "Bumiayu",
+    "kabupaten_kota": "KAB. BREBES",
+    "provinsi": "JAWA TENGAH"
+  },
+  {
+    "no": "77",
+    "kodepos": "52352",
+    "desa_kelurahan": "Sumurkidang",
+    "kecamatan": "Bantarbolang",
+    "kabupaten_kota": "KAB. PEMALANG",
+    "provinsi": "JAWA TENGAH"
+  },
+  {
+    "no": "78",
+    "kodepos": "53254",
+    "desa_kelurahan": "Cisumur",
+    "kecamatan": "Gandrungmangu",
+    "kabupaten_kota": "KAB. CILACAP",
+    "provinsi": "JAWA TENGAH"
+  },
+  {
+    "no": "79",
+    "kodepos": "56196",
+    "desa_kelurahan": "Sumurarum",
+    "kecamatan": "Grabag",
+    "kabupaten_kota": "KAB. MAGELANG",
+    "provinsi": "JAWA TENGAH"
+  },
+  {
+    "no": "80",
+    "kodepos": "57361",
+    "desa_kelurahan": "Sumur",
+    "kecamatan": "Tamansari",
+    "kabupaten_kota": "KAB. BOYOLALI",
+    "provinsi": "JAWA TENGAH"
+  },
+  {
+    "no": "81",
+    "kodepos": "58153",
+    "desa_kelurahan": "Tegalsumur",
+    "kecamatan": "Brati",
+    "kabupaten_kota": "KAB. GROBOGAN",
+    "provinsi": "JAWA TENGAH"
+  },
+  {
+    "no": "82",
+    "kodepos": "58162",
+    "desa_kelurahan": "Sumurgede",
+    "kecamatan": "Godong",
+    "kabupaten_kota": "KAB. GROBOGAN",
+    "provinsi": "JAWA TENGAH"
+  },
+  {
+    "no": "83",
+    "kodepos": "58261",
+    "desa_kelurahan": "Sumurboto",
+    "kecamatan": "Jepon",
+    "kabupaten_kota": "KAB. BLORA",
+    "provinsi": "JAWA TENGAH"
+  },
+  {
+    "no": "84",
+    "kodepos": "59157",
+    "desa_kelurahan": "Sumur",
+    "kecamatan": "Cluwak",
+    "kabupaten_kota": "KAB. PATI",
+    "provinsi": "JAWA TENGAH"
+  },
+  {
+    "no": "85",
+    "kodepos": "59273",
+    "desa_kelurahan": "Sumurpule",
+    "kecamatan": "Kragan",
+    "kabupaten_kota": "KAB. REMBANG",
+    "provinsi": "JAWA TENGAH"
+  },
+  {
+    "no": "86",
+    "kodepos": "59273",
+    "desa_kelurahan": "Sumurtawang",
+    "kecamatan": "Kragan",
+    "kabupaten_kota": "KAB. REMBANG",
+    "provinsi": "JAWA TENGAH"
+  },
+  {
+    "no": "87",
+    "kodepos": "60215",
+    "desa_kelurahan": "Sumurwelut",
+    "kecamatan": "Lakarsantri",
+    "kabupaten_kota": "KOTA SURABAYA",
+    "provinsi": "JAWA TIMUR"
+  },
+  {
+    "no": "88",
+    "kodepos": "61156",
+    "desa_kelurahan": "Sumurber",
+    "kecamatan": "Panceng",
+    "kabupaten_kota": "KAB. GRESIK",
+    "provinsi": "JAWA TIMUR"
+  },
+  {
+    "no": "89",
+    "kodepos": "61256",
+    "desa_kelurahan": "Tambaksumur",
+    "kecamatan": "Waru",
+    "kabupaten_kota": "KAB. SIDOARJO",
+    "provinsi": "JAWA TIMUR"
+  },
+  {
+    "no": "90",
+    "kodepos": "61275",
+    "desa_kelurahan": "Kedungsumur",
+    "kecamatan": "Krembung",
+    "kabupaten_kota": "KAB. SIDOARJO",
+    "provinsi": "JAWA TIMUR"
+  },
+  {
+    "no": "91",
+    "kodepos": "62191",
+    "desa_kelurahan": "Sumuragung",
+    "kecamatan": "Sumberejo",
+    "kabupaten_kota": "KAB. BOJONEGORO",
+    "provinsi": "JAWA TIMUR"
+  },
+  {
+    "no": "92",
+    "kodepos": "62192",
+    "desa_kelurahan": "Sumuragung",
+    "kecamatan": "Baureno",
+    "kabupaten_kota": "KAB. BOJONEGORO",
+    "provinsi": "JAWA TIMUR"
+  },
+  {
+    "no": "93",
+    "kodepos": "62264",
+    "desa_kelurahan": "Sumurgayam",
+    "kecamatan": "Paciran",
+    "kabupaten_kota": "KAB. LAMONGAN",
+    "provinsi": "JAWA TIMUR"
+  },
+  {
+    "no": "94",
+    "kodepos": "62271",
+    "desa_kelurahan": "Sumurgenuk",
+    "kecamatan": "Babat",
+    "kabupaten_kota": "KAB. LAMONGAN",
+    "provinsi": "JAWA TIMUR"
+  },
+  {
+    "no": "95",
+    "kodepos": "62319",
+    "desa_kelurahan": "Sumurgung",
+    "kecamatan": "Tuban",
+    "kabupaten_kota": "KAB. TUBAN",
+    "provinsi": "JAWA TIMUR"
+  },
+  {
+    "no": "96",
+    "kodepos": "62352",
+    "desa_kelurahan": "Sumurgeneng",
+    "kecamatan": "Jenu",
+    "kabupaten_kota": "KAB. TUBAN",
+    "provinsi": "JAWA TIMUR"
+  },
+  {
+    "no": "97",
+    "kodepos": "62357",
+    "desa_kelurahan": "Sumurgung",
+    "kecamatan": "Montong",
+    "kabupaten_kota": "KAB. TUBAN",
+    "provinsi": "JAWA TIMUR"
+  },
+  {
+    "no": "98",
+    "kodepos": "62372",
+    "desa_kelurahan": "Sumurcinde",
+    "kecamatan": "Soko",
+    "kabupaten_kota": "KAB. TUBAN",
+    "provinsi": "JAWA TIMUR"
+  },
+  {
+    "no": "99",
+    "kodepos": "62382",
+    "desa_kelurahan": "Sumurjalak",
+    "kecamatan": "Plumpang",
+    "kabupaten_kota": "KAB. TUBAN",
+    "provinsi": "JAWA TIMUR"
+  },
+  {
+    "no": "100",
+    "kodepos": "62391",
+    "desa_kelurahan": "Sumurgung",
+    "kecamatan": "Palang",
+    "kabupaten_kota": "KAB. TUBAN",
+    "provinsi": "JAWA TIMUR"
+  },
+  {
+    "no": "101",
+    "kodepos": "63396",
+    "desa_kelurahan": "Sumursongo",
+    "kecamatan": "Karas",
+    "kabupaten_kota": "KAB. MAGETAN",
+    "provinsi": "JAWA TIMUR"
+  },
+  {
+    "no": "102",
+    "kodepos": "66351",
+    "desa_kelurahan": "Sumurup",
+    "kecamatan": "Bendungan",
+    "kabupaten_kota": "KAB. TRENGGALEK",
+    "provinsi": "JAWA TIMUR"
+  },
+  {
+    "no": "103",
+    "kodepos": "67251",
+    "desa_kelurahan": "Sumurmati",
+    "kecamatan": "Sumberasih",
+    "kabupaten_kota": "KAB. PROBOLINGGO",
+    "provinsi": "JAWA TIMUR"
+  },
+  {
+    "no": "104",
+    "kodepos": "67282",
+    "desa_kelurahan": "Alassumur Kulon",
+    "kecamatan": "Kraksaan",
+    "kabupaten_kota": "KAB. PROBOLINGGO",
+    "provinsi": "JAWA TIMUR"
+  },
+  {
+    "no": "105",
+    "kodepos": "67283",
+    "desa_kelurahan": "Sumurdalam",
+    "kecamatan": "Besuk",
+    "kabupaten_kota": "KAB. PROBOLINGGO",
+    "provinsi": "JAWA TIMUR"
+  },
+  {
+    "no": "106",
+    "kodepos": "67283",
+    "desa_kelurahan": "Alassumurlor",
+    "kecamatan": "Besuk",
+    "kabupaten_kota": "KAB. PROBOLINGGO",
+    "provinsi": "JAWA TIMUR"
+  },
+  {
+    "no": "107",
+    "kodepos": "67292",
+    "desa_kelurahan": "Kedungsumur",
+    "kecamatan": "Pakuniran",
+    "kabupaten_kota": "KAB. PROBOLINGGO",
+    "provinsi": "JAWA TIMUR"
+  },
+  {
+    "no": "108",
+    "kodepos": "68271",
+    "desa_kelurahan": "Alas Sumur",
+    "kecamatan": "Pujer",
+    "kabupaten_kota": "KAB. BONDOWOSO",
+    "provinsi": "JAWA TIMUR"
+  },
+  {
+    "no": "109",
+    "kodepos": "69491",
+    "desa_kelurahan": "Sawah Sumur",
+    "kecamatan": "Arjasa",
+    "kabupaten_kota": "KAB. SUMENEP",
+    "provinsi": "JAWA TIMUR"
+  },
+  {
+    "no": "110",
+    "kodepos": "71371",
+    "desa_kelurahan": "Aluan Sumur",
+    "kecamatan": "Batu Benawa",
+    "kabupaten_kota": "KAB. HULU SUNGAI TENGAH",
+    "provinsi": "KALIMANTAN SELATAN"
+  },
+  {
+    "no": "111",
+    "kodepos": "73619",
+    "desa_kelurahan": "Sumur",
+    "kecamatan": "Dusun Timur",
+    "kabupaten_kota": "KAB. BARITO TIMUR",
+    "provinsi": "KALIMANTAN TENGAH"
+  },
+  {
+    "no": "112",
+    "kodepos": "74552",
+    "desa_kelurahan": "Sumur Mas",
+    "kecamatan": "Tewah",
+    "kabupaten_kota": "KAB. GUNUNG MAS",
+    "provinsi": "KALIMANTAN TENGAH"
+  },
+  {
+    "no": "113",
+    "kodepos": "98572",
+    "desa_kelurahan": "Tanah Merah",
+    "kecamatan": "Sumuri",
+    "kabupaten_kota": "KAB. TELUK BINTUNI",
+    "provinsi": "PAPUA BARAT"
+  },
+  {
+    "no": "114",
+    "kodepos": "98572",
+    "desa_kelurahan": "Tanah Merah",
+    "kecamatan": "Sumuri",
+    "kabupaten_kota": "KAB. TELUK BINTUNI",
+    "provinsi": "PAPUA BARAT DAYA"
+  },
+  {
+    "no": "115",
+    "kodepos": "98572",
+    "desa_kelurahan": "Forada",
+    "kecamatan": "Sumuri",
+    "kabupaten_kota": "KAB. TELUK BINTUNI",
+    "provinsi": "PAPUA BARAT"
+  },
+  {
+    "no": "116",
+    "kodepos": "98572",
+    "desa_kelurahan": "Forada",
+    "kecamatan": "Sumuri",
+    "kabupaten_kota": "KAB. TELUK BINTUNI",
+    "provinsi": "PAPUA BARAT DAYA"
+  },
+  {
+    "no": "117",
+    "kodepos": "98572",
+    "desa_kelurahan": "Tofoi",
+    "kecamatan": "Sumuri",
+    "kabupaten_kota": "KAB. TELUK BINTUNI",
+    "provinsi": "PAPUA BARAT"
+  },
+  {
+    "no": "118",
+    "kodepos": "98572",
+    "desa_kelurahan": "Tofoi",
+    "kecamatan": "Sumuri",
+    "kabupaten_kota": "KAB. TELUK BINTUNI",
+    "provinsi": "PAPUA BARAT DAYA"
+  },
+  {
+    "no": "119",
+    "kodepos": "98572",
+    "desa_kelurahan": "Saengga",
+    "kecamatan": "Sumuri",
+    "kabupaten_kota": "KAB. TELUK BINTUNI",
+    "provinsi": "PAPUA BARAT"
+  },
+  {
+    "no": "120",
+    "kodepos": "98572",
+    "desa_kelurahan": "Saengga",
+    "kecamatan": "Sumuri",
+    "kabupaten_kota": "KAB. TELUK BINTUNI",
+    "provinsi": "PAPUA BARAT DAYA"
+  },
+  {
+    "no": "121",
+    "kodepos": "98572",
+    "desa_kelurahan": "Materabu Jaya",
+    "kecamatan": "Sumuri",
+    "kabupaten_kota": "KAB. TELUK BINTUNI",
+    "provinsi": "PAPUA BARAT"
+  },
+  {
+    "no": "122",
+    "kodepos": "98572",
+    "desa_kelurahan": "Materabu Jaya",
+    "kecamatan": "Sumuri",
+    "kabupaten_kota": "KAB. TELUK BINTUNI",
+    "provinsi": "PAPUA BARAT DAYA"
+  },
+  {
+    "no": "123",
+    "kodepos": "99082",
+    "desa_kelurahan": "Wasumurji",
+    "kecamatan": "Langda",
+    "kabupaten_kota": "KAB. YAHUKIMO",
+    "provinsi": "PAPUA PEGUNUNGAN"
+  },
+  {
+    "no": "124",
+    "kodepos": "99878",
+    "desa_kelurahan": "Sumuraman",
+    "kecamatan": "Minyamur",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "1",
+    "kodepos": "16631",
+    "desa_kelurahan": "Cimanggu I",
+    "kecamatan": "Cibungbulang",
+    "kabupaten_kota": "KAB. BOGOR",
+    "provinsi": "JAWA BARAT"
+  },
+  {
+    "no": "2",
+    "kodepos": "16631",
+    "desa_kelurahan": "Cimanggu II",
+    "kecamatan": "Cibungbulang",
+    "kabupaten_kota": "KAB. BOGOR",
+    "provinsi": "JAWA BARAT"
+  },
+  {
+    "no": "3",
+    "kodepos": "40724",
+    "desa_kelurahan": "Cimanggu",
+    "kecamatan": "Ngamprah",
+    "kabupaten_kota": "KAB. BANDUNG BARAT",
+    "provinsi": "JAWA BARAT"
+  },
+  {
+    "no": "4",
+    "kodepos": "41283",
+    "desa_kelurahan": "Cimanggu",
+    "kecamatan": "Cisalak",
+    "kabupaten_kota": "KAB. SUBANG",
+    "provinsi": "JAWA BARAT"
+  },
+  {
+    "no": "5",
+    "kodepos": "42284",
+    "desa_kelurahan": "Cimanggu",
+    "kecamatan": "Cimanggu",
+    "kabupaten_kota": "KAB. PANDEGLANG",
+    "provinsi": "BANTEN"
+  },
+  {
+    "no": "6",
+    "kodepos": "42284",
+    "desa_kelurahan": "Padasuka",
+    "kecamatan": "Cimanggu",
+    "kabupaten_kota": "KAB. PANDEGLANG",
+    "provinsi": "BANTEN"
+  },
+  {
+    "no": "7",
+    "kodepos": "42284",
+    "desa_kelurahan": "Waringin Kurung",
+    "kecamatan": "Cimanggu",
+    "kabupaten_kota": "KAB. PANDEGLANG",
+    "provinsi": "BANTEN"
+  },
+  {
+    "no": "8",
+    "kodepos": "42284",
+    "desa_kelurahan": "Tangkil Sari",
+    "kecamatan": "Cimanggu",
+    "kabupaten_kota": "KAB. PANDEGLANG",
+    "provinsi": "BANTEN"
+  },
+  {
+    "no": "9",
+    "kodepos": "42284",
+    "desa_kelurahan": "Kramatjaya",
+    "kecamatan": "Cimanggu",
+    "kabupaten_kota": "KAB. PANDEGLANG",
+    "provinsi": "BANTEN"
+  },
+  {
+    "no": "10",
+    "kodepos": "42284",
+    "desa_kelurahan": "Tugu",
+    "kecamatan": "Cimanggu",
+    "kabupaten_kota": "KAB. PANDEGLANG",
+    "provinsi": "BANTEN"
+  },
+  {
+    "no": "11",
+    "kodepos": "42284",
+    "desa_kelurahan": "Rancapinang",
+    "kecamatan": "Cimanggu",
+    "kabupaten_kota": "KAB. PANDEGLANG",
+    "provinsi": "BANTEN"
+  },
+  {
+    "no": "12",
+    "kodepos": "42284",
+    "desa_kelurahan": "Cijaralang",
+    "kecamatan": "Cimanggu",
+    "kabupaten_kota": "KAB. PANDEGLANG",
+    "provinsi": "BANTEN"
+  },
+  {
+    "no": "13",
+    "kodepos": "42284",
+    "desa_kelurahan": "Ciburial",
+    "kecamatan": "Cimanggu",
+    "kabupaten_kota": "KAB. PANDEGLANG",
+    "provinsi": "BANTEN"
+  },
+  {
+    "no": "14",
+    "kodepos": "42284",
+    "desa_kelurahan": "Cibadak",
+    "kecamatan": "Cimanggu",
+    "kabupaten_kota": "KAB. PANDEGLANG",
+    "provinsi": "BANTEN"
+  },
+  {
+    "no": "15",
+    "kodepos": "42284",
+    "desa_kelurahan": "Batuhideung",
+    "kecamatan": "Cimanggu",
+    "kabupaten_kota": "KAB. PANDEGLANG",
+    "provinsi": "BANTEN"
+  },
+  {
+    "no": "16",
+    "kodepos": "42284",
+    "desa_kelurahan": "Mangkualam",
+    "kecamatan": "Cimanggu",
+    "kabupaten_kota": "KAB. PANDEGLANG",
+    "provinsi": "BANTEN"
+  },
+  {
+    "no": "17",
+    "kodepos": "43262",
+    "desa_kelurahan": "Cimanggu",
+    "kecamatan": "Cibeber",
+    "kabupaten_kota": "KAB. CIANJUR",
+    "provinsi": "JAWA BARAT"
+  },
+  {
+    "no": "18",
+    "kodepos": "43314",
+    "desa_kelurahan": "Cimanggu",
+    "kecamatan": "Palabuhanratu",
+    "kabupaten_kota": "KAB. SUKABUMI",
+    "provinsi": "JAWA BARAT"
+  },
+  {
+    "no": "19",
+    "kodepos": "43347",
+    "desa_kelurahan": "Cimanggu",
+    "kecamatan": "Cikembar",
+    "kabupaten_kota": "KAB. SUKABUMI",
+    "provinsi": "JAWA BARAT"
+  },
+  {
+    "no": "20",
+    "kodepos": "43388",
+    "desa_kelurahan": "Karangmekar",
+    "kecamatan": "Cimanggu",
+    "kabupaten_kota": "KAB. SUKABUMI",
+    "provinsi": "JAWA BARAT"
+  },
+  {
+    "no": "21",
+    "kodepos": "43388",
+    "desa_kelurahan": "Sukajadi",
+    "kecamatan": "Cimanggu",
+    "kabupaten_kota": "KAB. SUKABUMI",
+    "provinsi": "JAWA BARAT"
+  },
+  {
+    "no": "22",
+    "kodepos": "43388",
+    "desa_kelurahan": "Sukamanah",
+    "kecamatan": "Cimanggu",
+    "kabupaten_kota": "KAB. SUKABUMI",
+    "provinsi": "JAWA BARAT"
+  },
+  {
+    "no": "23",
+    "kodepos": "43388",
+    "desa_kelurahan": "Cimanggu",
+    "kecamatan": "Cimanggu",
+    "kabupaten_kota": "KAB. SUKABUMI",
+    "provinsi": "JAWA BARAT"
+  },
+  {
+    "no": "24",
+    "kodepos": "43388",
+    "desa_kelurahan": "Sukamaju",
+    "kecamatan": "Cimanggu",
+    "kabupaten_kota": "KAB. SUKABUMI",
+    "provinsi": "JAWA BARAT"
+  },
+  {
+    "no": "25",
+    "kodepos": "43388",
+    "desa_kelurahan": "Boregahindah",
+    "kecamatan": "Cimanggu",
+    "kabupaten_kota": "KAB. SUKABUMI",
+    "provinsi": "JAWA BARAT"
+  },
+  {
+    "no": "26",
+    "kodepos": "45364",
+    "desa_kelurahan": "Pasirnanjung",
+    "kecamatan": "Cimanggung",
+    "kabupaten_kota": "KAB. SUMEDANG",
+    "provinsi": "JAWA BARAT"
+  },
+  {
+    "no": "27",
+    "kodepos": "45364",
+    "desa_kelurahan": "Cimanggung",
+    "kecamatan": "Cimanggung",
+    "kabupaten_kota": "KAB. SUMEDANG",
+    "provinsi": "JAWA BARAT"
+  },
+  {
+    "no": "28",
+    "kodepos": "45364",
+    "desa_kelurahan": "Sukadana",
+    "kecamatan": "Cimanggung",
+    "kabupaten_kota": "KAB. SUMEDANG",
+    "provinsi": "JAWA BARAT"
+  },
+  {
+    "no": "29",
+    "kodepos": "45364",
+    "desa_kelurahan": "Sawahdadap",
+    "kecamatan": "Cimanggung",
+    "kabupaten_kota": "KAB. SUMEDANG",
+    "provinsi": "JAWA BARAT"
+  },
+  {
+    "no": "30",
+    "kodepos": "45364",
+    "desa_kelurahan": "Sindanggalih",
+    "kecamatan": "Cimanggung",
+    "kabupaten_kota": "KAB. SUMEDANG",
+    "provinsi": "JAWA BARAT"
+  },
+  {
+    "no": "31",
+    "kodepos": "45364",
+    "desa_kelurahan": "Sindangpakuon",
+    "kecamatan": "Cimanggung",
+    "kabupaten_kota": "KAB. SUMEDANG",
+    "provinsi": "JAWA BARAT"
+  },
+  {
+    "no": "32",
+    "kodepos": "45364",
+    "desa_kelurahan": "Mangunarga",
+    "kecamatan": "Cimanggung",
+    "kabupaten_kota": "KAB. SUMEDANG",
+    "provinsi": "JAWA BARAT"
+  },
+  {
+    "no": "33",
+    "kodepos": "45364",
+    "desa_kelurahan": "Cihanjuang",
+    "kecamatan": "Cimanggung",
+    "kabupaten_kota": "KAB. SUMEDANG",
+    "provinsi": "JAWA BARAT"
+  },
+  {
+    "no": "34",
+    "kodepos": "45364",
+    "desa_kelurahan": "Tegalmanggung",
+    "kecamatan": "Cimanggung",
+    "kabupaten_kota": "KAB. SUMEDANG",
+    "provinsi": "JAWA BARAT"
+  },
+  {
+    "no": "35",
+    "kodepos": "45364",
+    "desa_kelurahan": "Sindulang",
+    "kecamatan": "Cimanggung",
+    "kabupaten_kota": "KAB. SUMEDANG",
+    "provinsi": "JAWA BARAT"
+  },
+  {
+    "no": "36",
+    "kodepos": "45364",
+    "desa_kelurahan": "Cikahuripan",
+    "kecamatan": "Cimanggung",
+    "kabupaten_kota": "KAB. SUMEDANG",
+    "provinsi": "JAWA BARAT"
+  },
+  {
+    "no": "37",
+    "kodepos": "45464",
+    "desa_kelurahan": "Cimangguhilir",
+    "kecamatan": "Bantarujeg",
+    "kabupaten_kota": "KAB. MAJALENGKA",
+    "provinsi": "JAWA BARAT"
+  },
+  {
+    "no": "38",
+    "kodepos": "45467",
+    "desa_kelurahan": "Cimanggu",
+    "kecamatan": "Cingambul",
+    "kabupaten_kota": "KAB. MAJALENGKA",
+    "provinsi": "JAWA BARAT"
+  },
+  {
+    "no": "39",
+    "kodepos": "46472",
+    "desa_kelurahan": "Cimanggu",
+    "kecamatan": "Puspahiang",
+    "kabupaten_kota": "KAB. TASIKMALAYA",
+    "provinsi": "JAWA BARAT"
+  },
+  {
+    "no": "40",
+    "kodepos": "46591",
+    "desa_kelurahan": "Cimanggu",
+    "kecamatan": "Langkaplancar",
+    "kabupaten_kota": "KAB. PANGANDARAN",
+    "provinsi": "JAWA BARAT"
+  },
+  {
+    "no": "41",
+    "kodepos": "53256",
+    "desa_kelurahan": "Bantarpanjang",
+    "kecamatan": "Cimanggu",
+    "kabupaten_kota": "KAB. CILACAP",
+    "provinsi": "JAWA TENGAH"
+  },
+  {
+    "no": "42",
+    "kodepos": "53256",
+    "desa_kelurahan": "Rejodadi",
+    "kecamatan": "Cimanggu",
+    "kabupaten_kota": "KAB. CILACAP",
+    "provinsi": "JAWA TENGAH"
+  },
+  {
+    "no": "43",
+    "kodepos": "53256",
+    "desa_kelurahan": "Karangreja",
+    "kecamatan": "Cimanggu",
+    "kabupaten_kota": "KAB. CILACAP",
+    "provinsi": "JAWA TENGAH"
+  },
+  {
+    "no": "44",
+    "kodepos": "53256",
+    "desa_kelurahan": "Cisalak",
+    "kecamatan": "Cimanggu",
+    "kabupaten_kota": "KAB. CILACAP",
+    "provinsi": "JAWA TENGAH"
+  },
+  {
+    "no": "45",
+    "kodepos": "53256",
+    "desa_kelurahan": "Kutabima",
+    "kecamatan": "Cimanggu",
+    "kabupaten_kota": "KAB. CILACAP",
+    "provinsi": "JAWA TENGAH"
+  },
+  {
+    "no": "46",
+    "kodepos": "53256",
+    "desa_kelurahan": "Cijati",
+    "kecamatan": "Cimanggu",
+    "kabupaten_kota": "KAB. CILACAP",
+    "provinsi": "JAWA TENGAH"
+  },
+  {
+    "no": "47",
+    "kodepos": "53256",
+    "desa_kelurahan": "Cibalung",
+    "kecamatan": "Cimanggu",
+    "kabupaten_kota": "KAB. CILACAP",
+    "provinsi": "JAWA TENGAH"
+  },
+  {
+    "no": "48",
+    "kodepos": "53256",
+    "desa_kelurahan": "Panimbang",
+    "kecamatan": "Cimanggu",
+    "kabupaten_kota": "KAB. CILACAP",
+    "provinsi": "JAWA TENGAH"
+  },
+  {
+    "no": "49",
+    "kodepos": "53256",
+    "desa_kelurahan": "Cilempuyang",
+    "kecamatan": "Cimanggu",
+    "kabupaten_kota": "KAB. CILACAP",
+    "provinsi": "JAWA TENGAH"
+  },
+  {
+    "no": "50",
+    "kodepos": "53256",
+    "desa_kelurahan": "Pesahangan",
+    "kecamatan": "Cimanggu",
+    "kabupaten_kota": "KAB. CILACAP",
+    "provinsi": "JAWA TENGAH"
+  },
+  {
+    "no": "51",
+    "kodepos": "53256",
+    "desa_kelurahan": "Cimanggu",
+    "kecamatan": "Cimanggu",
+    "kabupaten_kota": "KAB. CILACAP",
+    "provinsi": "JAWA TENGAH"
+  },
+  {
+    "no": "52",
+    "kodepos": "53256",
+    "desa_kelurahan": "Negarajati",
+    "kecamatan": "Cimanggu",
+    "kabupaten_kota": "KAB. CILACAP",
+    "provinsi": "JAWA TENGAH"
+  },
+  {
+    "no": "53",
+    "kodepos": "53256",
+    "desa_kelurahan": "Karangsari",
+    "kecamatan": "Cimanggu",
+    "kabupaten_kota": "KAB. CILACAP",
+    "provinsi": "JAWA TENGAH"
+  },
+  {
+    "no": "54",
+    "kodepos": "53256",
+    "desa_kelurahan": "Bantarmangu",
+    "kecamatan": "Cimanggu",
+    "kabupaten_kota": "KAB. CILACAP",
+    "provinsi": "JAWA TENGAH"
+  },
+  {
+    "no": "55",
+    "kodepos": "53256",
+    "desa_kelurahan": "Mandala",
+    "kecamatan": "Cimanggu",
+    "kabupaten_kota": "KAB. CILACAP",
+    "provinsi": "JAWA TENGAH"
+  },
+  {
+    "no": "1",
+    "kodepos": "42285",
+    "desa_kelurahan": "Cihanjuang",
+    "kecamatan": "Cibaliung",
+    "kabupaten_kota": "KAB. PANDEGLANG",
+    "provinsi": "BANTEN"
+  },
+  {
+    "no": "2",
+    "kodepos": "42285",
+    "desa_kelurahan": "Curug",
+    "kecamatan": "Cibaliung",
+    "kabupaten_kota": "KAB. PANDEGLANG",
+    "provinsi": "BANTEN"
+  },
+  {
+    "no": "3",
+    "kodepos": "42285",
+    "desa_kelurahan": "Sudimanik",
+    "kecamatan": "Cibaliung",
+    "kabupaten_kota": "KAB. PANDEGLANG",
+    "provinsi": "BANTEN"
+  },
+  {
+    "no": "4",
+    "kodepos": "42285",
+    "desa_kelurahan": "Sorongan",
+    "kecamatan": "Cibaliung",
+    "kabupaten_kota": "KAB. PANDEGLANG",
+    "provinsi": "BANTEN"
+  },
+  {
+    "no": "5",
+    "kodepos": "42285",
+    "desa_kelurahan": "Sukajadi",
+    "kecamatan": "Cibaliung",
+    "kabupaten_kota": "KAB. PANDEGLANG",
+    "provinsi": "BANTEN"
+  },
+  {
+    "no": "6",
+    "kodepos": "42285",
+    "desa_kelurahan": "Mahendra",
+    "kecamatan": "Cibaliung",
+    "kabupaten_kota": "KAB. PANDEGLANG",
+    "provinsi": "BANTEN"
+  },
+  {
+    "no": "7",
+    "kodepos": "42285",
+    "desa_kelurahan": "Mendung",
+    "kecamatan": "Cibaliung",
+    "kabupaten_kota": "KAB. PANDEGLANG",
+    "provinsi": "BANTEN"
+  },
+  {
+    "no": "8",
+    "kodepos": "42285",
+    "desa_kelurahan": "Cibaliung",
+    "kecamatan": "Cibaliung",
+    "kabupaten_kota": "KAB. PANDEGLANG",
+    "provinsi": "BANTEN"
+  },
+  {
+    "no": "9",
+    "kodepos": "42285",
+    "desa_kelurahan": "Cibingbin",
+    "kecamatan": "Cibaliung",
+    "kabupaten_kota": "KAB. PANDEGLANG",
+    "provinsi": "BANTEN"
+  },
+  {
+    "no": "1",
+    "kodepos": "16276",
+    "desa_kelurahan": "Cibitung Tengah",
+    "kecamatan": "Tenjolaya",
+    "kabupaten_kota": "KAB. BOGOR",
+    "provinsi": "JAWA BARAT"
+  },
+  {
+    "no": "2",
+    "kodepos": "16692",
+    "desa_kelurahan": "Cibitungwetan",
+    "kecamatan": "Pamijahan",
+    "kabupaten_kota": "KAB. BOGOR",
+    "provinsi": "JAWA BARAT"
+  },
+  {
+    "no": "3",
+    "kodepos": "16692",
+    "desa_kelurahan": "Cibitung Kulon",
+    "kecamatan": "Pamijahan",
+    "kabupaten_kota": "KAB. BOGOR",
+    "provinsi": "JAWA BARAT"
+  },
+  {
+    "no": "4",
+    "kodepos": "17521",
+    "desa_kelurahan": "Wanasari",
+    "kecamatan": "Cibitung",
+    "kabupaten_kota": "KAB. BEKASI",
+    "provinsi": "JAWA BARAT"
+  },
+  {
+    "no": "5",
+    "kodepos": "17522",
+    "desa_kelurahan": "Cibuntu",
+    "kecamatan": "Cibitung",
+    "kabupaten_kota": "KAB. BEKASI",
+    "provinsi": "JAWA BARAT"
+  },
+  {
+    "no": "6",
+    "kodepos": "17523",
+    "desa_kelurahan": "Wanajaya",
+    "kecamatan": "Cibitung",
+    "kabupaten_kota": "KAB. BEKASI",
+    "provinsi": "JAWA BARAT"
+  },
+  {
+    "no": "7",
+    "kodepos": "17524",
+    "desa_kelurahan": "Sukajaya",
+    "kecamatan": "Cibitung",
+    "kabupaten_kota": "KAB. BEKASI",
+    "provinsi": "JAWA BARAT"
+  },
+  {
+    "no": "8",
+    "kodepos": "17525",
+    "desa_kelurahan": "Kertamukti",
+    "kecamatan": "Cibitung",
+    "kabupaten_kota": "KAB. BEKASI",
+    "provinsi": "JAWA BARAT"
+  },
+  {
+    "no": "9",
+    "kodepos": "17526",
+    "desa_kelurahan": "Muktiwari",
+    "kecamatan": "Cibitung",
+    "kabupaten_kota": "KAB. BEKASI",
+    "provinsi": "JAWA BARAT"
+  },
+  {
+    "no": "10",
+    "kodepos": "17527",
+    "desa_kelurahan": "Sarimukti",
+    "kecamatan": "Cibitung",
+    "kabupaten_kota": "KAB. BEKASI",
+    "provinsi": "JAWA BARAT"
+  },
+  {
+    "no": "11",
+    "kodepos": "40766",
+    "desa_kelurahan": "Cibitung",
+    "kecamatan": "Rongga",
+    "kabupaten_kota": "KAB. BANDUNG BARAT",
+    "provinsi": "JAWA BARAT"
+  },
+  {
+    "no": "12",
+    "kodepos": "41288",
+    "desa_kelurahan": "Cibitung",
+    "kecamatan": "Ciater",
+    "kabupaten_kota": "KAB. SUBANG",
+    "provinsi": "JAWA BARAT"
+  },
+  {
+    "no": "13",
+    "kodepos": "42276",
+    "desa_kelurahan": "Cibitung",
+    "kecamatan": "Munjul",
+    "kabupaten_kota": "KAB. PANDEGLANG",
+    "provinsi": "BANTEN"
+  },
+  {
+    "no": "14",
+    "kodepos": "42287",
+    "desa_kelurahan": "Malangnengah",
+    "kecamatan": "Cibitung",
+    "kabupaten_kota": "KAB. PANDEGLANG",
+    "provinsi": "BANTEN"
+  },
+  {
+    "no": "15",
+    "kodepos": "42287",
+    "desa_kelurahan": "Manglid",
+    "kecamatan": "Cibitung",
+    "kabupaten_kota": "KAB. PANDEGLANG",
+    "provinsi": "BANTEN"
+  },
+  {
+    "no": "16",
+    "kodepos": "42287",
+    "desa_kelurahan": "Kiarapayung",
+    "kecamatan": "Cibitung",
+    "kabupaten_kota": "KAB. PANDEGLANG",
+    "provinsi": "BANTEN"
+  },
+  {
+    "no": "17",
+    "kodepos": "42287",
+    "desa_kelurahan": "Cikalong",
+    "kecamatan": "Cibitung",
+    "kabupaten_kota": "KAB. PANDEGLANG",
+    "provinsi": "BANTEN"
+  },
+  {
+    "no": "18",
+    "kodepos": "42287",
+    "desa_kelurahan": "Kutakarang",
+    "kecamatan": "Cibitung",
+    "kabupaten_kota": "KAB. PANDEGLANG",
+    "provinsi": "BANTEN"
+  },
+  {
+    "no": "19",
+    "kodepos": "42287",
+    "desa_kelurahan": "Sindangkerta",
+    "kecamatan": "Cibitung",
+    "kabupaten_kota": "KAB. PANDEGLANG",
+    "provinsi": "BANTEN"
+  },
+  {
+    "no": "20",
+    "kodepos": "42287",
+    "desa_kelurahan": "Kiarajangkung",
+    "kecamatan": "Cibitung",
+    "kabupaten_kota": "KAB. PANDEGLANG",
+    "provinsi": "BANTEN"
+  },
+  {
+    "no": "21",
+    "kodepos": "42287",
+    "desa_kelurahan": "Cikiruh",
+    "kecamatan": "Cibitung",
+    "kabupaten_kota": "KAB. PANDEGLANG",
+    "provinsi": "BANTEN"
+  },
+  {
+    "no": "22",
+    "kodepos": "42287",
+    "desa_kelurahan": "Citeluk",
+    "kecamatan": "Cibitung",
+    "kabupaten_kota": "KAB. PANDEGLANG",
+    "provinsi": "BANTEN"
+  },
+  {
+    "no": "23",
+    "kodepos": "42287",
+    "desa_kelurahan": "Cikadu",
+    "kecamatan": "Cibitung",
+    "kabupaten_kota": "KAB. PANDEGLANG",
+    "provinsi": "BANTEN"
+  },
+  {
+    "no": "24",
+    "kodepos": "43372",
+    "desa_kelurahan": "Banyumurni",
+    "kecamatan": "Cibitung",
+    "kabupaten_kota": "KAB. SUKABUMI",
+    "provinsi": "JAWA BARAT"
+  },
+  {
+    "no": "25",
+    "kodepos": "43372",
+    "desa_kelurahan": "Cibodas",
+    "kecamatan": "Cibitung",
+    "kabupaten_kota": "KAB. SUKABUMI",
+    "provinsi": "JAWA BARAT"
+  },
+  {
+    "no": "26",
+    "kodepos": "43372",
+    "desa_kelurahan": "Cibitung",
+    "kecamatan": "Cibitung",
+    "kabupaten_kota": "KAB. SUKABUMI",
+    "provinsi": "JAWA BARAT"
+  },
+  {
+    "no": "27",
+    "kodepos": "43372",
+    "desa_kelurahan": "Talagamurni",
+    "kecamatan": "Cibitung",
+    "kabupaten_kota": "KAB. SUKABUMI",
+    "provinsi": "JAWA BARAT"
+  },
+  {
+    "no": "28",
+    "kodepos": "43372",
+    "desa_kelurahan": "Cidahu",
+    "kecamatan": "Cibitung",
+    "kabupaten_kota": "KAB. SUKABUMI",
+    "provinsi": "JAWA BARAT"
+  },
+  {
+    "no": "29",
+    "kodepos": "43372",
+    "desa_kelurahan": "Banyuwangi",
+    "kecamatan": "Cibitung",
+    "kabupaten_kota": "KAB. SUKABUMI",
+    "provinsi": "JAWA BARAT"
+  },
+  {
+    "no": "30",
+    "kodepos": "43381",
+    "desa_kelurahan": "Cibitung",
+    "kecamatan": "Sagaranten",
+    "kabupaten_kota": "KAB. SUKABUMI",
+    "provinsi": "JAWA BARAT"
+  },
+  {
+    "no": "31",
+    "kodepos": "45392",
+    "desa_kelurahan": "Cibitung",
+    "kecamatan": "Buahdua",
+    "kabupaten_kota": "KAB. SUMEDANG",
+    "provinsi": "JAWA BARAT"
+  },
+  {
+    "no": "1",
+    "kodepos": "42286",
+    "desa_kelurahan": "Cikiruhwetan",
+    "kecamatan": "Cikeusik",
+    "kabupaten_kota": "KAB. PANDEGLANG",
+    "provinsi": "BANTEN"
+  },
+  {
+    "no": "2",
+    "kodepos": "42286",
+    "desa_kelurahan": "Sukawaris",
+    "kecamatan": "Cikeusik",
+    "kabupaten_kota": "KAB. PANDEGLANG",
+    "provinsi": "BANTEN"
+  },
+  {
+    "no": "3",
+    "kodepos": "42286",
+    "desa_kelurahan": "Nanggala",
+    "kecamatan": "Cikeusik",
+    "kabupaten_kota": "KAB. PANDEGLANG",
+    "provinsi": "BANTEN"
+  },
+  {
+    "no": "4",
+    "kodepos": "42286",
+    "desa_kelurahan": "Sukaseneng",
+    "kecamatan": "Cikeusik",
+    "kabupaten_kota": "KAB. PANDEGLANG",
+    "provinsi": "BANTEN"
+  },
+  {
+    "no": "5",
+    "kodepos": "42286",
+    "desa_kelurahan": "Umbulan",
+    "kecamatan": "Cikeusik",
+    "kabupaten_kota": "KAB. PANDEGLANG",
+    "provinsi": "BANTEN"
+  },
+  {
+    "no": "6",
+    "kodepos": "42286",
+    "desa_kelurahan": "Cikeusik",
+    "kecamatan": "Cikeusik",
+    "kabupaten_kota": "KAB. PANDEGLANG",
+    "provinsi": "BANTEN"
+  },
+  {
+    "no": "7",
+    "kodepos": "42286",
+    "desa_kelurahan": "Cikadongdong",
+    "kecamatan": "Cikeusik",
+    "kabupaten_kota": "KAB. PANDEGLANG",
+    "provinsi": "BANTEN"
+  },
+  {
+    "no": "8",
+    "kodepos": "42286",
+    "desa_kelurahan": "Rancaseneng",
+    "kecamatan": "Cikeusik",
+    "kabupaten_kota": "KAB. PANDEGLANG",
+    "provinsi": "BANTEN"
+  },
+  {
+    "no": "9",
+    "kodepos": "42286",
+    "desa_kelurahan": "Leuwibalang",
+    "kecamatan": "Cikeusik",
+    "kabupaten_kota": "KAB. PANDEGLANG",
+    "provinsi": "BANTEN"
+  },
+  {
+    "no": "10",
+    "kodepos": "42286",
+    "desa_kelurahan": "Sukamulya",
+    "kecamatan": "Cikeusik",
+    "kabupaten_kota": "KAB. PANDEGLANG",
+    "provinsi": "BANTEN"
+  },
+  {
+    "no": "11",
+    "kodepos": "42286",
+    "desa_kelurahan": "Sumurbatu",
+    "kecamatan": "Cikeusik",
+    "kabupaten_kota": "KAB. PANDEGLANG",
+    "provinsi": "BANTEN"
+  },
+  {
+    "no": "12",
+    "kodepos": "42286",
+    "desa_kelurahan": "Tanjungan",
+    "kecamatan": "Cikeusik",
+    "kabupaten_kota": "KAB. PANDEGLANG",
+    "provinsi": "BANTEN"
+  },
+  {
+    "no": "13",
+    "kodepos": "42286",
+    "desa_kelurahan": "Parungkokosan",
+    "kecamatan": "Cikeusik",
+    "kabupaten_kota": "KAB. PANDEGLANG",
+    "provinsi": "BANTEN"
+  },
+  {
+    "no": "14",
+    "kodepos": "42286",
+    "desa_kelurahan": "Curugciung",
+    "kecamatan": "Cikeusik",
+    "kabupaten_kota": "KAB. PANDEGLANG",
+    "provinsi": "BANTEN"
+  },
+  {
+    "no": "15",
+    "kodepos": "42396",
+    "desa_kelurahan": "Cikeusik",
+    "kecamatan": "Wanasalam",
+    "kabupaten_kota": "KAB. LEBAK",
+    "provinsi": "BANTEN"
+  },
+  {
+    "no": "16",
+    "kodepos": "45471",
+    "desa_kelurahan": "Cikeusik",
+    "kecamatan": "Sukahaji",
+    "kabupaten_kota": "KAB. MAJALENGKA",
+    "provinsi": "JAWA BARAT"
+  },
+  {
+    "no": "17",
+    "kodepos": "45595",
+    "desa_kelurahan": "Cikeusik",
+    "kecamatan": "Cidahu",
+    "kabupaten_kota": "KAB. KUNINGAN",
+    "provinsi": "JAWA BARAT"
+  },
+  {
+    "no": "1",
+    "kodepos": "42282",
+    "desa_kelurahan": "Ciseureuheun",
+    "kecamatan": "Cigeulis",
+    "kabupaten_kota": "KAB. PANDEGLANG",
+    "provinsi": "BANTEN"
+  },
+  {
+    "no": "2",
+    "kodepos": "42282",
+    "desa_kelurahan": "Banyuasih",
+    "kecamatan": "Cigeulis",
+    "kabupaten_kota": "KAB. PANDEGLANG",
+    "provinsi": "BANTEN"
+  },
+  {
+    "no": "3",
+    "kodepos": "42282",
+    "desa_kelurahan": "Karangbolong",
+    "kecamatan": "Cigeulis",
+    "kabupaten_kota": "KAB. PANDEGLANG",
+    "provinsi": "BANTEN"
+  },
+  {
+    "no": "4",
+    "kodepos": "42282",
+    "desa_kelurahan": "Sinarjaya",
+    "kecamatan": "Cigeulis",
+    "kabupaten_kota": "KAB. PANDEGLANG",
+    "provinsi": "BANTEN"
+  },
+  {
+    "no": "5",
+    "kodepos": "42282",
+    "desa_kelurahan": "Waringinjaya",
+    "kecamatan": "Cigeulis",
+    "kabupaten_kota": "KAB. PANDEGLANG",
+    "provinsi": "BANTEN"
+  },
+  {
+    "no": "6",
+    "kodepos": "42282",
+    "desa_kelurahan": "Tarumanagara",
+    "kecamatan": "Cigeulis",
+    "kabupaten_kota": "KAB. PANDEGLANG",
+    "provinsi": "BANTEN"
+  },
+  {
+    "no": "7",
+    "kodepos": "42282",
+    "desa_kelurahan": "Katumbiri",
+    "kecamatan": "Cigeulis",
+    "kabupaten_kota": "KAB. PANDEGLANG",
+    "provinsi": "BANTEN"
+  },
+  {
+    "no": "8",
+    "kodepos": "42282",
+    "desa_kelurahan": "Cigeulis",
+    "kecamatan": "Cigeulis",
+    "kabupaten_kota": "KAB. PANDEGLANG",
+    "provinsi": "BANTEN"
+  },
+  {
+    "no": "9",
+    "kodepos": "42282",
+    "desa_kelurahan": "Karyabuana",
+    "kecamatan": "Cigeulis",
+    "kabupaten_kota": "KAB. PANDEGLANG",
+    "provinsi": "BANTEN"
+  },
+  {
+    "no": "1",
+    "kodepos": "42281",
+    "desa_kelurahan": "Mekarjaya",
+    "kecamatan": "Panimbang",
+    "kabupaten_kota": "KAB. PANDEGLANG",
+    "provinsi": "BANTEN"
+  },
+  {
+    "no": "2",
+    "kodepos": "42281",
+    "desa_kelurahan": "Citeureup",
+    "kecamatan": "Panimbang",
+    "kabupaten_kota": "KAB. PANDEGLANG",
+    "provinsi": "BANTEN"
+  },
+  {
+    "no": "3",
+    "kodepos": "42281",
+    "desa_kelurahan": "Panimbangjaya",
+    "kecamatan": "Panimbang",
+    "kabupaten_kota": "KAB. PANDEGLANG",
+    "provinsi": "BANTEN"
+  },
+  {
+    "no": "4",
+    "kodepos": "42281",
+    "desa_kelurahan": "Tanjungjaya",
+    "kecamatan": "Panimbang",
+    "kabupaten_kota": "KAB. PANDEGLANG",
+    "provinsi": "BANTEN"
+  },
+  {
+    "no": "5",
+    "kodepos": "42281",
+    "desa_kelurahan": "Mekar Jaya",
+    "kecamatan": "Panimbang",
+    "kabupaten_kota": "KAB. PANDEGLANG",
+    "provinsi": "BANTEN"
+  },
+  {
+    "no": "6",
+    "kodepos": "42281",
+    "desa_kelurahan": "Gombong",
+    "kecamatan": "Panimbang",
+    "kabupaten_kota": "KAB. PANDEGLANG",
+    "provinsi": "BANTEN"
+  },
+  {
+    "no": "7",
+    "kodepos": "53256",
+    "desa_kelurahan": "Panimbang",
+    "kecamatan": "Cimanggu",
+    "kabupaten_kota": "KAB. CILACAP",
+    "provinsi": "JAWA TENGAH"
+  },
+  {
+    "no": "1",
+    "kodepos": "28784",
+    "desa_kelurahan": "Bathinsobanga",
+    "kecamatan": "Bathin Solapan",
+    "kabupaten_kota": "KAB. BENGKALIS",
+    "provinsi": "RIAU"
+  },
+  {
+    "no": "2",
+    "kodepos": "42289",
+    "desa_kelurahan": "Kertaraharja",
+    "kecamatan": "Sobang",
+    "kabupaten_kota": "KAB. PANDEGLANG",
+    "provinsi": "BANTEN"
+  },
+  {
+    "no": "3",
+    "kodepos": "42289",
+    "desa_kelurahan": "Sobang",
+    "kecamatan": "Sobang",
+    "kabupaten_kota": "KAB. PANDEGLANG",
+    "provinsi": "BANTEN"
+  },
+  {
+    "no": "4",
+    "kodepos": "42289",
+    "desa_kelurahan": "Teluklada",
+    "kecamatan": "Sobang",
+    "kabupaten_kota": "KAB. PANDEGLANG",
+    "provinsi": "BANTEN"
+  },
+  {
+    "no": "5",
+    "kodepos": "42289",
+    "desa_kelurahan": "Cimanis",
+    "kecamatan": "Sobang",
+    "kabupaten_kota": "KAB. PANDEGLANG",
+    "provinsi": "BANTEN"
+  },
+  {
+    "no": "6",
+    "kodepos": "42289",
+    "desa_kelurahan": "Kutamekar",
+    "kecamatan": "Sobang",
+    "kabupaten_kota": "KAB. PANDEGLANG",
+    "provinsi": "BANTEN"
+  },
+  {
+    "no": "7",
+    "kodepos": "42289",
+    "desa_kelurahan": "Bojenwetan",
+    "kecamatan": "Sobang",
+    "kabupaten_kota": "KAB. PANDEGLANG",
+    "provinsi": "BANTEN"
+  },
+  {
+    "no": "8",
+    "kodepos": "42289",
+    "desa_kelurahan": "Bojen",
+    "kecamatan": "Sobang",
+    "kabupaten_kota": "KAB. PANDEGLANG",
+    "provinsi": "BANTEN"
+  },
+  {
+    "no": "9",
+    "kodepos": "42289",
+    "desa_kelurahan": "Pangkalan",
+    "kecamatan": "Sobang",
+    "kabupaten_kota": "KAB. PANDEGLANG",
+    "provinsi": "BANTEN"
+  },
+  {
+    "no": "10",
+    "kodepos": "42365",
+    "desa_kelurahan": "Sobang",
+    "kecamatan": "Sobang",
+    "kabupaten_kota": "KAB. LEBAK",
+    "provinsi": "BANTEN"
+  },
+  {
+    "no": "11",
+    "kodepos": "42365",
+    "desa_kelurahan": "Hariang",
+    "kecamatan": "Sobang",
+    "kabupaten_kota": "KAB. LEBAK",
+    "provinsi": "BANTEN"
+  },
+  {
+    "no": "12",
+    "kodepos": "42365",
+    "desa_kelurahan": "Cirompang",
+    "kecamatan": "Sobang",
+    "kabupaten_kota": "KAB. LEBAK",
+    "provinsi": "BANTEN"
+  },
+  {
+    "no": "13",
+    "kodepos": "42365",
+    "desa_kelurahan": "Sukaresmi",
+    "kecamatan": "Sobang",
+    "kabupaten_kota": "KAB. LEBAK",
+    "provinsi": "BANTEN"
+  },
+  {
+    "no": "14",
+    "kodepos": "42365",
+    "desa_kelurahan": "Majasari",
+    "kecamatan": "Sobang",
+    "kabupaten_kota": "KAB. LEBAK",
+    "provinsi": "BANTEN"
+  },
+  {
+    "no": "15",
+    "kodepos": "42365",
+    "desa_kelurahan": "Sukajaya",
+    "kecamatan": "Sobang",
+    "kabupaten_kota": "KAB. LEBAK",
+    "provinsi": "BANTEN"
+  },
+  {
+    "no": "16",
+    "kodepos": "42365",
+    "desa_kelurahan": "Sukamaju",
+    "kecamatan": "Sobang",
+    "kabupaten_kota": "KAB. LEBAK",
+    "provinsi": "BANTEN"
+  },
+  {
+    "no": "17",
+    "kodepos": "42365",
+    "desa_kelurahan": "Ciparasi",
+    "kecamatan": "Sobang",
+    "kabupaten_kota": "KAB. LEBAK",
+    "provinsi": "BANTEN"
+  },
+  {
+    "no": "18",
+    "kodepos": "42365",
+    "desa_kelurahan": "Sinar Jaya",
+    "kecamatan": "Sobang",
+    "kabupaten_kota": "KAB. LEBAK",
+    "provinsi": "BANTEN"
+  },
+  {
+    "no": "19",
+    "kodepos": "42365",
+    "desa_kelurahan": "Sindanglaya",
+    "kecamatan": "Sobang",
+    "kabupaten_kota": "KAB. LEBAK",
+    "provinsi": "BANTEN"
+  },
+  {
+    "no": "20",
+    "kodepos": "80351",
+    "desa_kelurahan": "Sobangan",
+    "kecamatan": "Mengwi",
+    "kabupaten_kota": "KAB. BADUNG",
+    "provinsi": "BALI"
+  },
+  {
+    "no": "1",
+    "kodepos": "13850",
+    "desa_kelurahan": "Munjul",
+    "kecamatan": "Cipayung",
+    "kabupaten_kota": "KOTA ADM. JAKARTA TIMUR",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "2",
+    "kodepos": "15747",
+    "desa_kelurahan": "Munjul",
+    "kecamatan": "Solear",
+    "kabupaten_kota": "KAB. TANGERANG",
+    "provinsi": "BANTEN"
+  },
+  {
+    "no": "3",
+    "kodepos": "41117",
+    "desa_kelurahan": "Munjuljaya",
+    "kecamatan": "Purwakarta",
+    "kabupaten_kota": "KAB. PURWAKARTA",
+    "provinsi": "JAWA BARAT"
+  },
+  {
+    "no": "4",
+    "kodepos": "41167",
+    "desa_kelurahan": "Pasirmunjul",
+    "kecamatan": "Sukatani",
+    "kabupaten_kota": "KAB. PURWAKARTA",
+    "provinsi": "JAWA BARAT"
+  },
+  {
+    "no": "5",
+    "kodepos": "41274",
+    "desa_kelurahan": "Munjul",
+    "kecamatan": "Pagaden Barat",
+    "kabupaten_kota": "KAB. SUBANG",
+    "provinsi": "JAWA BARAT"
+  },
+  {
+    "no": "6",
+    "kodepos": "42276",
+    "desa_kelurahan": "Curuglanglang",
+    "kecamatan": "Munjul",
+    "kabupaten_kota": "KAB. PANDEGLANG",
+    "provinsi": "BANTEN"
+  },
+  {
+    "no": "7",
+    "kodepos": "42276",
+    "desa_kelurahan": "Munjul",
+    "kecamatan": "Munjul",
+    "kabupaten_kota": "KAB. PANDEGLANG",
+    "provinsi": "BANTEN"
+  },
+  {
+    "no": "8",
+    "kodepos": "42276",
+    "desa_kelurahan": "Panacaran",
+    "kecamatan": "Munjul",
+    "kabupaten_kota": "KAB. PANDEGLANG",
+    "provinsi": "BANTEN"
+  },
+  {
+    "no": "9",
+    "kodepos": "42276",
+    "desa_kelurahan": "Kotadukuh",
+    "kecamatan": "Munjul",
+    "kabupaten_kota": "KAB. PANDEGLANG",
+    "provinsi": "BANTEN"
+  },
+  {
+    "no": "10",
+    "kodepos": "42276",
+    "desa_kelurahan": "Lebak",
+    "kecamatan": "Munjul",
+    "kabupaten_kota": "KAB. PANDEGLANG",
+    "provinsi": "BANTEN"
+  },
+  {
+    "no": "11",
+    "kodepos": "42276",
+    "desa_kelurahan": "Gunungbatu",
+    "kecamatan": "Munjul",
+    "kabupaten_kota": "KAB. PANDEGLANG",
+    "provinsi": "BANTEN"
+  },
+  {
+    "no": "12",
+    "kodepos": "42276",
+    "desa_kelurahan": "Pasanggrahan",
+    "kecamatan": "Munjul",
+    "kabupaten_kota": "KAB. PANDEGLANG",
+    "provinsi": "BANTEN"
+  },
+  {
+    "no": "13",
+    "kodepos": "42276",
+    "desa_kelurahan": "Sukasaba",
+    "kecamatan": "Munjul",
+    "kabupaten_kota": "KAB. PANDEGLANG",
+    "provinsi": "BANTEN"
+  },
+  {
+    "no": "14",
+    "kodepos": "42276",
+    "desa_kelurahan": "Cibitung",
+    "kecamatan": "Munjul",
+    "kabupaten_kota": "KAB. PANDEGLANG",
+    "provinsi": "BANTEN"
+  },
+  {
+    "no": "15",
+    "kodepos": "43285",
+    "desa_kelurahan": "Munjul",
+    "kecamatan": "Cilaku",
+    "kabupaten_kota": "KAB. CIANJUR",
+    "provinsi": "JAWA BARAT"
+  },
+  {
+    "no": "16",
+    "kodepos": "43352",
+    "desa_kelurahan": "Munjul",
+    "kecamatan": "Ciambar",
+    "kabupaten_kota": "KAB. SUKABUMI",
+    "provinsi": "JAWA BARAT"
+  },
+  {
+    "no": "17",
+    "kodepos": "45417",
+    "desa_kelurahan": "Munjul",
+    "kecamatan": "Majalengka",
+    "kabupaten_kota": "KAB. MAJALENGKA",
+    "provinsi": "JAWA BARAT"
+  },
+  {
+    "no": "18",
+    "kodepos": "45681",
+    "desa_kelurahan": "Munjul",
+    "kecamatan": "Astanajapura",
+    "kabupaten_kota": "KAB. CIREBON",
+    "provinsi": "JAWA BARAT"
+  },
+  {
+    "no": "19",
+    "kodepos": "53361",
+    "desa_kelurahan": "Munjul",
+    "kecamatan": "Kutasari",
+    "kabupaten_kota": "KAB. PURBALINGGA",
+    "provinsi": "JAWA TENGAH"
+  },
+  {
+    "no": "1",
+    "kodepos": "16968",
+    "desa_kelurahan": "Ciangsana",
+    "kecamatan": "Gunung Putri",
+    "kabupaten_kota": "KAB. BOGOR",
+    "provinsi": "JAWA BARAT"
+  },
+  {
+    "no": "2",
+    "kodepos": "41271",
+    "desa_kelurahan": "Kaliangsana",
+    "kecamatan": "Kalijati",
+    "kabupaten_kota": "KAB. SUBANG",
+    "provinsi": "JAWA BARAT"
+  },
+  {
+    "no": "3",
+    "kodepos": "42165",
+    "desa_kelurahan": "Angsana",
+    "kecamatan": "Mancak",
+    "kabupaten_kota": "KAB. SERANG",
+    "provinsi": "BANTEN"
+  },
+  {
+    "no": "4",
+    "kodepos": "42277",
+    "desa_kelurahan": "Angsana",
+    "kecamatan": "Angsana",
+    "kabupaten_kota": "KAB. PANDEGLANG",
+    "provinsi": "BANTEN"
+  },
+  {
+    "no": "5",
+    "kodepos": "42277",
+    "desa_kelurahan": "Kramatmanik",
+    "kecamatan": "Angsana",
+    "kabupaten_kota": "KAB. PANDEGLANG",
+    "provinsi": "BANTEN"
+  },
+  {
+    "no": "6",
+    "kodepos": "42277",
+    "desa_kelurahan": "Kadubadak",
+    "kecamatan": "Angsana",
+    "kabupaten_kota": "KAB. PANDEGLANG",
+    "provinsi": "BANTEN"
+  },
+  {
+    "no": "7",
+    "kodepos": "42277",
+    "desa_kelurahan": "Sumurlaban",
+    "kecamatan": "Angsana",
+    "kabupaten_kota": "KAB. PANDEGLANG",
+    "provinsi": "BANTEN"
+  },
+  {
+    "no": "8",
+    "kodepos": "42277",
+    "desa_kelurahan": "Padamulya",
+    "kecamatan": "Angsana",
+    "kabupaten_kota": "KAB. PANDEGLANG",
+    "provinsi": "BANTEN"
+  },
+  {
+    "no": "9",
+    "kodepos": "42277",
+    "desa_kelurahan": "Cikayas",
+    "kecamatan": "Angsana",
+    "kabupaten_kota": "KAB. PANDEGLANG",
+    "provinsi": "BANTEN"
+  },
+  {
+    "no": "10",
+    "kodepos": "42277",
+    "desa_kelurahan": "Padaherang",
+    "kecamatan": "Angsana",
+    "kabupaten_kota": "KAB. PANDEGLANG",
+    "provinsi": "BANTEN"
+  },
+  {
+    "no": "11",
+    "kodepos": "42277",
+    "desa_kelurahan": "Cipinang",
+    "kecamatan": "Angsana",
+    "kabupaten_kota": "KAB. PANDEGLANG",
+    "provinsi": "BANTEN"
+  },
+  {
+    "no": "12",
+    "kodepos": "42277",
+    "desa_kelurahan": "Karangsari",
+    "kecamatan": "Angsana",
+    "kabupaten_kota": "KAB. PANDEGLANG",
+    "provinsi": "BANTEN"
+  },
+  {
+    "no": "13",
+    "kodepos": "43396",
+    "desa_kelurahan": "Kertaangsana",
+    "kecamatan": "Nyalindung",
+    "kabupaten_kota": "KAB. SUKABUMI",
+    "provinsi": "JAWA BARAT"
+  },
+  {
+    "no": "14",
+    "kodepos": "45459",
+    "desa_kelurahan": "Bantrangsana",
+    "kecamatan": "Panyingkiran",
+    "kabupaten_kota": "KAB. MAJALENGKA",
+    "provinsi": "JAWA BARAT"
+  },
+  {
+    "no": "15",
+    "kodepos": "46263",
+    "desa_kelurahan": "Banjarangsana",
+    "kecamatan": "Panumbangan",
+    "kabupaten_kota": "KAB. CIAMIS",
+    "provinsi": "JAWA BARAT"
+  },
+  {
+    "no": "16",
+    "kodepos": "69362",
+    "desa_kelurahan": "Angsanah",
+    "kecamatan": "Palenggaan",
+    "kabupaten_kota": "KAB. PAMEKASAN",
+    "provinsi": "JAWA TIMUR"
+  },
+  {
+    "no": "17",
+    "kodepos": "72276",
+    "desa_kelurahan": "Sumber Baru",
+    "kecamatan": "Angsana",
+    "kabupaten_kota": "KAB. TANAH BUMBU",
+    "provinsi": "KALIMANTAN SELATAN"
+  },
+  {
+    "no": "18",
+    "kodepos": "72276",
+    "desa_kelurahan": "Angsana",
+    "kecamatan": "Angsana",
+    "kabupaten_kota": "KAB. TANAH BUMBU",
+    "provinsi": "KALIMANTAN SELATAN"
+  },
+  {
+    "no": "19",
+    "kodepos": "72276",
+    "desa_kelurahan": "Purwodadi",
+    "kecamatan": "Angsana",
+    "kabupaten_kota": "KAB. TANAH BUMBU",
+    "provinsi": "KALIMANTAN SELATAN"
+  },
+  {
+    "no": "20",
+    "kodepos": "72276",
+    "desa_kelurahan": "Banjar Sari",
+    "kecamatan": "Angsana",
+    "kabupaten_kota": "KAB. TANAH BUMBU",
+    "provinsi": "KALIMANTAN SELATAN"
+  },
+  {
+    "no": "21",
+    "kodepos": "72276",
+    "desa_kelurahan": "Mekar Jaya",
+    "kecamatan": "Angsana",
+    "kabupaten_kota": "KAB. TANAH BUMBU",
+    "provinsi": "KALIMANTAN SELATAN"
+  },
+  {
+    "no": "22",
+    "kodepos": "72276",
+    "desa_kelurahan": "Makmur",
+    "kecamatan": "Angsana",
+    "kabupaten_kota": "KAB. TANAH BUMBU",
+    "provinsi": "KALIMANTAN SELATAN"
+  },
+  {
+    "no": "23",
+    "kodepos": "72276",
+    "desa_kelurahan": "Bayan Sari",
+    "kecamatan": "Angsana",
+    "kabupaten_kota": "KAB. TANAH BUMBU",
+    "provinsi": "KALIMANTAN SELATAN"
+  },
+  {
+    "no": "24",
+    "kodepos": "72276",
+    "desa_kelurahan": "Bunati",
+    "kecamatan": "Angsana",
+    "kabupaten_kota": "KAB. TANAH BUMBU",
+    "provinsi": "KALIMANTAN SELATAN"
+  },
+  {
+    "no": "25",
+    "kodepos": "72276",
+    "desa_kelurahan": "Karang Indah",
+    "kecamatan": "Angsana",
+    "kabupaten_kota": "KAB. TANAH BUMBU",
+    "provinsi": "KALIMANTAN SELATAN"
   }
 ]

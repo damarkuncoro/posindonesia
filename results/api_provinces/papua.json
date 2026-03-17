@@ -14,5 +14,989 @@
     "kecamatan": "Tingginambut",
     "kabupaten_kota": "KAB. PUNCAK JAYA",
     "provinsi": "PAPUA TENGAH"
+  },
+  {
+    "no": "1",
+    "kodepos": "99655",
+    "desa_kelurahan": "Mambum",
+    "kecamatan": "Kimaam",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "2",
+    "kodepos": "99655",
+    "desa_kelurahan": "Deka",
+    "kecamatan": "Kimaam",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "3",
+    "kodepos": "99655",
+    "desa_kelurahan": "Purawanderu",
+    "kecamatan": "Kimaam",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "4",
+    "kodepos": "99655",
+    "desa_kelurahan": "Kalilam",
+    "kecamatan": "Kimaam",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "5",
+    "kodepos": "99655",
+    "desa_kelurahan": "Kiworo",
+    "kecamatan": "Kimaam",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "6",
+    "kodepos": "99655",
+    "desa_kelurahan": "Kumbis",
+    "kecamatan": "Kimaam",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "7",
+    "kodepos": "99655",
+    "desa_kelurahan": "Turiram",
+    "kecamatan": "Kimaam",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "8",
+    "kodepos": "99655",
+    "desa_kelurahan": "Komolom",
+    "kecamatan": "Kimaam",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "9",
+    "kodepos": "99655",
+    "desa_kelurahan": "Teri",
+    "kecamatan": "Kimaam",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "10",
+    "kodepos": "99655",
+    "desa_kelurahan": "Umanderu",
+    "kecamatan": "Kimaam",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "11",
+    "kodepos": "99655",
+    "desa_kelurahan": "Kimaam",
+    "kecamatan": "Kimaam",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "12",
+    "kodepos": "99655",
+    "desa_kelurahan": "Woner",
+    "kecamatan": "Kimaam",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "13",
+    "kodepos": "99655",
+    "desa_kelurahan": "Webu",
+    "kecamatan": "Kimaam",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "1",
+    "kodepos": "60112",
+    "desa_kelurahan": "Kejawaan Putih Tambak",
+    "kecamatan": "Mulyorejo",
+    "kabupaten_kota": "KOTA SURABAYA",
+    "provinsi": "JAWA TIMUR"
+  },
+  {
+    "no": "2",
+    "kodepos": "69166",
+    "desa_kelurahan": "Suwaan",
+    "kecamatan": "Modung",
+    "kabupaten_kota": "KAB. BANGKALAN",
+    "provinsi": "JAWA TIMUR"
+  },
+  {
+    "no": "3",
+    "kodepos": "78871",
+    "desa_kelurahan": "Penjawaan",
+    "kecamatan": "Sandai",
+    "kabupaten_kota": "KAB. KETAPANG",
+    "provinsi": "KALIMANTAN BARAT"
+  },
+  {
+    "no": "4",
+    "kodepos": "93754",
+    "desa_kelurahan": "Waangu-angu",
+    "kecamatan": "Pasarwajo",
+    "kabupaten_kota": "KAB. BUTON",
+    "provinsi": "SULAWESI TENGGARA"
+  },
+  {
+    "no": "5",
+    "kodepos": "95373",
+    "desa_kelurahan": "Warisa Kampung Baru",
+    "kecamatan": "Talawaan",
+    "kabupaten_kota": "KAB. MINAHASA UTARA",
+    "provinsi": "SULAWESI UTARA"
+  },
+  {
+    "no": "6",
+    "kodepos": "95373",
+    "desa_kelurahan": "Paniki Baru",
+    "kecamatan": "Talawaan",
+    "kabupaten_kota": "KAB. MINAHASA UTARA",
+    "provinsi": "SULAWESI UTARA"
+  },
+  {
+    "no": "7",
+    "kodepos": "95376",
+    "desa_kelurahan": "Talawaan Bantik",
+    "kecamatan": "Wori",
+    "kabupaten_kota": "KAB. MINAHASA UTARA",
+    "provinsi": "SULAWESI UTARA"
+  },
+  {
+    "no": "8",
+    "kodepos": "95376",
+    "desa_kelurahan": "Talawaan Atas",
+    "kecamatan": "Wori",
+    "kabupaten_kota": "KAB. MINAHASA UTARA",
+    "provinsi": "SULAWESI UTARA"
+  },
+  {
+    "no": "9",
+    "kodepos": "95377",
+    "desa_kelurahan": "Wusa",
+    "kecamatan": "Talawaan",
+    "kabupaten_kota": "KAB. MINAHASA UTARA",
+    "provinsi": "SULAWESI UTARA"
+  },
+  {
+    "no": "10",
+    "kodepos": "95377",
+    "desa_kelurahan": "Patokaan",
+    "kecamatan": "Talawaan",
+    "kabupaten_kota": "KAB. MINAHASA UTARA",
+    "provinsi": "SULAWESI UTARA"
+  },
+  {
+    "no": "11",
+    "kodepos": "95377",
+    "desa_kelurahan": "Warisa",
+    "kecamatan": "Talawaan",
+    "kabupaten_kota": "KAB. MINAHASA UTARA",
+    "provinsi": "SULAWESI UTARA"
+  },
+  {
+    "no": "12",
+    "kodepos": "95377",
+    "desa_kelurahan": "Kolongan",
+    "kecamatan": "Talawaan",
+    "kabupaten_kota": "KAB. MINAHASA UTARA",
+    "provinsi": "SULAWESI UTARA"
+  },
+  {
+    "no": "13",
+    "kodepos": "95377",
+    "desa_kelurahan": "Tumbohon",
+    "kecamatan": "Talawaan",
+    "kabupaten_kota": "KAB. MINAHASA UTARA",
+    "provinsi": "SULAWESI UTARA"
+  },
+  {
+    "no": "14",
+    "kodepos": "95377",
+    "desa_kelurahan": "Winetin",
+    "kecamatan": "Talawaan",
+    "kabupaten_kota": "KAB. MINAHASA UTARA",
+    "provinsi": "SULAWESI UTARA"
+  },
+  {
+    "no": "15",
+    "kodepos": "95377",
+    "desa_kelurahan": "Paniki Atas",
+    "kecamatan": "Talawaan",
+    "kabupaten_kota": "KAB. MINAHASA UTARA",
+    "provinsi": "SULAWESI UTARA"
+  },
+  {
+    "no": "16",
+    "kodepos": "95377",
+    "desa_kelurahan": "Mapanget",
+    "kecamatan": "Talawaan",
+    "kabupaten_kota": "KAB. MINAHASA UTARA",
+    "provinsi": "SULAWESI UTARA"
+  },
+  {
+    "no": "17",
+    "kodepos": "95377",
+    "desa_kelurahan": "Talawaan",
+    "kecamatan": "Talawaan",
+    "kabupaten_kota": "KAB. MINAHASA UTARA",
+    "provinsi": "SULAWESI UTARA"
+  },
+  {
+    "no": "18",
+    "kodepos": "95377",
+    "desa_kelurahan": "Teepwarisa",
+    "kecamatan": "Talawaan",
+    "kabupaten_kota": "KAB. MINAHASA UTARA",
+    "provinsi": "SULAWESI UTARA"
+  },
+  {
+    "no": "19",
+    "kodepos": "95381",
+    "desa_kelurahan": "Suwaan",
+    "kecamatan": "Kalawat",
+    "kabupaten_kota": "KAB. MINAHASA UTARA",
+    "provinsi": "SULAWESI UTARA"
+  },
+  {
+    "no": "20",
+    "kodepos": "95532",
+    "desa_kelurahan": "Tewaan",
+    "kecamatan": "Ranowulu",
+    "kabupaten_kota": "KOTA BITUNG",
+    "provinsi": "SULAWESI UTARA"
+  },
+  {
+    "no": "21",
+    "kodepos": "95955",
+    "desa_kelurahan": "Tawaang Barat",
+    "kecamatan": "Tenga",
+    "kabupaten_kota": "KAB. MINAHASA SELATAN",
+    "provinsi": "SULAWESI UTARA"
+  },
+  {
+    "no": "22",
+    "kodepos": "95955",
+    "desa_kelurahan": "Tawaang",
+    "kecamatan": "Tenga",
+    "kabupaten_kota": "KAB. MINAHASA SELATAN",
+    "provinsi": "SULAWESI UTARA"
+  },
+  {
+    "no": "23",
+    "kodepos": "95955",
+    "desa_kelurahan": "Tawaang Timur",
+    "kecamatan": "Tenga",
+    "kabupaten_kota": "KAB. MINAHASA SELATAN",
+    "provinsi": "SULAWESI UTARA"
+  },
+  {
+    "no": "24",
+    "kodepos": "99687",
+    "desa_kelurahan": "Dafnawanga",
+    "kecamatan": "Waan",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "25",
+    "kodepos": "99687",
+    "desa_kelurahan": "Kladar",
+    "kecamatan": "Waan",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "26",
+    "kodepos": "99687",
+    "desa_kelurahan": "Konorau",
+    "kecamatan": "Waan",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "27",
+    "kodepos": "99687",
+    "desa_kelurahan": "Waan",
+    "kecamatan": "Waan",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "28",
+    "kodepos": "99687",
+    "desa_kelurahan": "Sabon",
+    "kecamatan": "Waan",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "29",
+    "kodepos": "99687",
+    "desa_kelurahan": "Toor",
+    "kecamatan": "Waan",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "1",
+    "kodepos": "99686",
+    "desa_kelurahan": "Tabonji",
+    "kecamatan": "Tabonji",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "2",
+    "kodepos": "99686",
+    "desa_kelurahan": "Iromoro",
+    "kecamatan": "Tabonji",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "3",
+    "kodepos": "99686",
+    "desa_kelurahan": "Wanggambi",
+    "kecamatan": "Tabonji",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "4",
+    "kodepos": "99686",
+    "desa_kelurahan": "Konjombando",
+    "kecamatan": "Tabonji",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "5",
+    "kodepos": "99686",
+    "desa_kelurahan": "Yamuka",
+    "kecamatan": "Tabonji",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "6",
+    "kodepos": "99686",
+    "desa_kelurahan": "Yeraha",
+    "kecamatan": "Tabonji",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "7",
+    "kodepos": "99686",
+    "desa_kelurahan": "Suam",
+    "kecamatan": "Tabonji",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "1",
+    "kodepos": "99688",
+    "desa_kelurahan": "Uli Uli",
+    "kecamatan": "Ilwayab",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "2",
+    "kodepos": "99688",
+    "desa_kelurahan": "Wanam",
+    "kecamatan": "Ilwayab",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "3",
+    "kodepos": "99688",
+    "desa_kelurahan": "Wogekel",
+    "kecamatan": "Ilwayab",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "4",
+    "kodepos": "99688",
+    "desa_kelurahan": "Bibikem",
+    "kecamatan": "Ilwayab",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "1",
+    "kodepos": "69175",
+    "desa_kelurahan": "Batokaban",
+    "kecamatan": "Konang",
+    "kabupaten_kota": "KAB. BANGKALAN",
+    "provinsi": "JAWA TIMUR"
+  },
+  {
+    "no": "2",
+    "kodepos": "99654",
+    "desa_kelurahan": "Alaku",
+    "kecamatan": "Okaba",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "3",
+    "kodepos": "99654",
+    "desa_kelurahan": "Sanggase",
+    "kecamatan": "Okaba",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "4",
+    "kodepos": "99654",
+    "desa_kelurahan": "Makaling",
+    "kecamatan": "Okaba",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "5",
+    "kodepos": "99654",
+    "desa_kelurahan": "Duf Miraf",
+    "kecamatan": "Okaba",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "6",
+    "kodepos": "99654",
+    "desa_kelurahan": "Alatep",
+    "kecamatan": "Okaba",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "7",
+    "kodepos": "99654",
+    "desa_kelurahan": "Iwol",
+    "kecamatan": "Okaba",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "8",
+    "kodepos": "99654",
+    "desa_kelurahan": "Okaba",
+    "kecamatan": "Okaba",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "9",
+    "kodepos": "99654",
+    "desa_kelurahan": "Wambi",
+    "kecamatan": "Okaba",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "10",
+    "kodepos": "99654",
+    "desa_kelurahan": "Es Wambi",
+    "kecamatan": "Okaba",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "1",
+    "kodepos": "78357",
+    "desa_kelurahan": "Tubang Raeng",
+    "kecamatan": "Jelimpo",
+    "kabupaten_kota": "KAB. LANDAK",
+    "provinsi": "KALIMANTAN BARAT"
+  },
+  {
+    "no": "2",
+    "kodepos": "78758",
+    "desa_kelurahan": "Tubang Jaya",
+    "kecamatan": "Boyan Tanjung",
+    "kabupaten_kota": "KAB. KAPUAS HULU",
+    "provinsi": "KALIMANTAN BARAT"
+  },
+  {
+    "no": "3",
+    "kodepos": "93116",
+    "desa_kelurahan": "Watubangga",
+    "kecamatan": "Baruga",
+    "kabupaten_kota": "KOTA KENDARI",
+    "provinsi": "SULAWESI TENGGARA"
+  },
+  {
+    "no": "4",
+    "kodepos": "93563",
+    "desa_kelurahan": "Kukutio",
+    "kecamatan": "Watubangga",
+    "kabupaten_kota": "KAB. KOLAKA",
+    "provinsi": "SULAWESI TENGGARA"
+  },
+  {
+    "no": "5",
+    "kodepos": "93563",
+    "desa_kelurahan": "Peoho",
+    "kecamatan": "Watubangga",
+    "kabupaten_kota": "KAB. KOLAKA",
+    "provinsi": "SULAWESI TENGGARA"
+  },
+  {
+    "no": "6",
+    "kodepos": "93563",
+    "desa_kelurahan": "Polenga",
+    "kecamatan": "Watubangga",
+    "kabupaten_kota": "KAB. KOLAKA",
+    "provinsi": "SULAWESI TENGGARA"
+  },
+  {
+    "no": "7",
+    "kodepos": "93563",
+    "desa_kelurahan": "Mataosu",
+    "kecamatan": "Watubangga",
+    "kabupaten_kota": "KAB. KOLAKA",
+    "provinsi": "SULAWESI TENGGARA"
+  },
+  {
+    "no": "8",
+    "kodepos": "93563",
+    "desa_kelurahan": "Langgosipi",
+    "kecamatan": "Watubangga",
+    "kabupaten_kota": "KAB. KOLAKA",
+    "provinsi": "SULAWESI TENGGARA"
+  },
+  {
+    "no": "9",
+    "kodepos": "93563",
+    "desa_kelurahan": "Mataosu Ujung",
+    "kecamatan": "Watubangga",
+    "kabupaten_kota": "KAB. KOLAKA",
+    "provinsi": "SULAWESI TENGGARA"
+  },
+  {
+    "no": "10",
+    "kodepos": "93563",
+    "desa_kelurahan": "Sumber Rejeki",
+    "kecamatan": "Watubangga",
+    "kabupaten_kota": "KAB. KOLAKA",
+    "provinsi": "SULAWESI TENGGARA"
+  },
+  {
+    "no": "11",
+    "kodepos": "93563",
+    "desa_kelurahan": "Kastura",
+    "kecamatan": "Watubangga",
+    "kabupaten_kota": "KAB. KOLAKA",
+    "provinsi": "SULAWESI TENGGARA"
+  },
+  {
+    "no": "12",
+    "kodepos": "93563",
+    "desa_kelurahan": "Tandebura",
+    "kecamatan": "Watubangga",
+    "kabupaten_kota": "KAB. KOLAKA",
+    "provinsi": "SULAWESI TENGGARA"
+  },
+  {
+    "no": "13",
+    "kodepos": "93563",
+    "desa_kelurahan": "Lamundre",
+    "kecamatan": "Watubangga",
+    "kabupaten_kota": "KAB. KOLAKA",
+    "provinsi": "SULAWESI TENGGARA"
+  },
+  {
+    "no": "14",
+    "kodepos": "93563",
+    "desa_kelurahan": "Gunung Sari",
+    "kecamatan": "Watubangga",
+    "kabupaten_kota": "KAB. KOLAKA",
+    "provinsi": "SULAWESI TENGGARA"
+  },
+  {
+    "no": "15",
+    "kodepos": "93563",
+    "desa_kelurahan": "Ranoteta",
+    "kecamatan": "Watubangga",
+    "kabupaten_kota": "KAB. KOLAKA",
+    "provinsi": "SULAWESI TENGGARA"
+  },
+  {
+    "no": "16",
+    "kodepos": "93563",
+    "desa_kelurahan": "Wolulu",
+    "kecamatan": "Watubangga",
+    "kabupaten_kota": "KAB. KOLAKA",
+    "provinsi": "SULAWESI TENGGARA"
+  },
+  {
+    "no": "17",
+    "kodepos": "93563",
+    "desa_kelurahan": "Watubangga",
+    "kecamatan": "Watubangga",
+    "kabupaten_kota": "KAB. KOLAKA",
+    "provinsi": "SULAWESI TENGGARA"
+  },
+  {
+    "no": "18",
+    "kodepos": "97973",
+    "desa_kelurahan": "Tubang",
+    "kecamatan": "Taliabu Timur",
+    "kabupaten_kota": "KAB. PULAU TALIABU",
+    "provinsi": "MALUKU UTARA"
+  },
+  {
+    "no": "19",
+    "kodepos": "99683",
+    "desa_kelurahan": "Welbuti",
+    "kecamatan": "Tubang",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "20",
+    "kodepos": "99683",
+    "desa_kelurahan": "Yowied",
+    "kecamatan": "Tubang",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "21",
+    "kodepos": "99683",
+    "desa_kelurahan": "Wamal",
+    "kecamatan": "Tubang",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "22",
+    "kodepos": "99683",
+    "desa_kelurahan": "Woboyo",
+    "kecamatan": "Tubang",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "23",
+    "kodepos": "99683",
+    "desa_kelurahan": "Dokib",
+    "kecamatan": "Tubang",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "24",
+    "kodepos": "99683",
+    "desa_kelurahan": "Dodalim",
+    "kecamatan": "Tubang",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "1",
+    "kodepos": "99632",
+    "desa_kelurahan": "Ngguti Bob",
+    "kecamatan": "Tanah Miring",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "2",
+    "kodepos": "99682",
+    "desa_kelurahan": "Nakias",
+    "kecamatan": "Ngguti",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "3",
+    "kodepos": "99682",
+    "desa_kelurahan": "Yawimu",
+    "kecamatan": "Ngguti",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "4",
+    "kodepos": "99682",
+    "desa_kelurahan": "Yomop",
+    "kecamatan": "Ngguti",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "5",
+    "kodepos": "99682",
+    "desa_kelurahan": "Salam Epe",
+    "kecamatan": "Ngguti",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "6",
+    "kodepos": "99682",
+    "desa_kelurahan": "Taga Epe",
+    "kecamatan": "Ngguti",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "7",
+    "kodepos": "99682",
+    "desa_kelurahan": "Po-Epe",
+    "kecamatan": "Ngguti",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "1",
+    "kodepos": "99681",
+    "desa_kelurahan": "Ihalik",
+    "kecamatan": "Kaptel",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "2",
+    "kodepos": "99681",
+    "desa_kelurahan": "Bu Epe",
+    "kecamatan": "Kaptel",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "3",
+    "kodepos": "99681",
+    "desa_kelurahan": "Kaniskobat",
+    "kecamatan": "Kaptel",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "4",
+    "kodepos": "99681",
+    "desa_kelurahan": "Kwemsid",
+    "kecamatan": "Kaptel",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "5",
+    "kodepos": "99681",
+    "desa_kelurahan": "Kaptel",
+    "kecamatan": "Kaptel",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "1",
+    "kodepos": "98975",
+    "desa_kelurahan": "Kurikpulok",
+    "kecamatan": "Ilu",
+    "kabupaten_kota": "KAB. PUNCAK JAYA",
+    "provinsi": "PAPUA TENGAH"
+  },
+  {
+    "no": "2",
+    "kodepos": "99425",
+    "desa_kelurahan": "Kurik",
+    "kecamatan": "Kuari",
+    "kabupaten_kota": "KAB. TOLIKARA",
+    "provinsi": "PAPUA PEGUNUNGAN"
+  },
+  {
+    "no": "3",
+    "kodepos": "99432",
+    "desa_kelurahan": "Kurik",
+    "kecamatan": "Gundagi",
+    "kabupaten_kota": "KAB. TOLIKARA",
+    "provinsi": "PAPUA PEGUNUNGAN"
+  },
+  {
+    "no": "4",
+    "kodepos": "99483",
+    "desa_kelurahan": "Bukurik",
+    "kecamatan": "Abenaho",
+    "kabupaten_kota": "KAB. YALIMO",
+    "provinsi": "PAPUA PEGUNUNGAN"
+  },
+  {
+    "no": "5",
+    "kodepos": "99656",
+    "desa_kelurahan": "Jaya Makmur",
+    "kecamatan": "Kurik",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "6",
+    "kodepos": "99656",
+    "desa_kelurahan": "Telaga Sari",
+    "kecamatan": "Kurik",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "7",
+    "kodepos": "99656",
+    "desa_kelurahan": "Kurik",
+    "kecamatan": "Kurik",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "8",
+    "kodepos": "99656",
+    "desa_kelurahan": "Salor Indah",
+    "kecamatan": "Kurik",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "9",
+    "kodepos": "99656",
+    "desa_kelurahan": "Wapeko",
+    "kecamatan": "Kurik",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "10",
+    "kodepos": "99656",
+    "desa_kelurahan": "Kaliki",
+    "kecamatan": "Kurik",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "11",
+    "kodepos": "99656",
+    "desa_kelurahan": "Ivimahad",
+    "kecamatan": "Kurik",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "12",
+    "kodepos": "99656",
+    "desa_kelurahan": "Wonorejo",
+    "kecamatan": "Kurik",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "13",
+    "kodepos": "99656",
+    "desa_kelurahan": "Sumber Mulya",
+    "kecamatan": "Kurik",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "14",
+    "kodepos": "99656",
+    "desa_kelurahan": "Harapan Makmur",
+    "kecamatan": "Kurik",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "15",
+    "kodepos": "99656",
+    "desa_kelurahan": "Sumber Rejeki",
+    "kecamatan": "Kurik",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "16",
+    "kodepos": "99656",
+    "desa_kelurahan": "Candra Jaya",
+    "kecamatan": "Kurik",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "17",
+    "kodepos": "99656",
+    "desa_kelurahan": "Anum Bob",
+    "kecamatan": "Kurik",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "1",
+    "kodepos": "99658",
+    "desa_kelurahan": "Kumbe",
+    "kecamatan": "Malind",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "2",
+    "kodepos": "99658",
+    "desa_kelurahan": "Padang Raharja",
+    "kecamatan": "Malind",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "3",
+    "kodepos": "99658",
+    "desa_kelurahan": "Kaiburse",
+    "kecamatan": "Malind",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "4",
+    "kodepos": "99658",
+    "desa_kelurahan": "Onggari",
+    "kecamatan": "Malind",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "5",
+    "kodepos": "99658",
+    "desa_kelurahan": "Domande",
+    "kecamatan": "Malind",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "6",
+    "kodepos": "99658",
+    "desa_kelurahan": "Rawa Sari",
+    "kecamatan": "Malind",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "7",
+    "kodepos": "99658",
+    "desa_kelurahan": "Suka Maju",
+    "kecamatan": "Malind",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
   }
 ]

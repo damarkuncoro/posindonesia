@@ -1,0 +1,5538 @@
+[
+  {
+    "no": "1",
+    "kodepos": "99611",
+    "desa_kelurahan": "Rimba Jaya",
+    "kecamatan": "Merauke",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "2",
+    "kodepos": "99612",
+    "desa_kelurahan": "Kamundu",
+    "kecamatan": "Merauke",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "3",
+    "kodepos": "99612",
+    "desa_kelurahan": "Kelapa Lima",
+    "kecamatan": "Merauke",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "4",
+    "kodepos": "99613",
+    "desa_kelurahan": "Kamahedoga",
+    "kecamatan": "Merauke",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "5",
+    "kodepos": "99613",
+    "desa_kelurahan": "Maro",
+    "kecamatan": "Merauke",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "6",
+    "kodepos": "99614",
+    "desa_kelurahan": "Karang Indah",
+    "kecamatan": "Merauke",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "7",
+    "kodepos": "99614",
+    "desa_kelurahan": "Buti",
+    "kecamatan": "Merauke",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "8",
+    "kodepos": "99615",
+    "desa_kelurahan": "Samkai",
+    "kecamatan": "Merauke",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "9",
+    "kodepos": "99616",
+    "desa_kelurahan": "Muli",
+    "kecamatan": "Merauke",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "10",
+    "kodepos": "99616",
+    "desa_kelurahan": "Mandala",
+    "kecamatan": "Merauke",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "11",
+    "kodepos": "99617",
+    "desa_kelurahan": "Bambu Pemali",
+    "kecamatan": "Merauke",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "12",
+    "kodepos": "99618",
+    "desa_kelurahan": "Seringgu Jaya",
+    "kecamatan": "Merauke",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "13",
+    "kodepos": "99619",
+    "desa_kelurahan": "Nasem",
+    "kecamatan": "Merauke",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "14",
+    "kodepos": "99619",
+    "desa_kelurahan": "Bokem",
+    "kecamatan": "Merauke",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "15",
+    "kodepos": "99619",
+    "desa_kelurahan": "Nggolar",
+    "kecamatan": "Merauke",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "16",
+    "kodepos": "99619",
+    "desa_kelurahan": "Wasur",
+    "kecamatan": "Merauke",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "17",
+    "kodepos": "99631",
+    "desa_kelurahan": "Kuprik",
+    "kecamatan": "Semangga",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "18",
+    "kodepos": "99631",
+    "desa_kelurahan": "Waninggap Nanggo",
+    "kecamatan": "Semangga",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "19",
+    "kodepos": "99631",
+    "desa_kelurahan": "Semangga Jaya",
+    "kecamatan": "Semangga",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "20",
+    "kodepos": "99631",
+    "desa_kelurahan": "Waninggap Kai",
+    "kecamatan": "Semangga",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "21",
+    "kodepos": "99631",
+    "desa_kelurahan": "Kuper",
+    "kecamatan": "Semangga",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "22",
+    "kodepos": "99631",
+    "desa_kelurahan": "Muram Sari",
+    "kecamatan": "Semangga",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "23",
+    "kodepos": "99631",
+    "desa_kelurahan": "Marga Mulya",
+    "kecamatan": "Semangga",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "24",
+    "kodepos": "99631",
+    "desa_kelurahan": "Matara",
+    "kecamatan": "Semangga",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "25",
+    "kodepos": "99631",
+    "desa_kelurahan": "Urumb",
+    "kecamatan": "Semangga",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "26",
+    "kodepos": "99631",
+    "desa_kelurahan": "Sido Mulyo",
+    "kecamatan": "Semangga",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "27",
+    "kodepos": "99632",
+    "desa_kelurahan": "Ngguti Bob",
+    "kecamatan": "Tanah Miring",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "28",
+    "kodepos": "99632",
+    "desa_kelurahan": "Tambat",
+    "kecamatan": "Tanah Miring",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "29",
+    "kodepos": "99632",
+    "desa_kelurahan": "Sarmayam Indah",
+    "kecamatan": "Tanah Miring",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "30",
+    "kodepos": "99632",
+    "desa_kelurahan": "Isano Mbias",
+    "kecamatan": "Tanah Miring",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "31",
+    "kodepos": "99632",
+    "desa_kelurahan": "Soa",
+    "kecamatan": "Tanah Miring",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "32",
+    "kodepos": "99632",
+    "desa_kelurahan": "Kamangi",
+    "kecamatan": "Tanah Miring",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "33",
+    "kodepos": "99632",
+    "desa_kelurahan": "Waninggap Miraf",
+    "kecamatan": "Tanah Miring",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "34",
+    "kodepos": "99632",
+    "desa_kelurahan": "Bersehati",
+    "kecamatan": "Tanah Miring",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "35",
+    "kodepos": "99632",
+    "desa_kelurahan": "Yaba Maru",
+    "kecamatan": "Tanah Miring",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "36",
+    "kodepos": "99632",
+    "desa_kelurahan": "Waninggap Say",
+    "kecamatan": "Tanah Miring",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "37",
+    "kodepos": "99632",
+    "desa_kelurahan": "Sumber Harapan",
+    "kecamatan": "Tanah Miring",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "38",
+    "kodepos": "99632",
+    "desa_kelurahan": "Hidup Baru",
+    "kecamatan": "Tanah Miring",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "39",
+    "kodepos": "99632",
+    "desa_kelurahan": "Yasa Mulya",
+    "kecamatan": "Tanah Miring",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "40",
+    "kodepos": "99632",
+    "desa_kelurahan": "Amun Kay",
+    "kecamatan": "Tanah Miring",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "41",
+    "kodepos": "99633",
+    "desa_kelurahan": "Bumun",
+    "kecamatan": "Elikobal",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "42",
+    "kodepos": "99633",
+    "desa_kelurahan": "Bupul",
+    "kecamatan": "Elikobal",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "43",
+    "kodepos": "99633",
+    "desa_kelurahan": "Bupul Indah",
+    "kecamatan": "Elikobal",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "44",
+    "kodepos": "99633",
+    "desa_kelurahan": "Tanas",
+    "kecamatan": "Elikobal",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "45",
+    "kodepos": "99633",
+    "desa_kelurahan": "Sipias",
+    "kecamatan": "Elikobal",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "46",
+    "kodepos": "99633",
+    "desa_kelurahan": "Bouwer",
+    "kecamatan": "Elikobal",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "47",
+    "kodepos": "99633",
+    "desa_kelurahan": "Gerisar",
+    "kecamatan": "Elikobal",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "48",
+    "kodepos": "99633",
+    "desa_kelurahan": "Bunggay",
+    "kecamatan": "Elikobal",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "49",
+    "kodepos": "99633",
+    "desa_kelurahan": "Enggal Jaya",
+    "kecamatan": "Elikobal",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "50",
+    "kodepos": "99633",
+    "desa_kelurahan": "Metaat Makmur",
+    "kecamatan": "Elikobal",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "51",
+    "kodepos": "99633",
+    "desa_kelurahan": "Tof-Tof",
+    "kecamatan": "Elikobal",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "52",
+    "kodepos": "99633",
+    "desa_kelurahan": "Kweel",
+    "kecamatan": "Elikobal",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "53",
+    "kodepos": "99635",
+    "desa_kelurahan": "Kindiki",
+    "kecamatan": "Ulilin",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "54",
+    "kodepos": "99635",
+    "desa_kelurahan": "Kafyamke",
+    "kecamatan": "Ulilin",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "55",
+    "kodepos": "99635",
+    "desa_kelurahan": "Kandrakay",
+    "kecamatan": "Ulilin",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "56",
+    "kodepos": "99635",
+    "desa_kelurahan": "Rawahayu",
+    "kecamatan": "Ulilin",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "57",
+    "kodepos": "99635",
+    "desa_kelurahan": "Kumaaf",
+    "kecamatan": "Ulilin",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "58",
+    "kodepos": "99635",
+    "desa_kelurahan": "Mandekman",
+    "kecamatan": "Ulilin",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "59",
+    "kodepos": "99635",
+    "desa_kelurahan": "Kir-ely",
+    "kecamatan": "Ulilin",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "60",
+    "kodepos": "99635",
+    "desa_kelurahan": "Nggayu",
+    "kecamatan": "Ulilin",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "61",
+    "kodepos": "99635",
+    "desa_kelurahan": "Belbeland",
+    "kecamatan": "Ulilin",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "62",
+    "kodepos": "99635",
+    "desa_kelurahan": "Baidub",
+    "kecamatan": "Ulilin",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "63",
+    "kodepos": "99635",
+    "desa_kelurahan": "Selil",
+    "kecamatan": "Ulilin",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "64",
+    "kodepos": "99641",
+    "desa_kelurahan": "Sigad",
+    "kecamatan": "Padua",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "65",
+    "kodepos": "99641",
+    "desa_kelurahan": "Sabudon",
+    "kecamatan": "Padua",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "66",
+    "kodepos": "99641",
+    "desa_kelurahan": "Padua",
+    "kecamatan": "Padua",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "67",
+    "kodepos": "99642",
+    "desa_kelurahan": "Bamol II",
+    "kecamatan": "Padua",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "68",
+    "kodepos": "99642",
+    "desa_kelurahan": "Bamol I",
+    "kecamatan": "Padua",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "69",
+    "kodepos": "99645",
+    "desa_kelurahan": "Mimi Baru",
+    "kecamatan": "Jagebob",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "70",
+    "kodepos": "99645",
+    "desa_kelurahan": "Wenda Asri",
+    "kecamatan": "Jagebob",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "71",
+    "kodepos": "99645",
+    "desa_kelurahan": "Obaat Throw",
+    "kecamatan": "Jagebob",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "72",
+    "kodepos": "99645",
+    "desa_kelurahan": "Jagebob Raya",
+    "kecamatan": "Jagebob",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "73",
+    "kodepos": "99645",
+    "desa_kelurahan": "Kamno Sari",
+    "kecamatan": "Jagebob",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "74",
+    "kodepos": "99645",
+    "desa_kelurahan": "Gurinda Jaya",
+    "kecamatan": "Jagebob",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "75",
+    "kodepos": "99645",
+    "desa_kelurahan": "Kartini",
+    "kecamatan": "Jagebob",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "76",
+    "kodepos": "99645",
+    "desa_kelurahan": "Nalkin",
+    "kecamatan": "Jagebob",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "77",
+    "kodepos": "99645",
+    "desa_kelurahan": "Angger Permegi",
+    "kecamatan": "Jagebob",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "78",
+    "kodepos": "99645",
+    "desa_kelurahan": "Yemunain Jaya",
+    "kecamatan": "Jagebob",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "79",
+    "kodepos": "99645",
+    "desa_kelurahan": "Makarti Jaya",
+    "kecamatan": "Jagebob",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "80",
+    "kodepos": "99645",
+    "desa_kelurahan": "Poo",
+    "kecamatan": "Jagebob",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "81",
+    "kodepos": "99645",
+    "desa_kelurahan": "Blandin Kakayo",
+    "kecamatan": "Jagebob",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "82",
+    "kodepos": "99645",
+    "desa_kelurahan": "Melin Megikar",
+    "kecamatan": "Jagebob",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "83",
+    "kodepos": "99648",
+    "desa_kelurahan": "Yanggandur",
+    "kecamatan": "Sota",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "84",
+    "kodepos": "99648",
+    "desa_kelurahan": "Rawa Biru",
+    "kecamatan": "Sota",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "85",
+    "kodepos": "99648",
+    "desa_kelurahan": "Erambu",
+    "kecamatan": "Sota",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "86",
+    "kodepos": "99648",
+    "desa_kelurahan": "Toray",
+    "kecamatan": "Sota",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "87",
+    "kodepos": "99648",
+    "desa_kelurahan": "Sota",
+    "kecamatan": "Sota",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "88",
+    "kodepos": "99651",
+    "desa_kelurahan": "Tomer",
+    "kecamatan": "Naukenjerai",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "89",
+    "kodepos": "99651",
+    "desa_kelurahan": "Tomerau",
+    "kecamatan": "Naukenjerai",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "90",
+    "kodepos": "99651",
+    "desa_kelurahan": "Kondo",
+    "kecamatan": "Naukenjerai",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "91",
+    "kodepos": "99651",
+    "desa_kelurahan": "Kuler",
+    "kecamatan": "Naukenjerai",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "92",
+    "kodepos": "99651",
+    "desa_kelurahan": "Onggaya",
+    "kecamatan": "Naukenjerai",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "93",
+    "kodepos": "99652",
+    "desa_kelurahan": "Boha",
+    "kecamatan": "Muting",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "94",
+    "kodepos": "99652",
+    "desa_kelurahan": "Muting",
+    "kecamatan": "Muting",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "95",
+    "kodepos": "99652",
+    "desa_kelurahan": "Wan",
+    "kecamatan": "Muting",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "96",
+    "kodepos": "99652",
+    "desa_kelurahan": "Andaito",
+    "kecamatan": "Muting",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "97",
+    "kodepos": "99652",
+    "desa_kelurahan": "Kolam",
+    "kecamatan": "Muting",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "98",
+    "kodepos": "99652",
+    "desa_kelurahan": "Efkab Makmur",
+    "kecamatan": "Muting",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "99",
+    "kodepos": "99652",
+    "desa_kelurahan": "Manway Bop",
+    "kecamatan": "Muting",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "100",
+    "kodepos": "99652",
+    "desa_kelurahan": "Seed Agung",
+    "kecamatan": "Muting",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "101",
+    "kodepos": "99652",
+    "desa_kelurahan": "Selauw",
+    "kecamatan": "Muting",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "102",
+    "kodepos": "99652",
+    "desa_kelurahan": "Enggol Jaya",
+    "kecamatan": "Muting",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "103",
+    "kodepos": "99652",
+    "desa_kelurahan": "Pachas",
+    "kecamatan": "Muting",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "104",
+    "kodepos": "99652",
+    "desa_kelurahan": "Sigabel Jaya",
+    "kecamatan": "Muting",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "105",
+    "kodepos": "99654",
+    "desa_kelurahan": "Es Wambi",
+    "kecamatan": "Okaba",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "106",
+    "kodepos": "99654",
+    "desa_kelurahan": "Sanggase",
+    "kecamatan": "Okaba",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "107",
+    "kodepos": "99654",
+    "desa_kelurahan": "Makaling",
+    "kecamatan": "Okaba",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "108",
+    "kodepos": "99654",
+    "desa_kelurahan": "Duf Miraf",
+    "kecamatan": "Okaba",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "109",
+    "kodepos": "99654",
+    "desa_kelurahan": "Alatep",
+    "kecamatan": "Okaba",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "110",
+    "kodepos": "99654",
+    "desa_kelurahan": "Iwol",
+    "kecamatan": "Okaba",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "111",
+    "kodepos": "99654",
+    "desa_kelurahan": "Okaba",
+    "kecamatan": "Okaba",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "112",
+    "kodepos": "99654",
+    "desa_kelurahan": "Wambi",
+    "kecamatan": "Okaba",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "113",
+    "kodepos": "99654",
+    "desa_kelurahan": "Alaku",
+    "kecamatan": "Okaba",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "114",
+    "kodepos": "99655",
+    "desa_kelurahan": "Umanderu",
+    "kecamatan": "Kimaam",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "115",
+    "kodepos": "99655",
+    "desa_kelurahan": "Komolom",
+    "kecamatan": "Kimaam",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "116",
+    "kodepos": "99655",
+    "desa_kelurahan": "Teri",
+    "kecamatan": "Kimaam",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "117",
+    "kodepos": "99655",
+    "desa_kelurahan": "Kiworo",
+    "kecamatan": "Kimaam",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "118",
+    "kodepos": "99655",
+    "desa_kelurahan": "Mambum",
+    "kecamatan": "Kimaam",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "119",
+    "kodepos": "99655",
+    "desa_kelurahan": "Deka",
+    "kecamatan": "Kimaam",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "120",
+    "kodepos": "99655",
+    "desa_kelurahan": "Kimaam",
+    "kecamatan": "Kimaam",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "121",
+    "kodepos": "99655",
+    "desa_kelurahan": "Woner",
+    "kecamatan": "Kimaam",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "122",
+    "kodepos": "99655",
+    "desa_kelurahan": "Webu",
+    "kecamatan": "Kimaam",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "123",
+    "kodepos": "99655",
+    "desa_kelurahan": "Kalilam",
+    "kecamatan": "Kimaam",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "124",
+    "kodepos": "99655",
+    "desa_kelurahan": "Kumbis",
+    "kecamatan": "Kimaam",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "125",
+    "kodepos": "99655",
+    "desa_kelurahan": "Turiram",
+    "kecamatan": "Kimaam",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "126",
+    "kodepos": "99655",
+    "desa_kelurahan": "Purawanderu",
+    "kecamatan": "Kimaam",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "127",
+    "kodepos": "99656",
+    "desa_kelurahan": "Harapan Makmur",
+    "kecamatan": "Kurik",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "128",
+    "kodepos": "99656",
+    "desa_kelurahan": "Kurik",
+    "kecamatan": "Kurik",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "129",
+    "kodepos": "99656",
+    "desa_kelurahan": "Salor Indah",
+    "kecamatan": "Kurik",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "130",
+    "kodepos": "99656",
+    "desa_kelurahan": "Candra Jaya",
+    "kecamatan": "Kurik",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "131",
+    "kodepos": "99656",
+    "desa_kelurahan": "Anum Bob",
+    "kecamatan": "Kurik",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "132",
+    "kodepos": "99656",
+    "desa_kelurahan": "Telaga Sari",
+    "kecamatan": "Kurik",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "133",
+    "kodepos": "99656",
+    "desa_kelurahan": "Sumber Rejeki",
+    "kecamatan": "Kurik",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "134",
+    "kodepos": "99656",
+    "desa_kelurahan": "Wonorejo",
+    "kecamatan": "Kurik",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "135",
+    "kodepos": "99656",
+    "desa_kelurahan": "Sumber Mulya",
+    "kecamatan": "Kurik",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "136",
+    "kodepos": "99656",
+    "desa_kelurahan": "Jaya Makmur",
+    "kecamatan": "Kurik",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "137",
+    "kodepos": "99656",
+    "desa_kelurahan": "Kaliki",
+    "kecamatan": "Kurik",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "138",
+    "kodepos": "99656",
+    "desa_kelurahan": "Ivimahad",
+    "kecamatan": "Kurik",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "139",
+    "kodepos": "99656",
+    "desa_kelurahan": "Wapeko",
+    "kecamatan": "Kurik",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "140",
+    "kodepos": "99657",
+    "desa_kelurahan": "Kaisah",
+    "kecamatan": "Animha",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "141",
+    "kodepos": "99657",
+    "desa_kelurahan": "Senegi",
+    "kecamatan": "Animha",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "142",
+    "kodepos": "99657",
+    "desa_kelurahan": "Wayau",
+    "kecamatan": "Animha",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "143",
+    "kodepos": "99657",
+    "desa_kelurahan": "Koa",
+    "kecamatan": "Animha",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "144",
+    "kodepos": "99657",
+    "desa_kelurahan": "Baad",
+    "kecamatan": "Animha",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "145",
+    "kodepos": "99658",
+    "desa_kelurahan": "Suka Maju",
+    "kecamatan": "Malind",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "146",
+    "kodepos": "99658",
+    "desa_kelurahan": "Onggari",
+    "kecamatan": "Malind",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "147",
+    "kodepos": "99658",
+    "desa_kelurahan": "Padang Raharja",
+    "kecamatan": "Malind",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "148",
+    "kodepos": "99658",
+    "desa_kelurahan": "Kaiburse",
+    "kecamatan": "Malind",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "149",
+    "kodepos": "99658",
+    "desa_kelurahan": "Rawa Sari",
+    "kecamatan": "Malind",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "150",
+    "kodepos": "99658",
+    "desa_kelurahan": "Kumbe",
+    "kecamatan": "Malind",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "151",
+    "kodepos": "99658",
+    "desa_kelurahan": "Domande",
+    "kecamatan": "Malind",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "152",
+    "kodepos": "99681",
+    "desa_kelurahan": "Kwemsid",
+    "kecamatan": "Kaptel",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "153",
+    "kodepos": "99681",
+    "desa_kelurahan": "Kaniskobat",
+    "kecamatan": "Kaptel",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "154",
+    "kodepos": "99681",
+    "desa_kelurahan": "Kaptel",
+    "kecamatan": "Kaptel",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "155",
+    "kodepos": "99681",
+    "desa_kelurahan": "Bu Epe",
+    "kecamatan": "Kaptel",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "156",
+    "kodepos": "99681",
+    "desa_kelurahan": "Ihalik",
+    "kecamatan": "Kaptel",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "157",
+    "kodepos": "99682",
+    "desa_kelurahan": "Yawimu",
+    "kecamatan": "Ngguti",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "158",
+    "kodepos": "99682",
+    "desa_kelurahan": "Yomop",
+    "kecamatan": "Ngguti",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "159",
+    "kodepos": "99682",
+    "desa_kelurahan": "Taga Epe",
+    "kecamatan": "Ngguti",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "160",
+    "kodepos": "99682",
+    "desa_kelurahan": "Po-Epe",
+    "kecamatan": "Ngguti",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "161",
+    "kodepos": "99682",
+    "desa_kelurahan": "Salam Epe",
+    "kecamatan": "Ngguti",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "162",
+    "kodepos": "99682",
+    "desa_kelurahan": "Nakias",
+    "kecamatan": "Ngguti",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "163",
+    "kodepos": "99683",
+    "desa_kelurahan": "Dodalim",
+    "kecamatan": "Tubang",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "164",
+    "kodepos": "99683",
+    "desa_kelurahan": "Woboyo",
+    "kecamatan": "Tubang",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "165",
+    "kodepos": "99683",
+    "desa_kelurahan": "Yowied",
+    "kecamatan": "Tubang",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "166",
+    "kodepos": "99683",
+    "desa_kelurahan": "Wamal",
+    "kecamatan": "Tubang",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "167",
+    "kodepos": "99683",
+    "desa_kelurahan": "Dokib",
+    "kecamatan": "Tubang",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "168",
+    "kodepos": "99683",
+    "desa_kelurahan": "Welbuti",
+    "kecamatan": "Tubang",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "169",
+    "kodepos": "99686",
+    "desa_kelurahan": "Suam",
+    "kecamatan": "Tabonji",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "170",
+    "kodepos": "99686",
+    "desa_kelurahan": "Yamuka",
+    "kecamatan": "Tabonji",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "171",
+    "kodepos": "99686",
+    "desa_kelurahan": "Yeraha",
+    "kecamatan": "Tabonji",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "172",
+    "kodepos": "99686",
+    "desa_kelurahan": "Iromoro",
+    "kecamatan": "Tabonji",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "173",
+    "kodepos": "99686",
+    "desa_kelurahan": "Wanggambi",
+    "kecamatan": "Tabonji",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "174",
+    "kodepos": "99686",
+    "desa_kelurahan": "Tabonji",
+    "kecamatan": "Tabonji",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "175",
+    "kodepos": "99686",
+    "desa_kelurahan": "Konjombando",
+    "kecamatan": "Tabonji",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "176",
+    "kodepos": "99687",
+    "desa_kelurahan": "Waan",
+    "kecamatan": "Waan",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "177",
+    "kodepos": "99687",
+    "desa_kelurahan": "Konorau",
+    "kecamatan": "Waan",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "178",
+    "kodepos": "99687",
+    "desa_kelurahan": "Toor",
+    "kecamatan": "Waan",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "179",
+    "kodepos": "99687",
+    "desa_kelurahan": "Sabon",
+    "kecamatan": "Waan",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "180",
+    "kodepos": "99687",
+    "desa_kelurahan": "Dafnawanga",
+    "kecamatan": "Waan",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "181",
+    "kodepos": "99687",
+    "desa_kelurahan": "Kladar",
+    "kecamatan": "Waan",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "182",
+    "kodepos": "99687",
+    "desa_kelurahan": "Kawe",
+    "kecamatan": "Kontuar",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "183",
+    "kodepos": "99687",
+    "desa_kelurahan": "Sibenda",
+    "kecamatan": "Kontuar",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "184",
+    "kodepos": "99687",
+    "desa_kelurahan": "Pembri",
+    "kecamatan": "Kontuar",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "185",
+    "kodepos": "99687",
+    "desa_kelurahan": "Wetau",
+    "kecamatan": "Kontuar",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "186",
+    "kodepos": "99687",
+    "desa_kelurahan": "Wantarma",
+    "kecamatan": "Kontuar",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "187",
+    "kodepos": "99688",
+    "desa_kelurahan": "Uli Uli",
+    "kecamatan": "Ilwayab",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "188",
+    "kodepos": "99688",
+    "desa_kelurahan": "Bibikem",
+    "kecamatan": "Ilwayab",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "189",
+    "kodepos": "99688",
+    "desa_kelurahan": "Wanam",
+    "kecamatan": "Ilwayab",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "190",
+    "kodepos": "99688",
+    "desa_kelurahan": "Wogekel",
+    "kecamatan": "Ilwayab",
+    "kabupaten_kota": "KAB. MERAUKE",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "1",
+    "kodepos": "99661",
+    "desa_kelurahan": "Ujungkia",
+    "kecamatan": "Ki",
+    "kabupaten_kota": "KAB. BOVEN DIGOEL",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "2",
+    "kodepos": "99661",
+    "desa_kelurahan": "Obinangge",
+    "kecamatan": "Ki",
+    "kabupaten_kota": "KAB. BOVEN DIGOEL",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "3",
+    "kodepos": "99661",
+    "desa_kelurahan": "Watemu",
+    "kecamatan": "Ki",
+    "kabupaten_kota": "KAB. BOVEN DIGOEL",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "4",
+    "kodepos": "99661",
+    "desa_kelurahan": "Butiptiri",
+    "kecamatan": "Jair",
+    "kabupaten_kota": "KAB. BOVEN DIGOEL",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "5",
+    "kodepos": "99661",
+    "desa_kelurahan": "Asiki",
+    "kecamatan": "Jair",
+    "kabupaten_kota": "KAB. BOVEN DIGOEL",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "6",
+    "kodepos": "99661",
+    "desa_kelurahan": "Getentiri",
+    "kecamatan": "Jair",
+    "kabupaten_kota": "KAB. BOVEN DIGOEL",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "7",
+    "kodepos": "99661",
+    "desa_kelurahan": "Kapogu",
+    "kecamatan": "Jair",
+    "kabupaten_kota": "KAB. BOVEN DIGOEL",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "8",
+    "kodepos": "99661",
+    "desa_kelurahan": "Anggai",
+    "kecamatan": "Jair",
+    "kabupaten_kota": "KAB. BOVEN DIGOEL",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "9",
+    "kodepos": "99661",
+    "desa_kelurahan": "Miri",
+    "kecamatan": "Jair",
+    "kabupaten_kota": "KAB. BOVEN DIGOEL",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "10",
+    "kodepos": "99662",
+    "desa_kelurahan": "Wanggatkibi",
+    "kecamatan": "Mindiptana",
+    "kabupaten_kota": "KAB. BOVEN DIGOEL",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "11",
+    "kodepos": "99662",
+    "desa_kelurahan": "Amboran",
+    "kecamatan": "Sesnuk",
+    "kabupaten_kota": "KAB. BOVEN DIGOEL",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "12",
+    "kodepos": "99662",
+    "desa_kelurahan": "Epsembit",
+    "kecamatan": "Mindiptana",
+    "kabupaten_kota": "KAB. BOVEN DIGOEL",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "13",
+    "kodepos": "99662",
+    "desa_kelurahan": "Imko",
+    "kecamatan": "Mindiptana",
+    "kabupaten_kota": "KAB. BOVEN DIGOEL",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "14",
+    "kodepos": "99662",
+    "desa_kelurahan": "Awayanka",
+    "kecamatan": "Mindiptana",
+    "kabupaten_kota": "KAB. BOVEN DIGOEL",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "15",
+    "kodepos": "99662",
+    "desa_kelurahan": "Tinggam",
+    "kecamatan": "Mindiptana",
+    "kabupaten_kota": "KAB. BOVEN DIGOEL",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "16",
+    "kodepos": "99662",
+    "desa_kelurahan": "Kamka",
+    "kecamatan": "Mindiptana",
+    "kabupaten_kota": "KAB. BOVEN DIGOEL",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "17",
+    "kodepos": "99662",
+    "desa_kelurahan": "Sesnuk",
+    "kecamatan": "Sesnuk",
+    "kabupaten_kota": "KAB. BOVEN DIGOEL",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "18",
+    "kodepos": "99662",
+    "desa_kelurahan": "Osso",
+    "kecamatan": "Mindiptana",
+    "kabupaten_kota": "KAB. BOVEN DIGOEL",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "19",
+    "kodepos": "99662",
+    "desa_kelurahan": "Kanggup",
+    "kecamatan": "Sesnuk",
+    "kabupaten_kota": "KAB. BOVEN DIGOEL",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "20",
+    "kodepos": "99662",
+    "desa_kelurahan": "Niyimbang",
+    "kecamatan": "Mindiptana",
+    "kabupaten_kota": "KAB. BOVEN DIGOEL",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "21",
+    "kodepos": "99662",
+    "desa_kelurahan": "Anggamburan",
+    "kecamatan": "Sesnuk",
+    "kabupaten_kota": "KAB. BOVEN DIGOEL",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "22",
+    "kodepos": "99662",
+    "desa_kelurahan": "Mindiptana",
+    "kecamatan": "Mindiptana",
+    "kabupaten_kota": "KAB. BOVEN DIGOEL",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "23",
+    "kodepos": "99662",
+    "desa_kelurahan": "Anggumbit",
+    "kecamatan": "Mindiptana",
+    "kabupaten_kota": "KAB. BOVEN DIGOEL",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "24",
+    "kodepos": "99662",
+    "desa_kelurahan": "Andobit",
+    "kecamatan": "Mindiptana",
+    "kabupaten_kota": "KAB. BOVEN DIGOEL",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "25",
+    "kodepos": "99662",
+    "desa_kelurahan": "Umap",
+    "kecamatan": "Mindiptana",
+    "kabupaten_kota": "KAB. BOVEN DIGOEL",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "26",
+    "kodepos": "99662",
+    "desa_kelurahan": "Kakuna",
+    "kecamatan": "Mindiptana",
+    "kabupaten_kota": "KAB. BOVEN DIGOEL",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "27",
+    "kodepos": "99662",
+    "desa_kelurahan": "Yomkondo",
+    "kecamatan": "Sesnuk",
+    "kabupaten_kota": "KAB. BOVEN DIGOEL",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "28",
+    "kodepos": "99662",
+    "desa_kelurahan": "Langgoan",
+    "kecamatan": "Iniyandit",
+    "kabupaten_kota": "KAB. BOVEN DIGOEL",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "29",
+    "kodepos": "99662",
+    "desa_kelurahan": "Autriop",
+    "kecamatan": "Iniyandit",
+    "kabupaten_kota": "KAB. BOVEN DIGOEL",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "30",
+    "kodepos": "99662",
+    "desa_kelurahan": "Tetop",
+    "kecamatan": "Iniyandit",
+    "kabupaten_kota": "KAB. BOVEN DIGOEL",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "31",
+    "kodepos": "99662",
+    "desa_kelurahan": "Ogenatan",
+    "kecamatan": "Iniyandit",
+    "kabupaten_kota": "KAB. BOVEN DIGOEL",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "32",
+    "kodepos": "99662",
+    "desa_kelurahan": "Wariktop",
+    "kecamatan": "Iniyandit",
+    "kabupaten_kota": "KAB. BOVEN DIGOEL",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "33",
+    "kodepos": "99662",
+    "desa_kelurahan": "Kombut",
+    "kecamatan": "Kombut",
+    "kabupaten_kota": "KAB. BOVEN DIGOEL",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "34",
+    "kodepos": "99662",
+    "desa_kelurahan": "Moukbiran",
+    "kecamatan": "Kombut",
+    "kabupaten_kota": "KAB. BOVEN DIGOEL",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "35",
+    "kodepos": "99662",
+    "desa_kelurahan": "Amuan",
+    "kecamatan": "Kombut",
+    "kabupaten_kota": "KAB. BOVEN DIGOEL",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "36",
+    "kodepos": "99662",
+    "desa_kelurahan": "Kawangtet",
+    "kecamatan": "Kombut",
+    "kabupaten_kota": "KAB. BOVEN DIGOEL",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "37",
+    "kodepos": "99663",
+    "desa_kelurahan": "Mawan",
+    "kecamatan": "Mandobo",
+    "kabupaten_kota": "KAB. BOVEN DIGOEL",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "38",
+    "kodepos": "99663",
+    "desa_kelurahan": "Sokanggo",
+    "kecamatan": "Mandobo",
+    "kabupaten_kota": "KAB. BOVEN DIGOEL",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "39",
+    "kodepos": "99663",
+    "desa_kelurahan": "Persatuan",
+    "kecamatan": "Mandobo",
+    "kabupaten_kota": "KAB. BOVEN DIGOEL",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "40",
+    "kodepos": "99663",
+    "desa_kelurahan": "Mariam",
+    "kecamatan": "Mandobo",
+    "kabupaten_kota": "KAB. BOVEN DIGOEL",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "41",
+    "kodepos": "99663",
+    "desa_kelurahan": "Ampera",
+    "kecamatan": "Mandobo",
+    "kabupaten_kota": "KAB. BOVEN DIGOEL",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "42",
+    "kodepos": "99664",
+    "desa_kelurahan": "Kawaktembut",
+    "kecamatan": "Ninati",
+    "kabupaten_kota": "KAB. BOVEN DIGOEL",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "43",
+    "kodepos": "99664",
+    "desa_kelurahan": "Tembutka",
+    "kecamatan": "Ninati",
+    "kabupaten_kota": "KAB. BOVEN DIGOEL",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "44",
+    "kodepos": "99664",
+    "desa_kelurahan": "Timka",
+    "kecamatan": "Ninati",
+    "kabupaten_kota": "KAB. BOVEN DIGOEL",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "45",
+    "kodepos": "99664",
+    "desa_kelurahan": "Ninati",
+    "kecamatan": "Ninati",
+    "kabupaten_kota": "KAB. BOVEN DIGOEL",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "46",
+    "kodepos": "99664",
+    "desa_kelurahan": "Upyetetko",
+    "kecamatan": "Ninati",
+    "kabupaten_kota": "KAB. BOVEN DIGOEL",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "47",
+    "kodepos": "99664",
+    "desa_kelurahan": "Arimbit",
+    "kecamatan": "Ambatkwi",
+    "kabupaten_kota": "KAB. BOVEN DIGOEL",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "48",
+    "kodepos": "99664",
+    "desa_kelurahan": "Anyumka",
+    "kecamatan": "Ambatkwi",
+    "kabupaten_kota": "KAB. BOVEN DIGOEL",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "49",
+    "kodepos": "99664",
+    "desa_kelurahan": "Kuken",
+    "kecamatan": "Ambatkwi",
+    "kabupaten_kota": "KAB. BOVEN DIGOEL",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "50",
+    "kodepos": "99664",
+    "desa_kelurahan": "Kolopkam",
+    "kecamatan": "Ambatkwi",
+    "kabupaten_kota": "KAB. BOVEN DIGOEL",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "51",
+    "kodepos": "99664",
+    "desa_kelurahan": "Awaken",
+    "kecamatan": "Ambatkwi",
+    "kabupaten_kota": "KAB. BOVEN DIGOEL",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "52",
+    "kodepos": "99664",
+    "desa_kelurahan": "Kanggewot",
+    "kecamatan": "Waropko",
+    "kabupaten_kota": "KAB. BOVEN DIGOEL",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "53",
+    "kodepos": "99664",
+    "desa_kelurahan": "Wametkapa",
+    "kecamatan": "Waropko",
+    "kabupaten_kota": "KAB. BOVEN DIGOEL",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "54",
+    "kodepos": "99664",
+    "desa_kelurahan": "Woropko",
+    "kecamatan": "Waropko",
+    "kabupaten_kota": "KAB. BOVEN DIGOEL",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "55",
+    "kodepos": "99664",
+    "desa_kelurahan": "Upkim",
+    "kecamatan": "Waropko",
+    "kabupaten_kota": "KAB. BOVEN DIGOEL",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "56",
+    "kodepos": "99664",
+    "desa_kelurahan": "Inggembit",
+    "kecamatan": "Waropko",
+    "kabupaten_kota": "KAB. BOVEN DIGOEL",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "57",
+    "kodepos": "99664",
+    "desa_kelurahan": "Jetetkun",
+    "kecamatan": "Waropko",
+    "kabupaten_kota": "KAB. BOVEN DIGOEL",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "58",
+    "kodepos": "99664",
+    "desa_kelurahan": "Winiktit",
+    "kecamatan": "Waropko",
+    "kabupaten_kota": "KAB. BOVEN DIGOEL",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "59",
+    "kodepos": "99664",
+    "desa_kelurahan": "Ikcan",
+    "kecamatan": "Waropko",
+    "kabupaten_kota": "KAB. BOVEN DIGOEL",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "60",
+    "kodepos": "99664",
+    "desa_kelurahan": "Wombon",
+    "kecamatan": "Waropko",
+    "kabupaten_kota": "KAB. BOVEN DIGOEL",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "61",
+    "kodepos": "99665",
+    "desa_kelurahan": "Kouh",
+    "kecamatan": "Kouh",
+    "kabupaten_kota": "KAB. BOVEN DIGOEL",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "62",
+    "kodepos": "99665",
+    "desa_kelurahan": "Jair",
+    "kecamatan": "Kouh",
+    "kabupaten_kota": "KAB. BOVEN DIGOEL",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "63",
+    "kodepos": "99665",
+    "desa_kelurahan": "Mandobo",
+    "kecamatan": "Kouh",
+    "kabupaten_kota": "KAB. BOVEN DIGOEL",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "64",
+    "kodepos": "99665",
+    "desa_kelurahan": "Kombai",
+    "kecamatan": "Kawagit",
+    "kabupaten_kota": "KAB. BOVEN DIGOEL",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "65",
+    "kodepos": "99665",
+    "desa_kelurahan": "Wanggom",
+    "kecamatan": "Kawagit",
+    "kabupaten_kota": "KAB. BOVEN DIGOEL",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "66",
+    "kodepos": "99665",
+    "desa_kelurahan": "Niop",
+    "kecamatan": "Kawagit",
+    "kabupaten_kota": "KAB. BOVEN DIGOEL",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "67",
+    "kodepos": "99665",
+    "desa_kelurahan": "Kawagit",
+    "kecamatan": "Kawagit",
+    "kabupaten_kota": "KAB. BOVEN DIGOEL",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "68",
+    "kodepos": "99667",
+    "desa_kelurahan": "Aifa",
+    "kecamatan": "Bomakia",
+    "kabupaten_kota": "KAB. BOVEN DIGOEL",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "69",
+    "kodepos": "99667",
+    "desa_kelurahan": "Bomakia II",
+    "kecamatan": "Bomakia",
+    "kabupaten_kota": "KAB. BOVEN DIGOEL",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "70",
+    "kodepos": "99667",
+    "desa_kelurahan": "Uni",
+    "kecamatan": "Bomakia",
+    "kabupaten_kota": "KAB. BOVEN DIGOEL",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "71",
+    "kodepos": "99667",
+    "desa_kelurahan": "Somi",
+    "kecamatan": "Bomakia",
+    "kabupaten_kota": "KAB. BOVEN DIGOEL",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "72",
+    "kodepos": "99667",
+    "desa_kelurahan": "Bomakia I",
+    "kecamatan": "Bomakia",
+    "kabupaten_kota": "KAB. BOVEN DIGOEL",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "73",
+    "kodepos": "99671",
+    "desa_kelurahan": "Ginggimop",
+    "kecamatan": "Arimop",
+    "kabupaten_kota": "KAB. BOVEN DIGOEL",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "74",
+    "kodepos": "99671",
+    "desa_kelurahan": "Maju",
+    "kecamatan": "Arimop",
+    "kabupaten_kota": "KAB. BOVEN DIGOEL",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "75",
+    "kodepos": "99671",
+    "desa_kelurahan": "Bukit",
+    "kecamatan": "Arimop",
+    "kabupaten_kota": "KAB. BOVEN DIGOEL",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "76",
+    "kodepos": "99671",
+    "desa_kelurahan": "Arimbet",
+    "kecamatan": "Arimop",
+    "kabupaten_kota": "KAB. BOVEN DIGOEL",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "77",
+    "kodepos": "99671",
+    "desa_kelurahan": "Patriot",
+    "kecamatan": "Arimop",
+    "kabupaten_kota": "KAB. BOVEN DIGOEL",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "78",
+    "kodepos": "99671",
+    "desa_kelurahan": "Ujung",
+    "kecamatan": "Arimop",
+    "kabupaten_kota": "KAB. BOVEN DIGOEL",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "79",
+    "kodepos": "99671",
+    "desa_kelurahan": "Aroa",
+    "kecamatan": "Arimop",
+    "kabupaten_kota": "KAB. BOVEN DIGOEL",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "80",
+    "kodepos": "99672",
+    "desa_kelurahan": "Domo",
+    "kecamatan": "Fofi",
+    "kabupaten_kota": "KAB. BOVEN DIGOEL",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "81",
+    "kodepos": "99672",
+    "desa_kelurahan": "Navini",
+    "kecamatan": "Fofi",
+    "kabupaten_kota": "KAB. BOVEN DIGOEL",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "82",
+    "kodepos": "99672",
+    "desa_kelurahan": "Bangun",
+    "kecamatan": "Fofi",
+    "kabupaten_kota": "KAB. BOVEN DIGOEL",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "83",
+    "kodepos": "99672",
+    "desa_kelurahan": "Sohokanggo",
+    "kecamatan": "Fofi",
+    "kabupaten_kota": "KAB. BOVEN DIGOEL",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "84",
+    "kodepos": "99672",
+    "desa_kelurahan": "Makmur",
+    "kecamatan": "Fofi",
+    "kabupaten_kota": "KAB. BOVEN DIGOEL",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "85",
+    "kodepos": "99672",
+    "desa_kelurahan": "Hamkhu",
+    "kecamatan": "Fofi",
+    "kabupaten_kota": "KAB. BOVEN DIGOEL",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "86",
+    "kodepos": "99672",
+    "desa_kelurahan": "Sadar",
+    "kecamatan": "Fofi",
+    "kabupaten_kota": "KAB. BOVEN DIGOEL",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "87",
+    "kodepos": "99672",
+    "desa_kelurahan": "Hello",
+    "kecamatan": "Fofi",
+    "kabupaten_kota": "KAB. BOVEN DIGOEL",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "88",
+    "kodepos": "99673",
+    "desa_kelurahan": "Kewam",
+    "kecamatan": "Manggelum",
+    "kabupaten_kota": "KAB. BOVEN DIGOEL",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "89",
+    "kodepos": "99673",
+    "desa_kelurahan": "Mangga Tiga",
+    "kecamatan": "Manggelum",
+    "kabupaten_kota": "KAB. BOVEN DIGOEL",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "90",
+    "kodepos": "99673",
+    "desa_kelurahan": "Bayanggop",
+    "kecamatan": "Manggelum",
+    "kabupaten_kota": "KAB. BOVEN DIGOEL",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "91",
+    "kodepos": "99673",
+    "desa_kelurahan": "Gaguop",
+    "kecamatan": "Manggelum",
+    "kabupaten_kota": "KAB. BOVEN DIGOEL",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "92",
+    "kodepos": "99673",
+    "desa_kelurahan": "Burunggop",
+    "kecamatan": "Manggelum",
+    "kabupaten_kota": "KAB. BOVEN DIGOEL",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "93",
+    "kodepos": "99673",
+    "desa_kelurahan": "Manggelum",
+    "kecamatan": "Manggelum",
+    "kabupaten_kota": "KAB. BOVEN DIGOEL",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "94",
+    "kodepos": "99674",
+    "desa_kelurahan": "Kabuwage",
+    "kecamatan": "Firiwage",
+    "kabupaten_kota": "KAB. BOVEN DIGOEL",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "95",
+    "kodepos": "99674",
+    "desa_kelurahan": "Karuwage",
+    "kecamatan": "Firiwage",
+    "kabupaten_kota": "KAB. BOVEN DIGOEL",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "96",
+    "kodepos": "99674",
+    "desa_kelurahan": "Firiwage",
+    "kecamatan": "Firiwage",
+    "kabupaten_kota": "KAB. BOVEN DIGOEL",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "97",
+    "kodepos": "99674",
+    "desa_kelurahan": "Waliburu",
+    "kecamatan": "Firiwage",
+    "kabupaten_kota": "KAB. BOVEN DIGOEL",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "98",
+    "kodepos": "99674",
+    "desa_kelurahan": "Biwage",
+    "kecamatan": "Kawagit",
+    "kabupaten_kota": "KAB. BOVEN DIGOEL",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "99",
+    "kodepos": "99674",
+    "desa_kelurahan": "Biwage Dua",
+    "kecamatan": "Kawagit",
+    "kabupaten_kota": "KAB. BOVEN DIGOEL",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "100",
+    "kodepos": "99675",
+    "desa_kelurahan": "Fefero",
+    "kecamatan": "Yaniruma",
+    "kabupaten_kota": "KAB. BOVEN DIGOEL",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "101",
+    "kodepos": "99675",
+    "desa_kelurahan": "Yaniruma",
+    "kecamatan": "Yaniruma",
+    "kabupaten_kota": "KAB. BOVEN DIGOEL",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "102",
+    "kodepos": "99675",
+    "desa_kelurahan": "Manggemahe",
+    "kecamatan": "Yaniruma",
+    "kabupaten_kota": "KAB. BOVEN DIGOEL",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "103",
+    "kodepos": "99675",
+    "desa_kelurahan": "Dema",
+    "kecamatan": "Kombay",
+    "kabupaten_kota": "KAB. BOVEN DIGOEL",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "104",
+    "kodepos": "99675",
+    "desa_kelurahan": "Yafufla",
+    "kecamatan": "Kombay",
+    "kabupaten_kota": "KAB. BOVEN DIGOEL",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "105",
+    "kodepos": "99675",
+    "desa_kelurahan": "Ugo",
+    "kecamatan": "Kombay",
+    "kabupaten_kota": "KAB. BOVEN DIGOEL",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "106",
+    "kodepos": "99675",
+    "desa_kelurahan": "Sinimburu",
+    "kecamatan": "Kombay",
+    "kabupaten_kota": "KAB. BOVEN DIGOEL",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "107",
+    "kodepos": "99675",
+    "desa_kelurahan": "Wanggemalo",
+    "kecamatan": "Kombay",
+    "kabupaten_kota": "KAB. BOVEN DIGOEL",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "108",
+    "kodepos": "99676",
+    "desa_kelurahan": "Metto",
+    "kecamatan": "Ki",
+    "kabupaten_kota": "KAB. BOVEN DIGOEL",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "109",
+    "kodepos": "99676",
+    "desa_kelurahan": "Waghai",
+    "kecamatan": "Subur",
+    "kabupaten_kota": "KAB. BOVEN DIGOEL",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "110",
+    "kodepos": "99676",
+    "desa_kelurahan": "Aiwat",
+    "kecamatan": "Subur",
+    "kabupaten_kota": "KAB. BOVEN DIGOEL",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "111",
+    "kodepos": "99676",
+    "desa_kelurahan": "Kaisa",
+    "kecamatan": "Subur",
+    "kabupaten_kota": "KAB. BOVEN DIGOEL",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "112",
+    "kodepos": "99676",
+    "desa_kelurahan": "Subur",
+    "kecamatan": "Subur",
+    "kabupaten_kota": "KAB. BOVEN DIGOEL",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "1",
+    "kodepos": "92416",
+    "desa_kelurahan": "Mappilawing",
+    "kecamatan": "Eremerasa",
+    "kabupaten_kota": "KAB. BANTAENG",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "2",
+    "kodepos": "99853",
+    "desa_kelurahan": "Bosma",
+    "kecamatan": "Syahcame",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "3",
+    "kodepos": "99853",
+    "desa_kelurahan": "Asset",
+    "kecamatan": "Syahcame",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "4",
+    "kodepos": "99853",
+    "desa_kelurahan": "Osso",
+    "kecamatan": "Syahcame",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "5",
+    "kodepos": "99853",
+    "desa_kelurahan": "Oghoto",
+    "kecamatan": "Syahcame",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "6",
+    "kodepos": "99853",
+    "desa_kelurahan": "Homlikia",
+    "kecamatan": "Syahcame",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "7",
+    "kodepos": "99853",
+    "desa_kelurahan": "Kobeta",
+    "kecamatan": "Syahcame",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "8",
+    "kodepos": "99853",
+    "desa_kelurahan": "Sien",
+    "kecamatan": "Venaha",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "9",
+    "kodepos": "99853",
+    "desa_kelurahan": "Getiyo",
+    "kecamatan": "Venaha",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "10",
+    "kodepos": "99853",
+    "desa_kelurahan": "Harapan",
+    "kecamatan": "Venaha",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "11",
+    "kodepos": "99853",
+    "desa_kelurahan": "Yibin",
+    "kecamatan": "Venaha",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "12",
+    "kodepos": "99853",
+    "desa_kelurahan": "Memes",
+    "kecamatan": "Venaha",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "13",
+    "kodepos": "99853",
+    "desa_kelurahan": "Mopio",
+    "kecamatan": "Venaha",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "14",
+    "kodepos": "99853",
+    "desa_kelurahan": "Sahapikya",
+    "kecamatan": "Venaha",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "15",
+    "kodepos": "99853",
+    "desa_kelurahan": "Pies",
+    "kecamatan": "Venaha",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "16",
+    "kodepos": "99853",
+    "desa_kelurahan": "Kokoya",
+    "kecamatan": "Yakomi",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "17",
+    "kodepos": "99853",
+    "desa_kelurahan": "Hebeske",
+    "kecamatan": "Yakomi",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "18",
+    "kodepos": "99853",
+    "desa_kelurahan": "Ogorito",
+    "kecamatan": "Yakomi",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "19",
+    "kodepos": "99853",
+    "desa_kelurahan": "Yeloba",
+    "kecamatan": "Bamgi",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "20",
+    "kodepos": "99853",
+    "desa_kelurahan": "Tagaimon Karome",
+    "kecamatan": "Bamgi",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "21",
+    "kodepos": "99853",
+    "desa_kelurahan": "Tagaimon Sino",
+    "kecamatan": "Bamgi",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "22",
+    "kodepos": "99853",
+    "desa_kelurahan": "Konebi",
+    "kecamatan": "Bamgi",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "23",
+    "kodepos": "99853",
+    "desa_kelurahan": "Sibi",
+    "kecamatan": "Bamgi",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "24",
+    "kodepos": "99871",
+    "desa_kelurahan": "Gauda",
+    "kecamatan": "Obaa",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "25",
+    "kodepos": "99871",
+    "desa_kelurahan": "Metim",
+    "kecamatan": "Obaa",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "26",
+    "kodepos": "99871",
+    "desa_kelurahan": "Yangpop",
+    "kecamatan": "Obaa",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "27",
+    "kodepos": "99871",
+    "desa_kelurahan": "Tokhom",
+    "kecamatan": "Obaa",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "28",
+    "kodepos": "99871",
+    "desa_kelurahan": "Soba",
+    "kecamatan": "Obaa",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "29",
+    "kodepos": "99871",
+    "desa_kelurahan": "Wairu",
+    "kecamatan": "Obaa",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "30",
+    "kodepos": "99871",
+    "desa_kelurahan": "Kogo",
+    "kecamatan": "Obaa",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "31",
+    "kodepos": "99871",
+    "desa_kelurahan": "Paedam",
+    "kecamatan": "Obaa",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "32",
+    "kodepos": "99871",
+    "desa_kelurahan": "Piai",
+    "kecamatan": "Obaa",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "33",
+    "kodepos": "99871",
+    "desa_kelurahan": "Rayam",
+    "kecamatan": "Obaa",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "34",
+    "kodepos": "99871",
+    "desa_kelurahan": "Obaa",
+    "kecamatan": "Obaa",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "35",
+    "kodepos": "99871",
+    "desa_kelurahan": "Wanggate",
+    "kecamatan": "Obaa",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "36",
+    "kodepos": "99871",
+    "desa_kelurahan": "Muin",
+    "kecamatan": "Obaa",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "37",
+    "kodepos": "99871",
+    "desa_kelurahan": "Kadam/Oyim",
+    "kecamatan": "Obaa",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "38",
+    "kodepos": "99871",
+    "desa_kelurahan": "Madu",
+    "kecamatan": "Obaa",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "39",
+    "kodepos": "99871",
+    "desa_kelurahan": "Emete",
+    "kecamatan": "Obaa",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "40",
+    "kodepos": "99871",
+    "desa_kelurahan": "Marbin",
+    "kecamatan": "Obaa",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "41",
+    "kodepos": "99871",
+    "desa_kelurahan": "Kepi",
+    "kecamatan": "Obaa",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "42",
+    "kodepos": "99871",
+    "desa_kelurahan": "Dagimon",
+    "kecamatan": "Obaa",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "43",
+    "kodepos": "99871",
+    "desa_kelurahan": "Rep",
+    "kecamatan": "Obaa",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "44",
+    "kodepos": "99871",
+    "desa_kelurahan": "Mappi Bawah/Yamui",
+    "kecamatan": "Obaa",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "45",
+    "kodepos": "99871",
+    "desa_kelurahan": "Harome",
+    "kecamatan": "Obaa",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "46",
+    "kodepos": "99871",
+    "desa_kelurahan": "Masin",
+    "kecamatan": "Obaa",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "47",
+    "kodepos": "99871",
+    "desa_kelurahan": "Enem",
+    "kecamatan": "Obaa",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "48",
+    "kodepos": "99872",
+    "desa_kelurahan": "Waghien/Koba",
+    "kecamatan": "Mambioman Bapai",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "49",
+    "kodepos": "99872",
+    "desa_kelurahan": "Khatan",
+    "kecamatan": "Mambioman Bapai",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "50",
+    "kodepos": "99872",
+    "desa_kelurahan": "Magabag",
+    "kecamatan": "Mambioman Bapai",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "51",
+    "kodepos": "99872",
+    "desa_kelurahan": "Agham",
+    "kecamatan": "Mambioman Bapai",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "52",
+    "kodepos": "99872",
+    "desa_kelurahan": "Kogoyaman",
+    "kecamatan": "Mambioman Bapai",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "53",
+    "kodepos": "99872",
+    "desa_kelurahan": "Ima",
+    "kecamatan": "Mambioman Bapai",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "54",
+    "kodepos": "99872",
+    "desa_kelurahan": "Monana",
+    "kecamatan": "Mambioman Bapai",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "55",
+    "kodepos": "99872",
+    "desa_kelurahan": "Tereyemu",
+    "kecamatan": "Mambioman Bapai",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "56",
+    "kodepos": "99872",
+    "desa_kelurahan": "Mur",
+    "kecamatan": "Mambioman Bapai",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "57",
+    "kodepos": "99872",
+    "desa_kelurahan": "Waman",
+    "kecamatan": "Mambioman Bapai",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "58",
+    "kodepos": "99872",
+    "desa_kelurahan": "Yatan",
+    "kecamatan": "Mambioman Bapai",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "59",
+    "kodepos": "99872",
+    "desa_kelurahan": "Ghanu",
+    "kecamatan": "Mambioman Bapai",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "60",
+    "kodepos": "99872",
+    "desa_kelurahan": "Linggua",
+    "kecamatan": "Mambioman Bapai",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "61",
+    "kodepos": "99872",
+    "desa_kelurahan": "Wagin",
+    "kecamatan": "Mambioman Bapai",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "62",
+    "kodepos": "99872",
+    "desa_kelurahan": "Waruwe",
+    "kecamatan": "Mambioman Bapai",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "63",
+    "kodepos": "99873",
+    "desa_kelurahan": "Gimikya",
+    "kecamatan": "Edera",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "64",
+    "kodepos": "99873",
+    "desa_kelurahan": "Isyaman",
+    "kecamatan": "Edera",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "65",
+    "kodepos": "99873",
+    "desa_kelurahan": "Banamepe",
+    "kecamatan": "Edera",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "66",
+    "kodepos": "99873",
+    "desa_kelurahan": "Geturki",
+    "kecamatan": "Edera",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "67",
+    "kodepos": "99873",
+    "desa_kelurahan": "Mememu",
+    "kecamatan": "Edera",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "68",
+    "kodepos": "99873",
+    "desa_kelurahan": "Bade",
+    "kecamatan": "Edera",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "69",
+    "kodepos": "99873",
+    "desa_kelurahan": "Yodom",
+    "kecamatan": "Edera",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "70",
+    "kodepos": "99874",
+    "desa_kelurahan": "Sigare",
+    "kecamatan": "Assue",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "71",
+    "kodepos": "99874",
+    "desa_kelurahan": "Aboge",
+    "kecamatan": "Assue",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "72",
+    "kodepos": "99874",
+    "desa_kelurahan": "Kopi",
+    "kecamatan": "Assue",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "73",
+    "kodepos": "99874",
+    "desa_kelurahan": "Keru",
+    "kecamatan": "Assue",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "74",
+    "kodepos": "99874",
+    "desa_kelurahan": "Haffo",
+    "kecamatan": "Assue",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "75",
+    "kodepos": "99874",
+    "desa_kelurahan": "Meda",
+    "kecamatan": "Assue",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "76",
+    "kodepos": "99874",
+    "desa_kelurahan": "Girimio",
+    "kecamatan": "Assue",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "77",
+    "kodepos": "99874",
+    "desa_kelurahan": "Jufo Kecil",
+    "kecamatan": "Assue",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "78",
+    "kodepos": "99874",
+    "desa_kelurahan": "Khanami",
+    "kecamatan": "Assue",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "79",
+    "kodepos": "99874",
+    "desa_kelurahan": "Kaitok",
+    "kecamatan": "Assue",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "80",
+    "kodepos": "99874",
+    "desa_kelurahan": "Eci",
+    "kecamatan": "Assue",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "81",
+    "kodepos": "99874",
+    "desa_kelurahan": "Khabu",
+    "kecamatan": "Assue",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "82",
+    "kodepos": "99874",
+    "desa_kelurahan": "Kiki",
+    "kecamatan": "Assue",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "83",
+    "kodepos": "99874",
+    "desa_kelurahan": "Isage",
+    "kecamatan": "Assue",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "84",
+    "kodepos": "99874",
+    "desa_kelurahan": "Homang",
+    "kecamatan": "Assue",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "85",
+    "kodepos": "99874",
+    "desa_kelurahan": "Asaren",
+    "kecamatan": "Assue",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "86",
+    "kodepos": "99874",
+    "desa_kelurahan": "Jufo Besar",
+    "kecamatan": "Assue",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "87",
+    "kodepos": "99874",
+    "desa_kelurahan": "Yame",
+    "kecamatan": "Assue",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "88",
+    "kodepos": "99875",
+    "desa_kelurahan": "Epem",
+    "kecamatan": "Citak-Mitak",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "89",
+    "kodepos": "99875",
+    "desa_kelurahan": "Bidnew",
+    "kecamatan": "Citak-Mitak",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "90",
+    "kodepos": "99875",
+    "desa_kelurahan": "Abau",
+    "kecamatan": "Citak-Mitak",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "91",
+    "kodepos": "99875",
+    "desa_kelurahan": "Womin",
+    "kecamatan": "Citak-Mitak",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "92",
+    "kodepos": "99875",
+    "desa_kelurahan": "Kumasma",
+    "kecamatan": "Citak-Mitak",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "93",
+    "kodepos": "99875",
+    "desa_kelurahan": "Senggo",
+    "kecamatan": "Citak-Mitak",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "94",
+    "kodepos": "99875",
+    "desa_kelurahan": "Tamanin",
+    "kecamatan": "Citak-Mitak",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "95",
+    "kodepos": "99875",
+    "desa_kelurahan": "Honya",
+    "kecamatan": "Passue Bawah",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "96",
+    "kodepos": "99875",
+    "desa_kelurahan": "Samurukie",
+    "kecamatan": "Passue Bawah",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "97",
+    "kodepos": "99875",
+    "desa_kelurahan": "Busiri",
+    "kecamatan": "Passue Bawah",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "98",
+    "kodepos": "99875",
+    "desa_kelurahan": "Wonggi",
+    "kecamatan": "Passue Bawah",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "99",
+    "kodepos": "99875",
+    "desa_kelurahan": "Veta",
+    "kecamatan": "Passue Bawah",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "100",
+    "kodepos": "99875",
+    "desa_kelurahan": "Bifo",
+    "kecamatan": "Passue Bawah",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "101",
+    "kodepos": "99875",
+    "desa_kelurahan": "Keta",
+    "kecamatan": "Passue Bawah",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "102",
+    "kodepos": "99875",
+    "desa_kelurahan": "Haku",
+    "kecamatan": "Passue Bawah",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "103",
+    "kodepos": "99876",
+    "desa_kelurahan": "Tarwa",
+    "kecamatan": "Ti Zain",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "104",
+    "kodepos": "99876",
+    "desa_kelurahan": "Basman",
+    "kecamatan": "Ti Zain",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "105",
+    "kodepos": "99876",
+    "desa_kelurahan": "Merokima",
+    "kecamatan": "Ti Zain",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "106",
+    "kodepos": "99876",
+    "desa_kelurahan": "Tugumau",
+    "kecamatan": "Ti Zain",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "107",
+    "kodepos": "99876",
+    "desa_kelurahan": "Pier",
+    "kecamatan": "Ti Zain",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "108",
+    "kodepos": "99876",
+    "desa_kelurahan": "Kumaban",
+    "kecamatan": "Ti Zain",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "109",
+    "kodepos": "99876",
+    "desa_kelurahan": "Mu",
+    "kecamatan": "Ti Zain",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "110",
+    "kodepos": "99876",
+    "desa_kelurahan": "Sagis",
+    "kecamatan": "Ti Zain",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "111",
+    "kodepos": "99876",
+    "desa_kelurahan": "Imembi",
+    "kecamatan": "Kaibar",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "112",
+    "kodepos": "99876",
+    "desa_kelurahan": "Yemu",
+    "kecamatan": "Kaibar",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "113",
+    "kodepos": "99876",
+    "desa_kelurahan": "Amazu",
+    "kecamatan": "Kaibar",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "114",
+    "kodepos": "99876",
+    "desa_kelurahan": "Binerbis",
+    "kecamatan": "Kaibar",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "115",
+    "kodepos": "99876",
+    "desa_kelurahan": "Fomu",
+    "kecamatan": "Kaibar",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "116",
+    "kodepos": "99876",
+    "desa_kelurahan": "Tayau",
+    "kecamatan": "Kaibar",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "117",
+    "kodepos": "99876",
+    "desa_kelurahan": "Tiau",
+    "kecamatan": "Kaibar",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "118",
+    "kodepos": "99877",
+    "desa_kelurahan": "Kotiak",
+    "kecamatan": "Passue",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "119",
+    "kodepos": "99877",
+    "desa_kelurahan": "Rimba Jaya/Gayu",
+    "kecamatan": "Passue",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "120",
+    "kodepos": "99877",
+    "desa_kelurahan": "Afogoma",
+    "kecamatan": "Passue",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "121",
+    "kodepos": "99877",
+    "desa_kelurahan": "Menya",
+    "kecamatan": "Passue",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "122",
+    "kodepos": "99877",
+    "desa_kelurahan": "Baitate",
+    "kecamatan": "Passue",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "123",
+    "kodepos": "99877",
+    "desa_kelurahan": "Kotup",
+    "kecamatan": "Passue",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "124",
+    "kodepos": "99877",
+    "desa_kelurahan": "Kaime",
+    "kecamatan": "Passue",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "125",
+    "kodepos": "99877",
+    "desa_kelurahan": "Sepoh",
+    "kecamatan": "Passue",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "126",
+    "kodepos": "99877",
+    "desa_kelurahan": "Tokhompatu",
+    "kecamatan": "Passue",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "127",
+    "kodepos": "99877",
+    "desa_kelurahan": "Urufu",
+    "kecamatan": "Passue",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "128",
+    "kodepos": "99877",
+    "desa_kelurahan": "Passue/Taim",
+    "kecamatan": "Passue",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "129",
+    "kodepos": "99877",
+    "desa_kelurahan": "Bagaram",
+    "kecamatan": "Passue",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "130",
+    "kodepos": "99877",
+    "desa_kelurahan": "Nohon",
+    "kecamatan": "Passue",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "131",
+    "kodepos": "99878",
+    "desa_kelurahan": "Kabe",
+    "kecamatan": "Minyamur",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "132",
+    "kodepos": "99878",
+    "desa_kelurahan": "Upin",
+    "kecamatan": "Minyamur",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "133",
+    "kodepos": "99878",
+    "desa_kelurahan": "Kaumi",
+    "kecamatan": "Minyamur",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "134",
+    "kodepos": "99878",
+    "desa_kelurahan": "Kayagai",
+    "kecamatan": "Minyamur",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "135",
+    "kodepos": "99878",
+    "desa_kelurahan": "Sene",
+    "kecamatan": "Minyamur",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "136",
+    "kodepos": "99878",
+    "desa_kelurahan": "Ati",
+    "kecamatan": "Minyamur",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "137",
+    "kodepos": "99878",
+    "desa_kelurahan": "Pano",
+    "kecamatan": "Minyamur",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "138",
+    "kodepos": "99878",
+    "desa_kelurahan": "Komru",
+    "kecamatan": "Minyamur",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "139",
+    "kodepos": "99878",
+    "desa_kelurahan": "Kofar",
+    "kecamatan": "Minyamur",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "140",
+    "kodepos": "99878",
+    "desa_kelurahan": "Sumuraman",
+    "kecamatan": "Minyamur",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "141",
+    "kodepos": "99878",
+    "desa_kelurahan": "Kogir",
+    "kecamatan": "Minyamur",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "142",
+    "kodepos": "99878",
+    "desa_kelurahan": "Taragai",
+    "kecamatan": "Minyamur",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "143",
+    "kodepos": "99879",
+    "desa_kelurahan": "Amk",
+    "kecamatan": "Yakomi",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "144",
+    "kodepos": "99879",
+    "desa_kelurahan": "Benggo",
+    "kecamatan": "Yakomi",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "145",
+    "kodepos": "99879",
+    "desa_kelurahan": "Yame",
+    "kecamatan": "Yakomi",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "146",
+    "kodepos": "99879",
+    "desa_kelurahan": "Borohaba",
+    "kecamatan": "Yakomi",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "147",
+    "kodepos": "99881",
+    "desa_kelurahan": "Kasima",
+    "kecamatan": "Haju",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "148",
+    "kodepos": "99881",
+    "desa_kelurahan": "Atsipim",
+    "kecamatan": "Haju",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "149",
+    "kodepos": "99881",
+    "desa_kelurahan": "Sogope",
+    "kecamatan": "Haju",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "150",
+    "kodepos": "99881",
+    "desa_kelurahan": "Mani",
+    "kecamatan": "Haju",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "151",
+    "kodepos": "99881",
+    "desa_kelurahan": "Wiyage",
+    "kecamatan": "Haju",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "152",
+    "kodepos": "99881",
+    "desa_kelurahan": "Amenda",
+    "kecamatan": "Haju",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "153",
+    "kodepos": "99881",
+    "desa_kelurahan": "Kaibu",
+    "kecamatan": "Haju",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "154",
+    "kodepos": "99881",
+    "desa_kelurahan": "Geiripim",
+    "kecamatan": "Haju",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "155",
+    "kodepos": "99881",
+    "desa_kelurahan": "Paghai",
+    "kecamatan": "Haju",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "156",
+    "kodepos": "99881",
+    "desa_kelurahan": "Katage",
+    "kecamatan": "Haju",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "157",
+    "kodepos": "99881",
+    "desa_kelurahan": "Semtaipim",
+    "kecamatan": "Haju",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "158",
+    "kodepos": "99881",
+    "desa_kelurahan": "Kerke",
+    "kecamatan": "Haju",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "159",
+    "kodepos": "99881",
+    "desa_kelurahan": "Okor",
+    "kecamatan": "Haju",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "160",
+    "kodepos": "99881",
+    "desa_kelurahan": "Amagatsu",
+    "kecamatan": "Haju",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "161",
+    "kodepos": "99881",
+    "desa_kelurahan": "Omuro",
+    "kecamatan": "Haju",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "162",
+    "kodepos": "99881",
+    "desa_kelurahan": "Warogom",
+    "kecamatan": "Haju",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "163",
+    "kodepos": "99881",
+    "desa_kelurahan": "Yagatsu",
+    "kecamatan": "Haju",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "164",
+    "kodepos": "99881",
+    "desa_kelurahan": "Arare",
+    "kecamatan": "Haju",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "165",
+    "kodepos": "99881",
+    "desa_kelurahan": "Kaibusene",
+    "kecamatan": "Haju",
+    "kabupaten_kota": "KAB. MAPPI",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "1",
+    "kodepos": "95886",
+    "desa_kelurahan": "Gemeh Rasmata",
+    "kecamatan": "Gemeh",
+    "kabupaten_kota": "KAB. KEPULAUAN TALAUD",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "2",
+    "kodepos": "99766",
+    "desa_kelurahan": "Binamsain",
+    "kecamatan": "Kolf Braza",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "3",
+    "kodepos": "99766",
+    "desa_kelurahan": "Pepera",
+    "kecamatan": "Kolf Braza",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "4",
+    "kodepos": "99766",
+    "desa_kelurahan": "Patipi",
+    "kecamatan": "Kolf Braza",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "5",
+    "kodepos": "99766",
+    "desa_kelurahan": "Butukatnau",
+    "kecamatan": "Kolf Braza",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "6",
+    "kodepos": "99766",
+    "desa_kelurahan": "Bor",
+    "kecamatan": "Joutu",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "7",
+    "kodepos": "99766",
+    "desa_kelurahan": "Somnak",
+    "kecamatan": "Joutu",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "8",
+    "kodepos": "99766",
+    "desa_kelurahan": "Wabak",
+    "kecamatan": "Joutu",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "9",
+    "kodepos": "99766",
+    "desa_kelurahan": "Dekamer",
+    "kecamatan": "Joutu",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "10",
+    "kodepos": "99766",
+    "desa_kelurahan": "Pirabanak",
+    "kecamatan": "Kolf Braza",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "11",
+    "kodepos": "99766",
+    "desa_kelurahan": "Ulakin",
+    "kecamatan": "Kolf Braza",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "12",
+    "kodepos": "99766",
+    "desa_kelurahan": "Woutu Kolof",
+    "kecamatan": "Kolf Braza",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "13",
+    "kodepos": "99766",
+    "desa_kelurahan": "Woutu Brasa",
+    "kecamatan": "Kolf Braza",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "14",
+    "kodepos": "99766",
+    "desa_kelurahan": "Vakam",
+    "kecamatan": "Joutu",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "15",
+    "kodepos": "99766",
+    "desa_kelurahan": "Auban",
+    "kecamatan": "Kolf Braza",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "16",
+    "kodepos": "99766",
+    "desa_kelurahan": "Daikot",
+    "kecamatan": "Joutu",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "17",
+    "kodepos": "99766",
+    "desa_kelurahan": "Vakam Dua",
+    "kecamatan": "Joutu",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "18",
+    "kodepos": "99766",
+    "desa_kelurahan": "Tomor",
+    "kecamatan": "Tomor Birip",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "19",
+    "kodepos": "99766",
+    "desa_kelurahan": "Kapayap Dua",
+    "kecamatan": "Suator",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "20",
+    "kodepos": "99766",
+    "desa_kelurahan": "Kapayap Satu",
+    "kecamatan": "Suator",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "21",
+    "kodepos": "99766",
+    "desa_kelurahan": "Jinak",
+    "kecamatan": "Suator",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "22",
+    "kodepos": "99766",
+    "desa_kelurahan": "Emnam",
+    "kecamatan": "Suator",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "23",
+    "kodepos": "99766",
+    "desa_kelurahan": "Wagabus",
+    "kecamatan": "Suator",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "24",
+    "kodepos": "99766",
+    "desa_kelurahan": "Wowi",
+    "kecamatan": "Suator",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "25",
+    "kodepos": "99766",
+    "desa_kelurahan": "Soray",
+    "kecamatan": "Suator",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "26",
+    "kodepos": "99766",
+    "desa_kelurahan": "Waijens",
+    "kecamatan": "Suator",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "27",
+    "kodepos": "99766",
+    "desa_kelurahan": "Karbis",
+    "kecamatan": "Suator",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "28",
+    "kodepos": "99766",
+    "desa_kelurahan": "Bumu",
+    "kecamatan": "Suator",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "29",
+    "kodepos": "99766",
+    "desa_kelurahan": "Burbis",
+    "kecamatan": "Suator",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "30",
+    "kodepos": "99766",
+    "desa_kelurahan": "Bubis",
+    "kecamatan": "Suator",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "31",
+    "kodepos": "99766",
+    "desa_kelurahan": "Waganu Dua",
+    "kecamatan": "Suator",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "32",
+    "kodepos": "99766",
+    "desa_kelurahan": "Binam",
+    "kecamatan": "Suator",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "33",
+    "kodepos": "99766",
+    "desa_kelurahan": "Banum",
+    "kecamatan": "Koroway Buluanop",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "34",
+    "kodepos": "99766",
+    "desa_kelurahan": "Ayak",
+    "kecamatan": "Koroway Buluanop",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "35",
+    "kodepos": "99766",
+    "desa_kelurahan": "Ujung Batu",
+    "kecamatan": "Koroway Buluanop",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "36",
+    "kodepos": "99766",
+    "desa_kelurahan": "Sipanap",
+    "kecamatan": "Koroway Buluanop",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "37",
+    "kodepos": "99766",
+    "desa_kelurahan": "Amakot",
+    "kecamatan": "Koroway Buluanop",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "38",
+    "kodepos": "99766",
+    "desa_kelurahan": "Kapayap Tiga",
+    "kecamatan": "Koroway Buluanop",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "39",
+    "kodepos": "99766",
+    "desa_kelurahan": "Nagatun",
+    "kecamatan": "Koroway Buluanop",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "40",
+    "kodepos": "99766",
+    "desa_kelurahan": "Mabul",
+    "kecamatan": "Koroway Buluanop",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "41",
+    "kodepos": "99773",
+    "desa_kelurahan": "Sarmafo",
+    "kecamatan": "Pantai Kasuari",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "42",
+    "kodepos": "99773",
+    "desa_kelurahan": "Hainam",
+    "kecamatan": "Pantai Kasuari",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "43",
+    "kodepos": "99773",
+    "desa_kelurahan": "Yahoi",
+    "kecamatan": "Pantai Kasuari",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "44",
+    "kodepos": "99773",
+    "desa_kelurahan": "Sanep",
+    "kecamatan": "Pantai Kasuari",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "45",
+    "kodepos": "99773",
+    "desa_kelurahan": "Yagamit",
+    "kecamatan": "Pantai Kasuari",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "46",
+    "kodepos": "99773",
+    "desa_kelurahan": "Sanapai",
+    "kecamatan": "Pantai Kasuari",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "47",
+    "kodepos": "99773",
+    "desa_kelurahan": "Kamur",
+    "kecamatan": "Pantai Kasuari",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "48",
+    "kodepos": "99773",
+    "desa_kelurahan": "Bawor",
+    "kecamatan": "Pantai Kasuari",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "49",
+    "kodepos": "99773",
+    "desa_kelurahan": "Saramit",
+    "kecamatan": "Pantai Kasuari",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "50",
+    "kodepos": "99773",
+    "desa_kelurahan": "Aikut",
+    "kecamatan": "Kopay",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "51",
+    "kodepos": "99773",
+    "desa_kelurahan": "Kawem",
+    "kecamatan": "Kopay",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "52",
+    "kodepos": "99773",
+    "desa_kelurahan": "Heiyaram",
+    "kecamatan": "Kopay",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "53",
+    "kodepos": "99773",
+    "desa_kelurahan": "Wagasu",
+    "kecamatan": "Kopay",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "54",
+    "kodepos": "99773",
+    "desa_kelurahan": "Hahare",
+    "kecamatan": "Kopay",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "55",
+    "kodepos": "99773",
+    "desa_kelurahan": "Kaipom",
+    "kecamatan": "Kopay",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "56",
+    "kodepos": "99773",
+    "desa_kelurahan": "Sasime",
+    "kecamatan": "Kopay",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "57",
+    "kodepos": "99773",
+    "desa_kelurahan": "Sanem",
+    "kecamatan": "Kopay",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "58",
+    "kodepos": "99773",
+    "desa_kelurahan": "Airo Sapen",
+    "kecamatan": "Kopay",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "59",
+    "kodepos": "99773",
+    "desa_kelurahan": "Simipit",
+    "kecamatan": "Kopay",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "60",
+    "kodepos": "99773",
+    "desa_kelurahan": "Erosaman",
+    "kecamatan": "Der Koumur",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "61",
+    "kodepos": "99773",
+    "desa_kelurahan": "Amaru",
+    "kecamatan": "Der Koumur",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "62",
+    "kodepos": "99773",
+    "desa_kelurahan": "Amkun",
+    "kecamatan": "Der Koumur",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "63",
+    "kodepos": "99773",
+    "desa_kelurahan": "Amagais",
+    "kecamatan": "Der Koumur",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "64",
+    "kodepos": "99773",
+    "desa_kelurahan": "Amkai",
+    "kecamatan": "Der Koumur",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "65",
+    "kodepos": "99773",
+    "desa_kelurahan": "Yamkap",
+    "kecamatan": "Der Koumur",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "66",
+    "kodepos": "99773",
+    "desa_kelurahan": "Bayun",
+    "kecamatan": "Safan",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "67",
+    "kodepos": "99773",
+    "desa_kelurahan": "Kayirim",
+    "kecamatan": "Safan",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "68",
+    "kodepos": "99773",
+    "desa_kelurahan": "Semendoro",
+    "kecamatan": "Safan",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "69",
+    "kodepos": "99773",
+    "desa_kelurahan": "Santambor",
+    "kecamatan": "Safan",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "70",
+    "kodepos": "99773",
+    "desa_kelurahan": "Aworket",
+    "kecamatan": "Safan",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "71",
+    "kodepos": "99773",
+    "desa_kelurahan": "Primapun",
+    "kecamatan": "Safan",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "72",
+    "kodepos": "99773",
+    "desa_kelurahan": "Yaptambor",
+    "kecamatan": "Safan",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "73",
+    "kodepos": "99773",
+    "desa_kelurahan": "Tareo",
+    "kecamatan": "Safan",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "74",
+    "kodepos": "99773",
+    "desa_kelurahan": "Simsagar",
+    "kecamatan": "Safan",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "75",
+    "kodepos": "99773",
+    "desa_kelurahan": "Emene",
+    "kecamatan": "Safan",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "76",
+    "kodepos": "99773",
+    "desa_kelurahan": "Saman",
+    "kecamatan": "Safan",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "77",
+    "kodepos": "99773",
+    "desa_kelurahan": "Itersok",
+    "kecamatan": "Safan",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "78",
+    "kodepos": "99773",
+    "desa_kelurahan": "Yerfum",
+    "kecamatan": "Awyu",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "79",
+    "kodepos": "99773",
+    "desa_kelurahan": "Suagai",
+    "kecamatan": "Awyu",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "80",
+    "kodepos": "99773",
+    "desa_kelurahan": "Sohomane",
+    "kecamatan": "Awyu",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "81",
+    "kodepos": "99776",
+    "desa_kelurahan": "Wagi",
+    "kecamatan": "Awyu",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "82",
+    "kodepos": "99776",
+    "desa_kelurahan": "Sagare",
+    "kecamatan": "Awyu",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "83",
+    "kodepos": "99776",
+    "desa_kelurahan": "Yefuwagi",
+    "kecamatan": "Awyu",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "84",
+    "kodepos": "99776",
+    "desa_kelurahan": "Sagoni",
+    "kecamatan": "Atsj",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "85",
+    "kodepos": "99776",
+    "desa_kelurahan": "Ambisu",
+    "kecamatan": "Atsj",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "86",
+    "kodepos": "99776",
+    "desa_kelurahan": "Atsy",
+    "kecamatan": "Atsj",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "87",
+    "kodepos": "99776",
+    "desa_kelurahan": "Bakasei",
+    "kecamatan": "Atsj",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "88",
+    "kodepos": "99776",
+    "desa_kelurahan": "Bine",
+    "kecamatan": "Atsj",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "89",
+    "kodepos": "99776",
+    "desa_kelurahan": "Bipin",
+    "kecamatan": "Atsj",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "90",
+    "kodepos": "99776",
+    "desa_kelurahan": "Cewewyamew",
+    "kecamatan": "Atsj",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "91",
+    "kodepos": "99776",
+    "desa_kelurahan": "Amanamkai",
+    "kecamatan": "Atsj",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "92",
+    "kodepos": "99776",
+    "desa_kelurahan": "Yaisiu",
+    "kecamatan": "Atsj",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "93",
+    "kodepos": "99776",
+    "desa_kelurahan": "Damen",
+    "kecamatan": "Sirets",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "94",
+    "kodepos": "99776",
+    "desa_kelurahan": "Biwar Darat",
+    "kecamatan": "Sirets",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "95",
+    "kodepos": "99776",
+    "desa_kelurahan": "Awok",
+    "kecamatan": "Sirets",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "96",
+    "kodepos": "99776",
+    "desa_kelurahan": "Kaimo",
+    "kecamatan": "Sirets",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "97",
+    "kodepos": "99776",
+    "desa_kelurahan": "Fos",
+    "kecamatan": "Sirets",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "98",
+    "kodepos": "99776",
+    "desa_kelurahan": "Waganu",
+    "kecamatan": "Sirets",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "99",
+    "kodepos": "99776",
+    "desa_kelurahan": "Yausakor",
+    "kecamatan": "Sirets",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "100",
+    "kodepos": "99776",
+    "desa_kelurahan": "Sakor",
+    "kecamatan": "Sirets",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "101",
+    "kodepos": "99776",
+    "desa_kelurahan": "Warkai",
+    "kecamatan": "Betcbamu",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "102",
+    "kodepos": "99776",
+    "desa_kelurahan": "Desep",
+    "kecamatan": "Betcbamu",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "103",
+    "kodepos": "99776",
+    "desa_kelurahan": "You",
+    "kecamatan": "Betcbamu",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "104",
+    "kodepos": "99776",
+    "desa_kelurahan": "Biwar Laut",
+    "kecamatan": "Betcbamu",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "105",
+    "kodepos": "99776",
+    "desa_kelurahan": "Atambuts",
+    "kecamatan": "Betcbamu",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "106",
+    "kodepos": "99776",
+    "desa_kelurahan": "Omanesep",
+    "kecamatan": "Betcbamu",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "107",
+    "kodepos": "99776",
+    "desa_kelurahan": "Pirpis",
+    "kecamatan": "Betcbamu",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "108",
+    "kodepos": "99776",
+    "desa_kelurahan": "Sato Yod",
+    "kecamatan": "Ayip",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "109",
+    "kodepos": "99776",
+    "desa_kelurahan": "Tamor",
+    "kecamatan": "Ayip",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "110",
+    "kodepos": "99776",
+    "desa_kelurahan": "Kawet",
+    "kecamatan": "Ayip",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "111",
+    "kodepos": "99776",
+    "desa_kelurahan": "Mausi",
+    "kecamatan": "Ayip",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "112",
+    "kodepos": "99776",
+    "desa_kelurahan": "Ero Airo",
+    "kecamatan": "Ayip",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "113",
+    "kodepos": "99776",
+    "desa_kelurahan": "Comoro",
+    "kecamatan": "Ayip",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "114",
+    "kodepos": "99777",
+    "desa_kelurahan": "Akamar",
+    "kecamatan": "Jetsy",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "115",
+    "kodepos": "99777",
+    "desa_kelurahan": "Uwus",
+    "kecamatan": "Agats",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "116",
+    "kodepos": "99777",
+    "desa_kelurahan": "Bou",
+    "kecamatan": "Agats",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "117",
+    "kodepos": "99777",
+    "desa_kelurahan": "Birak",
+    "kecamatan": "Jetsy",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "118",
+    "kodepos": "99777",
+    "desa_kelurahan": "Asuwetsy",
+    "kecamatan": "Agats",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "119",
+    "kodepos": "99777",
+    "desa_kelurahan": "Briten",
+    "kecamatan": "Agats",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "120",
+    "kodepos": "99777",
+    "desa_kelurahan": "Per",
+    "kecamatan": "Agats",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "121",
+    "kodepos": "99777",
+    "desa_kelurahan": "Bisman",
+    "kecamatan": "Agats",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "122",
+    "kodepos": "99777",
+    "desa_kelurahan": "Mbait",
+    "kecamatan": "Agats",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "123",
+    "kodepos": "99777",
+    "desa_kelurahan": "Kaye",
+    "kecamatan": "Agats",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "124",
+    "kodepos": "99777",
+    "desa_kelurahan": "Yomoth",
+    "kecamatan": "Agats",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "125",
+    "kodepos": "99777",
+    "desa_kelurahan": "Bis Agats",
+    "kecamatan": "Agats",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "126",
+    "kodepos": "99777",
+    "desa_kelurahan": "Saw",
+    "kecamatan": "Agats",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "127",
+    "kodepos": "99777",
+    "desa_kelurahan": "Suwru",
+    "kecamatan": "Agats",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "128",
+    "kodepos": "99777",
+    "desa_kelurahan": "Yaun",
+    "kecamatan": "Joerat",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "129",
+    "kodepos": "99777",
+    "desa_kelurahan": "Yufri",
+    "kecamatan": "Joerat",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "130",
+    "kodepos": "99778",
+    "desa_kelurahan": "Onavai",
+    "kecamatan": "Joerat",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "131",
+    "kodepos": "99778",
+    "desa_kelurahan": "Yemi",
+    "kecamatan": "Joerat",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "132",
+    "kodepos": "99778",
+    "desa_kelurahan": "Omor",
+    "kecamatan": "Joerat",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "133",
+    "kodepos": "99778",
+    "desa_kelurahan": "Yamas",
+    "kecamatan": "Joerat",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "134",
+    "kodepos": "99778",
+    "desa_kelurahan": "Koba",
+    "kecamatan": "Tomor Birip",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "135",
+    "kodepos": "99778",
+    "desa_kelurahan": "Abamu",
+    "kecamatan": "Tomor Birip",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "136",
+    "kodepos": "99778",
+    "desa_kelurahan": "Sagapu",
+    "kecamatan": "Tomor Birip",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "137",
+    "kodepos": "99778",
+    "desa_kelurahan": "Tie",
+    "kecamatan": "Tomor Birip",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "138",
+    "kodepos": "99778",
+    "desa_kelurahan": "Munu",
+    "kecamatan": "Tomor Birip",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "139",
+    "kodepos": "99778",
+    "desa_kelurahan": "Yensuku",
+    "kecamatan": "Tomor Birip",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "140",
+    "kodepos": "99778",
+    "desa_kelurahan": "Jifak",
+    "kecamatan": "Tomor Birip",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "141",
+    "kodepos": "99778",
+    "desa_kelurahan": "Aou",
+    "kecamatan": "Pulau Tiga",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "142",
+    "kodepos": "99778",
+    "desa_kelurahan": "Weo",
+    "kecamatan": "Pulau Tiga",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "143",
+    "kodepos": "99778",
+    "desa_kelurahan": "Esmapan",
+    "kecamatan": "Pulau Tiga",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "144",
+    "kodepos": "99778",
+    "desa_kelurahan": "Eroko",
+    "kecamatan": "Pulau Tiga",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "145",
+    "kodepos": "99778",
+    "desa_kelurahan": "Nakai",
+    "kecamatan": "Pulau Tiga",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "146",
+    "kodepos": "99778",
+    "desa_kelurahan": "Berip",
+    "kecamatan": "Unir Sirau",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "147",
+    "kodepos": "99778",
+    "desa_kelurahan": "Atat",
+    "kecamatan": "Pulau Tiga",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "148",
+    "kodepos": "99778",
+    "desa_kelurahan": "Yipawer",
+    "kecamatan": "Unir Sirau",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "149",
+    "kodepos": "99778",
+    "desa_kelurahan": "Ayir",
+    "kecamatan": "Unir Sirau",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "150",
+    "kodepos": "99778",
+    "desa_kelurahan": "Amor",
+    "kecamatan": "Unir Sirau",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "151",
+    "kodepos": "99778",
+    "desa_kelurahan": "As",
+    "kecamatan": "Pulau Tiga",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "152",
+    "kodepos": "99778",
+    "desa_kelurahan": "Werer",
+    "kecamatan": "Unir Sirau",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "153",
+    "kodepos": "99778",
+    "desa_kelurahan": "Paar",
+    "kecamatan": "Unir Sirau",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "154",
+    "kodepos": "99778",
+    "desa_kelurahan": "Yakapis",
+    "kecamatan": "Pulau Tiga",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "155",
+    "kodepos": "99778",
+    "desa_kelurahan": "Aoep",
+    "kecamatan": "Pulau Tiga",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "156",
+    "kodepos": "99778",
+    "desa_kelurahan": "Fumeripit",
+    "kecamatan": "Pulau Tiga",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "157",
+    "kodepos": "99778",
+    "desa_kelurahan": "Kapi",
+    "kecamatan": "Pulau Tiga",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "158",
+    "kodepos": "99778",
+    "desa_kelurahan": "Warse/Yetsy",
+    "kecamatan": "Jetsy",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "159",
+    "kodepos": "99778",
+    "desa_kelurahan": "Sawa",
+    "kecamatan": "Sawa Erma",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "160",
+    "kodepos": "99778",
+    "desa_kelurahan": "Mumugu II",
+    "kecamatan": "Sawa Erma",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "161",
+    "kodepos": "99778",
+    "desa_kelurahan": "Agani",
+    "kecamatan": "Sawa Erma",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "162",
+    "kodepos": "99778",
+    "desa_kelurahan": "Pupis",
+    "kecamatan": "Sawa Erma",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "163",
+    "kodepos": "99778",
+    "desa_kelurahan": "Erma",
+    "kecamatan": "Sawa Erma",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "164",
+    "kodepos": "99778",
+    "desa_kelurahan": "Mumugu",
+    "kecamatan": "Sawa Erma",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "165",
+    "kodepos": "99778",
+    "desa_kelurahan": "Bu",
+    "kecamatan": "Sawa Erma",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "166",
+    "kodepos": "99778",
+    "desa_kelurahan": "Sona",
+    "kecamatan": "Sawa Erma",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "167",
+    "kodepos": "99778",
+    "desa_kelurahan": "Sauti",
+    "kecamatan": "Sawa Erma",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "168",
+    "kodepos": "99778",
+    "desa_kelurahan": "Er",
+    "kecamatan": "Sawa Erma",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "169",
+    "kodepos": "99778",
+    "desa_kelurahan": "Walase",
+    "kecamatan": "Suru-suru",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "170",
+    "kodepos": "99778",
+    "desa_kelurahan": "Tomor",
+    "kecamatan": "Suru-suru",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "171",
+    "kodepos": "99778",
+    "desa_kelurahan": "Besika",
+    "kecamatan": "Suru-suru",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "172",
+    "kodepos": "99778",
+    "desa_kelurahan": "See",
+    "kecamatan": "Suru-suru",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "173",
+    "kodepos": "99778",
+    "desa_kelurahan": "Hulam",
+    "kecamatan": "Suru-suru",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "174",
+    "kodepos": "99778",
+    "desa_kelurahan": "Suru-Suru",
+    "kecamatan": "Suru-suru",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "175",
+    "kodepos": "99778",
+    "desa_kelurahan": "Dumaten",
+    "kecamatan": "Suru-suru",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "176",
+    "kodepos": "99778",
+    "desa_kelurahan": "Hom-hom",
+    "kecamatan": "Suru-suru",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "177",
+    "kodepos": "99778",
+    "desa_kelurahan": "Kebikduk",
+    "kecamatan": "Suru-suru",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "178",
+    "kodepos": "99778",
+    "desa_kelurahan": "Salbik",
+    "kecamatan": "Suru-suru",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "179",
+    "kodepos": "99778",
+    "desa_kelurahan": "Linduk",
+    "kecamatan": "Suru-suru",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "180",
+    "kodepos": "99778",
+    "desa_kelurahan": "Laluk",
+    "kecamatan": "Suru-suru",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "181",
+    "kodepos": "99778",
+    "desa_kelurahan": "Katalina",
+    "kecamatan": "Suru-suru",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "182",
+    "kodepos": "99778",
+    "desa_kelurahan": "Asgun",
+    "kecamatan": "Suru-suru",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "183",
+    "kodepos": "99778",
+    "desa_kelurahan": "Berimono",
+    "kecamatan": "Suru-suru",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "184",
+    "kodepos": "99778",
+    "desa_kelurahan": "Obio",
+    "kecamatan": "Suru-suru",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "185",
+    "kodepos": "99778",
+    "desa_kelurahan": "Ajin",
+    "kecamatan": "Suru-suru",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "186",
+    "kodepos": "99778",
+    "desa_kelurahan": "Korobuk",
+    "kecamatan": "Suru-suru",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "187",
+    "kodepos": "99779",
+    "desa_kelurahan": "Simini",
+    "kecamatan": "Sor Ep",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "188",
+    "kodepos": "99779",
+    "desa_kelurahan": "Fakan/Ani",
+    "kecamatan": "Sor Ep",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "189",
+    "kodepos": "99779",
+    "desa_kelurahan": "Manep",
+    "kecamatan": "Sor Ep",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "190",
+    "kodepos": "99779",
+    "desa_kelurahan": "Buetkawar",
+    "kecamatan": "Sor Ep",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "191",
+    "kodepos": "99779",
+    "desa_kelurahan": "Yuni",
+    "kecamatan": "Sor Ep",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "192",
+    "kodepos": "99779",
+    "desa_kelurahan": "Beco",
+    "kecamatan": "Sor Ep",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "193",
+    "kodepos": "99779",
+    "desa_kelurahan": "Dawer",
+    "kecamatan": "Jetsy",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "194",
+    "kodepos": "99779",
+    "desa_kelurahan": "Powetsy/Amberop",
+    "kecamatan": "Jetsy",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "195",
+    "kodepos": "99779",
+    "desa_kelurahan": "Sesakam",
+    "kecamatan": "Jetsy",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "196",
+    "kodepos": "99779",
+    "desa_kelurahan": "Katew",
+    "kecamatan": "Jetsy",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "197",
+    "kodepos": "99779",
+    "desa_kelurahan": "Pau",
+    "kecamatan": "Jetsy",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "198",
+    "kodepos": "99779",
+    "desa_kelurahan": "Jewes",
+    "kecamatan": "Akat",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "199",
+    "kodepos": "99779",
+    "desa_kelurahan": "Bayiw Pinam",
+    "kecamatan": "Akat",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "200",
+    "kodepos": "99779",
+    "desa_kelurahan": "Ayam",
+    "kecamatan": "Akat",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "201",
+    "kodepos": "99779",
+    "desa_kelurahan": "Cumnew",
+    "kecamatan": "Akat",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "202",
+    "kodepos": "99779",
+    "desa_kelurahan": "Waw",
+    "kecamatan": "Akat",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "203",
+    "kodepos": "99782",
+    "desa_kelurahan": "Bawos",
+    "kecamatan": "Aswi",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "204",
+    "kodepos": "99782",
+    "desa_kelurahan": "Akan Tapak",
+    "kecamatan": "Aswi",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "205",
+    "kodepos": "99782",
+    "desa_kelurahan": "Kagas",
+    "kecamatan": "Aswi",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "206",
+    "kodepos": "99782",
+    "desa_kelurahan": "Mapane",
+    "kecamatan": "Aswi",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "207",
+    "kodepos": "99782",
+    "desa_kelurahan": "Amaita",
+    "kecamatan": "Aswi",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "208",
+    "kodepos": "99782",
+    "desa_kelurahan": "Wiyar",
+    "kecamatan": "Aswi",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "209",
+    "kodepos": "99782",
+    "desa_kelurahan": "Ainamsato",
+    "kecamatan": "Aswi",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "210",
+    "kodepos": "99782",
+    "desa_kelurahan": "Tauro",
+    "kecamatan": "Aswi",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "211",
+    "kodepos": "99782",
+    "desa_kelurahan": "Piramat",
+    "kecamatan": "Aswi",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "212",
+    "kodepos": "99782",
+    "desa_kelurahan": "Bagair",
+    "kecamatan": "Aswi",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "213",
+    "kodepos": "99782",
+    "desa_kelurahan": "Biopis",
+    "kecamatan": "Fayit",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "214",
+    "kodepos": "99782",
+    "desa_kelurahan": "Isar",
+    "kecamatan": "Fayit",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "215",
+    "kodepos": "99782",
+    "desa_kelurahan": "Basim",
+    "kecamatan": "Fayit",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "216",
+    "kodepos": "99782",
+    "desa_kelurahan": "Nanai",
+    "kecamatan": "Fayit",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "217",
+    "kodepos": "99782",
+    "desa_kelurahan": "Bakyor",
+    "kecamatan": "Fayit",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "218",
+    "kodepos": "99782",
+    "desa_kelurahan": "Acenep",
+    "kecamatan": "Fayit",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "219",
+    "kodepos": "99782",
+    "desa_kelurahan": "Kayarpis",
+    "kecamatan": "Fayit",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "220",
+    "kodepos": "99782",
+    "desa_kelurahan": "Bora",
+    "kecamatan": "Fayit",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "221",
+    "kodepos": "99782",
+    "desa_kelurahan": "Sayoa",
+    "kecamatan": "Fayit",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "222",
+    "kodepos": "99782",
+    "desa_kelurahan": "Waras",
+    "kecamatan": "Fayit",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "223",
+    "kodepos": "99782",
+    "desa_kelurahan": "Pirien",
+    "kecamatan": "Fayit",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "224",
+    "kodepos": "99782",
+    "desa_kelurahan": "Ais",
+    "kecamatan": "Fayit",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": "225",
+    "kodepos": "99782",
+    "desa_kelurahan": "Yawas",
+    "kecamatan": "Fayit",
+    "kabupaten_kota": "KAB. ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  }
+]
