@@ -3,19 +3,18 @@ import * as fs from 'fs';
 import * as path from 'path';
 
 /**
- * Script untuk melengkapi database kodepos Indonesia secara menyeluruh
- * untuk provinsi-provinsi yang datanya masih sangat minim (< 1000 records).
- * Strategi: Scraping per seluruh Kecamatan (District) di provinsi target.
+ * Script untuk melengkapi database kodepos untuk provinsi-provinsi kecil
+ * dengan cara mencari data berdasarkan tingkat Kecamatan (District).
  */
 
 const BASE_DATA_DIR = "/Users/damarkuncoro/SATU RAYA INTEGRASI/@damarkuncoro/data-wilayah-indonesia/csv";
 const USER_COOKIE = 'ci_session=siodf5sn3081n9fb1h3pfh7k8r92sjvt; TS011d97f9=01dc40192af9d2c68e0588cf6826f2541733c6f742d0e6382757bb95d8a2f8d27f6da94b22391892939703ae744a8f47fe7d578583';
 
-// Daftar ID Provinsi yang ingin difokuskan (Jawa Tengah Batch 4)
-const TARGET_FOCUS_IDS = ["33"];
+// Daftar ID Provinsi kecil yang ingin dilengkapi secara total
+const SMALL_PROVINCE_IDS = ["14", "15", "65", "75"]; // Riau, Jambi, Kaltara, Gorontalo batch berikutnya
 
 async function main() {
-    console.log('--- Melengkapi Database Kodepos (Fokus: Jawa Tengah Batch 4) ---');
+    console.log('--- Melengkapi Database Kodepos (Provinsi Kecil - Total) ---');
     
     const outputDir = path.join(__dirname, '../results/api_provinces');
     if (!fs.existsSync(outputDir)) fs.mkdirSync(outputDir, { recursive: true });
@@ -35,17 +34,16 @@ async function main() {
         .split('\n')
         .filter(line => line.trim() !== '');
 
-    for (const provinceId of TARGET_FOCUS_IDS) {
+    for (const provinceId of SMALL_PROVINCE_IDS) {
         const provinceName = provinces[provinceId];
         if (!provinceName) continue;
 
         console.log(`\n📦 Memproses Provinsi: ${provinceName} (ID: ${provinceId})...`);
         
-        // Ambil kecamatan 211 s/d 310
+        // Filter SEMUA kecamatan untuk provinsi ini
         const provinceDistricts = districtsRaw
             .filter(line => line.startsWith(provinceId))
-            .map(line => line.split(',')[2].trim())
-            .slice(210, 310); 
+            .map(line => line.split(',')[2].trim());
 
         let provinceData: any[] = [];
 
@@ -59,14 +57,13 @@ async function main() {
                     console.log(`   ✅ Ditemukan ${results.length} hasil.`);
                     provinceData = [...provinceData, ...results];
                 } else {
-                    console.log(`   ⚠️ Tidak ada hasil untuk ${districtName}.`);
+                    console.log(`   ⚠️ Tidak ada hasil.`);
                 }
 
-                // Jeda 2.5 detik antar kecamatan
-                await new Promise(resolve => setTimeout(resolve, 2500));
+                await new Promise(resolve => setTimeout(resolve, 2000));
             } catch (error: any) {
                 console.error(`   ❌ Gagal untuk ${districtName}:`, error.message);
-                await new Promise(resolve => setTimeout(resolve, 10000));
+                await new Promise(resolve => setTimeout(resolve, 5000));
             }
         }
 
@@ -74,7 +71,6 @@ async function main() {
             const fileName = `${provinceName.toLowerCase().replace(/\s+/g, '_')}.json`;
             const outputPath = path.join(outputDir, fileName);
             
-            // Gabungkan dengan data lama
             let finalData = provinceData;
             if (fs.existsSync(outputPath)) {
                 try {
@@ -91,8 +87,6 @@ async function main() {
             console.log(`💾 Berhasil memperbarui total ${finalData.length} data untuk ${provinceName}.`);
         }
     }
-
-    console.log('\n✨ Batch pemrosesan pelengkapan selesai.');
 }
 
 main().catch(console.error);
