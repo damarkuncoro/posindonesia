@@ -1,0 +1,32 @@
+[
+  {
+    "code": "73.01.01.0001",
+    "name": "KOMBA-KOMBA",
+    "districtCode": "73.01.01",
+    "type": "DESA",
+    "provinceName": "SULAWESI SELATAN",
+    "regencyName": "KABUPATEN KEPULAUAN SELAYAR",
+    "districtName": "PASIMARANNU",
+    "postalCode": "94882"
+  },
+  {
+    "code": "73.01.01.0002",
+    "name": "LAMBEGO",
+    "districtCode": "73.01.01",
+    "type": "DESA",
+    "provinceName": "SULAWESI SELATAN",
+    "regencyName": "KABUPATEN KEPULAUAN SELAYAR",
+    "districtName": "PASIMARANNU",
+    "postalCode": "92862"
+  },
+  {
+    "code": "73.01.01.0003",
+    "name": "BONERATE",
+    "districtCode": "73.01.01",
+    "type": "DESA",
+    "provinceName": "SULAWESI SELATAN",
+    "regencyName": "KABUPATEN KEPULAUAN SELAYAR",
+    "districtName": "PASIMARANNU",
+    "postalCode": "92862"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "code": "65.01.01.0001",
+    "name": "MAHAK BARU",
+    "districtCode": "65.01.01",
+    "type": "DESA",
+    "provinceName": "KALIMANTAN UTARA",
+    "regencyName": "KABUPATEN MALINAU",
+    "districtName": "SUNGAI BOH",
+    "postalCode": "77574"
+  },
+  {
+    "code": "65.01.01.0002",
+    "name": "DUMU MAHAK",
+    "districtCode": "65.01.01",
+    "type": "DESA",
+    "provinceName": "KALIMANTAN UTARA",
+    "regencyName": "KABUPATEN MALINAU",
+    "districtName": "SUNGAI BOH",
+    "postalCode": "77574"
+  },
+  {
+    "code": "65.01.01.0003",
+    "name": "LONG TOP",
+    "districtCode": "65.01.01",
+    "type": "DESA",
+    "provinceName": "KALIMANTAN UTARA",
+    "regencyName": "KABUPATEN MALINAU",
+    "districtName": "SUNGAI BOH",
+    "postalCode": "77574"
+  }
+]

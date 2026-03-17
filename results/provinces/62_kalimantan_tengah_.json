@@ -1,0 +1,32 @@
+[
+  {
+    "code": "62.01.04.0001",
+    "name": "BABUAL BABOTI",
+    "districtCode": "62.01.04",
+    "type": "DESA",
+    "provinceName": "KALIMANTAN TENGAH",
+    "regencyName": "KABUPATEN KOTAWARINGIN BARAT",
+    "districtName": "KOTAWARINGIN LAMA",
+    "postalCode": "74161"
+  },
+  {
+    "code": "62.01.04.0002",
+    "name": "TEMPAYUNG",
+    "districtCode": "62.01.04",
+    "type": "DESA",
+    "provinceName": "KALIMANTAN TENGAH",
+    "regencyName": "KABUPATEN KOTAWARINGIN BARAT",
+    "districtName": "KOTAWARINGIN LAMA",
+    "postalCode": "74161"
+  },
+  {
+    "code": "62.01.04.0003",
+    "name": "SAKABULIN",
+    "districtCode": "62.01.04",
+    "type": "DESA",
+    "provinceName": "KALIMANTAN TENGAH",
+    "regencyName": "KABUPATEN KOTAWARINGIN BARAT",
+    "districtName": "KOTAWARINGIN LAMA",
+    "postalCode": "74161"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "code": "34.01.01.0001",
+    "name": "JANGKARAN",
+    "districtCode": "34.01.01",
+    "type": "DESA",
+    "provinceName": "DI YOGYAKARTA",
+    "regencyName": "KABUPATEN KULON PROGO",
+    "districtName": "TEMON",
+    "postalCode": "55654"
+  },
+  {
+    "code": "34.01.01.0002",
+    "name": "SINDUTAN",
+    "districtCode": "34.01.01",
+    "type": "DESA",
+    "provinceName": "DI YOGYAKARTA",
+    "regencyName": "KABUPATEN KULON PROGO",
+    "districtName": "TEMON",
+    "postalCode": "55654"
+  },
+  {
+    "code": "34.01.01.0003",
+    "name": "PALIHAN",
+    "districtCode": "34.01.01",
+    "type": "DESA",
+    "provinceName": "DI YOGYAKARTA",
+    "regencyName": "KABUPATEN KULON PROGO",
+    "districtName": "TEMON",
+    "postalCode": "55654"
+  }
+]

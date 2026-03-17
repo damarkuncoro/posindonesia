@@ -21,8 +21,8 @@
     }
   },
   "bin": {
-    "kodepos": "lib/cjs/index.js",
-    "pos-cli": "lib/cjs/cli.js"
+    "kodepos": "lib/cjs/interfaces/cli/scrape.js",
+    "pos-cli": "lib/cjs/interfaces/cli/search.js"
   },
   "scripts": {
     "start": "ts-node src/index.ts",

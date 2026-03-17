@@ -1,0 +1,32 @@
+[
+  {
+    "code": "51.01.01.0001",
+    "name": "GILIMANUK",
+    "districtCode": "51.01.01",
+    "type": "DESA",
+    "provinceName": "BALI",
+    "regencyName": "KABUPATEN JEMBRANA",
+    "districtName": "MELAYA",
+    "postalCode": "82252"
+  },
+  {
+    "code": "51.01.01.0002",
+    "name": "MELAYA",
+    "districtCode": "51.01.01",
+    "type": "DESA",
+    "provinceName": "BALI",
+    "regencyName": "KABUPATEN JEMBRANA",
+    "districtName": "MELAYA",
+    "postalCode": "82252"
+  },
+  {
+    "code": "51.01.01.0003",
+    "name": "CANDIKUSUMA",
+    "districtCode": "51.01.01",
+    "type": "DESA",
+    "provinceName": "BALI",
+    "regencyName": "KABUPATEN JEMBRANA",
+    "districtName": "MELAYA",
+    "postalCode": "82252"
+  }
+]

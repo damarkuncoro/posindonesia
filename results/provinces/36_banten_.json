@@ -1,0 +1,32 @@
+[
+  {
+    "code": "36.01.01.0001",
+    "name": "UJUNGJAYA",
+    "districtCode": "36.01.01",
+    "type": "DESA",
+    "provinceName": "BANTEN",
+    "regencyName": "KABUPATEN PANDEGLANG",
+    "districtName": "SUMUR",
+    "postalCode": "42283"
+  },
+  {
+    "code": "36.01.01.0002",
+    "name": "TAMANJAYA",
+    "districtCode": "36.01.01",
+    "type": "DESA",
+    "provinceName": "BANTEN",
+    "regencyName": "KABUPATEN PANDEGLANG",
+    "districtName": "SUMUR",
+    "postalCode": "42283"
+  },
+  {
+    "code": "36.01.01.0003",
+    "name": "CIGORONDONG",
+    "districtCode": "36.01.01",
+    "type": "DESA",
+    "provinceName": "BANTEN",
+    "regencyName": "KABUPATEN PANDEGLANG",
+    "districtName": "SUMUR",
+    "postalCode": "42283"
+  }
+]

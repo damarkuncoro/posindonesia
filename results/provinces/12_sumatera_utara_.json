@@ -1,0 +1,32 @@
+[
+  {
+    "code": "12.01.06.0015",
+    "name": "TETE GOENAAI",
+    "districtCode": "12.01.06",
+    "type": "DESA",
+    "provinceName": "SUMATERA UTARA",
+    "regencyName": "KABUPATEN NIAS",
+    "districtName": "IDANO GAWO",
+    "postalCode": ""
+  },
+  {
+    "code": "12.01.06.0016",
+    "name": "LAOWO HILIMBARUZO",
+    "districtCode": "12.01.06",
+    "type": "DESA",
+    "provinceName": "SUMATERA UTARA",
+    "regencyName": "KABUPATEN NIAS",
+    "districtName": "IDANO GAWO",
+    "postalCode": "22872"
+  },
+  {
+    "code": "12.01.06.0017",
+    "name": "HILILAWAE",
+    "districtCode": "12.01.06",
+    "type": "DESA",
+    "provinceName": "SUMATERA UTARA",
+    "regencyName": "KABUPATEN NIAS",
+    "districtName": "IDANO GAWO",
+    "postalCode": "22872"
+  }
+]

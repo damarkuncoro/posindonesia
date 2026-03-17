@@ -1,0 +1,32 @@
+[
+  {
+    "code": "75.01.03.1001",
+    "name": "MANANGGU",
+    "districtCode": "75.01.03",
+    "type": "DESA",
+    "provinceName": "GORONTALO",
+    "regencyName": "KABUPATEN BOALEMO",
+    "districtName": "MANANGGU",
+    "postalCode": "96265"
+  },
+  {
+    "code": "75.01.03.1002",
+    "name": "TABULO",
+    "districtCode": "75.01.03",
+    "type": "DESA",
+    "provinceName": "GORONTALO",
+    "regencyName": "KABUPATEN BOALEMO",
+    "districtName": "MANANGGU",
+    "postalCode": "96265"
+  },
+  {
+    "code": "75.01.03.1003",
+    "name": "BENDUNGAN",
+    "districtCode": "75.01.03",
+    "type": "DESA",
+    "provinceName": "GORONTALO",
+    "regencyName": "KABUPATEN BOALEMO",
+    "districtName": "MANANGGU",
+    "postalCode": "96265"
+  }
+]

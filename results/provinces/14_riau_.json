@@ -1,0 +1,32 @@
+[
+  {
+    "code": "14.01.01.0005",
+    "name": "PANTAI",
+    "districtCode": "14.01.01",
+    "type": "DESA",
+    "provinceName": "RIAU",
+    "regencyName": "KABUPATEN KUANTAN SINGINGI",
+    "districtName": "KUANTAN MUDIK",
+    "postalCode": "29564"
+  },
+  {
+    "code": "14.01.01.0006",
+    "name": "AIR BULUH",
+    "districtCode": "14.01.01",
+    "type": "DESA",
+    "provinceName": "RIAU",
+    "regencyName": "KABUPATEN KUANTAN SINGINGI",
+    "districtName": "KUANTAN MUDIK",
+    "postalCode": "29564"
+  },
+  {
+    "code": "14.01.01.0007",
+    "name": "LUBUK RAMO",
+    "districtCode": "14.01.01",
+    "type": "DESA",
+    "provinceName": "RIAU",
+    "regencyName": "KABUPATEN KUANTAN SINGINGI",
+    "districtName": "KUANTAN MUDIK",
+    "postalCode": "29564"
+  }
+]

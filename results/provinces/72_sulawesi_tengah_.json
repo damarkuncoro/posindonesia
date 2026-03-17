@@ -1,0 +1,32 @@
+[
+  {
+    "code": "72.01.03.0007",
+    "name": "SOBONON",
+    "districtCode": "72.01.03",
+    "type": "DESA",
+    "provinceName": "SULAWESI TENGAH",
+    "regencyName": "KABUPATEN BANGGAI KEPULAUAN",
+    "districtName": "TOTIKUM",
+    "postalCode": "94884"
+  },
+  {
+    "code": "72.01.03.0008",
+    "name": "BOLONAN",
+    "districtCode": "72.01.03",
+    "type": "DESA",
+    "provinceName": "SULAWESI TENGAH",
+    "regencyName": "KABUPATEN BANGGAI KEPULAUAN",
+    "districtName": "TOTIKUM",
+    "postalCode": "94884"
+  },
+  {
+    "code": "72.01.03.0009",
+    "name": "SAKAY",
+    "districtCode": "72.01.03",
+    "type": "DESA",
+    "provinceName": "SULAWESI TENGAH",
+    "regencyName": "KABUPATEN BANGGAI KEPULAUAN",
+    "districtName": "TOTIKUM",
+    "postalCode": "94884"
+  }
+]

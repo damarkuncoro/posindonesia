@@ -1,0 +1,32 @@
+[
+  {
+    "code": "35.01.01.0001",
+    "name": "WIDORO",
+    "districtCode": "35.01.01",
+    "type": "DESA",
+    "provinceName": "JAWA TIMUR",
+    "regencyName": "KABUPATEN PACITAN",
+    "districtName": "DONOROJO",
+    "postalCode": "63554"
+  },
+  {
+    "code": "35.01.01.0002",
+    "name": "SAWAHAN",
+    "districtCode": "35.01.01",
+    "type": "DESA",
+    "provinceName": "JAWA TIMUR",
+    "regencyName": "KABUPATEN PACITAN",
+    "districtName": "DONOROJO",
+    "postalCode": "63554"
+  },
+  {
+    "code": "35.01.01.0003",
+    "name": "KALAK",
+    "districtCode": "35.01.01",
+    "type": "DESA",
+    "provinceName": "JAWA TIMUR",
+    "regencyName": "KABUPATEN PACITAN",
+    "districtName": "DONOROJO",
+    "postalCode": "63554"
+  }
+]

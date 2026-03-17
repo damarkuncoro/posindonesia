@@ -1,0 +1,32 @@
+[
+  {
+    "code": "32.01.01.0001",
+    "name": "MALASARI",
+    "districtCode": "32.01.01",
+    "type": "DESA",
+    "provinceName": "JAWA BARAT",
+    "regencyName": "KABUPATEN BOGOR",
+    "districtName": "NANGGUNG",
+    "postalCode": "16653"
+  },
+  {
+    "code": "32.01.01.0002",
+    "name": "BANTAR KARET",
+    "districtCode": "32.01.01",
+    "type": "DESA",
+    "provinceName": "JAWA BARAT",
+    "regencyName": "KABUPATEN BOGOR",
+    "districtName": "NANGGUNG",
+    "postalCode": ""
+  },
+  {
+    "code": "32.01.01.0003",
+    "name": "CISARUA",
+    "districtCode": "32.01.01",
+    "type": "DESA",
+    "provinceName": "JAWA BARAT",
+    "regencyName": "KABUPATEN BOGOR",
+    "districtName": "NANGGUNG",
+    "postalCode": "16652"
+  }
+]

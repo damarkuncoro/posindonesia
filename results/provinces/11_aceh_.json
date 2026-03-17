@@ -1,0 +1,32 @@
+[
+  {
+    "code": "11.01.01.0001",
+    "name": "LATIUNG",
+    "districtCode": "11.01.01",
+    "type": "DESA",
+    "provinceName": "ACEH",
+    "regencyName": "KABUPATEN SIMEULUE",
+    "districtName": "TEUPAH SELATAN",
+    "postalCode": "23895"
+  },
+  {
+    "code": "11.01.01.0002",
+    "name": "LABUHAN BAJAU",
+    "districtCode": "11.01.01",
+    "type": "DESA",
+    "provinceName": "ACEH",
+    "regencyName": "KABUPATEN SIMEULUE",
+    "districtName": "TEUPAH SELATAN",
+    "postalCode": "23895"
+  },
+  {
+    "code": "11.01.01.0003",
+    "name": "SUAK LAMATAN",
+    "districtCode": "11.01.01",
+    "type": "DESA",
+    "provinceName": "ACEH",
+    "regencyName": "KABUPATEN SIMEULUE",
+    "districtName": "TEUPAH SELATAN",
+    "postalCode": "23892"
+  }
+]

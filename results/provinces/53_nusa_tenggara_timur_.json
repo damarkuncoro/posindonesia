@@ -1,0 +1,32 @@
+[
+  {
+    "code": "53.01.02.1005",
+    "name": "WELIBO",
+    "districtCode": "53.01.02",
+    "type": "DESA",
+    "provinceName": "NUSA TENGGARA TIMUR",
+    "regencyName": "KABUPATEN SUMBA BARAT",
+    "districtName": "LAMBOYA",
+    "postalCode": ""
+  },
+  {
+    "code": "53.01.02.1006",
+    "name": "PATIALA BAWA",
+    "districtCode": "53.01.02",
+    "type": "DESA",
+    "provinceName": "NUSA TENGGARA TIMUR",
+    "regencyName": "KABUPATEN SUMBA BARAT",
+    "districtName": "LAMBOYA",
+    "postalCode": "87271"
+  },
+  {
+    "code": "53.01.02.1007",
+    "name": "LABOYA BAWA",
+    "districtCode": "53.01.02",
+    "type": "DESA",
+    "provinceName": "NUSA TENGGARA TIMUR",
+    "regencyName": "KABUPATEN SUMBA BARAT",
+    "districtName": "LAMBOYA",
+    "postalCode": ""
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "code": "71.01.02.1001",
+    "name": "TORAUT",
+    "districtCode": "71.01.02",
+    "type": "DESA",
+    "provinceName": "SULAWESI UTARA",
+    "regencyName": "KABUPATEN BOLAANG MONGONDOW",
+    "districtName": "DUMOGA BARAT",
+    "postalCode": "95762"
+  },
+  {
+    "code": "71.01.02.1002",
+    "name": "MATAYANGAN",
+    "districtCode": "71.01.02",
+    "type": "DESA",
+    "provinceName": "SULAWESI UTARA",
+    "regencyName": "KABUPATEN BOLAANG MONGONDOW",
+    "districtName": "DUMOGA BARAT",
+    "postalCode": "95762"
+  },
+  {
+    "code": "71.01.02.1003",
+    "name": "UUWAN",
+    "districtCode": "71.01.02",
+    "type": "DESA",
+    "provinceName": "SULAWESI UTARA",
+    "regencyName": "KABUPATEN BOLAANG MONGONDOW",
+    "districtName": "DUMOGA BARAT",
+    "postalCode": "93311"
+  }
+]

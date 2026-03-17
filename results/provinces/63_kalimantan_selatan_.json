@@ -1,0 +1,32 @@
+[
+  {
+    "code": "63.01.01.0001",
+    "name": "BATAKAN",
+    "districtCode": "63.01.01",
+    "type": "DESA",
+    "provinceName": "KALIMANTAN SELATAN",
+    "regencyName": "KABUPATEN TANAH LAUT",
+    "districtName": "PANYIPATAN",
+    "postalCode": "70871"
+  },
+  {
+    "code": "63.01.01.0002",
+    "name": "TANJUNG DEWA",
+    "districtCode": "63.01.01",
+    "type": "DESA",
+    "provinceName": "KALIMANTAN SELATAN",
+    "regencyName": "KABUPATEN TANAH LAUT",
+    "districtName": "PANYIPATAN",
+    "postalCode": "70871"
+  },
+  {
+    "code": "63.01.01.0003",
+    "name": "KANDANGAN LAMA",
+    "districtCode": "63.01.01",
+    "type": "DESA",
+    "provinceName": "KALIMANTAN SELATAN",
+    "regencyName": "KABUPATEN TANAH LAUT",
+    "districtName": "PANYIPATAN",
+    "postalCode": "70871"
+  }
+]

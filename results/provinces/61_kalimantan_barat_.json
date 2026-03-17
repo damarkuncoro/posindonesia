@@ -1,0 +1,32 @@
+[
+  {
+    "code": "61.01.01.0001",
+    "name": "SEMELAGI BESAR",
+    "districtCode": "61.01.01",
+    "type": "DESA",
+    "provinceName": "KALIMANTAN BARAT",
+    "regencyName": "KABUPATEN SAMBAS",
+    "districtName": "SELAKAU",
+    "postalCode": "79452"
+  },
+  {
+    "code": "61.01.01.0002",
+    "name": "SUNGAI DAUN",
+    "districtCode": "61.01.01",
+    "type": "DESA",
+    "provinceName": "KALIMANTAN BARAT",
+    "regencyName": "KABUPATEN SAMBAS",
+    "districtName": "SELAKAU",
+    "postalCode": "79452"
+  },
+  {
+    "code": "61.01.01.0003",
+    "name": "SUNGAI RUSA",
+    "districtCode": "61.01.01",
+    "type": "DESA",
+    "provinceName": "KALIMANTAN BARAT",
+    "regencyName": "KABUPATEN SAMBAS",
+    "districtName": "SELAKAU",
+    "postalCode": "79452"
+  }
+]

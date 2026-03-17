@@ -1,0 +1,32 @@
+[
+  {
+    "code": "21.01.01.0003",
+    "name": "MORO",
+    "districtCode": "21.01.01",
+    "type": "DESA",
+    "provinceName": "KEPULAUAN RIAU",
+    "regencyName": "KABUPATEN KARIMUN",
+    "districtName": "MORO",
+    "postalCode": "29663"
+  },
+  {
+    "code": "21.01.01.0004",
+    "name": "PAUH",
+    "districtCode": "21.01.01",
+    "type": "DESA",
+    "provinceName": "KEPULAUAN RIAU",
+    "regencyName": "KABUPATEN KARIMUN",
+    "districtName": "MORO",
+    "postalCode": "29663"
+  },
+  {
+    "code": "21.01.01.0005",
+    "name": "SUGIE",
+    "districtCode": "21.01.01",
+    "type": "DESA",
+    "provinceName": "KEPULAUAN RIAU",
+    "regencyName": "KABUPATEN KARIMUN",
+    "districtName": "MORO",
+    "postalCode": "29663"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "code": "15.01.01.0001",
+    "name": "LEMPUR MUDIK",
+    "districtCode": "15.01.01",
+    "type": "DESA",
+    "provinceName": "JAMBI",
+    "regencyName": "KABUPATEN KERINCI",
+    "districtName": "GUNUNG RAYA",
+    "postalCode": "37174"
+  },
+  {
+    "code": "15.01.01.0002",
+    "name": "DUSUN BARU LEMPUR",
+    "districtCode": "15.01.01",
+    "type": "DESA",
+    "provinceName": "JAMBI",
+    "regencyName": "KABUPATEN KERINCI",
+    "districtName": "GUNUNG RAYA",
+    "postalCode": "37174"
+  },
+  {
+    "code": "15.01.01.0003",
+    "name": "LEMPUR TENGAH",
+    "districtCode": "15.01.01",
+    "type": "DESA",
+    "provinceName": "JAMBI",
+    "regencyName": "KABUPATEN KERINCI",
+    "districtName": "GUNUNG RAYA",
+    "postalCode": "37174"
+  }
+]

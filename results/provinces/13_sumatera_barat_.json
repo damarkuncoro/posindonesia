@@ -1,0 +1,32 @@
+[
+  {
+    "code": "13.01.01.1001",
+    "name": "BULASAT",
+    "districtCode": "13.01.01",
+    "type": "DESA",
+    "provinceName": "SUMATERA BARAT",
+    "regencyName": "KABUPATEN KEPULAUAN MENTAWAI",
+    "districtName": "PAGAI SELATAN",
+    "postalCode": "25391"
+  },
+  {
+    "code": "13.01.01.1002",
+    "name": "SINAKA",
+    "districtCode": "13.01.01",
+    "type": "DESA",
+    "provinceName": "SUMATERA BARAT",
+    "regencyName": "KABUPATEN KEPULAUAN MENTAWAI",
+    "districtName": "PAGAI SELATAN",
+    "postalCode": "25391"
+  },
+  {
+    "code": "13.01.01.1003",
+    "name": "MAKALO",
+    "districtCode": "13.01.01",
+    "type": "DESA",
+    "provinceName": "SUMATERA BARAT",
+    "regencyName": "KABUPATEN KEPULAUAN MENTAWAI",
+    "districtName": "PAGAI SELATAN",
+    "postalCode": "25391"
+  }
+]

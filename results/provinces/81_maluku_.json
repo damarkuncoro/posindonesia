@@ -1,0 +1,32 @@
+[
+  {
+    "code": "81.01.04.0001",
+    "name": "LERMATANG",
+    "districtCode": "81.01.04",
+    "type": "DESA",
+    "provinceName": "MALUKU",
+    "regencyName": "KABUPATEN MALUKU TENGGARA BARAT",
+    "districtName": "TANIMBAR SELATAN",
+    "postalCode": "97465"
+  },
+  {
+    "code": "81.01.04.0002",
+    "name": "LATDALAM",
+    "districtCode": "81.01.04",
+    "type": "DESA",
+    "provinceName": "MALUKU",
+    "regencyName": "KABUPATEN MALUKU TENGGARA BARAT",
+    "districtName": "TANIMBAR SELATAN",
+    "postalCode": "97465"
+  },
+  {
+    "code": "81.01.04.0009",
+    "name": "SAUMLAKI",
+    "districtCode": "81.01.04",
+    "type": "DESA",
+    "provinceName": "MALUKU",
+    "regencyName": "KABUPATEN MALUKU TENGGARA BARAT",
+    "districtName": "TANIMBAR SELATAN",
+    "postalCode": "97465"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "code": "52.01.01.0001",
+    "name": "PELANGAN",
+    "districtCode": "52.01.01",
+    "type": "DESA",
+    "provinceName": "NUSA TENGGARA BARAT",
+    "regencyName": "KABUPATEN LOMBOK BARAT",
+    "districtName": "SEKOTONG",
+    "postalCode": "83365"
+  },
+  {
+    "code": "52.01.01.0002",
+    "name": "SEKOTONG BARAT",
+    "districtCode": "52.01.01",
+    "type": "DESA",
+    "provinceName": "NUSA TENGGARA BARAT",
+    "regencyName": "KABUPATEN LOMBOK BARAT",
+    "districtName": "SEKOTONG",
+    "postalCode": "83365"
+  },
+  {
+    "code": "52.01.01.0003",
+    "name": "BUWUN MAS",
+    "districtCode": "52.01.01",
+    "type": "DESA",
+    "provinceName": "NUSA TENGGARA BARAT",
+    "regencyName": "KABUPATEN LOMBOK BARAT",
+    "districtName": "SEKOTONG",
+    "postalCode": "83365"
+  }
+]

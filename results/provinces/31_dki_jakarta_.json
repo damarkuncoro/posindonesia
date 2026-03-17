@@ -1,0 +1,32 @@
+[
+  {
+    "code": "31.01.01.0001",
+    "name": "PULAU TIDUNG",
+    "districtCode": "31.01.01",
+    "type": "DESA",
+    "provinceName": "DKI JAKARTA",
+    "regencyName": "KABUPATEN KEPULAUAN SERIBU",
+    "districtName": "KEPULAUAN SERIBU SELATAN",
+    "postalCode": "14520"
+  },
+  {
+    "code": "31.01.01.0002",
+    "name": "PULAU PARI",
+    "districtCode": "31.01.01",
+    "type": "DESA",
+    "provinceName": "DKI JAKARTA",
+    "regencyName": "KABUPATEN KEPULAUAN SERIBU",
+    "districtName": "KEPULAUAN SERIBU SELATAN",
+    "postalCode": "14520"
+  },
+  {
+    "code": "31.01.01.0003",
+    "name": "PULAU UNTUNG JAWA",
+    "districtCode": "31.01.01",
+    "type": "DESA",
+    "provinceName": "DKI JAKARTA",
+    "regencyName": "KABUPATEN KEPULAUAN SERIBU",
+    "districtName": "KEPULAUAN SERIBU SELATAN",
+    "postalCode": "14510"
+  }
+]

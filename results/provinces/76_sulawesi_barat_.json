@@ -1,0 +1,32 @@
+[
+  {
+    "code": "76.01.01.0001",
+    "name": "TOTOLI",
+    "districtCode": "76.01.01",
+    "type": "DESA",
+    "provinceName": "SULAWESI BARAT",
+    "regencyName": "KABUPATEN MAJENE",
+    "districtName": "BANGGAE",
+    "postalCode": "91415"
+  },
+  {
+    "code": "76.01.01.0002",
+    "name": "BARU",
+    "districtCode": "76.01.01",
+    "type": "DESA",
+    "provinceName": "SULAWESI BARAT",
+    "regencyName": "KABUPATEN MAJENE",
+    "districtName": "BANGGAE",
+    "postalCode": "91415"
+  },
+  {
+    "code": "76.01.01.0003",
+    "name": "PANGALI-ALI",
+    "districtCode": "76.01.01",
+    "type": "DESA",
+    "provinceName": "SULAWESI BARAT",
+    "regencyName": "KABUPATEN MAJENE",
+    "districtName": "BANGGAE",
+    "postalCode": ""
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "code": "82.01.09.0015",
+    "name": "BUKU BUALAWA",
+    "districtCode": "82.01.09",
+    "type": "DESA",
+    "provinceName": "MALUKU UTARA",
+    "regencyName": "KABUPATEN HALMAHERA BARAT",
+    "districtName": "JAILOLO",
+    "postalCode": "97752"
+  },
+  {
+    "code": "82.01.09.0016",
+    "name": "TAURO",
+    "districtCode": "82.01.09",
+    "type": "DESA",
+    "provinceName": "MALUKU UTARA",
+    "regencyName": "KABUPATEN HALMAHERA BARAT",
+    "districtName": "JAILOLO",
+    "postalCode": "97752"
+  },
+  {
+    "code": "82.01.09.0017",
+    "name": "MATUI",
+    "districtCode": "82.01.09",
+    "type": "DESA",
+    "provinceName": "MALUKU UTARA",
+    "regencyName": "KABUPATEN HALMAHERA BARAT",
+    "districtName": "JAILOLO",
+    "postalCode": "97752"
+  }
+]

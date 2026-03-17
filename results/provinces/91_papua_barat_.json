@@ -1,0 +1,32 @@
+[
+  {
+    "code": "91.01.05.0006",
+    "name": "TUNAS GAIN",
+    "districtCode": "91.01.05",
+    "type": "DESA",
+    "provinceName": "PAPUA BARAT",
+    "regencyName": "KABUPATEN FAKFAK",
+    "districtName": "FAKFAK TIMUR",
+    "postalCode": "98642"
+  },
+  {
+    "code": "91.01.05.0007",
+    "name": "URAT",
+    "districtCode": "91.01.05",
+    "type": "DESA",
+    "provinceName": "PAPUA BARAT",
+    "regencyName": "KABUPATEN FAKFAK",
+    "districtName": "FAKFAK TIMUR",
+    "postalCode": "92351"
+  },
+  {
+    "code": "91.01.05.0008",
+    "name": "SANGGRAM",
+    "districtCode": "91.01.05",
+    "type": "DESA",
+    "provinceName": "PAPUA BARAT",
+    "regencyName": "KABUPATEN FAKFAK",
+    "districtName": "FAKFAK TIMUR",
+    "postalCode": "98642"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "code": "94.01.01.0006",
+    "name": "KOMOLOM",
+    "districtCode": "94.01.01",
+    "type": "DESA",
+    "provinceName": "PAPUA",
+    "regencyName": "KABUPATEN MERAUKE",
+    "districtName": "KIMAAM",
+    "postalCode": "99655"
+  },
+  {
+    "code": "94.01.01.0007",
+    "name": "KUMBIS",
+    "districtCode": "94.01.01",
+    "type": "DESA",
+    "provinceName": "PAPUA",
+    "regencyName": "KABUPATEN MERAUKE",
+    "districtName": "KIMAAM",
+    "postalCode": "99655"
+  },
+  {
+    "code": "94.01.01.0008",
+    "name": "KALILAM",
+    "districtCode": "94.01.01",
+    "type": "DESA",
+    "provinceName": "PAPUA",
+    "regencyName": "KABUPATEN MERAUKE",
+    "districtName": "KIMAAM",
+    "postalCode": "99655"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "code": "17.01.04.0002",
+    "name": "KETAPING",
+    "districtCode": "17.01.04",
+    "type": "DESA",
+    "provinceName": "BENGKULU",
+    "regencyName": "KABUPATEN BENGKULU SELATAN",
+    "districtName": "MANNA",
+    "postalCode": "38551"
+  },
+  {
+    "code": "17.01.04.0003",
+    "name": "TERULUNG",
+    "districtCode": "17.01.04",
+    "type": "DESA",
+    "provinceName": "BENGKULU",
+    "regencyName": "KABUPATEN BENGKULU SELATAN",
+    "districtName": "MANNA",
+    "postalCode": "38551"
+  },
+  {
+    "code": "17.01.04.0004",
+    "name": "MANGGUL",
+    "districtCode": "17.01.04",
+    "type": "DESA",
+    "provinceName": "BENGKULU",
+    "regencyName": "KABUPATEN BENGKULU SELATAN",
+    "districtName": "MANNA",
+    "postalCode": "38551"
+  }
+]

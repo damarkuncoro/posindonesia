@@ -1,0 +1,32 @@
+[
+  {
+    "code": "19.01.07.0001",
+    "name": "KOTA KAPUR",
+    "districtCode": "19.01.07",
+    "type": "DESA",
+    "provinceName": "KEPULAUAN BANGKA BELITUNG",
+    "regencyName": "KABUPATEN BANGKA",
+    "districtName": "MENDO BARAT",
+    "postalCode": "33273"
+  },
+  {
+    "code": "19.01.07.0002",
+    "name": "PENAGAN",
+    "districtCode": "19.01.07",
+    "type": "DESA",
+    "provinceName": "KEPULAUAN BANGKA BELITUNG",
+    "regencyName": "KABUPATEN BANGKA",
+    "districtName": "MENDO BARAT",
+    "postalCode": "33273"
+  },
+  {
+    "code": "19.01.07.0003",
+    "name": "RUKAM",
+    "districtCode": "19.01.07",
+    "type": "DESA",
+    "provinceName": "KEPULAUAN BANGKA BELITUNG",
+    "regencyName": "KABUPATEN BANGKA",
+    "districtName": "MENDO BARAT",
+    "postalCode": "33273"
+  }
+]

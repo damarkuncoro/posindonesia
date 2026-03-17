@@ -1,0 +1,32 @@
+[
+  {
+    "code": "64.01.01.0009",
+    "name": "SAMURANGAU",
+    "districtCode": "64.01.01",
+    "type": "DESA",
+    "provinceName": "KALIMANTAN TIMUR",
+    "regencyName": "KABUPATEN PASER",
+    "districtName": "BATU SOPANG",
+    "postalCode": ""
+  },
+  {
+    "code": "64.01.01.0010",
+    "name": "BUSUI",
+    "districtCode": "64.01.01",
+    "type": "DESA",
+    "provinceName": "KALIMANTAN TIMUR",
+    "regencyName": "KABUPATEN PASER",
+    "districtName": "BATU SOPANG",
+    "postalCode": "76252"
+  },
+  {
+    "code": "64.01.01.0011",
+    "name": "BATU KAJANG",
+    "districtCode": "64.01.01",
+    "type": "DESA",
+    "provinceName": "KALIMANTAN TIMUR",
+    "regencyName": "KABUPATEN PASER",
+    "districtName": "BATU SOPANG",
+    "postalCode": "76252"
+  }
+]

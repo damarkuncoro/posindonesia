@@ -1,0 +1,32 @@
+[
+  {
+    "code": "33.01.01.0001",
+    "name": "PANULISAN BARAT",
+    "districtCode": "33.01.01",
+    "type": "DESA",
+    "provinceName": "JAWA TENGAH",
+    "regencyName": "KABUPATEN CILACAP",
+    "districtName": "DAYEUHLUHUR",
+    "postalCode": "53266"
+  },
+  {
+    "code": "33.01.01.0002",
+    "name": "PANULISAN",
+    "districtCode": "33.01.01",
+    "type": "DESA",
+    "provinceName": "JAWA TENGAH",
+    "regencyName": "KABUPATEN CILACAP",
+    "districtName": "DAYEUHLUHUR",
+    "postalCode": "53266"
+  },
+  {
+    "code": "33.01.01.0003",
+    "name": "PANULISAN TIMUR",
+    "districtCode": "33.01.01",
+    "type": "DESA",
+    "provinceName": "JAWA TENGAH",
+    "regencyName": "KABUPATEN CILACAP",
+    "districtName": "DAYEUHLUHUR",
+    "postalCode": "53266"
+  }
+]

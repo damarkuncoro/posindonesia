@@ -1,0 +1,32 @@
+[
+  {
+    "code": "18.01.04.0001",
+    "name": "KUBU PERAHU",
+    "districtCode": "18.01.04",
+    "type": "DESA",
+    "provinceName": "LAMPUNG",
+    "regencyName": "KABUPATEN LAMPUNG BARAT",
+    "districtName": "BALIK BUKIT",
+    "postalCode": "34813"
+  },
+  {
+    "code": "18.01.04.0002",
+    "name": "WAY EMPULAU ULU",
+    "districtCode": "18.01.04",
+    "type": "DESA",
+    "provinceName": "LAMPUNG",
+    "regencyName": "KABUPATEN LAMPUNG BARAT",
+    "districtName": "BALIK BUKIT",
+    "postalCode": "34819"
+  },
+  {
+    "code": "18.01.04.0003",
+    "name": "WATAS",
+    "districtCode": "18.01.04",
+    "type": "DESA",
+    "provinceName": "LAMPUNG",
+    "regencyName": "KABUPATEN LAMPUNG BARAT",
+    "districtName": "BALIK BUKIT",
+    "postalCode": "31615"
+  }
+]

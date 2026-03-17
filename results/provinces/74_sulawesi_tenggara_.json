@@ -1,0 +1,32 @@
+[
+  {
+    "code": "74.01.05.0016",
+    "name": "WASUAMBA",
+    "districtCode": "74.01.05",
+    "type": "DESA",
+    "provinceName": "SULAWESI TENGGARA",
+    "regencyName": "KABUPATEN BUTON",
+    "districtName": "LASALIMU",
+    "postalCode": "93755"
+  },
+  {
+    "code": "74.01.05.0019",
+    "name": "BONELALO",
+    "districtCode": "74.01.05",
+    "type": "DESA",
+    "provinceName": "SULAWESI TENGGARA",
+    "regencyName": "KABUPATEN BUTON",
+    "districtName": "LASALIMU",
+    "postalCode": "93755"
+  },
+  {
+    "code": "74.01.05.0020",
+    "name": "LASEMBANGI",
+    "districtCode": "74.01.05",
+    "type": "DESA",
+    "provinceName": "SULAWESI TENGGARA",
+    "regencyName": "KABUPATEN BUTON",
+    "districtName": "LASALIMU",
+    "postalCode": "93755"
+  }
+]
