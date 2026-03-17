@@ -1,8 +1,27 @@
 # Dependencies
-/node_modules
+node_modules/
 
-# Log files
+# Build Output
+lib/
+dist/
+docs/
+docs.zip
+
+# Logs
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
-lerna-debug.log*
+*.log
+
+# Data Results (Scraping)
+results/
+csv/
+
+# System Files
+.DS_Store
+.env
+.vscode/
+.idea/
+
+# Temporary Files
+*.tsbuildinfo

@@ -1,0 +1,26 @@
+# Ignore source files (we only publish compiled JS/DTS)
+src/
+examples/
+
+# Ignore config files
+tsconfig.json
+tsconfig.cjs.json
+tsconfig.esm.json
+typedoc.json
+jest.config.js
+
+# Ignore data results
+results/
+csv/
+
+# Ignore docs
+docs/
+docs.zip
+
+# Ignore logs
+*.log
+
+# Ignore system files
+.DS_Store
+.vscode/
+.idea/
