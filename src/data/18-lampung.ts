@@ -12900,17 +12900,6 @@ export const LAMPUNG: PostalCode[] = [
     cityCode: "1803",
     district: "Merbau Mataram",
     districtCode: "1803091",
-    village: "Karang Jaya",
-    villageCode: "1803091015",
-    postalCode: "35557"
-  },
-  {
-    province: "LAMPUNG",
-    provinceCode: "18",
-    city: "KAB. LAMPUNG SELATAN",
-    cityCode: "1803",
-    district: "Merbau Mataram",
-    districtCode: "1803091",
     village: "Merbau Mataram",
     villageCode: "1803091006",
     postalCode: "35557"

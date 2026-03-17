@@ -17824,94 +17824,6 @@ export const KALIMANTAN_SELATAN: PostalCode[] = [
   {
     province: "KALIMANTAN SELATAN",
     provinceCode: "63",
-    city: "KAB. TANAH LAUT",
-    cityCode: "6301",
-    district: "Pelaihari",
-    districtCode: "6301060",
-    village: "Kampung Baru",
-    villageCode: "6301060002",
-    postalCode: "70819"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KAB. TANAH LAUT",
-    cityCode: "6301",
-    district: "Pelaihari",
-    districtCode: "6301060",
-    village: "Panggung Baru",
-    villageCode: "6301060027",
-    postalCode: "70819"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KAB. TANAH LAUT",
-    cityCode: "6301",
-    district: "Bati Bati",
-    districtCode: "",
-    village: "Ujung Baru",
-    villageCode: "",
-    postalCode: "70852"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KAB. TANAH LAUT",
-    cityCode: "6301",
-    district: "Bati Bati",
-    districtCode: "",
-    village: "Kait-kait Baru",
-    villageCode: "",
-    postalCode: "70852"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KAB. TANAH LAUT",
-    cityCode: "6301",
-    district: "Tambang Ulang",
-    districtCode: "6301050",
-    village: "Martadah Baru",
-    villageCode: "6301050010",
-    postalCode: "70854"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KAB. TANAH LAUT",
-    cityCode: "6301",
-    district: "Panyipatan",
-    districtCode: "6301010",
-    village: "Kandangan Baru",
-    villageCode: "6301010010",
-    postalCode: "70871"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KAB. TANAH LAUT",
-    cityCode: "6301",
-    district: "Jorong",
-    districtCode: "6301080",
-    village: "Simpang Empat Sungai Baru",
-    villageCode: "6301080011",
-    postalCode: "70881"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KAB. TANAH LAUT",
-    cityCode: "6301",
-    district: "Kintap",
-    districtCode: "6301090",
-    village: "Sebamban Baru",
-    villageCode: "6301090012",
-    postalCode: "70883"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
     city: "KAB. TAPIN",
     cityCode: "6305",
     district: "Bakarangan",
@@ -27009,116 +26921,6 @@ export const KALIMANTAN_SELATAN: PostalCode[] = [
   {
     province: "LAMPUNG",
     provinceCode: "63",
-    city: "KAB. TULANG BAWANG",
-    cityCode: "",
-    district: "Banjar Baru",
-    districtCode: "",
-    village: "Balai Murni Jaya",
-    villageCode: "",
-    postalCode: "34686"
-  },
-  {
-    province: "LAMPUNG",
-    provinceCode: "63",
-    city: "KAB. TULANG BAWANG",
-    cityCode: "",
-    district: "Banjar Baru",
-    districtCode: "",
-    village: "Karya Murni Jaya",
-    villageCode: "",
-    postalCode: "34686"
-  },
-  {
-    province: "LAMPUNG",
-    provinceCode: "63",
-    city: "KAB. TULANG BAWANG",
-    cityCode: "",
-    district: "Banjar Baru",
-    districtCode: "",
-    village: "Bawang Tirto Mulyo",
-    villageCode: "",
-    postalCode: "34686"
-  },
-  {
-    province: "LAMPUNG",
-    provinceCode: "63",
-    city: "KAB. TULANG BAWANG",
-    cityCode: "",
-    district: "Banjar Baru",
-    districtCode: "",
-    village: "Panca Karsa Purna Jaya",
-    villageCode: "",
-    postalCode: "34686"
-  },
-  {
-    province: "LAMPUNG",
-    provinceCode: "63",
-    city: "KAB. TULANG BAWANG",
-    cityCode: "",
-    district: "Banjar Baru",
-    districtCode: "",
-    village: "Kahuripan Jaya",
-    villageCode: "",
-    postalCode: "34686"
-  },
-  {
-    province: "LAMPUNG",
-    provinceCode: "63",
-    city: "KAB. TULANG BAWANG",
-    cityCode: "",
-    district: "Banjar Baru",
-    districtCode: "",
-    village: "Mekar Jaya",
-    villageCode: "",
-    postalCode: "34686"
-  },
-  {
-    province: "LAMPUNG",
-    provinceCode: "63",
-    city: "KAB. TULANG BAWANG",
-    cityCode: "",
-    district: "Banjar Baru",
-    districtCode: "",
-    village: "Bawang Sakti Jaya",
-    villageCode: "",
-    postalCode: "34686"
-  },
-  {
-    province: "LAMPUNG",
-    provinceCode: "63",
-    city: "KAB. TULANG BAWANG",
-    cityCode: "",
-    district: "Banjar Baru",
-    districtCode: "",
-    village: "Mekar Indah Jaya",
-    villageCode: "",
-    postalCode: "34686"
-  },
-  {
-    province: "LAMPUNG",
-    provinceCode: "63",
-    city: "KAB. TULANG BAWANG",
-    cityCode: "",
-    district: "Banjar Baru",
-    districtCode: "",
-    village: "Panca Mulia",
-    villageCode: "",
-    postalCode: "34686"
-  },
-  {
-    province: "LAMPUNG",
-    provinceCode: "63",
-    city: "KAB. TULANG BAWANG",
-    cityCode: "",
-    district: "Banjar Baru",
-    districtCode: "",
-    village: "Jaya Makmur",
-    villageCode: "",
-    postalCode: "34686"
-  },
-  {
-    province: "LAMPUNG",
-    provinceCode: "63",
     city: "KAB. WAY KANAN",
     cityCode: "1807",
     district: "Baradatu",
@@ -27169,17 +26971,6 @@ export const KALIMANTAN_SELATAN: PostalCode[] = [
     districtCode: "1807020",
     village: "Banjar Mulya",
     villageCode: "",
-    postalCode: "34761"
-  },
-  {
-    province: "LAMPUNG",
-    provinceCode: "63",
-    city: "KAB. WAY KANAN",
-    cityCode: "1807",
-    district: "Baradatu",
-    districtCode: "1807020",
-    village: "Banjar Baru",
-    villageCode: "1807020017",
     postalCode: "34761"
   },
   {
@@ -28467,17 +28258,6 @@ export const KALIMANTAN_SELATAN: PostalCode[] = [
     districtCode: "3210041",
     village: "Banjaran",
     villageCode: "3210041009",
-    postalCode: "45468"
-  },
-  {
-    province: "JAWA BARAT",
-    provinceCode: "63",
-    city: "KAB. MAJALENGKA",
-    cityCode: "3210",
-    district: "Banjaran",
-    districtCode: "3210041",
-    village: "Sunia Baru",
-    villageCode: "",
     postalCode: "45468"
   },
   {
@@ -34603,28 +34383,6 @@ export const KALIMANTAN_SELATAN: PostalCode[] = [
     cityCode: "6371",
     district: "Banjarmasin Tengah",
     districtCode: "6371031",
-    village: "Kertak Baru Ilir",
-    villageCode: "6371031002",
-    postalCode: "70111"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KOTA BANJARMASIN",
-    cityCode: "6371",
-    district: "Banjarmasin Tengah",
-    districtCode: "6371031",
-    village: "Kertak Baru Ulu",
-    villageCode: "6371031005",
-    postalCode: "70111"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KOTA BANJARMASIN",
-    cityCode: "6371",
-    district: "Banjarmasin Tengah",
-    districtCode: "6371031",
     village: "Mawar",
     villageCode: "6371031003",
     postalCode: "70112"
@@ -34650,17 +34408,6 @@ export const KALIMANTAN_SELATAN: PostalCode[] = [
     village: "Pasar Lama",
     villageCode: "6371031010",
     postalCode: "70115"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KOTA BANJARMASIN",
-    cityCode: "6371",
-    district: "Banjarmasin Tengah",
-    districtCode: "6371031",
-    village: "Sungai Baru",
-    villageCode: "6371031007",
-    postalCode: "70117"
   },
   {
     province: "KALIMANTAN SELATAN",
@@ -35160,17 +34907,6 @@ export const KALIMANTAN_SELATAN: PostalCode[] = [
   {
     province: "KALIMANTAN SELATAN",
     provinceCode: "63",
-    city: "KOTA BANJARMASIN",
-    cityCode: "6371",
-    district: "Banjarmasin Selatan",
-    districtCode: "6371010",
-    village: "Pemurus Baru",
-    villageCode: "6371010008",
-    postalCode: "70249"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
     city: "KAB. BANJAR",
     cityCode: "6303",
     district: "Martapura",
@@ -35318,41 +35054,8 @@ export const KALIMANTAN_SELATAN: PostalCode[] = [
     cityCode: "6303",
     district: "Martapura",
     districtCode: "6303050",
-    village: "Tambak Baru Ulu",
-    villageCode: "6303050028",
-    postalCode: "70619"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KAB. BANJAR",
-    cityCode: "6303",
-    district: "Martapura",
-    districtCode: "6303050",
     village: "Pasayangan Utara",
     villageCode: "6303050018",
-    postalCode: "70619"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KAB. BANJAR",
-    cityCode: "6303",
-    district: "Martapura",
-    districtCode: "6303050",
-    village: "Tambak Baru",
-    villageCode: "6303050009",
-    postalCode: "70619"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KAB. BANJAR",
-    cityCode: "6303",
-    district: "Martapura",
-    districtCode: "6303050",
-    village: "Tambak Baru Ilir",
-    villageCode: "6303050027",
     postalCode: "70619"
   },
   {
@@ -35463,17 +35166,6 @@ export const KALIMANTAN_SELATAN: PostalCode[] = [
     districtCode: "6303051",
     village: "Mekar",
     villageCode: "6303051008",
-    postalCode: "70621"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KAB. BANJAR",
-    cityCode: "6303",
-    district: "Martapura Timur",
-    districtCode: "6303051",
-    village: "Pematang Baru",
-    villageCode: "6303051006",
     postalCode: "70621"
   },
   {
@@ -35617,28 +35309,6 @@ export const KALIMANTAN_SELATAN: PostalCode[] = [
     districtCode: "6303051",
     village: "Tambak Anyar Ulu",
     villageCode: "6303051005",
-    postalCode: "70621"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KAB. BANJAR",
-    cityCode: "6303",
-    district: "Martapura Timur",
-    districtCode: "6303051",
-    village: "Keramat Baru",
-    villageCode: "6303051012",
-    postalCode: "70621"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KAB. BANJAR",
-    cityCode: "6303",
-    district: "Martapura Timur",
-    districtCode: "6303051",
-    village: "Akar Baru",
-    villageCode: "6303051017",
     postalCode: "70621"
   },
   {
@@ -35881,39 +35551,6 @@ export const KALIMANTAN_SELATAN: PostalCode[] = [
     districtCode: "6303020",
     village: "Tambak Sirang Laut",
     villageCode: "6303020008",
-    postalCode: "70652"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KAB. BANJAR",
-    cityCode: "6303",
-    district: "Gambut",
-    districtCode: "6303020",
-    village: "Tambak Sirang Baru",
-    villageCode: "6303020007",
-    postalCode: "70652"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KAB. BANJAR",
-    cityCode: "6303",
-    district: "Gambut",
-    districtCode: "6303020",
-    village: "Keladan Baru",
-    villageCode: "6303020002",
-    postalCode: "70652"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KAB. BANJAR",
-    cityCode: "6303",
-    district: "Gambut",
-    districtCode: "6303020",
-    village: "Malintang Baru",
-    villageCode: "6303020010",
     postalCode: "70652"
   },
   {
@@ -36187,17 +35824,6 @@ export const KALIMANTAN_SELATAN: PostalCode[] = [
     cityCode: "6303",
     district: "Sungai Tabuk",
     districtCode: "6303040",
-    village: "Sungai Pinang Baru",
-    villageCode: "6303040015",
-    postalCode: "70653"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KAB. BANJAR",
-    cityCode: "6303",
-    district: "Sungai Tabuk",
-    districtCode: "6303040",
     village: "Abumbun Jaya",
     villageCode: "6303040005",
     postalCode: "70653"
@@ -36233,17 +35859,6 @@ export const KALIMANTAN_SELATAN: PostalCode[] = [
     districtCode: "6303030",
     village: "Mandarsari",
     villageCode: "",
-    postalCode: "70654"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KAB. BANJAR",
-    cityCode: "6303",
-    district: "Kertak Hanyar",
-    districtCode: "6303030",
-    village: "Manarap Baru",
-    villageCode: "6303030021",
     postalCode: "70654"
   },
   {
@@ -36331,17 +35946,6 @@ export const KALIMANTAN_SELATAN: PostalCode[] = [
     district: "Kertak Hanyar",
     districtCode: "6303030",
     village: "Pasar Kamis",
-    villageCode: "",
-    postalCode: "70654"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KAB. BANJAR",
-    cityCode: "6303",
-    district: "Kertak Hanyar",
-    districtCode: "6303030",
-    village: "Belayung Baru",
     villageCode: "",
     postalCode: "70654"
   },
@@ -36539,152 +36143,9 @@ export const KALIMANTAN_SELATAN: PostalCode[] = [
     cityCode: "6303",
     district: "Aluh Aluh",
     districtCode: "",
-    village: "Handil Baru",
-    villageCode: "",
-    postalCode: "70655"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KAB. BANJAR",
-    cityCode: "6303",
-    district: "Aluh Aluh",
-    districtCode: "",
     village: "Kuin Besar",
     villageCode: "",
     postalCode: "70655"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KAB. BANJAR",
-    cityCode: "6303",
-    district: "Beruntung Baru",
-    districtCode: "6303011",
-    village: "Jambu Raya",
-    villageCode: "6303011008",
-    postalCode: "70656"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KAB. BANJAR",
-    cityCode: "6303",
-    district: "Beruntung Baru",
-    districtCode: "6303011",
-    village: "Haur Kuning",
-    villageCode: "6303011002",
-    postalCode: "70656"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KAB. BANJAR",
-    cityCode: "6303",
-    district: "Beruntung Baru",
-    districtCode: "6303011",
-    village: "Babirik",
-    villageCode: "6303011007",
-    postalCode: "70656"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KAB. BANJAR",
-    cityCode: "6303",
-    district: "Beruntung Baru",
-    districtCode: "6303011",
-    village: "Jambu Burung",
-    villageCode: "6303011011",
-    postalCode: "70656"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KAB. BANJAR",
-    cityCode: "6303",
-    district: "Beruntung Baru",
-    districtCode: "6303011",
-    village: "Pindahan Baru",
-    villageCode: "6303011001",
-    postalCode: "70656"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KAB. BANJAR",
-    cityCode: "6303",
-    district: "Beruntung Baru",
-    districtCode: "6303011",
-    village: "Handil Purai",
-    villageCode: "6303011009",
-    postalCode: "70656"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KAB. BANJAR",
-    cityCode: "6303",
-    district: "Beruntung Baru",
-    districtCode: "6303011",
-    village: "Kampung Baru",
-    villageCode: "6303011004",
-    postalCode: "70656"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KAB. BANJAR",
-    cityCode: "6303",
-    district: "Beruntung Baru",
-    districtCode: "6303011",
-    village: "Lawahan",
-    villageCode: "6303011006",
-    postalCode: "70656"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KAB. BANJAR",
-    cityCode: "6303",
-    district: "Beruntung Baru",
-    districtCode: "6303011",
-    village: "Tambak Padi",
-    villageCode: "6303011005",
-    postalCode: "70656"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KAB. BANJAR",
-    cityCode: "6303",
-    district: "Beruntung Baru",
-    districtCode: "6303011",
-    village: "Rumpiang",
-    villageCode: "6303011012",
-    postalCode: "70656"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KAB. BANJAR",
-    cityCode: "6303",
-    district: "Beruntung Baru",
-    districtCode: "6303011",
-    village: "Salat Makmur",
-    villageCode: "",
-    postalCode: "70656"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KAB. BANJAR",
-    cityCode: "6303",
-    district: "Beruntung Baru",
-    districtCode: "6303011",
-    village: "Muara Halayung",
-    villageCode: "6303011010",
-    postalCode: "70656"
   },
   {
     province: "KALIMANTAN SELATAN",
@@ -36737,30 +36198,8 @@ export const KALIMANTAN_SELATAN: PostalCode[] = [
     cityCode: "6303",
     district: "Tatah Makmur",
     districtCode: "6303031",
-    village: "Layap Baru",
-    villageCode: "6303031003",
-    postalCode: "70657"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KAB. BANJAR",
-    cityCode: "6303",
-    district: "Tatah Makmur",
-    districtCode: "6303031",
     village: "Pandan Sari",
     villageCode: "6303031013",
-    postalCode: "70657"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KAB. BANJAR",
-    cityCode: "6303",
-    district: "Tatah Makmur",
-    districtCode: "6303031",
-    village: "Pemangkih Baru",
-    villageCode: "6303031006",
     postalCode: "70657"
   },
   {
@@ -37241,17 +36680,6 @@ export const KALIMANTAN_SELATAN: PostalCode[] = [
     provinceCode: "63",
     city: "KAB. BANJAR",
     cityCode: "6303",
-    district: "Aranio",
-    districtCode: "6303080",
-    village: "Tiwingan Baru",
-    villageCode: "6303080004",
-    postalCode: "70662"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KAB. BANJAR",
-    cityCode: "6303",
     district: "Astambul",
     districtCode: "6303060",
     village: "Kelampaian Tengah",
@@ -37483,17 +36911,6 @@ export const KALIMANTAN_SELATAN: PostalCode[] = [
     provinceCode: "63",
     city: "KAB. BANJAR",
     cityCode: "6303",
-    district: "Astambul",
-    districtCode: "6303060",
-    village: "Jati Baru",
-    villageCode: "",
-    postalCode: "70671"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KAB. BANJAR",
-    cityCode: "6303",
     district: "Mataraman",
     districtCode: "6303110",
     village: "Tanah Abang",
@@ -37542,17 +36959,6 @@ export const KALIMANTAN_SELATAN: PostalCode[] = [
     districtCode: "6303110",
     village: "Mangkalawat",
     villageCode: "",
-    postalCode: "70672"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KAB. BANJAR",
-    cityCode: "6303",
-    district: "Mataraman",
-    districtCode: "6303110",
-    village: "Baru",
-    villageCode: "6303110001",
     postalCode: "70672"
   },
   {
@@ -37782,17 +37188,6 @@ export const KALIMANTAN_SELATAN: PostalCode[] = [
     cityCode: "6303",
     district: "Simpang Empat",
     districtCode: "6303120",
-    village: "Sungai Baru",
-    villageCode: "",
-    postalCode: "70673"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KAB. BANJAR",
-    cityCode: "6303",
-    district: "Simpang Empat",
-    districtCode: "6303120",
     village: "Sungai Tabuk",
     villageCode: "6303120002",
     postalCode: "70673"
@@ -38002,17 +37397,6 @@ export const KALIMANTAN_SELATAN: PostalCode[] = [
     cityCode: "6303",
     district: "Pengarom",
     districtCode: "",
-    village: "Lobang Baru",
-    villageCode: "",
-    postalCode: "70674"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KAB. BANJAR",
-    cityCode: "6303",
-    district: "Pengarom",
-    districtCode: "",
     village: "Antaraku",
     villageCode: "",
     postalCode: "70674"
@@ -38081,17 +37465,6 @@ export const KALIMANTAN_SELATAN: PostalCode[] = [
     districtCode: "6303090",
     village: "Rantau Bakula",
     villageCode: "6303090009",
-    postalCode: "70675"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KAB. BANJAR",
-    cityCode: "6303",
-    district: "Sungai Pinang",
-    districtCode: "6303090",
-    village: "Belimbing Baru",
-    villageCode: "6303090011",
     postalCode: "70675"
   },
   {
@@ -38187,17 +37560,6 @@ export const KALIMANTAN_SELATAN: PostalCode[] = [
     provinceCode: "63",
     city: "KAB. BANJAR",
     cityCode: "6303",
-    district: "Sungai Pinang",
-    districtCode: "6303090",
-    village: "Sumber Baru",
-    villageCode: "6303090003",
-    postalCode: "70675"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KAB. BANJAR",
-    cityCode: "6303",
     district: "Paramasan",
     districtCode: "6303091",
     village: "Paramasan Bawah",
@@ -38244,17 +37606,6 @@ export const KALIMANTAN_SELATAN: PostalCode[] = [
     cityCode: "6303",
     district: "Telaga Bauntung",
     districtCode: "6303121",
-    village: "Telaga Baru",
-    villageCode: "6303121001",
-    postalCode: "70677"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KAB. BANJAR",
-    cityCode: "6303",
-    district: "Telaga Bauntung",
-    districtCode: "6303121",
     village: "Lok Tanah",
     villageCode: "",
     postalCode: "70677"
@@ -38290,17 +37641,6 @@ export const KALIMANTAN_SELATAN: PostalCode[] = [
     districtCode: "6303101",
     village: "Gunung Batu",
     villageCode: "6303101003",
-    postalCode: "70678"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KAB. BANJAR",
-    cityCode: "6303",
-    district: "Sambung Makmur",
-    districtCode: "6303101",
-    village: "Pasar Baru",
-    villageCode: "6303101007",
     postalCode: "70678"
   },
   {
@@ -38357,248 +37697,6 @@ export const KALIMANTAN_SELATAN: PostalCode[] = [
     village: "Batu Tanam",
     villageCode: "6303101002",
     postalCode: "70678"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KOTA BANJARBARU",
-    cityCode: "",
-    district: "Banjarbaru Utara",
-    districtCode: "",
-    village: "Sungai Ulin",
-    villageCode: "",
-    postalCode: "70712"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KOTA BANJARBARU",
-    cityCode: "",
-    district: "Banjarbaru Utara",
-    districtCode: "",
-    village: "Komet",
-    villageCode: "",
-    postalCode: "70712"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KOTA BANJARBARU",
-    cityCode: "",
-    district: "Banjarbaru Utara",
-    districtCode: "",
-    village: "Mentaos",
-    villageCode: "",
-    postalCode: "70712"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KOTA BANJARBARU",
-    cityCode: "",
-    district: "Banjarbaru Utara",
-    districtCode: "",
-    village: "Loktabat Utara",
-    villageCode: "",
-    postalCode: "70712"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KOTA BANJARBARU",
-    cityCode: "",
-    district: "Banjarbaru Selatan",
-    districtCode: "",
-    village: "Laktabat Selatan",
-    villageCode: "",
-    postalCode: "70713"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KOTA BANJARBARU",
-    cityCode: "",
-    district: "Banjarbaru Selatan",
-    districtCode: "",
-    village: "Sungai Besar",
-    villageCode: "",
-    postalCode: "70714"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KOTA BANJARBARU",
-    cityCode: "",
-    district: "Banjarbaru Selatan",
-    districtCode: "",
-    village: "Kemuning",
-    villageCode: "",
-    postalCode: "70714"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KOTA BANJARBARU",
-    cityCode: "",
-    district: "Banjarbaru Selatan",
-    districtCode: "",
-    village: "Guntung Paikat",
-    villageCode: "",
-    postalCode: "70714"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KOTA BANJARBARU",
-    cityCode: "",
-    district: "Landasan Ulin",
-    districtCode: "",
-    village: "Guntung Payung",
-    villageCode: "",
-    postalCode: "70721"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KOTA BANJARBARU",
-    cityCode: "",
-    district: "Landasan Ulin",
-    districtCode: "",
-    village: "Landasan Ulin Timur",
-    villageCode: "",
-    postalCode: "70721"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KOTA BANJARBARU",
-    cityCode: "",
-    district: "Landasan Ulin",
-    districtCode: "",
-    village: "Guntung Manggis",
-    villageCode: "",
-    postalCode: "70721"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KOTA BANJARBARU",
-    cityCode: "",
-    district: "Landasan Ulin",
-    districtCode: "",
-    village: "Syamsudin Noor",
-    villageCode: "",
-    postalCode: "70721"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KOTA BANJARBARU",
-    cityCode: "",
-    district: "Liang Anggang",
-    districtCode: "",
-    village: "Landasan Ulin Barat",
-    villageCode: "",
-    postalCode: "70722"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KOTA BANJARBARU",
-    cityCode: "",
-    district: "Liang Anggang",
-    districtCode: "",
-    village: "Landasan Ulin Tengah",
-    villageCode: "",
-    postalCode: "70723"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KOTA BANJARBARU",
-    cityCode: "",
-    district: "Liang Anggang",
-    districtCode: "",
-    village: "Landasan Ulin Utara",
-    villageCode: "",
-    postalCode: "70723"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KOTA BANJARBARU",
-    cityCode: "",
-    district: "Liang Anggang",
-    districtCode: "",
-    village: "Landasan Ulin Selatan",
-    villageCode: "",
-    postalCode: "70723"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KOTA BANJARBARU",
-    cityCode: "",
-    district: "Cempaka",
-    districtCode: "",
-    village: "Palam",
-    villageCode: "",
-    postalCode: "70731"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KOTA BANJARBARU",
-    cityCode: "",
-    district: "Cempaka",
-    districtCode: "",
-    village: "Bangkal",
-    villageCode: "",
-    postalCode: "70732"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KOTA BANJARBARU",
-    cityCode: "",
-    district: "Cempaka",
-    districtCode: "",
-    village: "Cempaka",
-    villageCode: "",
-    postalCode: "70733"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KOTA BANJARBARU",
-    cityCode: "",
-    district: "Cempaka",
-    districtCode: "",
-    village: "Sungai Tiung",
-    villageCode: "",
-    postalCode: "70734"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KAB. HULU SUNGAI SELATAN",
-    cityCode: "6306",
-    district: "Daha Selatan",
-    districtCode: "6306090",
-    village: "Banjarbaru",
-    villageCode: "",
-    postalCode: "71254"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KAB. KOTABARU",
-    cityCode: "",
-    district: "Sampanahan",
-    districtCode: "",
-    village: "Banjarsari",
-    villageCode: "",
-    postalCode: "72166"
   },
   {
     province: "KALIMANTAN SELATAN",
@@ -39168,17 +38266,6 @@ export const KALIMANTAN_SELATAN: PostalCode[] = [
     cityCode: "6304",
     district: "Marabahan",
     districtCode: "6304140",
-    village: "Antar Baru",
-    villageCode: "6304140006",
-    postalCode: "70511"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KAB. BARITO KUALA",
-    cityCode: "6304",
-    district: "Marabahan",
-    districtCode: "6304140",
     village: "Antar Jaya",
     villageCode: "6304140008",
     postalCode: "70511"
@@ -39355,17 +38442,6 @@ export const KALIMANTAN_SELATAN: PostalCode[] = [
     cityCode: "6304",
     district: "Kuripan",
     districtCode: "6304160",
-    village: "Jambu Baru",
-    villageCode: "6304160001",
-    postalCode: "70552"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KAB. BARITO KUALA",
-    cityCode: "6304",
-    district: "Kuripan",
-    districtCode: "6304160",
     village: "Jambu",
     villageCode: "6304160002",
     postalCode: "70552"
@@ -39377,30 +38453,8 @@ export const KALIMANTAN_SELATAN: PostalCode[] = [
     cityCode: "6304",
     district: "Kuripan",
     districtCode: "6304160",
-    village: "Asia Baru",
-    villageCode: "6304160004",
-    postalCode: "70552"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KAB. BARITO KUALA",
-    cityCode: "6304",
-    district: "Kuripan",
-    districtCode: "6304160",
     village: "Jarenang",
     villageCode: "6304160005",
-    postalCode: "70552"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KAB. BARITO KUALA",
-    cityCode: "6304",
-    district: "Kuripan",
-    districtCode: "6304160",
-    village: "Tabatan Baru",
-    villageCode: "6304160009",
     postalCode: "70552"
   },
   {
@@ -39445,17 +38499,6 @@ export const KALIMANTAN_SELATAN: PostalCode[] = [
     districtCode: "6304150",
     village: "Rantau Bamban",
     villageCode: "6304150010",
-    postalCode: "70553"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KAB. BARITO KUALA",
-    cityCode: "6304",
-    district: "Tabukan",
-    districtCode: "6304150",
-    village: "Pantang Baru",
-    villageCode: "6304150001",
     postalCode: "70553"
   },
   {
@@ -39729,17 +38772,6 @@ export const KALIMANTAN_SELATAN: PostalCode[] = [
     cityCode: "6304",
     district: "Rantau Badauh",
     districtCode: "6304110",
-    village: "Pindahan Baru",
-    villageCode: "6304110002",
-    postalCode: "70561"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KAB. BARITO KUALA",
-    cityCode: "6304",
-    district: "Rantau Badauh",
-    districtCode: "6304110",
     village: "Simpang Arya",
     villageCode: "",
     postalCode: "70561"
@@ -39753,17 +38785,6 @@ export const KALIMANTAN_SELATAN: PostalCode[] = [
     districtCode: "6304110",
     village: "Sungai Sahurai",
     villageCode: "6304110007",
-    postalCode: "70561"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KAB. BARITO KUALA",
-    cityCode: "6304",
-    district: "Rantau Badauh",
-    districtCode: "6304110",
-    village: "Sinar Baru",
-    villageCode: "6304110009",
     postalCode: "70561"
   },
   {
@@ -39872,30 +38893,8 @@ export const KALIMANTAN_SELATAN: PostalCode[] = [
     cityCode: "6304",
     district: "Barambai",
     districtCode: "6304100",
-    village: "Pendalaman Baru",
-    villageCode: "6304100010",
-    postalCode: "70562"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KAB. BARITO KUALA",
-    cityCode: "6304",
-    district: "Barambai",
-    districtCode: "6304100",
     village: "Barambai",
     villageCode: "6304100004",
-    postalCode: "70562"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KAB. BARITO KUALA",
-    cityCode: "6304",
-    district: "Barambai",
-    districtCode: "6304100",
-    village: "Karya Baru",
-    villageCode: "6304100005",
     postalCode: "70562"
   },
   {
@@ -39929,17 +38928,6 @@ export const KALIMANTAN_SELATAN: PostalCode[] = [
     districtCode: "6304080",
     village: "Sungai Seluang Pasar",
     villageCode: "6304080006",
-    postalCode: "70563"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KAB. BARITO KUALA",
-    cityCode: "6304",
-    district: "Belawang",
-    districtCode: "6304080",
-    village: "Binaan Baru",
-    villageCode: "6304080008",
     postalCode: "70563"
   },
   {
@@ -40081,52 +39069,8 @@ export const KALIMANTAN_SELATAN: PostalCode[] = [
     cityCode: "6304",
     district: "Anjir Muara",
     districtCode: "6304050",
-    village: "Anjir Serapat Baru",
-    villageCode: "6304050002",
-    postalCode: "70564"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KAB. BARITO KUALA",
-    cityCode: "6304",
-    district: "Anjir Muara",
-    districtCode: "6304050",
-    village: "Sei Punggu Baru",
-    villageCode: "",
-    postalCode: "70564"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KAB. BARITO KUALA",
-    cityCode: "6304",
-    district: "Anjir Muara",
-    districtCode: "6304050",
     village: "Beringin Jaya",
     villageCode: "6304050011",
-    postalCode: "70564"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KAB. BARITO KUALA",
-    cityCode: "6304",
-    district: "Anjir Muara",
-    districtCode: "6304050",
-    village: "Anjir Serapat Baru I",
-    villageCode: "6304050001",
-    postalCode: "70564"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KAB. BARITO KUALA",
-    cityCode: "6304",
-    district: "Anjir Muara",
-    districtCode: "6304050",
-    village: "Patih Muhur Baru",
-    villageCode: "6304050014",
     postalCode: "70564"
   },
   {
@@ -40215,17 +39159,6 @@ export const KALIMANTAN_SELATAN: PostalCode[] = [
     districtCode: "6304050",
     village: "Sungai Punggu",
     villageCode: "6304050015",
-    postalCode: "70564"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KAB. BARITO KUALA",
-    cityCode: "6304",
-    district: "Anjir Muara",
-    districtCode: "6304050",
-    village: "Marabahan Baru",
-    villageCode: "6304050007",
     postalCode: "70564"
   },
   {
@@ -40378,17 +39311,6 @@ export const KALIMANTAN_SELATAN: PostalCode[] = [
     cityCode: "6304",
     district: "Anjir Pasar",
     districtCode: "6304040",
-    village: "Barunai Baru",
-    villageCode: "6304040009",
-    postalCode: "70565"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KAB. BARITO KUALA",
-    cityCode: "6304",
-    district: "Anjir Pasar",
-    districtCode: "6304040",
     village: "Andaman",
     villageCode: "6304040002",
     postalCode: "70565"
@@ -40402,17 +39324,6 @@ export const KALIMANTAN_SELATAN: PostalCode[] = [
     districtCode: "6304020",
     village: "Tamban Kecil",
     villageCode: "6304020013",
-    postalCode: "70566"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KAB. BARITO KUALA",
-    cityCode: "6304",
-    district: "Tamban",
-    districtCode: "6304020",
-    village: "Tamban Muara Baru",
-    villageCode: "6304020011",
     postalCode: "70566"
   },
   {
@@ -40477,41 +39388,8 @@ export const KALIMANTAN_SELATAN: PostalCode[] = [
     cityCode: "6304",
     district: "Tamban",
     districtCode: "6304020",
-    village: "Jelapat Baru",
-    villageCode: "6304020016",
-    postalCode: "70566"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KAB. BARITO KUALA",
-    cityCode: "6304",
-    district: "Tamban",
-    districtCode: "6304020",
-    village: "Purwosari Baru",
-    villageCode: "6304020006",
-    postalCode: "70566"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KAB. BARITO KUALA",
-    cityCode: "6304",
-    district: "Tamban",
-    districtCode: "6304020",
     village: "Jelapat I",
     villageCode: "6304020015",
-    postalCode: "70566"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KAB. BARITO KUALA",
-    cityCode: "6304",
-    district: "Tamban",
-    districtCode: "6304020",
-    village: "Tamban Sari Baru",
-    villageCode: "6304020007",
     postalCode: "70566"
   },
   {
@@ -40532,30 +39410,8 @@ export const KALIMANTAN_SELATAN: PostalCode[] = [
     cityCode: "6304",
     district: "Tamban",
     districtCode: "6304020",
-    village: "Tamban Bangun Baru",
-    villageCode: "6304020010",
-    postalCode: "70566"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KAB. BARITO KUALA",
-    cityCode: "6304",
-    district: "Tamban",
-    districtCode: "6304020",
     village: "Purwosari II",
     villageCode: "6304020003",
-    postalCode: "70566"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KAB. BARITO KUALA",
-    cityCode: "6304",
-    district: "Tamban",
-    districtCode: "6304020",
-    village: "Sekata Baru",
-    villageCode: "6304020001",
     postalCode: "70566"
   },
   {
@@ -40664,17 +39520,6 @@ export const KALIMANTAN_SELATAN: PostalCode[] = [
     cityCode: "6304",
     district: "Tabunganen",
     districtCode: "6304010",
-    village: "Karya Baru",
-    villageCode: "6304010008",
-    postalCode: "70567"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KAB. BARITO KUALA",
-    cityCode: "6304",
-    district: "Tabunganen",
-    districtCode: "6304010",
     village: "Sungai Telan Besar",
     villageCode: "6304010002",
     postalCode: "70567"
@@ -40741,17 +39586,6 @@ export const KALIMANTAN_SELATAN: PostalCode[] = [
     cityCode: "6304",
     district: "Mekarsari",
     districtCode: "",
-    village: "Tinggiran Baru",
-    villageCode: "",
-    postalCode: "70568"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KAB. BARITO KUALA",
-    cityCode: "6304",
-    district: "Mekarsari",
-    districtCode: "",
     village: "Indah Sari",
     villageCode: "",
     postalCode: "70568"
@@ -40786,17 +39620,6 @@ export const KALIMANTAN_SELATAN: PostalCode[] = [
     district: "Mekarsari",
     districtCode: "",
     village: "Tinggiran Darat",
-    villageCode: "",
-    postalCode: "70568"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KAB. BARITO KUALA",
-    cityCode: "6304",
-    district: "Mekarsari",
-    districtCode: "",
-    village: "Tamban Raya Baru",
     villageCode: "",
     postalCode: "70568"
   },
@@ -40952,17 +39775,6 @@ export const KALIMANTAN_SELATAN: PostalCode[] = [
     districtCode: "6304070",
     village: "Tabing Rimbah",
     villageCode: "6304070009",
-    postalCode: "70581"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KAB. BARITO KUALA",
-    cityCode: "6304",
-    district: "Mandastana",
-    districtCode: "6304070",
-    village: "Bangkit Baru",
-    villageCode: "6304070010",
     postalCode: "70581"
   },
   {
@@ -41326,17 +40138,6 @@ export const KALIMANTAN_SELATAN: PostalCode[] = [
     districtCode: "6304071",
     village: "Jejangkit Pasar",
     villageCode: "6304071005",
-    postalCode: "70583"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KAB. BARITO KUALA",
-    cityCode: "6304",
-    district: "Jejangkit",
-    districtCode: "6304071",
-    village: "Cahaya Baru",
-    villageCode: "6304071001",
     postalCode: "70583"
   },
   {
@@ -41753,17 +40554,6 @@ export const KALIMANTAN_SELATAN: PostalCode[] = [
     cityCode: "6305",
     district: "Bakarangan",
     districtCode: "6305080",
-    village: "Tangkawang Baru",
-    villageCode: "6305080006",
-    postalCode: "71152"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KAB. TAPIN",
-    cityCode: "6305",
-    district: "Bakarangan",
-    districtCode: "6305080",
     village: "Paul",
     villageCode: "6305080004",
     postalCode: "71152"
@@ -41778,17 +40568,6 @@ export const KALIMANTAN_SELATAN: PostalCode[] = [
     village: "Tangkawang",
     villageCode: "6305080007",
     postalCode: "71152"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KAB. TAPIN",
-    cityCode: "6305",
-    district: "Bungur",
-    districtCode: "6305040",
-    village: "Bungur Baru",
-    villageCode: "6305040012",
-    postalCode: "71153"
   },
   {
     province: "KALIMANTAN SELATAN",
@@ -41931,17 +40710,6 @@ export const KALIMANTAN_SELATAN: PostalCode[] = [
     districtCode: "6305060",
     village: "Lokpaikat",
     villageCode: "6305060005",
-    postalCode: "71154"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KAB. TAPIN",
-    cityCode: "6305",
-    district: "Lokpaikat",
-    districtCode: "6305060",
-    village: "Bitahan Baru",
-    villageCode: "6305060002",
     postalCode: "71154"
   },
   {
@@ -42613,28 +41381,6 @@ export const KALIMANTAN_SELATAN: PostalCode[] = [
     districtCode: "6305021",
     village: "Pantai Cabe",
     villageCode: "6305021004",
-    postalCode: "71182"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KAB. TAPIN",
-    cityCode: "6305",
-    district: "Salam Babaris",
-    districtCode: "6305021",
-    village: "Kambang Habang Baru",
-    villageCode: "6305021001",
-    postalCode: "71182"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KAB. TAPIN",
-    cityCode: "6305",
-    district: "Salam Babaris",
-    districtCode: "6305021",
-    village: "Suato Baru",
-    villageCode: "6305021005",
     postalCode: "71182"
   },
   {
@@ -43368,17 +42114,6 @@ export const KALIMANTAN_SELATAN: PostalCode[] = [
     provinceCode: "63",
     city: "KAB. HULU SUNGAI SELATAN",
     cityCode: "6306",
-    district: "Daha Barat",
-    districtCode: "6306091",
-    village: "Baru",
-    villageCode: "6306091006",
-    postalCode: "71252"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KAB. HULU SUNGAI SELATAN",
-    cityCode: "6306",
     district: "Daha Utara",
     districtCode: "6306100",
     village: "Panggandingan",
@@ -43471,17 +42206,6 @@ export const KALIMANTAN_SELATAN: PostalCode[] = [
     districtCode: "6306100",
     village: "Hamayung",
     villageCode: "6306100019",
-    postalCode: "71253"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KAB. HULU SUNGAI SELATAN",
-    cityCode: "6306",
-    district: "Daha Utara",
-    districtCode: "6306100",
-    village: "Baruh Kembang",
-    villageCode: "6306100008",
     postalCode: "71253"
   },
   {
@@ -43612,17 +42336,6 @@ export const KALIMANTAN_SELATAN: PostalCode[] = [
     cityCode: "6306",
     district: "Daha Selatan",
     districtCode: "6306090",
-    village: "Banjarbaru",
-    villageCode: "",
-    postalCode: "71254"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KAB. HULU SUNGAI SELATAN",
-    cityCode: "6306",
-    district: "Daha Selatan",
-    districtCode: "6306090",
     village: "Habirau",
     villageCode: "6306090017",
     postalCode: "71254"
@@ -43647,17 +42360,6 @@ export const KALIMANTAN_SELATAN: PostalCode[] = [
     districtCode: "6306090",
     village: "Tumbukan Banyu",
     villageCode: "6306090019",
-    postalCode: "71254"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KAB. HULU SUNGAI SELATAN",
-    cityCode: "6306",
-    district: "Daha Selatan",
-    districtCode: "6306090",
-    village: "Baruh Jaya",
-    villageCode: "6306090014",
     postalCode: "71254"
   },
   {
@@ -43735,17 +42437,6 @@ export const KALIMANTAN_SELATAN: PostalCode[] = [
     districtCode: "6306090",
     village: "Parigi",
     villageCode: "6306090013",
-    postalCode: "71254"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KAB. HULU SUNGAI SELATAN",
-    cityCode: "6306",
-    district: "Daha Selatan",
-    districtCode: "6306090",
-    village: "Muning Baru",
-    villageCode: "6306090002",
     postalCode: "71254"
   },
   {
@@ -44153,17 +42844,6 @@ export const KALIMANTAN_SELATAN: PostalCode[] = [
     districtCode: "6306060",
     village: "Sungai Raya Utara",
     villageCode: "6306060022",
-    postalCode: "71271"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KAB. HULU SUNGAI SELATAN",
-    cityCode: "6306",
-    district: "Sungai Raya",
-    districtCode: "6306060",
-    village: "Baru",
-    villageCode: "6306060013",
     postalCode: "71271"
   },
   {
@@ -45295,17 +43975,6 @@ export const KALIMANTAN_SELATAN: PostalCode[] = [
     cityCode: "6307",
     district: "Labuan Amas Selatan",
     districtCode: "6307060",
-    village: "Mahang Baru",
-    villageCode: "",
-    postalCode: "71361"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KAB. HULU SUNGAI TENGAH",
-    cityCode: "6307",
-    district: "Labuan Amas Selatan",
-    districtCode: "6307060",
     village: "Taal",
     villageCode: "6307060022",
     postalCode: "71361"
@@ -45812,17 +44481,6 @@ export const KALIMANTAN_SELATAN: PostalCode[] = [
     cityCode: "6307",
     district: "Batu Benawa",
     districtCode: "6307020",
-    village: "Baru",
-    villageCode: "6307020011",
-    postalCode: "71371"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KAB. HULU SUNGAI TENGAH",
-    cityCode: "6307",
-    district: "Batu Benawa",
-    districtCode: "6307020",
     village: "Pantai Batung",
     villageCode: "6307020029",
     postalCode: "71371"
@@ -45858,17 +44516,6 @@ export const KALIMANTAN_SELATAN: PostalCode[] = [
     districtCode: "6307020",
     village: "Bakti",
     villageCode: "6307020024",
-    postalCode: "71371"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KAB. HULU SUNGAI TENGAH",
-    cityCode: "6307",
-    district: "Batu Benawa",
-    districtCode: "6307020",
-    village: "Kalibaru",
-    villageCode: "",
     postalCode: "71371"
   },
   {
@@ -46417,17 +45064,6 @@ export const KALIMANTAN_SELATAN: PostalCode[] = [
     cityCode: "6307",
     district: "Batang Alai Utara",
     districtCode: "6307090",
-    village: "Awang Baru",
-    villageCode: "6307090016",
-    postalCode: "71391"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KAB. HULU SUNGAI TENGAH",
-    cityCode: "6307",
-    district: "Batang Alai Utara",
-    districtCode: "6307090",
     village: "Dangu",
     villageCode: "6307090009",
     postalCode: "71391"
@@ -46904,17 +45540,6 @@ export const KALIMANTAN_SELATAN: PostalCode[] = [
     village: "Mawar Sari",
     villageCode: "6308050005",
     postalCode: "71419"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KAB. HULU SUNGAI UTARA",
-    cityCode: "6308",
-    district: "Banjang",
-    districtCode: "6308060",
-    village: "Baruh Tabing",
-    villageCode: "6308060017",
-    postalCode: "71451"
   },
   {
     province: "KALIMANTAN SELATAN",
@@ -47407,17 +46032,6 @@ export const KALIMANTAN_SELATAN: PostalCode[] = [
     cityCode: "6308",
     district: "Amuntai Selatan",
     districtCode: "6308040",
-    village: "Teluk Baru",
-    villageCode: "6308040010",
-    postalCode: "71452"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KAB. HULU SUNGAI UTARA",
-    cityCode: "6308",
-    district: "Amuntai Selatan",
-    districtCode: "6308040",
     village: "Kayakah",
     villageCode: "6308040027",
     postalCode: "71452"
@@ -47508,17 +46122,6 @@ export const KALIMANTAN_SELATAN: PostalCode[] = [
     districtCode: "6308010",
     village: "Pandamaan",
     villageCode: "6308010018",
-    postalCode: "71453"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KAB. HULU SUNGAI UTARA",
-    cityCode: "6308",
-    district: "Danau Panggang",
-    districtCode: "6308010",
-    village: "Baru",
-    villageCode: "6308010014",
     postalCode: "71453"
   },
   {
@@ -47794,17 +46397,6 @@ export const KALIMANTAN_SELATAN: PostalCode[] = [
     districtCode: "6308020",
     village: "Pajukungan Hulu",
     villageCode: "6308020023",
-    postalCode: "71454"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KAB. HULU SUNGAI UTARA",
-    cityCode: "6308",
-    district: "Babirik",
-    districtCode: "6308020",
-    village: "Hambuku Baru",
-    villageCode: "6308020009",
     postalCode: "71454"
   },
   {
@@ -48782,17 +47374,6 @@ export const KALIMANTAN_SELATAN: PostalCode[] = [
     cityCode: "6308",
     district: "Amuntai Utara",
     districtCode: "6308070",
-    village: "Muara Baruh",
-    villageCode: "6308070036",
-    postalCode: "71471"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KAB. HULU SUNGAI UTARA",
-    cityCode: "6308",
-    district: "Amuntai Utara",
-    districtCode: "6308070",
     village: "Padang Luar",
     villageCode: "6308070040",
     postalCode: "71471"
@@ -48994,17 +47575,6 @@ export const KALIMANTAN_SELATAN: PostalCode[] = [
     village: "Jingah Bujur",
     villageCode: "6308071006",
     postalCode: "71472"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KAB. HULU SUNGAI UTARA",
-    cityCode: "6308",
-    district: "Amuntai Utara",
-    districtCode: "6308070",
-    village: "Tabalong Mati",
-    villageCode: "6308070027",
-    postalCode: "71471"
   },
   {
     province: "KALIMANTAN SELATAN",
@@ -49750,17 +48320,6 @@ export const KALIMANTAN_SELATAN: PostalCode[] = [
     cityCode: "6309",
     district: "Tanta",
     districtCode: "6309050",
-    village: "Murung Baru",
-    villageCode: "6309050022",
-    postalCode: "71561"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KAB. TABALONG",
-    cityCode: "6309",
-    district: "Tanta",
-    districtCode: "6309050",
     village: "Pulau Kuu",
     villageCode: "",
     postalCode: "71561"
@@ -50148,17 +48707,6 @@ export const KALIMANTAN_SELATAN: PostalCode[] = [
     districtCode: "6309100",
     village: "Lumbang",
     villageCode: "6309100011",
-    postalCode: "71573"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KAB. TABALONG",
-    cityCode: "6309",
-    district: "Muara Uya",
-    districtCode: "6309100",
-    village: "Kampung Baru",
-    villageCode: "6309100004",
     postalCode: "71573"
   },
   {
@@ -50663,17 +49211,6 @@ export const KALIMANTAN_SELATAN: PostalCode[] = [
     cityCode: "6310",
     district: "Simpang Empat",
     districtCode: "6310052",
-    village: "Kampung Baru",
-    villageCode: "6310052001",
-    postalCode: "72221"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KAB. TANAH BUMBU",
-    cityCode: "6310",
-    district: "Simpang Empat",
-    districtCode: "6310052",
     village: "Hidayah Makmur",
     villageCode: "",
     postalCode: "72221"
@@ -50731,17 +49268,6 @@ export const KALIMANTAN_SELATAN: PostalCode[] = [
     districtCode: "6310053",
     village: "Gunungraya",
     villageCode: "",
-    postalCode: "72271"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KAB. TANAH BUMBU",
-    cityCode: "6310",
-    district: "Mantewe",
-    districtCode: "6310053",
-    village: "Emil Baru",
-    villageCode: "6310053010",
     postalCode: "72271"
   },
   {
@@ -50951,17 +49477,6 @@ export const KALIMANTAN_SELATAN: PostalCode[] = [
     districtCode: "",
     village: "Hatiif",
     villageCode: "",
-    postalCode: "72272"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KAB. TANAH BUMBU",
-    cityCode: "6310",
-    district: "Kusan Hulu",
-    districtCode: "6310040",
-    village: "Anjir Baru",
-    villageCode: "6310040011",
     postalCode: "72272"
   },
   {
@@ -51279,17 +49794,6 @@ export const KALIMANTAN_SELATAN: PostalCode[] = [
     cityCode: "6310",
     district: "Kusan Hilir",
     districtCode: "6310010",
-    village: "Baru Gelang",
-    villageCode: "6310010004",
-    postalCode: "72273"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KAB. TANAH BUMBU",
-    cityCode: "6310",
-    district: "Kusan Hilir",
-    districtCode: "6310010",
     village: "Kota Pagatan",
     villageCode: "6310010013",
     postalCode: "72273"
@@ -51378,17 +49882,6 @@ export const KALIMANTAN_SELATAN: PostalCode[] = [
     cityCode: "6310",
     district: "Kusan Hilir",
     districtCode: "6310010",
-    village: "Kampung Baru",
-    villageCode: "6310010015",
-    postalCode: "72273"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KAB. TANAH BUMBU",
-    cityCode: "6310",
-    district: "Kusan Hilir",
-    districtCode: "6310010",
     village: "Juku Eja",
     villageCode: "6310010011",
     postalCode: "72273"
@@ -51413,17 +49906,6 @@ export const KALIMANTAN_SELATAN: PostalCode[] = [
     districtCode: "6310010",
     village: "Pulau Satu",
     villageCode: "6310010014",
-    postalCode: "72273"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KAB. TANAH BUMBU",
-    cityCode: "6310",
-    district: "Kusan Hilir",
-    districtCode: "6310010",
-    village: "Pasar Baru",
-    villageCode: "6310010010",
     postalCode: "72273"
   },
   {
@@ -51468,17 +49950,6 @@ export const KALIMANTAN_SELATAN: PostalCode[] = [
     districtCode: "6310020",
     village: "Sebamban Lama",
     villageCode: "6310020002",
-    postalCode: "72274"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KAB. TANAH BUMBU",
-    cityCode: "6310",
-    district: "Sungai Loban",
-    districtCode: "6310020",
-    village: "Sebamban Baru",
-    villageCode: "6310020001",
     postalCode: "72274"
   },
   {
@@ -51928,17 +50399,6 @@ export const KALIMANTAN_SELATAN: PostalCode[] = [
     cityCode: "6310",
     district: "Angsana",
     districtCode: "6310031",
-    village: "Banjar Sari",
-    villageCode: "6310031005",
-    postalCode: "72276"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KAB. TANAH BUMBU",
-    cityCode: "6310",
-    district: "Angsana",
-    districtCode: "6310031",
     village: "Mekar Jaya",
     villageCode: "6310031009",
     postalCode: "72276"
@@ -51952,17 +50412,6 @@ export const KALIMANTAN_SELATAN: PostalCode[] = [
     districtCode: "6310031",
     village: "Angsana",
     villageCode: "6310031002",
-    postalCode: "72276"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KAB. TANAH BUMBU",
-    cityCode: "6310",
-    district: "Angsana",
-    districtCode: "6310031",
-    village: "Sumber Baru",
-    villageCode: "6310031001",
     postalCode: "72276"
   },
   {
@@ -52184,17 +50633,6 @@ export const KALIMANTAN_SELATAN: PostalCode[] = [
     village: "Kalibalangan",
     villageCode: "",
     postalCode: "34581"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KAB. HULU SUNGAI UTARA",
-    cityCode: "6308",
-    district: "Amuntai Tengah",
-    districtCode: "6308050",
-    village: "Tambalangan",
-    villageCode: "6308050017",
-    postalCode: "71413"
   },
   {
     province: "KALIMANTAN SELATAN",
@@ -52676,17 +51114,6 @@ export const KALIMANTAN_SELATAN: PostalCode[] = [
     cityCode: "6311",
     district: "Paringin Selatan",
     districtCode: "6311041",
-    village: "Baruh Bahinu Luar",
-    villageCode: "6311041012",
-    postalCode: "71662"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KAB. BALANGAN",
-    cityCode: "6311",
-    district: "Paringin Selatan",
-    districtCode: "6311041",
     village: "Lingsir",
     villageCode: "6311041016",
     postalCode: "71662"
@@ -52788,17 +51215,6 @@ export const KALIMANTAN_SELATAN: PostalCode[] = [
     districtCode: "6311041",
     village: "Batu Piring",
     villageCode: "6311041019",
-    postalCode: "71662"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KAB. BALANGAN",
-    cityCode: "6311",
-    district: "Paringin Selatan",
-    districtCode: "6311041",
-    village: "Baruh Bahinu Dalam",
-    villageCode: "6311041007",
     postalCode: "71662"
   },
   {
@@ -53413,17 +51829,6 @@ export const KALIMANTAN_SELATAN: PostalCode[] = [
     cityCode: "6311",
     district: "Awayan",
     districtCode: "6311030",
-    village: "Baru",
-    villageCode: "6311030022",
-    postalCode: "71664"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KAB. BALANGAN",
-    cityCode: "6311",
-    district: "Awayan",
-    districtCode: "6311030",
     village: "Piyait",
     villageCode: "6311030004",
     postalCode: "71664"
@@ -53754,17 +52159,6 @@ export const KALIMANTAN_SELATAN: PostalCode[] = [
     cityCode: "6311",
     district: "Halong",
     districtCode: "6311060",
-    village: "Baruh Panyambaran",
-    villageCode: "6311060012",
-    postalCode: "71666"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KAB. BALANGAN",
-    cityCode: "6311",
-    district: "Halong",
-    districtCode: "6311060",
     village: "Sumber Agung",
     villageCode: "6311060024",
     postalCode: "71666"
@@ -53922,709 +52316,5 @@ export const KALIMANTAN_SELATAN: PostalCode[] = [
     village: "Padang Raya",
     villageCode: "6311060023",
     postalCode: "71666"
-  },
-  {
-    province: "BANTEN",
-    provinceCode: "63",
-    city: "KAB. PANDEGLANG",
-    cityCode: "3601",
-    district: "Carita",
-    districtCode: "3601121",
-    village: "Banjarmasin",
-    villageCode: "3601121002",
-    postalCode: "42269"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KOTA BANJARMASIN",
-    cityCode: "6371",
-    district: "Banjarmasin Tengah",
-    districtCode: "6371031",
-    village: "Kertak Baru Ilir",
-    villageCode: "6371031002",
-    postalCode: "70111"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KOTA BANJARMASIN",
-    cityCode: "6371",
-    district: "Banjarmasin Tengah",
-    districtCode: "6371031",
-    village: "Kertak Baru Ulu",
-    villageCode: "6371031005",
-    postalCode: "70111"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KOTA BANJARMASIN",
-    cityCode: "6371",
-    district: "Banjarmasin Tengah",
-    districtCode: "6371031",
-    village: "Mawar",
-    villageCode: "6371031003",
-    postalCode: "70112"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KOTA BANJARMASIN",
-    cityCode: "6371",
-    district: "Banjarmasin Tengah",
-    districtCode: "6371031",
-    village: "Antasan Besar",
-    villageCode: "6371031009",
-    postalCode: "70114"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KOTA BANJARMASIN",
-    cityCode: "6371",
-    district: "Banjarmasin Tengah",
-    districtCode: "6371031",
-    village: "Pasar Lama",
-    villageCode: "6371031010",
-    postalCode: "70115"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KOTA BANJARMASIN",
-    cityCode: "6371",
-    district: "Banjarmasin Tengah",
-    districtCode: "6371031",
-    village: "Melayu",
-    villageCode: "6371031012",
-    postalCode: "70117"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KOTA BANJARMASIN",
-    cityCode: "6371",
-    district: "Banjarmasin Tengah",
-    districtCode: "6371031",
-    village: "Gadang",
-    villageCode: "6371031008",
-    postalCode: "70117"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KOTA BANJARMASIN",
-    cityCode: "6371",
-    district: "Banjarmasin Tengah",
-    districtCode: "6371031",
-    village: "Seberang Mesjid",
-    villageCode: "6371031011",
-    postalCode: "70117"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KOTA BANJARMASIN",
-    cityCode: "6371",
-    district: "Banjarmasin Tengah",
-    districtCode: "6371031",
-    village: "Pekapuran Laut",
-    villageCode: "6371031006",
-    postalCode: "70117"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KOTA BANJARMASIN",
-    cityCode: "6371",
-    district: "Banjarmasin Tengah",
-    districtCode: "6371031",
-    village: "Sungai Baru",
-    villageCode: "6371031007",
-    postalCode: "70117"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KOTA BANJARMASIN",
-    cityCode: "6371",
-    district: "Banjarmasin Tengah",
-    districtCode: "6371031",
-    village: "Kelayan Luar",
-    villageCode: "6371031001",
-    postalCode: "70117"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KOTA BANJARMASIN",
-    cityCode: "6371",
-    district: "Banjarmasin Tengah",
-    districtCode: "6371031",
-    village: "Teluk Dalam",
-    villageCode: "6371031004",
-    postalCode: "70117"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KOTA BANJARMASIN",
-    cityCode: "6371",
-    district: "Banjarmasin Barat",
-    districtCode: "6371030",
-    village: "Belitung Utara",
-    villageCode: "6371030011",
-    postalCode: "70118"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KOTA BANJARMASIN",
-    cityCode: "6371",
-    district: "Banjarmasin Barat",
-    districtCode: "6371030",
-    village: "Belitung Selatan",
-    villageCode: "6371030010",
-    postalCode: "70118"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KOTA BANJARMASIN",
-    cityCode: "6371",
-    district: "Banjarmasin Barat",
-    districtCode: "6371030",
-    village: "Kuin Selatan",
-    villageCode: "6371030015",
-    postalCode: "70118"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KOTA BANJARMASIN",
-    cityCode: "6371",
-    district: "Banjarmasin Barat",
-    districtCode: "6371030",
-    village: "Pelambuan",
-    villageCode: "6371030009",
-    postalCode: "70118"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KOTA BANJARMASIN",
-    cityCode: "6371",
-    district: "Banjarmasin Barat",
-    districtCode: "6371030",
-    village: "Kuin Cerucuk",
-    villageCode: "6371030014",
-    postalCode: "70118"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KOTA BANJARMASIN",
-    cityCode: "6371",
-    district: "Banjarmasin Barat",
-    districtCode: "6371030",
-    village: "Teluk Tiram",
-    villageCode: "6371030001",
-    postalCode: "70119"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KOTA BANJARMASIN",
-    cityCode: "6371",
-    district: "Banjarmasin Barat",
-    districtCode: "6371030",
-    village: "Telaga Biru",
-    villageCode: "6371030008",
-    postalCode: "70119"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KOTA BANJARMASIN",
-    cityCode: "6371",
-    district: "Banjarmasin Barat",
-    districtCode: "6371030",
-    village: "Basirih",
-    villageCode: "6371030013",
-    postalCode: "70119"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KOTA BANJARMASIN",
-    cityCode: "6371",
-    district: "Banjarmasin Barat",
-    districtCode: "6371030",
-    village: "Telawang",
-    villageCode: "6371030002",
-    postalCode: "70119"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KOTA BANJARMASIN",
-    cityCode: "6371",
-    district: "Banjarmasin Utara",
-    districtCode: "6371040",
-    village: "Sungai Andai",
-    villageCode: "6371040012",
-    postalCode: "70121"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KOTA BANJARMASIN",
-    cityCode: "6371",
-    district: "Banjarmasin Utara",
-    districtCode: "6371040",
-    village: "Sungai Jingah",
-    villageCode: "6371040008",
-    postalCode: "70121"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KOTA BANJARMASIN",
-    cityCode: "6371",
-    district: "Banjarmasin Utara",
-    districtCode: "6371040",
-    village: "Surgi Mufti",
-    villageCode: "6371040007",
-    postalCode: "70122"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KOTA BANJARMASIN",
-    cityCode: "6371",
-    district: "Banjarmasin Utara",
-    districtCode: "6371040",
-    village: "Sungai Miai",
-    villageCode: "6371040005",
-    postalCode: "70123"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KOTA BANJARMASIN",
-    cityCode: "6371",
-    district: "Banjarmasin Utara",
-    districtCode: "6371040",
-    village: "Antasan Kecil Timur",
-    villageCode: "6371040006",
-    postalCode: "70123"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KOTA BANJARMASIN",
-    cityCode: "6371",
-    district: "Banjarmasin Utara",
-    districtCode: "6371040",
-    village: "Pangeran",
-    villageCode: "6371040004",
-    postalCode: "70124"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KOTA BANJARMASIN",
-    cityCode: "6371",
-    district: "Banjarmasin Utara",
-    districtCode: "6371040",
-    village: "Alalak Utara",
-    villageCode: "6371040009",
-    postalCode: "70125"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KOTA BANJARMASIN",
-    cityCode: "6371",
-    district: "Banjarmasin Utara",
-    districtCode: "6371040",
-    village: "Alalak Selatan",
-    villageCode: "6371040010",
-    postalCode: "70126"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KOTA BANJARMASIN",
-    cityCode: "6371",
-    district: "Banjarmasin Utara",
-    districtCode: "6371040",
-    village: "Alalak Tengah",
-    villageCode: "6371040011",
-    postalCode: "70126"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KOTA BANJARMASIN",
-    cityCode: "6371",
-    district: "Banjarmasin Utara",
-    districtCode: "6371040",
-    village: "Kuin Utara",
-    villageCode: "6371040003",
-    postalCode: "70127"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KOTA BANJARMASIN",
-    cityCode: "6371",
-    district: "Banjarmasin Timur",
-    districtCode: "6371020",
-    village: "Sungai Bilu",
-    villageCode: "6371020011",
-    postalCode: "70233"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KOTA BANJARMASIN",
-    cityCode: "6371",
-    district: "Banjarmasin Timur",
-    districtCode: "6371020",
-    village: "Karang Mekar",
-    villageCode: "6371020002",
-    postalCode: "70234"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KOTA BANJARMASIN",
-    cityCode: "6371",
-    district: "Banjarmasin Timur",
-    districtCode: "6371020",
-    village: "Pekapuran Raya",
-    villageCode: "6371020001",
-    postalCode: "70234"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KOTA BANJARMASIN",
-    cityCode: "6371",
-    district: "Banjarmasin Timur",
-    districtCode: "6371020",
-    village: "Pemurus Luar",
-    villageCode: "6371020014",
-    postalCode: "70235"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KOTA BANJARMASIN",
-    cityCode: "6371",
-    district: "Banjarmasin Timur",
-    districtCode: "6371020",
-    village: "Kebun Bunga",
-    villageCode: "6371020003",
-    postalCode: "70235"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KOTA BANJARMASIN",
-    cityCode: "6371",
-    district: "Banjarmasin Timur",
-    districtCode: "6371020",
-    village: "Kuripan",
-    villageCode: "6371020005",
-    postalCode: "70236"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KOTA BANJARMASIN",
-    cityCode: "6371",
-    district: "Banjarmasin Timur",
-    districtCode: "6371020",
-    village: "Pengambangan",
-    villageCode: "6371020012",
-    postalCode: "70237"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KOTA BANJARMASIN",
-    cityCode: "6371",
-    district: "Banjarmasin Timur",
-    districtCode: "6371020",
-    village: "Sungai Lulut",
-    villageCode: "6371020004",
-    postalCode: "70238"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KOTA BANJARMASIN",
-    cityCode: "6371",
-    district: "Banjarmasin Timur",
-    districtCode: "6371020",
-    village: "Banua Anyar",
-    villageCode: "",
-    postalCode: "70239"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KOTA BANJARMASIN",
-    cityCode: "6371",
-    district: "Banjarmasin Selatan",
-    districtCode: "6371010",
-    village: "Kelayan Barat",
-    villageCode: "6371010013",
-    postalCode: "70241"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KOTA BANJARMASIN",
-    cityCode: "6371",
-    district: "Banjarmasin Selatan",
-    districtCode: "6371010",
-    village: "Kelayan Tengah",
-    villageCode: "6371010011",
-    postalCode: "70242"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KOTA BANJARMASIN",
-    cityCode: "6371",
-    district: "Banjarmasin Selatan",
-    districtCode: "6371010",
-    village: "Kelayan Dalam",
-    villageCode: "6371010010",
-    postalCode: "70242"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KOTA BANJARMASIN",
-    cityCode: "6371",
-    district: "Banjarmasin Selatan",
-    districtCode: "6371010",
-    village: "Pekauman",
-    villageCode: "6371010012",
-    postalCode: "70243"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KOTA BANJARMASIN",
-    cityCode: "6371",
-    district: "Banjarmasin Selatan",
-    districtCode: "6371010",
-    village: "Mantuil",
-    villageCode: "6371010001",
-    postalCode: "70244"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KOTA BANJARMASIN",
-    cityCode: "6371",
-    district: "Banjarmasin Selatan",
-    districtCode: "6371010",
-    village: "Basirih Selatan",
-    villageCode: "6371010014",
-    postalCode: "70245"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KOTA BANJARMASIN",
-    cityCode: "6371",
-    district: "Banjarmasin Selatan",
-    districtCode: "6371010",
-    village: "Kelayan Selatan",
-    villageCode: "6371010003",
-    postalCode: "70246"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KOTA BANJARMASIN",
-    cityCode: "6371",
-    district: "Banjarmasin Selatan",
-    districtCode: "6371010",
-    village: "Kelayan Timur",
-    villageCode: "6371010004",
-    postalCode: "70247"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KOTA BANJARMASIN",
-    cityCode: "6371",
-    district: "Banjarmasin Selatan",
-    districtCode: "6371010",
-    village: "Tanjung Pagar",
-    villageCode: "6371010005",
-    postalCode: "70247"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KOTA BANJARMASIN",
-    cityCode: "6371",
-    district: "Banjarmasin Selatan",
-    districtCode: "6371010",
-    village: "Murung Raya",
-    villageCode: "6371010009",
-    postalCode: "70247"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KOTA BANJARMASIN",
-    cityCode: "6371",
-    district: "Banjarmasin Selatan",
-    districtCode: "6371010",
-    village: "Pemurus Dalam",
-    villageCode: "6371010006",
-    postalCode: "70248"
-  },
-  {
-    province: "KALIMANTAN SELATAN",
-    provinceCode: "63",
-    city: "KOTA BANJARMASIN",
-    cityCode: "6371",
-    district: "Banjarmasin Selatan",
-    districtCode: "6371010",
-    village: "Pemurus Baru",
-    villageCode: "6371010008",
-    postalCode: "70249"
-  },
-  {
-    province: "LAMPUNG",
-    provinceCode: "63",
-    city: "KAB. TULANG BAWANG",
-    cityCode: "",
-    district: "Banjar Baru",
-    districtCode: "",
-    village: "Bawang Tirto Mulyo",
-    villageCode: "",
-    postalCode: "34686"
-  },
-  {
-    province: "LAMPUNG",
-    provinceCode: "63",
-    city: "KAB. TULANG BAWANG",
-    cityCode: "",
-    district: "Banjar Baru",
-    districtCode: "",
-    village: "Mekar Jaya",
-    villageCode: "",
-    postalCode: "34686"
-  },
-  {
-    province: "LAMPUNG",
-    provinceCode: "63",
-    city: "KAB. TULANG BAWANG",
-    cityCode: "",
-    district: "Banjar Baru",
-    districtCode: "",
-    village: "Jaya Makmur",
-    villageCode: "",
-    postalCode: "34686"
-  },
-  {
-    province: "LAMPUNG",
-    provinceCode: "63",
-    city: "KAB. TULANG BAWANG",
-    cityCode: "",
-    district: "Banjar Baru",
-    districtCode: "",
-    village: "Balai Murni Jaya",
-    villageCode: "",
-    postalCode: "34686"
-  },
-  {
-    province: "LAMPUNG",
-    provinceCode: "63",
-    city: "KAB. TULANG BAWANG",
-    cityCode: "",
-    district: "Banjar Baru",
-    districtCode: "",
-    village: "Kahuripan Jaya",
-    villageCode: "",
-    postalCode: "34686"
-  },
-  {
-    province: "LAMPUNG",
-    provinceCode: "63",
-    city: "KAB. TULANG BAWANG",
-    cityCode: "",
-    district: "Banjar Baru",
-    districtCode: "",
-    village: "Bawang Sakti Jaya",
-    villageCode: "",
-    postalCode: "34686"
-  },
-  {
-    province: "LAMPUNG",
-    provinceCode: "63",
-    city: "KAB. TULANG BAWANG",
-    cityCode: "",
-    district: "Banjar Baru",
-    districtCode: "",
-    village: "Mekar Indah Jaya",
-    villageCode: "",
-    postalCode: "34686"
-  },
-  {
-    province: "LAMPUNG",
-    provinceCode: "63",
-    city: "KAB. TULANG BAWANG",
-    cityCode: "",
-    district: "Banjar Baru",
-    districtCode: "",
-    village: "Panca Karsa Purna Jaya",
-    villageCode: "",
-    postalCode: "34686"
-  },
-  {
-    province: "LAMPUNG",
-    provinceCode: "63",
-    city: "KAB. TULANG BAWANG",
-    cityCode: "",
-    district: "Banjar Baru",
-    districtCode: "",
-    village: "Panca Mulia",
-    villageCode: "",
-    postalCode: "34686"
-  },
-  {
-    province: "LAMPUNG",
-    provinceCode: "63",
-    city: "KAB. TULANG BAWANG",
-    cityCode: "",
-    district: "Banjar Baru",
-    districtCode: "",
-    village: "Karya Murni Jaya",
-    villageCode: "",
-    postalCode: "34686"
-  },
-  {
-    province: "LAMPUNG",
-    provinceCode: "63",
-    city: "KAB. WAY KANAN",
-    cityCode: "1807",
-    district: "Baradatu",
-    districtCode: "1807020",
-    village: "Banjar Baru",
-    villageCode: "1807020017",
-    postalCode: "34761"
   },
 ];

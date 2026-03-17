@@ -5,7 +5,7 @@ import * as path from 'path';
  * Script untuk mengonversi file JSON provinsi menjadi file TypeScript
  * yang dapat diimpor langsung dalam aplikasi, lengkap dengan kode wilayah.
  * 
- * VERSI 3: Dengan logika pencocokan khusus untuk Jakarta & Papua.
+ * VERSI 4: Dengan logika pencocokan V3 + De-duplikasi Ketat.
  */
 
 const BASE_DATA_DIR = "/Users/damarkuncoro/SATU RAYA INTEGRASI/@damarkuncoro/data-wilayah-indonesia/csv";
@@ -27,7 +27,7 @@ function basicNormalize(str: string): string {
 }
 
 async function main() {
-    console.log('--- Memulai Konversi JSON ke TypeScript (Mapping V3) ---');
+    console.log('--- Memulai Konversi JSON ke TypeScript (Mapping V3 + Dedup) ---');
     
     const inputDir = path.join(__dirname, '../results/api_provinces');
     const outputDir = path.join(__dirname, '../src/data');
@@ -65,32 +65,23 @@ async function main() {
     provinces['papua_barat_daya'] = { id: '96', name: 'PAPUA BARAT DAYA' };
 
     // Regencies (Kabupaten/Kota)
-    // Key: ProvinceID + NormalizedName -> RegencyID
-    // Global Key: NormalizedName -> RegencyID (untuk pencarian lintas provinsi)
     const regenciesMap: Record<string, string> = {};
-    const globalRegenciesMap: Record<string, string> = {}; // Peta global nama kabupaten -> ID
+    const globalRegenciesMap: Record<string, string> = {}; 
 
     fs.readFileSync(`${BASE_DATA_DIR}/regencies.csv`, 'utf-8')
         .split('\n')
         .filter(line => line.trim() !== '')
         .forEach(line => {
             const [id, provinceId, name] = line.split(',');
-            // Simpan versi normalisasi penuh (tanpa KAB/KOTA)
             const normName = normalize(name);
             const key = `${provinceId}-${normName}`;
             regenciesMap[key] = id;
-            
-            // Simpan ke peta global (jika nama unik, ini sangat membantu)
-            // Jika ada duplikasi nama kabupaten antar provinsi, yang terakhir akan menang (risiko kecil)
             globalRegenciesMap[normName] = id;
-
-            // Simpan juga versi basic (dengan KAB/KOTA tapi uppercase)
             const basicKey = `${provinceId}-${basicNormalize(name)}`;
             regenciesMap[basicKey] = id;
         });
 
     // Districts (Kecamatan)
-    // Key: RegencyID + NormalizedName -> DistrictID
     const districtsMap: Record<string, string> = {};
     fs.readFileSync(`${BASE_DATA_DIR}/districts.csv`, 'utf-8')
         .split('\n')
@@ -102,7 +93,6 @@ async function main() {
         });
 
     // Villages (Desa/Kelurahan)
-    // Key: DistrictID + NormalizedName -> VillageID
     const villagesMap: Record<string, string> = {};
     fs.readFileSync(`${BASE_DATA_DIR}/villages.csv`, 'utf-8')
         .split('\n')
@@ -123,7 +113,7 @@ async function main() {
             const filePath = path.join(inputDir, file);
             const fileData = JSON.parse(fs.readFileSync(filePath, 'utf-8'));
             
-            // Hapus duplikasi
+            // Hapus duplikasi awal (JSON level)
             const uniqueData = Array.from(new Set(fileData.map((d: any) => JSON.stringify(d))))
                                     .map((str: any) => JSON.parse(str));
 
@@ -143,36 +133,40 @@ async function main() {
             tsContent += `export const ${variableName}: PostalCode[] = [\n`;
             
             let mappedCount = 0;
+            
+            // Set untuk de-duplikasi final sebelum tulis ke TS
+            const processedItems = new Set<string>();
+            let finalCount = 0;
 
             uniqueData.forEach((item: any) => {
-                // Gunakan normalisasi penuh untuk pencarian
+                // Normalisasi untuk kunci unik
+                const uniqueKey = JSON.stringify({
+                    p: item.provinsi.trim().toUpperCase(),
+                    c: item.kabupaten_kota.trim().toUpperCase(),
+                    d: item.kecamatan.trim().toUpperCase(),
+                    v: item.desa_kelurahan.trim().toUpperCase(),
+                    pc: item.kodepos.trim()
+                });
+
+                if (processedItems.has(uniqueKey)) {
+                    return; // Skip duplikat
+                }
+                processedItems.add(uniqueKey);
+                finalCount++;
+
+                // Logika Mapping
                 const provCode = provinceInfo.id;
                 const normCity = normalize(item.kabupaten_kota);
                 
-                // 1. Cari City Code
-                // Strategi 1: Cari di provinsi yang sama (Basic & Normalized)
                 let cityCode = regenciesMap[`${provCode}-${basicNormalize(item.kabupaten_kota)}`];
-                if (!cityCode) {
-                    cityCode = regenciesMap[`${provCode}-${normCity}`];
-                }
+                if (!cityCode) cityCode = regenciesMap[`${provCode}-${normCity}`];
+                if (!cityCode) cityCode = globalRegenciesMap[normCity];
 
-                // Strategi 2: Cari Global (Lintas Provinsi)
-                // Ini sangat berguna untuk provinsi baru Papua yang datanya masih di ID provinsi lama
-                if (!cityCode) {
-                    cityCode = globalRegenciesMap[normCity];
-                }
-
-                // 2. Cari District Code
                 let distCode = '';
-                if (cityCode) {
-                    distCode = districtsMap[`${cityCode}-${normalize(item.kecamatan)}`];
-                }
+                if (cityCode) distCode = districtsMap[`${cityCode}-${normalize(item.kecamatan)}`];
 
-                // 3. Cari Village Code
                 let villCode = '';
-                if (distCode) {
-                    villCode = villagesMap[`${distCode}-${normalize(item.desa_kelurahan)}`];
-                }
+                if (distCode) villCode = villagesMap[`${distCode}-${normalize(item.desa_kelurahan)}`];
 
                 if (villCode) mappedCount++;
 
@@ -192,7 +186,7 @@ async function main() {
             tsContent += `];\n`;
 
             fs.writeFileSync(tsFilePath, tsContent);
-            console.log(`✅ ${tsFileName}: ${uniqueData.length} records (Mapped: ${mappedCount})`);
+            console.log(`✅ ${tsFileName}: ${finalCount} records (Mapped: ${mappedCount})`);
 
             const importName = variableName;
             indexContent += `export { ${importName} } from './${tsFileName.replace('.ts', '')}';\n`;

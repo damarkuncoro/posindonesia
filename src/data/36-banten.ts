@@ -3429,17 +3429,6 @@ export const BANTEN: PostalCode[] = [
     cityCode: "3601",
     district: "Cikeusik",
     districtCode: "3601040",
-    village: "Sumurbatu",
-    villageCode: "3601040004",
-    postalCode: "42286"
-  },
-  {
-    province: "BANTEN",
-    provinceCode: "36",
-    city: "KAB. PANDEGLANG",
-    cityCode: "3601",
-    district: "Cikeusik",
-    districtCode: "3601040",
     village: "Tanjungan",
     villageCode: "3601040001",
     postalCode: "42286"
@@ -3663,17 +3652,6 @@ export const BANTEN: PostalCode[] = [
     village: "Gombong",
     villageCode: "3601060008",
     postalCode: "42281"
-  },
-  {
-    province: "JAWA TENGAH",
-    provinceCode: "36",
-    city: "KAB. CILACAP",
-    cityCode: "3301",
-    district: "Cimanggu",
-    districtCode: "3301040",
-    village: "Panimbang",
-    villageCode: "3301040004",
-    postalCode: "53256"
   },
   {
     province: "RIAU",
@@ -4039,17 +4017,6 @@ export const BANTEN: PostalCode[] = [
     postalCode: "42276"
   },
   {
-    province: "BANTEN",
-    provinceCode: "36",
-    city: "KAB. PANDEGLANG",
-    cityCode: "3601",
-    district: "Munjul",
-    districtCode: "3601070",
-    village: "Cibitung",
-    villageCode: "3601070008",
-    postalCode: "42276"
-  },
-  {
     province: "JAWA BARAT",
     provinceCode: "36",
     city: "KAB. CIANJUR",
@@ -4168,17 +4135,6 @@ export const BANTEN: PostalCode[] = [
     districtCode: "3601071",
     village: "Kadubadak",
     villageCode: "3601071002",
-    postalCode: "42277"
-  },
-  {
-    province: "BANTEN",
-    provinceCode: "36",
-    city: "KAB. PANDEGLANG",
-    cityCode: "3601",
-    district: "Angsana",
-    districtCode: "3601071",
-    village: "Sumurlaban",
-    villageCode: "3601071005",
     postalCode: "42277"
   },
   {

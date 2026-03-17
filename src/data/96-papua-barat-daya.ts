@@ -30,28 +30,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9171",
     district: "Maladum Mes",
     districtCode: "9171012",
-    village: "Tanjung Kasuari",
-    villageCode: "9171012001",
-    postalCode: "98411"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KOTA SORONG",
-    cityCode: "9171",
-    district: "Maladum Mes",
-    districtCode: "9171012",
-    village: "Tampa Garam",
-    villageCode: "9171012004",
-    postalCode: "98411"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KOTA SORONG",
-    cityCode: "9171",
-    district: "Maladum Mes",
-    districtCode: "9171012",
     village: "Tampa Garam",
     villageCode: "9171012004",
     postalCode: "98411"
@@ -74,41 +52,8 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9171",
     district: "Maladum Mes",
     districtCode: "9171012",
-    village: "Suprau",
-    villageCode: "9171012003",
-    postalCode: "98411"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KOTA SORONG",
-    cityCode: "9171",
-    district: "Maladum Mes",
-    districtCode: "9171012",
     village: "Saoka",
     villageCode: "9171012002",
-    postalCode: "98412"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KOTA SORONG",
-    cityCode: "9171",
-    district: "Maladum Mes",
-    districtCode: "9171012",
-    village: "Saoka",
-    villageCode: "9171012002",
-    postalCode: "98412"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KOTA SORONG",
-    cityCode: "9171",
-    district: "Sorong Barat",
-    districtCode: "9171010",
-    village: "Klawasi",
-    villageCode: "9171010006",
     postalCode: "98412"
   },
   {
@@ -140,28 +85,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9171",
     district: "Sorong Barat",
     districtCode: "9171010",
-    village: "Rufei",
-    villageCode: "9171010003",
-    postalCode: "98412"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KOTA SORONG",
-    cityCode: "9171",
-    district: "Sorong Barat",
-    districtCode: "9171010",
-    village: "Pal Putih",
-    villageCode: "9171010008",
-    postalCode: "98412"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KOTA SORONG",
-    cityCode: "9171",
-    district: "Sorong Barat",
-    districtCode: "9171010",
     village: "Pal Putih",
     villageCode: "9171010008",
     postalCode: "98412"
@@ -175,28 +98,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     districtCode: "9171026",
     village: "Klabala",
     villageCode: "9171026004",
-    postalCode: "98412"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KOTA SORONG",
-    cityCode: "9171",
-    district: "Sorong Kota",
-    districtCode: "9171026",
-    village: "Klabala",
-    villageCode: "9171026004",
-    postalCode: "98412"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KOTA SORONG",
-    cityCode: "9171",
-    district: "Sorong Barat",
-    districtCode: "9171010",
-    village: "Puncak Cendrawasih",
-    villageCode: "9171010010",
     postalCode: "98412"
   },
   {
@@ -228,41 +129,8 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9171",
     district: "Sorong Kota",
     districtCode: "9171026",
-    village: "Kampung Baru",
-    villageCode: "9171026001",
-    postalCode: "98413"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KOTA SORONG",
-    cityCode: "9171",
-    district: "Sorong Kota",
-    districtCode: "9171026",
     village: "Klakublik",
     villageCode: "9171026002",
-    postalCode: "98414"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KOTA SORONG",
-    cityCode: "9171",
-    district: "Sorong Kota",
-    districtCode: "9171026",
-    village: "Klakublik",
-    villageCode: "9171026002",
-    postalCode: "98414"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KOTA SORONG",
-    cityCode: "9171",
-    district: "Sorong Kota",
-    districtCode: "9171026",
-    village: "Klasuur",
-    villageCode: "9171026003",
     postalCode: "98414"
   },
   {
@@ -294,28 +162,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9171",
     district: "Sorong",
     districtCode: "9171022",
-    village: "Remu",
-    villageCode: "",
-    postalCode: "98414"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KOTA SORONG",
-    cityCode: "9171",
-    district: "Sorong",
-    districtCode: "9171022",
-    village: "Kofkerbu",
-    villageCode: "9171022006",
-    postalCode: "98414"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KOTA SORONG",
-    cityCode: "9171",
-    district: "Sorong",
-    districtCode: "9171022",
     village: "Kofkerbu",
     villageCode: "9171022006",
     postalCode: "98414"
@@ -329,28 +175,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     districtCode: "9171022",
     village: "Klademak",
     villageCode: "9171022002",
-    postalCode: "98414"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KOTA SORONG",
-    cityCode: "9171",
-    district: "Sorong",
-    districtCode: "9171022",
-    village: "Klademak",
-    villageCode: "9171022002",
-    postalCode: "98414"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KOTA SORONG",
-    cityCode: "9171",
-    district: "Sorong",
-    districtCode: "9171022",
-    village: "Remu Utara",
-    villageCode: "9171022003",
     postalCode: "98414"
   },
   {
@@ -382,28 +206,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9171",
     district: "Malaimsimsa",
     districtCode: "9171025",
-    village: "Malaingkedi",
-    villageCode: "9171025003",
-    postalCode: "98415"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KOTA SORONG",
-    cityCode: "9171",
-    district: "Malaimsimsa",
-    districtCode: "9171025",
-    village: "Malamso",
-    villageCode: "9171025005",
-    postalCode: "98416"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KOTA SORONG",
-    cityCode: "9171",
-    district: "Malaimsimsa",
-    districtCode: "9171025",
     village: "Malamso",
     villageCode: "9171025005",
     postalCode: "98416"
@@ -417,28 +219,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     districtCode: "9171025",
     village: "Klabulu",
     villageCode: "9171025006",
-    postalCode: "98416"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KOTA SORONG",
-    cityCode: "9171",
-    district: "Malaimsimsa",
-    districtCode: "9171025",
-    village: "Klabulu",
-    villageCode: "9171025006",
-    postalCode: "98416"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KOTA SORONG",
-    cityCode: "9171",
-    district: "Malaimsimsa",
-    districtCode: "9171025",
-    village: "Klagete",
-    villageCode: "9171025001",
     postalCode: "98416"
   },
   {
@@ -470,28 +250,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9171",
     district: "Sorong Utara",
     districtCode: "9171021",
-    village: "Malasilen",
-    villageCode: "9171021007",
-    postalCode: "98416"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KOTA SORONG",
-    cityCode: "9171",
-    district: "Sorong Utara",
-    districtCode: "9171021",
-    village: "Malanu",
-    villageCode: "9171021002",
-    postalCode: "98416"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KOTA SORONG",
-    cityCode: "9171",
-    district: "Sorong Utara",
-    districtCode: "9171021",
     village: "Malanu",
     villageCode: "9171021002",
     postalCode: "98416"
@@ -505,28 +263,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     districtCode: "9171021",
     village: "Matalamagi",
     villageCode: "9171021009",
-    postalCode: "98416"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KOTA SORONG",
-    cityCode: "9171",
-    district: "Sorong Utara",
-    districtCode: "9171021",
-    village: "Matalamagi",
-    villageCode: "9171021009",
-    postalCode: "98416"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KOTA SORONG",
-    cityCode: "9171",
-    district: "Sorong Utara",
-    districtCode: "9171021",
-    village: "Sawagumu",
-    villageCode: "9171021004",
     postalCode: "98416"
   },
   {
@@ -558,28 +294,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9171",
     district: "Klaurung",
     districtCode: "9171024",
-    village: "Klasaman",
-    villageCode: "9171024001",
-    postalCode: "98417"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KOTA SORONG",
-    cityCode: "9171",
-    district: "Klaurung",
-    districtCode: "9171024",
-    village: "Klablim",
-    villageCode: "9171024002",
-    postalCode: "98418"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KOTA SORONG",
-    cityCode: "9171",
-    district: "Klaurung",
-    districtCode: "9171024",
     village: "Klablim",
     villageCode: "9171024002",
     postalCode: "98418"
@@ -593,28 +307,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     districtCode: "9171024",
     village: "Giwu",
     villageCode: "9171024003",
-    postalCode: "98418"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KOTA SORONG",
-    cityCode: "9171",
-    district: "Klaurung",
-    districtCode: "9171024",
-    village: "Giwu",
-    villageCode: "9171024003",
-    postalCode: "98418"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KOTA SORONG",
-    cityCode: "9171",
-    district: "Klaurung",
-    districtCode: "9171024",
-    village: "Klasuat",
-    villageCode: "",
     postalCode: "98418"
   },
   {
@@ -646,28 +338,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9171",
     district: "Sorong Timur",
     districtCode: "9171020",
-    village: "Kladufu",
-    villageCode: "9171020016",
-    postalCode: "98418"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KOTA SORONG",
-    cityCode: "9171",
-    district: "Sorong Timur",
-    districtCode: "9171020",
-    village: "Klawalu",
-    villageCode: "9171020012",
-    postalCode: "98418"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KOTA SORONG",
-    cityCode: "9171",
-    district: "Sorong Timur",
-    districtCode: "9171020",
     village: "Klawalu",
     villageCode: "9171020012",
     postalCode: "98418"
@@ -681,28 +351,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     districtCode: "9171020",
     village: "Klawuyuk",
     villageCode: "9171020011",
-    postalCode: "98418"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KOTA SORONG",
-    cityCode: "9171",
-    district: "Sorong Timur",
-    districtCode: "9171020",
-    village: "Klawuyuk",
-    villageCode: "9171020011",
-    postalCode: "98418"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KOTA SORONG",
-    cityCode: "9171",
-    district: "Sorong Timur",
-    districtCode: "9171020",
-    village: "Klamana",
-    villageCode: "9171020013",
     postalCode: "98418"
   },
   {
@@ -734,41 +382,8 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9171",
     district: "Sorong Manoi",
     districtCode: "9171023",
-    village: "Klaligi",
-    villageCode: "9171023001",
-    postalCode: "98419"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KOTA SORONG",
-    cityCode: "9171",
-    district: "Sorong Manoi",
-    districtCode: "9171023",
     village: "Remu Selatan",
     villageCode: "9171023003",
-    postalCode: "98419"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KOTA SORONG",
-    cityCode: "9171",
-    district: "Sorong Manoi",
-    districtCode: "9171023",
-    village: "Remu Selatan",
-    villageCode: "9171023003",
-    postalCode: "98419"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KOTA SORONG",
-    cityCode: "9171",
-    district: "Sorong Manoi",
-    districtCode: "9171023",
-    village: "Malawei",
-    villageCode: "9171023002",
     postalCode: "98419"
   },
   {
@@ -800,42 +415,9 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9171",
     district: "Sorong Manoi",
     districtCode: "9171023",
-    village: "Klasabi",
-    villageCode: "9171023005",
-    postalCode: "98419"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KOTA SORONG",
-    cityCode: "9171",
-    district: "Sorong Manoi",
-    districtCode: "9171023",
     village: "Malabutor",
     villageCode: "9171023004",
     postalCode: "98419"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KOTA SORONG",
-    cityCode: "9171",
-    district: "Sorong Manoi",
-    districtCode: "9171023",
-    village: "Malabutor",
-    villageCode: "9171023004",
-    postalCode: "98419"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KOTA SORONG",
-    cityCode: "9171",
-    district: "Sorong Kepulauan",
-    districtCode: "9171011",
-    village: "Soop",
-    villageCode: "9171011003",
-    postalCode: "98426"
   },
   {
     province: "PAPUA BARAT DAYA",
@@ -866,40 +448,7 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9171",
     district: "Sorong Kepulauan",
     districtCode: "9171011",
-    village: "Raam",
-    villageCode: "9171011004",
-    postalCode: "98426"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KOTA SORONG",
-    cityCode: "9171",
-    district: "Sorong Kepulauan",
-    districtCode: "9171011",
     village: "Dum Timur",
-    villageCode: "",
-    postalCode: "98426"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KOTA SORONG",
-    cityCode: "9171",
-    district: "Sorong Kepulauan",
-    districtCode: "9171011",
-    village: "Dum Timur",
-    villageCode: "",
-    postalCode: "98426"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KOTA SORONG",
-    cityCode: "9171",
-    district: "Sorong Kepulauan",
-    districtCode: "9171011",
-    village: "Dum Barat",
     villageCode: "",
     postalCode: "98426"
   },
@@ -932,40 +481,7 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9171",
     district: "Aimas",
     districtCode: "",
-    village: "Malawele",
-    villageCode: "",
-    postalCode: "98431"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Aimas",
-    districtCode: "",
     village: "Mariat Pantai",
-    villageCode: "",
-    postalCode: "98431"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Aimas",
-    districtCode: "",
-    village: "Mariat Pantai",
-    villageCode: "",
-    postalCode: "98431"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Aimas",
-    districtCode: "",
-    village: "Klafma",
     villageCode: "",
     postalCode: "98431"
   },
@@ -998,40 +514,7 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9171",
     district: "Aimas",
     districtCode: "",
-    village: "Aimo",
-    villageCode: "",
-    postalCode: "98431"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Aimas",
-    districtCode: "",
     village: "Malagusa",
-    villageCode: "",
-    postalCode: "98431"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Aimas",
-    districtCode: "",
-    village: "Malagusa",
-    villageCode: "",
-    postalCode: "98431"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Aimas",
-    districtCode: "",
-    village: "Malawili",
     villageCode: "",
     postalCode: "98431"
   },
@@ -1064,40 +547,7 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9171",
     district: "Aimas",
     districtCode: "",
-    village: "Malasom",
-    villageCode: "",
-    postalCode: "98431"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Aimas",
-    districtCode: "",
     village: "Malasaum",
-    villageCode: "",
-    postalCode: "98431"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Aimas",
-    districtCode: "",
-    village: "Malasaum",
-    villageCode: "",
-    postalCode: "98431"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Aimas",
-    districtCode: "",
-    village: "Warmon",
     villageCode: "",
     postalCode: "98431"
   },
@@ -1130,40 +580,7 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9171",
     district: "Aimas",
     districtCode: "",
-    village: "Klabinain",
-    villageCode: "",
-    postalCode: "98431"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Aimas",
-    districtCode: "",
     village: "Klaigit",
-    villageCode: "",
-    postalCode: "98431"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Aimas",
-    districtCode: "",
-    village: "Klaigit",
-    villageCode: "",
-    postalCode: "98431"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Aimas",
-    districtCode: "",
-    village: "Aimas",
     villageCode: "",
     postalCode: "98431"
   },
@@ -1196,28 +613,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9171",
     district: "Aimas",
     districtCode: "",
-    village: "Mariat Gunung",
-    villageCode: "",
-    postalCode: "98431"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Aimas",
-    districtCode: "",
-    village: "Maibo",
-    villageCode: "",
-    postalCode: "98431"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Aimas",
-    districtCode: "",
     village: "Maibo",
     villageCode: "",
     postalCode: "98431"
@@ -1230,28 +625,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     district: "Mariat",
     districtCode: "",
     village: "Klasukuk",
-    villageCode: "",
-    postalCode: "98432"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Mariat",
-    districtCode: "",
-    village: "Klasukuk",
-    villageCode: "",
-    postalCode: "98432"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Mariat",
-    districtCode: "",
-    village: "Kasih",
     villageCode: "",
     postalCode: "98432"
   },
@@ -1284,40 +657,7 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9171",
     district: "Mariat",
     districtCode: "",
-    village: "Klaben",
-    villageCode: "",
-    postalCode: "98432"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Mariat",
-    districtCode: "",
     village: "Fafi",
-    villageCode: "",
-    postalCode: "98432"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Mariat",
-    districtCode: "",
-    village: "Fafi",
-    villageCode: "",
-    postalCode: "98432"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Mariat",
-    districtCode: "",
-    village: "Jamaimo",
     villageCode: "",
     postalCode: "98432"
   },
@@ -1350,40 +690,7 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9171",
     district: "Mariat",
     districtCode: "",
-    village: "Klasan",
-    villageCode: "",
-    postalCode: "98432"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Mariat",
-    districtCode: "",
     village: "Mariyai",
-    villageCode: "",
-    postalCode: "98432"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Mariat",
-    districtCode: "",
-    village: "Mariyai",
-    villageCode: "",
-    postalCode: "98432"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Mariat",
-    districtCode: "",
-    village: "Maklalut",
     villageCode: "",
     postalCode: "98432"
   },
@@ -1416,40 +723,7 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9171",
     district: "Mariat",
     districtCode: "",
-    village: "Klaru",
-    villageCode: "",
-    postalCode: "98432"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Mariat",
-    districtCode: "",
     village: "Klamasen",
-    villageCode: "",
-    postalCode: "98432"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Mariat",
-    districtCode: "",
-    village: "Klamasen",
-    villageCode: "",
-    postalCode: "98432"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Mariat",
-    districtCode: "",
-    village: "Klamalu",
     villageCode: "",
     postalCode: "98432"
   },
@@ -1482,28 +756,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9171",
     district: "Botain",
     districtCode: "",
-    village: "Sabake",
-    villageCode: "",
-    postalCode: "98433"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Botain",
-    districtCode: "",
-    village: "Mamsit",
-    villageCode: "",
-    postalCode: "98433"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Botain",
-    districtCode: "",
     village: "Mamsit",
     villageCode: "",
     postalCode: "98433"
@@ -1516,28 +768,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     district: "Botain",
     districtCode: "",
     village: "Klayastani",
-    villageCode: "",
-    postalCode: "98433"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Botain",
-    districtCode: "",
-    village: "Klayastani",
-    villageCode: "",
-    postalCode: "98433"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Botain",
-    districtCode: "",
-    village: "Klafluk",
     villageCode: "",
     postalCode: "98433"
   },
@@ -1570,40 +800,7 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9171",
     district: "Salawati",
     districtCode: "",
-    village: "Walal",
-    villageCode: "",
-    postalCode: "98433"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Salawati",
-    districtCode: "",
     village: "Majaran",
-    villageCode: "",
-    postalCode: "98433"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Salawati",
-    districtCode: "",
-    village: "Majaran",
-    villageCode: "",
-    postalCode: "98433"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Salawati",
-    districtCode: "",
-    village: "Rawa Sugi",
     villageCode: "",
     postalCode: "98433"
   },
@@ -1636,28 +833,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9171",
     district: "Salawati",
     districtCode: "",
-    village: "Malaus",
-    villageCode: "",
-    postalCode: "98433"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Salawati",
-    districtCode: "",
-    village: "Katinim",
-    villageCode: "",
-    postalCode: "98433"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Salawati",
-    districtCode: "",
     village: "Katinim",
     villageCode: "",
     postalCode: "98433"
@@ -1670,28 +845,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     district: "Salawati",
     districtCode: "",
     village: "Majener",
-    villageCode: "",
-    postalCode: "98433"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Salawati",
-    districtCode: "",
-    village: "Majener",
-    villageCode: "",
-    postalCode: "98433"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Salawati",
-    districtCode: "",
-    village: "Matawolot",
     villageCode: "",
     postalCode: "98433"
   },
@@ -1724,40 +877,7 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9171",
     district: "Mayamuk",
     districtCode: "",
-    village: "Klalin",
-    villageCode: "",
-    postalCode: "98434"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Mayamuk",
-    districtCode: "",
     village: "Wen",
-    villageCode: "",
-    postalCode: "98434"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Mayamuk",
-    districtCode: "",
-    village: "Wen",
-    villageCode: "",
-    postalCode: "98434"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Mayamuk",
-    districtCode: "",
-    village: "Makotyamsa",
     villageCode: "",
     postalCode: "98434"
   },
@@ -1790,40 +910,7 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9171",
     district: "Mayamuk",
     districtCode: "",
-    village: "Asjidba",
-    villageCode: "",
-    postalCode: "98434"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Mayamuk",
-    districtCode: "",
     village: "Makbalim",
-    villageCode: "",
-    postalCode: "98434"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Mayamuk",
-    districtCode: "",
-    village: "Makbalim",
-    villageCode: "",
-    postalCode: "98434"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Mayamuk",
-    districtCode: "",
-    village: "Jeflio",
     villageCode: "",
     postalCode: "98434"
   },
@@ -1856,40 +943,7 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9171",
     district: "Mayamuk",
     districtCode: "",
-    village: "Makbusum",
-    villageCode: "",
-    postalCode: "98434"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Mayamuk",
-    districtCode: "",
     village: "Arar",
-    villageCode: "",
-    postalCode: "98434"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Mayamuk",
-    districtCode: "",
-    village: "Arar",
-    villageCode: "",
-    postalCode: "98434"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Mayamuk",
-    districtCode: "",
-    village: "Klasmelek",
     villageCode: "",
     postalCode: "98434"
   },
@@ -1922,28 +976,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9171",
     district: "Mayamuk",
     districtCode: "",
-    village: "Warmon Kokoda",
-    villageCode: "",
-    postalCode: "98434"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Mayamuk",
-    districtCode: "",
-    village: "Malamay",
-    villageCode: "",
-    postalCode: "98434"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Mayamuk",
-    districtCode: "",
     village: "Malamay",
     villageCode: "",
     postalCode: "98434"
@@ -1956,28 +988,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     district: "Moisegen",
     districtCode: "",
     village: "Klawoton",
-    villageCode: "",
-    postalCode: "98435"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Moisegen",
-    districtCode: "",
-    village: "Klawoton",
-    villageCode: "",
-    postalCode: "98435"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Moisegen",
-    districtCode: "",
-    village: "Klasof",
     villageCode: "",
     postalCode: "98435"
   },
@@ -2010,40 +1020,7 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9171",
     district: "Moisegen",
     districtCode: "",
-    village: "Masmili",
-    villageCode: "",
-    postalCode: "98435"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Moisegen",
-    districtCode: "",
     village: "Klasarin",
-    villageCode: "",
-    postalCode: "98435"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Moisegen",
-    districtCode: "",
-    village: "Klasarin",
-    villageCode: "",
-    postalCode: "98435"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Moisegen",
-    districtCode: "",
-    village: "Wonosobo",
     villageCode: "",
     postalCode: "98435"
   },
@@ -2076,28 +1053,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9171",
     district: "Moisegen",
     districtCode: "",
-    village: "Ninjemur",
-    villageCode: "",
-    postalCode: "98435"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Moisegen",
-    districtCode: "",
-    village: "Klafdalim",
-    villageCode: "",
-    postalCode: "98435"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Moisegen",
-    districtCode: "",
     village: "Klafdalim",
     villageCode: "",
     postalCode: "98435"
@@ -2110,28 +1065,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     district: "Moisegen",
     districtCode: "",
     village: "Klaforo",
-    villageCode: "",
-    postalCode: "98435"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Moisegen",
-    districtCode: "",
-    village: "Klaforo",
-    villageCode: "",
-    postalCode: "98435"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Moisegen",
-    districtCode: "",
-    village: "Sakamerin",
     villageCode: "",
     postalCode: "98435"
   },
@@ -2164,40 +1097,7 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9171",
     district: "Salawati Selatan",
     districtCode: "",
-    village: "Dulbatan",
-    villageCode: "",
-    postalCode: "98436"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Salawati Selatan",
-    districtCode: "",
     village: "Klotlol",
-    villageCode: "",
-    postalCode: "98436"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Salawati Selatan",
-    districtCode: "",
-    village: "Klotlol",
-    villageCode: "",
-    postalCode: "98436"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Salawati Selatan",
-    districtCode: "",
-    village: "Manoket",
     villageCode: "",
     postalCode: "98436"
   },
@@ -2230,28 +1130,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9171",
     district: "Salawati Selatan",
     districtCode: "",
-    village: "Payapop",
-    villageCode: "",
-    postalCode: "98436"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Salawati Selatan",
-    districtCode: "",
-    village: "Sailolof",
-    villageCode: "",
-    postalCode: "98436"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Salawati Selatan",
-    districtCode: "",
     village: "Sailolof",
     villageCode: "",
     postalCode: "98436"
@@ -2264,28 +1142,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     district: "Salawati Selatan",
     districtCode: "",
     village: "Masmaspop",
-    villageCode: "",
-    postalCode: "98436"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Salawati Selatan",
-    districtCode: "",
-    village: "Masmaspop",
-    villageCode: "",
-    postalCode: "98436"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Salawati Tengah",
-    districtCode: "",
-    village: "Waiman",
     villageCode: "",
     postalCode: "98436"
   },
@@ -2318,40 +1174,7 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9171",
     district: "Salawati Tengah",
     districtCode: "",
-    village: "Waliam",
-    villageCode: "",
-    postalCode: "98436"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Salawati Tengah",
-    districtCode: "",
     village: "Sakapul",
-    villageCode: "",
-    postalCode: "98436"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Salawati Tengah",
-    districtCode: "",
-    village: "Sakapul",
-    villageCode: "",
-    postalCode: "98436"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Salawati Tengah",
-    districtCode: "",
-    village: "Durian Kari",
     villageCode: "",
     postalCode: "98436"
   },
@@ -2384,40 +1207,7 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9171",
     district: "Salawati Tengah",
     districtCode: "",
-    village: "Waibin",
-    villageCode: "",
-    postalCode: "98436"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Salawati Tengah",
-    districtCode: "",
     village: "Manfanim",
-    villageCode: "",
-    postalCode: "98436"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Salawati Tengah",
-    districtCode: "",
-    village: "Manfanim",
-    villageCode: "",
-    postalCode: "98436"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Salawati Tengah",
-    districtCode: "",
-    village: "Meyaup",
     villageCode: "",
     postalCode: "98436"
   },
@@ -2450,40 +1240,7 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9171",
     district: "Salawati Tengah",
     districtCode: "",
-    village: "Maralol",
-    villageCode: "",
-    postalCode: "98436"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Salawati Tengah",
-    districtCode: "",
     village: "Batbiro",
-    villageCode: "",
-    postalCode: "98436"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Salawati Tengah",
-    districtCode: "",
-    village: "Batbiro",
-    villageCode: "",
-    postalCode: "98436"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Salawati Tengah",
-    districtCode: "",
-    village: "Sailen",
     villageCode: "",
     postalCode: "98436"
   },
@@ -2516,40 +1273,7 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9171",
     district: "Seget",
     districtCode: "",
-    village: "Klayas",
-    villageCode: "",
-    postalCode: "98437"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Seget",
-    districtCode: "",
     village: "Wewenagu",
-    villageCode: "",
-    postalCode: "98437"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Seget",
-    districtCode: "",
-    village: "Wewenagu",
-    villageCode: "",
-    postalCode: "98437"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Seget",
-    districtCode: "",
-    village: "Wayenkede",
     villageCode: "",
     postalCode: "98437"
   },
@@ -2582,40 +1306,7 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9171",
     district: "Seget",
     districtCode: "",
-    village: "Mobi",
-    villageCode: "",
-    postalCode: "98437"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Seget",
-    districtCode: "",
     village: "Seget",
-    villageCode: "",
-    postalCode: "98437"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Seget",
-    districtCode: "",
-    village: "Seget",
-    villageCode: "",
-    postalCode: "98437"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Seget",
-    districtCode: "",
-    village: "Kasimle",
     villageCode: "",
     postalCode: "98437"
   },
@@ -2648,40 +1339,7 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9171",
     district: "Seget",
     districtCode: "",
-    village: "Wasingsan",
-    villageCode: "",
-    postalCode: "98437"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Seget",
-    districtCode: "",
     village: "Pulau Kasim",
-    villageCode: "",
-    postalCode: "98437"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Seget",
-    districtCode: "",
-    village: "Pulau Kasim",
-    villageCode: "",
-    postalCode: "98437"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Seget",
-    districtCode: "",
-    village: "Malaban",
     villageCode: "",
     postalCode: "98437"
   },
@@ -2714,40 +1372,7 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9171",
     district: "Konhir",
     districtCode: "",
-    village: "Klafelem",
-    villageCode: "",
-    postalCode: "98438"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Konhir",
-    districtCode: "",
     village: "Klarin",
-    villageCode: "",
-    postalCode: "98438"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Konhir",
-    districtCode: "",
-    village: "Klarin",
-    villageCode: "",
-    postalCode: "98438"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Konhir",
-    districtCode: "",
-    village: "Klafyo",
     villageCode: "",
     postalCode: "98438"
   },
@@ -2780,40 +1405,7 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9171",
     district: "Konhir",
     districtCode: "",
-    village: "Mlaron",
-    villageCode: "",
-    postalCode: "98438"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Konhir",
-    districtCode: "",
     village: "Klaflum",
-    villageCode: "",
-    postalCode: "98438"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Konhir",
-    districtCode: "",
-    village: "Klaflum",
-    villageCode: "",
-    postalCode: "98438"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Konhir",
-    districtCode: "",
-    village: "Mlasiwor",
     villageCode: "",
     postalCode: "98438"
   },
@@ -2846,40 +1438,7 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9171",
     district: "Segun",
     districtCode: "",
-    village: "Malamas",
-    villageCode: "",
-    postalCode: "98438"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Segun",
-    districtCode: "",
     village: "Majemau",
-    villageCode: "",
-    postalCode: "98438"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Segun",
-    districtCode: "",
-    village: "Majemau",
-    villageCode: "",
-    postalCode: "98438"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Segun",
-    districtCode: "",
-    village: "Klajaring",
     villageCode: "",
     postalCode: "98438"
   },
@@ -2912,40 +1471,7 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9171",
     district: "Segun",
     districtCode: "",
-    village: "Waimlabat",
-    villageCode: "",
-    postalCode: "98438"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Segun",
-    districtCode: "",
     village: "Klasegun",
-    villageCode: "",
-    postalCode: "98438"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Segun",
-    districtCode: "",
-    village: "Klasegun",
-    villageCode: "",
-    postalCode: "98438"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Segun",
-    districtCode: "",
-    village: "Waimon",
     villageCode: "",
     postalCode: "98438"
   },
@@ -2978,40 +1504,7 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9171",
     district: "Segun",
     districtCode: "",
-    village: "Gisim",
-    villageCode: "",
-    postalCode: "98438"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Segun",
-    districtCode: "",
     village: "Segun",
-    villageCode: "",
-    postalCode: "98438"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Segun",
-    districtCode: "",
-    village: "Segun",
-    villageCode: "",
-    postalCode: "98438"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Segun",
-    districtCode: "",
-    village: "Klasin",
     villageCode: "",
     postalCode: "98438"
   },
@@ -3044,40 +1537,7 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9171",
     district: "Klamono",
     districtCode: "",
-    village: "Klamono",
-    villageCode: "",
-    postalCode: "98439"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Klamono",
-    districtCode: "",
     village: "Wonosari",
-    villageCode: "",
-    postalCode: "98439"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Klamono",
-    districtCode: "",
-    village: "Wonosari",
-    villageCode: "",
-    postalCode: "98439"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Klamono",
-    districtCode: "",
-    village: "Klasafet",
     villageCode: "",
     postalCode: "98439"
   },
@@ -3110,40 +1570,7 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9171",
     district: "Klamono",
     districtCode: "",
-    village: "Posa",
-    villageCode: "",
-    postalCode: "98439"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Klamono",
-    districtCode: "",
     village: "Mlasmily",
-    villageCode: "",
-    postalCode: "98439"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Klamono",
-    districtCode: "",
-    village: "Mlasmily",
-    villageCode: "",
-    postalCode: "98439"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Klamono",
-    districtCode: "",
-    village: "Klawana",
     villageCode: "",
     postalCode: "98439"
   },
@@ -3176,28 +1603,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9171",
     district: "Klamono",
     districtCode: "",
-    village: "Gisim Darat",
-    villageCode: "",
-    postalCode: "98439"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Klamono",
-    districtCode: "",
-    village: "Mlais",
-    villageCode: "",
-    postalCode: "98439"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Klamono",
-    districtCode: "",
     village: "Mlais",
     villageCode: "",
     postalCode: "98439"
@@ -3210,28 +1615,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     district: "Klamono",
     districtCode: "",
     village: "Klamano",
-    villageCode: "",
-    postalCode: "98439"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Klamono",
-    districtCode: "",
-    village: "Klamano",
-    villageCode: "",
-    postalCode: "98439"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Klamono",
-    districtCode: "",
-    village: "Wariayau",
     villageCode: "",
     postalCode: "98439"
   },
@@ -3264,40 +1647,7 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9171",
     district: "Malabotom",
     districtCode: "",
-    village: "Klasman",
-    villageCode: "",
-    postalCode: "98439"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Malabotom",
-    districtCode: "",
     village: "Marik May",
-    villageCode: "",
-    postalCode: "98439"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Malabotom",
-    districtCode: "",
-    village: "Marik May",
-    villageCode: "",
-    postalCode: "98439"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Malabotom",
-    districtCode: "",
-    village: "Klamugun",
     villageCode: "",
     postalCode: "98439"
   },
@@ -3330,40 +1680,7 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9171",
     district: "Malabotom",
     districtCode: "",
-    village: "Klagulu",
-    villageCode: "",
-    postalCode: "98439"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Malabotom",
-    districtCode: "",
     village: "Malasigit",
-    villageCode: "",
-    postalCode: "98439"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Malabotom",
-    districtCode: "",
-    village: "Malasigit",
-    villageCode: "",
-    postalCode: "98439"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Malabotom",
-    districtCode: "",
-    village: "Malajapa",
     villageCode: "",
     postalCode: "98439"
   },
@@ -3396,40 +1713,7 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9171",
     district: "Malabotom",
     districtCode: "",
-    village: "Magatarum",
-    villageCode: "",
-    postalCode: "98439"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Malabotom",
-    districtCode: "",
     village: "Malamoja",
-    villageCode: "",
-    postalCode: "98439"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Malabotom",
-    districtCode: "",
-    village: "Malamoja",
-    villageCode: "",
-    postalCode: "98439"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Malabotom",
-    districtCode: "",
-    village: "Tanah Tinggi",
     villageCode: "",
     postalCode: "98439"
   },
@@ -3452,28 +1736,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     district: "Konhir",
     districtCode: "",
     village: "Wisbiak",
-    villageCode: "",
-    postalCode: "98441"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Konhir",
-    districtCode: "",
-    village: "Wisbiak",
-    villageCode: "",
-    postalCode: "98441"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Beraur",
-    districtCode: "",
-    village: "Klamak",
     villageCode: "",
     postalCode: "98441"
   },
@@ -3506,40 +1768,7 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9171",
     district: "Beraur",
     districtCode: "",
-    village: "Sorain",
-    villageCode: "",
-    postalCode: "98441"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Beraur",
-    districtCode: "",
     village: "Kaas",
-    villageCode: "",
-    postalCode: "98441"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Beraur",
-    districtCode: "",
-    village: "Kaas",
-    villageCode: "",
-    postalCode: "98441"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Beraur",
-    districtCode: "",
-    village: "Serselion Baru",
     villageCode: "",
     postalCode: "98441"
   },
@@ -3572,40 +1801,7 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9171",
     district: "Beraur",
     districtCode: "",
-    village: "Kmafo",
-    villageCode: "",
-    postalCode: "98441"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Beraur",
-    districtCode: "",
     village: "Armoin",
-    villageCode: "",
-    postalCode: "98441"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Beraur",
-    districtCode: "",
-    village: "Armoin",
-    villageCode: "",
-    postalCode: "98441"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Beraur",
-    districtCode: "",
-    village: "Wanurian",
     villageCode: "",
     postalCode: "98441"
   },
@@ -3638,40 +1834,7 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9171",
     district: "Beraur",
     districtCode: "",
-    village: "Klarion",
-    villageCode: "",
-    postalCode: "98441"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Beraur",
-    districtCode: "",
     village: "Wensi",
-    villageCode: "",
-    postalCode: "98441"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Beraur",
-    districtCode: "",
-    village: "Wensi",
-    villageCode: "",
-    postalCode: "98441"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Beraur",
-    districtCode: "",
-    village: "Serselion",
     villageCode: "",
     postalCode: "98441"
   },
@@ -3704,40 +1867,7 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9171",
     district: "Beraur",
     districtCode: "",
-    village: "Klabra",
-    villageCode: "",
-    postalCode: "98441"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Beraur",
-    districtCode: "",
     village: "Mumpi",
-    villageCode: "",
-    postalCode: "98441"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Beraur",
-    districtCode: "",
-    village: "Mumpi",
-    villageCode: "",
-    postalCode: "98441"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Beraur",
-    districtCode: "",
-    village: "Midlal",
     villageCode: "",
     postalCode: "98441"
   },
@@ -3770,40 +1900,7 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9171",
     district: "Bagun",
     districtCode: "",
-    village: "Klawom",
-    villageCode: "",
-    postalCode: "98441"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Bagun",
-    districtCode: "",
     village: "Bagun",
-    villageCode: "",
-    postalCode: "98441"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Bagun",
-    districtCode: "",
-    village: "Bagun",
-    villageCode: "",
-    postalCode: "98441"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Bagun",
-    districtCode: "",
-    village: "Bratmawe",
     villageCode: "",
     postalCode: "98441"
   },
@@ -3836,40 +1933,7 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9171",
     district: "Bagun",
     districtCode: "",
-    village: "Klamomis",
-    villageCode: "",
-    postalCode: "98441"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Bagun",
-    districtCode: "",
     village: "Klawon",
-    villageCode: "",
-    postalCode: "98441"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Bagun",
-    districtCode: "",
-    village: "Klawon",
-    villageCode: "",
-    postalCode: "98441"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Bagun",
-    districtCode: "",
-    village: "Klakwonrit",
     villageCode: "",
     postalCode: "98441"
   },
@@ -3902,40 +1966,7 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9171",
     district: "Bagun",
     districtCode: "",
-    village: "Mlamli",
-    villageCode: "",
-    postalCode: "98441"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Bagun",
-    districtCode: "",
     village: "Mode",
-    villageCode: "",
-    postalCode: "98441"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Bagun",
-    districtCode: "",
-    village: "Mode",
-    villageCode: "",
-    postalCode: "98441"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Bagun",
-    districtCode: "",
-    village: "Disfra",
     villageCode: "",
     postalCode: "98441"
   },
@@ -3968,40 +1999,7 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9171",
     district: "Klabot",
     districtCode: "",
-    village: "Mlat",
-    villageCode: "",
-    postalCode: "98442"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Klabot",
-    districtCode: "",
     village: "Mlawes",
-    villageCode: "",
-    postalCode: "98442"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Klabot",
-    districtCode: "",
-    village: "Mlawes",
-    villageCode: "",
-    postalCode: "98442"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Klabot",
-    districtCode: "",
-    village: "Warkti",
     villageCode: "",
     postalCode: "98442"
   },
@@ -4034,40 +2032,7 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9171",
     district: "Klabot",
     districtCode: "",
-    village: "Klabot",
-    villageCode: "",
-    postalCode: "98442"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Klabot",
-    districtCode: "",
     village: "Kanolo",
-    villageCode: "",
-    postalCode: "98442"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Klabot",
-    districtCode: "",
-    village: "Kanolo",
-    villageCode: "",
-    postalCode: "98442"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Klabot",
-    districtCode: "",
-    village: "Mlasfa",
     villageCode: "",
     postalCode: "98442"
   },
@@ -4100,28 +2065,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9171",
     district: "Klabot",
     districtCode: "",
-    village: "Indiwi",
-    villageCode: "",
-    postalCode: "98442"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Klabot",
-    districtCode: "",
-    village: "Somir",
-    villageCode: "",
-    postalCode: "98442"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Klabot",
-    districtCode: "",
     village: "Somir",
     villageCode: "",
     postalCode: "98442"
@@ -4144,40 +2087,7 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9171",
     district: "Buk",
     districtCode: "",
-    village: "Mimpe",
-    villageCode: "",
-    postalCode: "98442"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Buk",
-    districtCode: "",
     village: "Klahen",
-    villageCode: "",
-    postalCode: "98442"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Buk",
-    districtCode: "",
-    village: "Klahen",
-    villageCode: "",
-    postalCode: "98442"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Klasafet",
-    districtCode: "",
-    village: "Klamono Oil",
     villageCode: "",
     postalCode: "98442"
   },
@@ -4210,40 +2120,7 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9171",
     district: "Buk",
     districtCode: "",
-    village: "Buk",
-    villageCode: "",
-    postalCode: "98442"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Buk",
-    districtCode: "",
     village: "Klais",
-    villageCode: "",
-    postalCode: "98442"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Buk",
-    districtCode: "",
-    village: "Klais",
-    villageCode: "",
-    postalCode: "98442"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Buk",
-    districtCode: "",
-    village: "Moos",
     villageCode: "",
     postalCode: "98442"
   },
@@ -4266,28 +2143,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     district: "Klasafet",
     districtCode: "",
     village: "Maladuk",
-    villageCode: "",
-    postalCode: "98442"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Klasafet",
-    districtCode: "",
-    village: "Maladuk",
-    villageCode: "",
-    postalCode: "98442"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Buk",
-    districtCode: "",
-    village: "Tiklen",
     villageCode: "",
     postalCode: "98442"
   },
@@ -4320,28 +2175,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9171",
     district: "Klasafet",
     districtCode: "",
-    village: "Bar Ros",
-    villageCode: "",
-    postalCode: "98442"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Klasafet",
-    districtCode: "",
-    village: "Klawili Be",
-    villageCode: "",
-    postalCode: "98442"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Klasafet",
-    districtCode: "",
     village: "Klawili Be",
     villageCode: "",
     postalCode: "98442"
@@ -4354,28 +2187,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     district: "Buk",
     districtCode: "",
     village: "Mlakhan",
-    villageCode: "",
-    postalCode: "98442"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Buk",
-    districtCode: "",
-    village: "Mlakhan",
-    villageCode: "",
-    postalCode: "98442"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Klasafet",
-    districtCode: "",
-    village: "Pusu Tiligum",
     villageCode: "",
     postalCode: "98442"
   },
@@ -4408,40 +2219,7 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9171",
     district: "Hobard",
     districtCode: "",
-    village: "Sfadon",
-    villageCode: "",
-    postalCode: "98443"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Hobard",
-    districtCode: "",
     village: "Hobard",
-    villageCode: "",
-    postalCode: "98443"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Hobard",
-    districtCode: "",
-    village: "Hobard",
-    villageCode: "",
-    postalCode: "98443"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Hobard",
-    districtCode: "",
-    village: "Klazelth",
     villageCode: "",
     postalCode: "98443"
   },
@@ -4474,28 +2252,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9171",
     district: "Hobard",
     districtCode: "",
-    village: "Dais",
-    villageCode: "",
-    postalCode: "98443"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Hobard",
-    districtCode: "",
-    village: "Floyi",
-    villageCode: "",
-    postalCode: "98443"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Hobard",
-    districtCode: "",
     village: "Floyi",
     villageCode: "",
     postalCode: "98443"
@@ -4508,28 +2264,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     district: "Hobard",
     districtCode: "",
     village: "Brianlo",
-    villageCode: "",
-    postalCode: "98443"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Hobard",
-    districtCode: "",
-    village: "Brianlo",
-    villageCode: "",
-    postalCode: "98443"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Hobard",
-    districtCode: "",
-    village: "Selol",
     villageCode: "",
     postalCode: "98443"
   },
@@ -4562,40 +2296,7 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9171",
     district: "Konhir",
     districtCode: "",
-    village: "Klamne",
-    villageCode: "",
-    postalCode: "98443"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Konhir",
-    districtCode: "",
     village: "Tarsa",
-    villageCode: "",
-    postalCode: "98443"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Konhir",
-    districtCode: "",
-    village: "Tarsa",
-    villageCode: "",
-    postalCode: "98443"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Klawak",
-    districtCode: "",
-    village: "Sas",
     villageCode: "",
     postalCode: "98443"
   },
@@ -4628,40 +2329,7 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9171",
     district: "Klawak",
     districtCode: "",
-    village: "Wilty",
-    villageCode: "",
-    postalCode: "98443"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Klawak",
-    districtCode: "",
     village: "Klasawon",
-    villageCode: "",
-    postalCode: "98443"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Klawak",
-    districtCode: "",
-    village: "Klasawon",
-    villageCode: "",
-    postalCode: "98443"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Klawak",
-    districtCode: "",
-    village: "Betwaft",
     villageCode: "",
     postalCode: "98443"
   },
@@ -4694,40 +2362,7 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9171",
     district: "Klawak",
     districtCode: "",
-    village: "Byaklokfle",
-    villageCode: "",
-    postalCode: "98443"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Klawak",
-    districtCode: "",
     village: "Samolslo",
-    villageCode: "",
-    postalCode: "98443"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Klawak",
-    districtCode: "",
-    village: "Samolslo",
-    villageCode: "",
-    postalCode: "98443"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Klawak",
-    districtCode: "",
-    village: "Kmasen",
     villageCode: "",
     postalCode: "98443"
   },
@@ -4760,28 +2395,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9171",
     district: "Klawak",
     districtCode: "",
-    village: "Yurkaden",
-    villageCode: "",
-    postalCode: "98443"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Klawak",
-    districtCode: "",
-    village: "Cokif",
-    villageCode: "",
-    postalCode: "98443"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Klawak",
-    districtCode: "",
     village: "Cokif",
     villageCode: "",
     postalCode: "98443"
@@ -4794,28 +2407,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     district: "Klawak",
     districtCode: "",
     village: "Mlawen",
-    villageCode: "",
-    postalCode: "98443"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Klawak",
-    districtCode: "",
-    village: "Mlawen",
-    villageCode: "",
-    postalCode: "98443"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Klawak",
-    districtCode: "",
-    village: "Tbotjin",
     villageCode: "",
     postalCode: "98443"
   },
@@ -4848,40 +2439,7 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9171",
     district: "Wemak",
     districtCode: "",
-    village: "Woloin",
-    villageCode: "",
-    postalCode: "98444"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Wemak",
-    districtCode: "",
     village: "Kamlin",
-    villageCode: "",
-    postalCode: "98444"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Wemak",
-    districtCode: "",
-    village: "Kamlin",
-    villageCode: "",
-    postalCode: "98444"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Wemak",
-    districtCode: "",
-    village: "Klawren",
     villageCode: "",
     postalCode: "98444"
   },
@@ -4914,40 +2472,7 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9171",
     district: "Wemak",
     districtCode: "",
-    village: "Klalin Mos",
-    villageCode: "",
-    postalCode: "98444"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Wemak",
-    districtCode: "",
     village: "Kwari",
-    villageCode: "",
-    postalCode: "98444"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Wemak",
-    districtCode: "",
-    village: "Kwari",
-    villageCode: "",
-    postalCode: "98444"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Wemak",
-    districtCode: "",
-    village: "Saluk",
     villageCode: "",
     postalCode: "98444"
   },
@@ -4980,40 +2505,7 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9171",
     district: "Sayosa Timur",
     districtCode: "",
-    village: "Kladuk",
-    villageCode: "",
-    postalCode: "98444"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Sayosa Timur",
-    districtCode: "",
     village: "Sailala",
-    villageCode: "",
-    postalCode: "98444"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Sayosa Timur",
-    districtCode: "",
-    village: "Sailala",
-    villageCode: "",
-    postalCode: "98444"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Sayosa Timur",
-    districtCode: "",
-    village: "Klawana",
     villageCode: "",
     postalCode: "98444"
   },
@@ -5046,40 +2538,7 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9171",
     district: "Sayosa Timur",
     districtCode: "",
-    village: "Klalwok",
-    villageCode: "",
-    postalCode: "98444"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Sayosa Timur",
-    districtCode: "",
     village: "Klakak",
-    villageCode: "",
-    postalCode: "98444"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Sayosa Timur",
-    districtCode: "",
-    village: "Klakak",
-    villageCode: "",
-    postalCode: "98444"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Sayosa Timur",
-    districtCode: "",
-    village: "Klawon",
     villageCode: "",
     postalCode: "98444"
   },
@@ -5112,40 +2571,7 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9171",
     district: "Sayosa",
     districtCode: "",
-    village: "Sayosa",
-    villageCode: "",
-    postalCode: "98444"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Sayosa",
-    districtCode: "",
     village: "Maladofok",
-    villageCode: "",
-    postalCode: "98444"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Sayosa",
-    districtCode: "",
-    village: "Maladofok",
-    villageCode: "",
-    postalCode: "98444"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Sayosa",
-    districtCode: "",
-    village: "Klamintu",
     villageCode: "",
     postalCode: "98444"
   },
@@ -5178,40 +2604,7 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9171",
     district: "Sayosa",
     districtCode: "",
-    village: "Yorbes",
-    villageCode: "",
-    postalCode: "98444"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Sayosa",
-    districtCode: "",
     village: "Klain",
-    villageCode: "",
-    postalCode: "98444"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Sayosa",
-    districtCode: "",
-    village: "Klain",
-    villageCode: "",
-    postalCode: "98444"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Sayosa",
-    districtCode: "",
-    village: "Samusa",
     villageCode: "",
     postalCode: "98444"
   },
@@ -5244,40 +2637,7 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9171",
     district: "Makbon",
     districtCode: "",
-    village: "Sawatuk",
-    villageCode: "",
-    postalCode: "98445"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Makbon",
-    districtCode: "",
     village: "Batu Lubang Pantai",
-    villageCode: "",
-    postalCode: "98445"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Makbon",
-    districtCode: "",
-    village: "Batu Lubang Pantai",
-    villageCode: "",
-    postalCode: "98445"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Makbon",
-    districtCode: "",
-    village: "Klasigi",
     villageCode: "",
     postalCode: "98445"
   },
@@ -5310,40 +2670,7 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9171",
     district: "Makbon",
     districtCode: "",
-    village: "Malagasih",
-    villageCode: "",
-    postalCode: "98445"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Makbon",
-    districtCode: "",
     village: "Klasimigik",
-    villageCode: "",
-    postalCode: "98445"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Makbon",
-    districtCode: "",
-    village: "Klasimigik",
-    villageCode: "",
-    postalCode: "98445"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Makbon",
-    districtCode: "",
-    village: "Asbaken",
     villageCode: "",
     postalCode: "98445"
   },
@@ -5376,40 +2703,7 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9171",
     district: "Makbon",
     districtCode: "",
-    village: "Batu Lubang",
-    villageCode: "",
-    postalCode: "98445"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Makbon",
-    districtCode: "",
     village: "Makbon",
-    villageCode: "",
-    postalCode: "98445"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Makbon",
-    districtCode: "",
-    village: "Makbon",
-    villageCode: "",
-    postalCode: "98445"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Makbon",
-    districtCode: "",
-    village: "Suatolo",
     villageCode: "",
     postalCode: "98445"
   },
@@ -5442,40 +2736,7 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9171",
     district: "Makbon",
     districtCode: "",
-    village: "Malaumkarta",
-    villageCode: "",
-    postalCode: "98445"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Makbon",
-    districtCode: "",
     village: "Kwadas",
-    villageCode: "",
-    postalCode: "98445"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Makbon",
-    districtCode: "",
-    village: "Kwadas",
-    villageCode: "",
-    postalCode: "98445"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Makbon",
-    districtCode: "",
-    village: "Teluk Dore",
     villageCode: "",
     postalCode: "98445"
   },
@@ -5508,40 +2769,7 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9171",
     district: "Makbon",
     districtCode: "",
-    village: "Klagulus",
-    villageCode: "",
-    postalCode: "98445"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Makbon",
-    districtCode: "",
     village: "Bainkete",
-    villageCode: "",
-    postalCode: "98445"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Makbon",
-    districtCode: "",
-    village: "Bainkete",
-    villageCode: "",
-    postalCode: "98445"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Makbon",
-    districtCode: "",
-    village: "Mibi",
     villageCode: "",
     postalCode: "98445"
   },
@@ -5574,40 +2802,7 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9171",
     district: "Klayili",
     districtCode: "",
-    village: "Malakobutu",
-    villageCode: "",
-    postalCode: "98446"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Klayili",
-    districtCode: "",
     village: "Kwakeik",
-    villageCode: "",
-    postalCode: "98446"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Klayili",
-    districtCode: "",
-    village: "Kwakeik",
-    villageCode: "",
-    postalCode: "98446"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Klayili",
-    districtCode: "",
-    village: "Klayili",
     villageCode: "",
     postalCode: "98446"
   },
@@ -5640,40 +2835,7 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9171",
     district: "Klayili",
     districtCode: "",
-    village: "Klatomok",
-    villageCode: "",
-    postalCode: "98446"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Klayili",
-    districtCode: "",
     village: "Malalilis",
-    villageCode: "",
-    postalCode: "98446"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Klayili",
-    districtCode: "",
-    village: "Malalilis",
-    villageCode: "",
-    postalCode: "98446"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Klayili",
-    districtCode: "",
-    village: "Klawuluh",
     villageCode: "",
     postalCode: "98446"
   },
@@ -5706,40 +2868,7 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9171",
     district: "Klayili",
     districtCode: "",
-    village: "Klasowoh",
-    villageCode: "",
-    postalCode: "98446"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Klayili",
-    districtCode: "",
     village: "Mlawer",
-    villageCode: "",
-    postalCode: "98446"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Klayili",
-    districtCode: "",
-    village: "Mlawer",
-    villageCode: "",
-    postalCode: "98446"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Sorong",
-    districtCode: "9171022",
-    village: "Maibo",
     villageCode: "",
     postalCode: "98446"
   },
@@ -5772,40 +2901,7 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9171",
     district: "Sorong",
     districtCode: "9171022",
-    village: "Kabanmolo",
-    villageCode: "",
-    postalCode: "98446"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Sorong",
-    districtCode: "9171022",
     village: "Klatok",
-    villageCode: "",
-    postalCode: "98446"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Sorong",
-    districtCode: "9171022",
-    village: "Klatok",
-    villageCode: "",
-    postalCode: "98446"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Sorong",
-    districtCode: "9171022",
-    village: "Malaflon",
     villageCode: "",
     postalCode: "98446"
   },
@@ -5838,40 +2934,7 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9171",
     district: "Sunook",
     districtCode: "",
-    village: "Suus",
-    villageCode: "",
-    postalCode: "98448"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Sunook",
-    districtCode: "",
     village: "Sulya",
-    villageCode: "",
-    postalCode: "98448"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Sunook",
-    districtCode: "",
-    village: "Sulya",
-    villageCode: "",
-    postalCode: "98448"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Sunook",
-    districtCode: "",
-    village: "Masos",
     villageCode: "",
     postalCode: "98448"
   },
@@ -5904,28 +2967,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9171",
     district: "Sunook",
     districtCode: "",
-    village: "Bolwi",
-    villageCode: "",
-    postalCode: "98448"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Sunook",
-    districtCode: "",
-    village: "Ketawas",
-    villageCode: "",
-    postalCode: "98448"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Sunook",
-    districtCode: "",
     village: "Ketawas",
     villageCode: "",
     postalCode: "98448"
@@ -5938,28 +2979,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     district: "Sunook",
     districtCode: "",
     village: "Dasri",
-    villageCode: "",
-    postalCode: "98448"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Sunook",
-    districtCode: "",
-    village: "Dasri",
-    villageCode: "",
-    postalCode: "98448"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Sunook",
-    districtCode: "",
-    village: "Warbo",
     villageCode: "",
     postalCode: "98448"
   },
@@ -5992,40 +3011,7 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9171",
     district: "Maudus",
     districtCode: "",
-    village: "Klaos",
-    villageCode: "",
-    postalCode: "98448"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Maudus",
-    districtCode: "",
     village: "Klagen",
-    villageCode: "",
-    postalCode: "98448"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Maudus",
-    districtCode: "",
-    village: "Klagen",
-    villageCode: "",
-    postalCode: "98448"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Maudus",
-    districtCode: "",
-    village: "Suluh",
     villageCode: "",
     postalCode: "98448"
   },
@@ -6058,40 +3044,7 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9171",
     district: "Maudus",
     districtCode: "",
-    village: "Safdesa",
-    villageCode: "",
-    postalCode: "98448"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Maudus",
-    districtCode: "",
     village: "Kamuyar",
-    villageCode: "",
-    postalCode: "98448"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Maudus",
-    districtCode: "",
-    village: "Kamuyar",
-    villageCode: "",
-    postalCode: "98448"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Maudus",
-    districtCode: "",
-    village: "Luwelala",
     villageCode: "",
     postalCode: "98448"
   },
@@ -6124,40 +3077,7 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9171",
     district: "Maudus",
     districtCode: "",
-    village: "Klatim",
-    villageCode: "",
-    postalCode: "98448"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Maudus",
-    districtCode: "",
     village: "Bosi",
-    villageCode: "",
-    postalCode: "98448"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Maudus",
-    districtCode: "",
-    village: "Bosi",
-    villageCode: "",
-    postalCode: "98448"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Maudus",
-    districtCode: "",
-    village: "Klaka",
     villageCode: "",
     postalCode: "98448"
   },
@@ -6190,40 +3110,7 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9171",
     district: "Saengkeduk",
     districtCode: "",
-    village: "Saengkeduk",
-    villageCode: "",
-    postalCode: "98449"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Saengkeduk",
-    districtCode: "",
     village: "Klamede",
-    villageCode: "",
-    postalCode: "98449"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Saengkeduk",
-    districtCode: "",
-    village: "Klamede",
-    villageCode: "",
-    postalCode: "98449"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Saengkeduk",
-    districtCode: "",
-    village: "Klagele",
     villageCode: "",
     postalCode: "98449"
   },
@@ -6256,40 +3143,7 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9171",
     district: "Saengkeduk",
     districtCode: "",
-    village: "Selekobo",
-    villageCode: "",
-    postalCode: "98449"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Saengkeduk",
-    districtCode: "",
     village: "Suye",
-    villageCode: "",
-    postalCode: "98449"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Saengkeduk",
-    districtCode: "",
-    village: "Suye",
-    villageCode: "",
-    postalCode: "98449"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Saengkeduk",
-    districtCode: "",
-    village: "Sambatie",
     villageCode: "",
     postalCode: "98449"
   },
@@ -6322,40 +3176,7 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9171",
     district: "Klaso",
     districtCode: "",
-    village: "Malawhili",
-    villageCode: "",
-    postalCode: "98449"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Klaso",
-    districtCode: "",
     village: "Miskum",
-    villageCode: "",
-    postalCode: "98449"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Klaso",
-    districtCode: "",
-    village: "Miskum",
-    villageCode: "",
-    postalCode: "98449"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Klaso",
-    districtCode: "",
-    village: "Klasou",
     villageCode: "",
     postalCode: "98449"
   },
@@ -6388,28 +3209,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9171",
     district: "Klaso",
     districtCode: "",
-    village: "Siwis",
-    villageCode: "",
-    postalCode: "98449"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Klaso",
-    districtCode: "",
-    village: "Klamugun",
-    villageCode: "",
-    postalCode: "98449"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Klaso",
-    districtCode: "",
     village: "Klamugun",
     villageCode: "",
     postalCode: "98449"
@@ -6422,28 +3221,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     district: "Klaso",
     districtCode: "",
     village: "Klalik",
-    villageCode: "",
-    postalCode: "98449"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Klaso",
-    districtCode: "",
-    village: "Klalik",
-    villageCode: "",
-    postalCode: "98449"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG",
-    cityCode: "9171",
-    district: "Klaso",
-    districtCode: "",
-    village: "Sbaga",
     villageCode: "",
     postalCode: "98449"
   },
@@ -6476,41 +3253,8 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9106",
     district: "Seremuk",
     districtCode: "9106071",
-    village: "Klaogin",
-    villageCode: "",
-    postalCode: "98451"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG SELATAN",
-    cityCode: "9106",
-    district: "Seremuk",
-    districtCode: "9106071",
     village: "Tofot",
     villageCode: "9106071008",
-    postalCode: "98451"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG SELATAN",
-    cityCode: "9106",
-    district: "Seremuk",
-    districtCode: "9106071",
-    village: "Tofot",
-    villageCode: "9106071008",
-    postalCode: "98451"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG SELATAN",
-    cityCode: "9106",
-    district: "Seremuk",
-    districtCode: "9106071",
-    village: "Kakas",
-    villageCode: "9106071017",
     postalCode: "98451"
   },
   {
@@ -6542,41 +3286,8 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9106",
     district: "Seremuk",
     districtCode: "9106071",
-    village: "Sbir",
-    villageCode: "9106071015",
-    postalCode: "98451"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG SELATAN",
-    cityCode: "9106",
-    district: "Seremuk",
-    districtCode: "9106071",
     village: "Srer",
     villageCode: "",
-    postalCode: "98451"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG SELATAN",
-    cityCode: "9106",
-    district: "Seremuk",
-    districtCode: "9106071",
-    village: "Srer",
-    villageCode: "",
-    postalCode: "98451"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG SELATAN",
-    cityCode: "9106",
-    district: "Seremuk",
-    districtCode: "9106071",
-    village: "Kamaro",
-    villageCode: "9106071016",
     postalCode: "98451"
   },
   {
@@ -6608,28 +3319,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9106",
     district: "Seremuk",
     districtCode: "9106071",
-    village: "Woloin",
-    villageCode: "9106071006",
-    postalCode: "98451"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG SELATAN",
-    cityCode: "9106",
-    district: "Seremuk",
-    districtCode: "9106071",
-    village: "Haha",
-    villageCode: "9106071007",
-    postalCode: "98451"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG SELATAN",
-    cityCode: "9106",
-    district: "Seremuk",
-    districtCode: "9106071",
     village: "Haha",
     villageCode: "9106071007",
     postalCode: "98451"
@@ -6652,40 +3341,7 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9106",
     district: "Wayer",
     districtCode: "9106072",
-    village: "Waigo",
-    villageCode: "9106072003",
-    postalCode: "98452"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG SELATAN",
-    cityCode: "9106",
-    district: "Wayer",
-    districtCode: "9106072",
     village: "Sungguer",
-    villageCode: "",
-    postalCode: "98452"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG SELATAN",
-    cityCode: "9106",
-    district: "Wayer",
-    districtCode: "9106072",
-    village: "Sungguer",
-    villageCode: "",
-    postalCode: "98452"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG SELATAN",
-    cityCode: "9106",
-    district: "Wayer",
-    districtCode: "9106072",
-    village: "Bagaraga",
     villageCode: "",
     postalCode: "98452"
   },
@@ -6718,41 +3374,8 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9106",
     district: "Wayer",
     districtCode: "9106072",
-    village: "Unggi",
-    villageCode: "9106072008",
-    postalCode: "98452"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG SELATAN",
-    cityCode: "9106",
-    district: "Wayer",
-    districtCode: "9106072",
     village: "Wayer",
     villageCode: "9106072007",
-    postalCode: "98452"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG SELATAN",
-    cityCode: "9106",
-    district: "Wayer",
-    districtCode: "9106072",
-    village: "Wayer",
-    villageCode: "9106072007",
-    postalCode: "98452"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG SELATAN",
-    cityCode: "9106",
-    district: "Wayer",
-    districtCode: "9106072",
-    village: "Sesor",
-    villageCode: "9106072006",
     postalCode: "98452"
   },
   {
@@ -6784,28 +3407,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9106",
     district: "Wayer",
     districtCode: "9106072",
-    village: "Wardik",
-    villageCode: "9106072004",
-    postalCode: "98452"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG SELATAN",
-    cityCode: "9106",
-    district: "Wayer",
-    districtCode: "9106072",
-    village: "Boldon",
-    villageCode: "9106072005",
-    postalCode: "98452"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG SELATAN",
-    cityCode: "9106",
-    district: "Wayer",
-    districtCode: "9106072",
     village: "Boldon",
     villageCode: "9106072005",
     postalCode: "98452"
@@ -6819,28 +3420,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     districtCode: "9106074",
     village: "Kenaya",
     villageCode: "9106074009",
-    postalCode: "98453"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG SELATAN",
-    cityCode: "9106",
-    district: "Saifi",
-    districtCode: "9106074",
-    village: "Kenaya",
-    villageCode: "9106074009",
-    postalCode: "98453"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG SELATAN",
-    cityCode: "9106",
-    district: "Saifi",
-    districtCode: "9106074",
-    village: "Komanggaret",
-    villageCode: "9106074003",
     postalCode: "98453"
   },
   {
@@ -6872,41 +3451,8 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9106",
     district: "Saifi",
     districtCode: "9106074",
-    village: "Sira",
-    villageCode: "9106074005",
-    postalCode: "98453"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG SELATAN",
-    cityCode: "9106",
-    district: "Saifi",
-    districtCode: "9106074",
     village: "Sisir",
     villageCode: "9106074008",
-    postalCode: "98453"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG SELATAN",
-    cityCode: "9106",
-    district: "Saifi",
-    districtCode: "9106074",
-    village: "Sisir",
-    villageCode: "9106074008",
-    postalCode: "98453"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG SELATAN",
-    cityCode: "9106",
-    district: "Saifi",
-    districtCode: "9106074",
-    village: "Kayabo",
-    villageCode: "9106074001",
     postalCode: "98453"
   },
   {
@@ -6938,41 +3484,8 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9106",
     district: "Saifi",
     districtCode: "9106074",
-    village: "Mlaswat",
-    villageCode: "9106074006",
-    postalCode: "98453"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG SELATAN",
-    cityCode: "9106",
-    district: "Saifi",
-    districtCode: "9106074",
     village: "Kwowok",
     villageCode: "9106074007",
-    postalCode: "98453"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG SELATAN",
-    cityCode: "9106",
-    district: "Saifi",
-    districtCode: "9106074",
-    village: "Kwowok",
-    villageCode: "9106074007",
-    postalCode: "98453"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG SELATAN",
-    cityCode: "9106",
-    district: "Saifi",
-    districtCode: "9106074",
-    village: "Botain",
-    villageCode: "9106074010",
     postalCode: "98453"
   },
   {
@@ -7004,28 +3517,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9106",
     district: "Saifi",
     districtCode: "9106074",
-    village: "Manggroholo",
-    villageCode: "9106074004",
-    postalCode: "98453"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG SELATAN",
-    cityCode: "9106",
-    district: "Saifi",
-    districtCode: "9106074",
-    village: "Sayal",
-    villageCode: "",
-    postalCode: "98453"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG SELATAN",
-    cityCode: "9106",
-    district: "Saifi",
-    districtCode: "9106074",
     village: "Sayal",
     villageCode: "",
     postalCode: "98453"
@@ -7039,28 +3530,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     districtCode: "9106070",
     village: "Kohoin",
     villageCode: "9106070015",
-    postalCode: "98454"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG SELATAN",
-    cityCode: "9106",
-    district: "Teminabuan",
-    districtCode: "9106070",
-    village: "Kohoin",
-    villageCode: "9106070015",
-    postalCode: "98454"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG SELATAN",
-    cityCode: "9106",
-    district: "Teminabuan",
-    districtCode: "9106070",
-    village: "Siribau",
-    villageCode: "",
     postalCode: "98454"
   },
   {
@@ -7092,41 +3561,8 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9106",
     district: "Teminabuan",
     districtCode: "9106070",
-    village: "Wersar",
-    villageCode: "9106070008",
-    postalCode: "98454"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG SELATAN",
-    cityCode: "9106",
-    district: "Teminabuan",
-    districtCode: "9106070",
     village: "Magis",
     villageCode: "9106070024",
-    postalCode: "98454"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG SELATAN",
-    cityCode: "9106",
-    district: "Teminabuan",
-    districtCode: "9106070",
-    village: "Magis",
-    villageCode: "9106070024",
-    postalCode: "98454"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG SELATAN",
-    cityCode: "9106",
-    district: "Teminabuan",
-    districtCode: "9106070",
-    village: "Nambro",
-    villageCode: "",
     postalCode: "98454"
   },
   {
@@ -7158,41 +3594,8 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9106",
     district: "Teminabuan",
     districtCode: "9106070",
-    village: "Aibobor",
-    villageCode: "9106070016",
-    postalCode: "98454"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG SELATAN",
-    cityCode: "9106",
-    district: "Teminabuan",
-    districtCode: "9106070",
     village: "Seyolo",
     villageCode: "",
-    postalCode: "98454"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG SELATAN",
-    cityCode: "9106",
-    district: "Teminabuan",
-    districtCode: "9106070",
-    village: "Seyolo",
-    villageCode: "",
-    postalCode: "98454"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG SELATAN",
-    cityCode: "9106",
-    district: "Teminabuan",
-    districtCode: "9106070",
-    village: "Gorolo",
-    villageCode: "9106070023",
     postalCode: "98454"
   },
   {
@@ -7224,28 +3627,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9106",
     district: "Teminabuan",
     districtCode: "9106070",
-    village: "Wermit",
-    villageCode: "9106070019",
-    postalCode: "98454"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG SELATAN",
-    cityCode: "9106",
-    district: "Teminabuan",
-    districtCode: "9106070",
-    village: "Wernas",
-    villageCode: "9106070027",
-    postalCode: "98454"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG SELATAN",
-    cityCode: "9106",
-    district: "Teminabuan",
-    districtCode: "9106070",
     village: "Wernas",
     villageCode: "9106070027",
     postalCode: "98454"
@@ -7268,40 +3649,7 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9106",
     district: "Teminabuan",
     districtCode: "9106070",
-    village: "Tegirolo",
-    villageCode: "9106070022",
-    postalCode: "98454"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG SELATAN",
-    cityCode: "9106",
-    district: "Teminabuan",
-    districtCode: "9106070",
     village: "Ani Sesna",
-    villageCode: "",
-    postalCode: "98454"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG SELATAN",
-    cityCode: "9106",
-    district: "Teminabuan",
-    districtCode: "9106070",
-    village: "Ani Sesna",
-    villageCode: "",
-    postalCode: "98454"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG SELATAN",
-    cityCode: "9106",
-    district: "Teminabuan",
-    districtCode: "9106070",
-    village: "Keyen",
     villageCode: "",
     postalCode: "98454"
   },
@@ -7334,41 +3682,8 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9106",
     district: "Teminabuan",
     districtCode: "9106070",
-    village: "Kaibus",
-    villageCode: "9106070018",
-    postalCode: "98454"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG SELATAN",
-    cityCode: "9106",
-    district: "Teminabuan",
-    districtCode: "9106070",
     village: "Wehali",
     villageCode: "9106070017",
-    postalCode: "98454"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG SELATAN",
-    cityCode: "9106",
-    district: "Teminabuan",
-    districtCode: "9106070",
-    village: "Wehali",
-    villageCode: "9106070017",
-    postalCode: "98454"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG SELATAN",
-    cityCode: "9106",
-    district: "Teminabuan",
-    districtCode: "9106070",
-    village: "Tapiri",
-    villageCode: "9106070021",
     postalCode: "98454"
   },
   {
@@ -7390,28 +3705,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     district: "Sawiat",
     districtCode: "9106080",
     village: "Elles",
-    villageCode: "",
-    postalCode: "98456"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG SELATAN",
-    cityCode: "9106",
-    district: "Sawiat",
-    districtCode: "9106080",
-    village: "Elles",
-    villageCode: "",
-    postalCode: "98456"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG SELATAN",
-    cityCode: "9106",
-    district: "Sawiat",
-    districtCode: "9106080",
-    village: "Sfakyo",
     villageCode: "",
     postalCode: "98456"
   },
@@ -7444,41 +3737,8 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9106",
     district: "Sawiat",
     districtCode: "9106080",
-    village: "Sodrofoyo",
-    villageCode: "",
-    postalCode: "98456"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG SELATAN",
-    cityCode: "9106",
-    district: "Sawiat",
-    districtCode: "9106080",
     village: "Ween",
     villageCode: "",
-    postalCode: "98456"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG SELATAN",
-    cityCode: "9106",
-    district: "Sawiat",
-    districtCode: "9106080",
-    village: "Ween",
-    villageCode: "",
-    postalCode: "98456"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG SELATAN",
-    cityCode: "9106",
-    district: "Sawiat",
-    districtCode: "9106080",
-    village: "Wendi",
-    villageCode: "9106080010",
     postalCode: "98456"
   },
   {
@@ -7510,41 +3770,8 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9106",
     district: "Sawiat",
     districtCode: "9106080",
-    village: "Sawiat",
-    villageCode: "9106080006",
-    postalCode: "98456"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG SELATAN",
-    cityCode: "9106",
-    district: "Sawiat",
-    districtCode: "9106080",
     village: "Sasnek",
     villageCode: "9106080004",
-    postalCode: "98456"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG SELATAN",
-    cityCode: "9106",
-    district: "Sawiat",
-    districtCode: "9106080",
-    village: "Sasnek",
-    villageCode: "9106080004",
-    postalCode: "98456"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG SELATAN",
-    cityCode: "9106",
-    district: "Sawiat",
-    districtCode: "9106080",
-    village: "Wensough",
-    villageCode: "",
     postalCode: "98456"
   },
   {
@@ -7576,41 +3803,8 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9106",
     district: "Salkma",
     districtCode: "9106082",
-    village: "Klamit",
-    villageCode: "9106082003",
-    postalCode: "98456"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG SELATAN",
-    cityCode: "9106",
-    district: "Salkma",
-    districtCode: "9106082",
     village: "Wenslolo",
     villageCode: "9106082002",
-    postalCode: "98456"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG SELATAN",
-    cityCode: "9106",
-    district: "Salkma",
-    districtCode: "9106082",
-    village: "Wenslolo",
-    villageCode: "9106082002",
-    postalCode: "98456"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG SELATAN",
-    cityCode: "9106",
-    district: "Salkma",
-    districtCode: "9106082",
-    village: "Kofalit",
-    villageCode: "9106082001",
     postalCode: "98456"
   },
   {
@@ -7642,42 +3836,9 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9106",
     district: "Salkma",
     districtCode: "9106082",
-    village: "Mlabolo",
-    villageCode: "9106082005",
-    postalCode: "98456"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG SELATAN",
-    cityCode: "9106",
-    district: "Salkma",
-    districtCode: "9106082",
     village: "Alma",
     villageCode: "9106082004",
     postalCode: "98456"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG SELATAN",
-    cityCode: "9106",
-    district: "Salkma",
-    districtCode: "9106082",
-    village: "Alma",
-    villageCode: "9106082004",
-    postalCode: "98456"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG SELATAN",
-    cityCode: "9106",
-    district: "Fokour",
-    districtCode: "9106081",
-    village: "Wandum",
-    villageCode: "",
-    postalCode: "98457"
   },
   {
     province: "PAPUA BARAT DAYA",
@@ -7708,40 +3869,7 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9106",
     district: "Fokour",
     districtCode: "9106081",
-    village: "Pasir Putih",
-    villageCode: "9106081001",
-    postalCode: "98457"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG SELATAN",
-    cityCode: "9106",
-    district: "Fokour",
-    districtCode: "9106081",
     village: "Welek",
-    villageCode: "",
-    postalCode: "98457"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG SELATAN",
-    cityCode: "9106",
-    district: "Fokour",
-    districtCode: "9106081",
-    village: "Welek",
-    villageCode: "",
-    postalCode: "98457"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG SELATAN",
-    cityCode: "9106",
-    district: "Fokour",
-    districtCode: "9106081",
-    village: "Bemus",
     villageCode: "",
     postalCode: "98457"
   },
@@ -7774,41 +3902,8 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9106",
     district: "Konda",
     districtCode: "9106073",
-    village: "Wamargege",
-    villageCode: "9106073001",
-    postalCode: "98458"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG SELATAN",
-    cityCode: "9106",
-    district: "Konda",
-    districtCode: "9106073",
     village: "Manelek",
     villageCode: "9106073004",
-    postalCode: "98458"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG SELATAN",
-    cityCode: "9106",
-    district: "Konda",
-    districtCode: "9106073",
-    village: "Manelek",
-    villageCode: "9106073004",
-    postalCode: "98458"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG SELATAN",
-    cityCode: "9106",
-    district: "Konda",
-    districtCode: "9106073",
-    village: "Nagna",
-    villageCode: "",
     postalCode: "98458"
   },
   {
@@ -7840,28 +3935,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9106",
     district: "Konda",
     districtCode: "9106073",
-    village: "Bariat",
-    villageCode: "9106073005",
-    postalCode: "98458"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG SELATAN",
-    cityCode: "9106",
-    district: "Konda",
-    districtCode: "9106073",
-    village: "Konda",
-    villageCode: "9106073002",
-    postalCode: "98458"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG SELATAN",
-    cityCode: "9106",
-    district: "Konda",
-    districtCode: "9106073",
     village: "Konda",
     villageCode: "9106073002",
     postalCode: "98458"
@@ -7875,28 +3948,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     districtCode: "9106060",
     village: "Moswaren",
     villageCode: "9106060003",
-    postalCode: "98461"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG SELATAN",
-    cityCode: "9106",
-    district: "Moswaren",
-    districtCode: "9106060",
-    village: "Moswaren",
-    villageCode: "9106060003",
-    postalCode: "98461"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG SELATAN",
-    cityCode: "9106",
-    district: "Moswaren",
-    districtCode: "9106060",
-    village: "Bumi Ajo",
-    villageCode: "",
     postalCode: "98461"
   },
   {
@@ -7928,41 +3979,8 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9106",
     district: "Moswaren",
     districtCode: "9106060",
-    village: "Hararo",
-    villageCode: "9106060006",
-    postalCode: "98461"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG SELATAN",
-    cityCode: "9106",
-    district: "Moswaren",
-    districtCode: "9106060",
     village: "Kamisabe",
     villageCode: "9106060005",
-    postalCode: "98461"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG SELATAN",
-    cityCode: "9106",
-    district: "Moswaren",
-    districtCode: "9106060",
-    village: "Kamisabe",
-    villageCode: "9106060005",
-    postalCode: "98461"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG SELATAN",
-    cityCode: "9106",
-    district: "Moswaren",
-    districtCode: "9106060",
-    village: "Hasik Jaya",
-    villageCode: "",
     postalCode: "98461"
   },
   {
@@ -7994,28 +4012,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9106",
     district: "Moswaren",
     districtCode: "9106060",
-    village: "Johsiro",
-    villageCode: "",
-    postalCode: "98461"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG SELATAN",
-    cityCode: "9106",
-    district: "Moswaren",
-    districtCode: "9106060",
-    village: "Tokass",
-    villageCode: "9106060007",
-    postalCode: "98461"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG SELATAN",
-    cityCode: "9106",
-    district: "Moswaren",
-    districtCode: "9106060",
     village: "Tokass",
     villageCode: "9106060007",
     postalCode: "98461"
@@ -8029,28 +4025,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     districtCode: "9106023",
     village: "Haemaran",
     villageCode: "",
-    postalCode: "98462"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG SELATAN",
-    cityCode: "9106",
-    district: "Kais Darat",
-    districtCode: "9106023",
-    village: "Haemaran",
-    villageCode: "",
-    postalCode: "98462"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG SELATAN",
-    cityCode: "9106",
-    district: "Kais Darat",
-    districtCode: "9106023",
-    village: "Onimsefa",
-    villageCode: "9106023002",
     postalCode: "98462"
   },
   {
@@ -8082,41 +4056,8 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9106",
     district: "Kais Darat",
     districtCode: "9106023",
-    village: "Mukamat",
-    villageCode: "9106023005",
-    postalCode: "98462"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG SELATAN",
-    cityCode: "9106",
-    district: "Kais Darat",
-    districtCode: "9106023",
     village: "Makaroro",
     villageCode: "",
-    postalCode: "98462"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG SELATAN",
-    cityCode: "9106",
-    district: "Kais Darat",
-    districtCode: "9106023",
-    village: "Makaroro",
-    villageCode: "",
-    postalCode: "98462"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG SELATAN",
-    cityCode: "9106",
-    district: "Kais Darat",
-    districtCode: "9106023",
-    village: "Ikana",
-    villageCode: "9106023004",
     postalCode: "98462"
   },
   {
@@ -8148,41 +4089,8 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9106",
     district: "Kais Darat",
     districtCode: "9106023",
-    village: "Siranggo",
-    villageCode: "9106023003",
-    postalCode: "98462"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG SELATAN",
-    cityCode: "9106",
-    district: "Kais Darat",
-    districtCode: "9106023",
     village: "Mogatemin",
     villageCode: "9106023001",
-    postalCode: "98462"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG SELATAN",
-    cityCode: "9106",
-    district: "Kais Darat",
-    districtCode: "9106023",
-    village: "Mogatemin",
-    villageCode: "9106023001",
-    postalCode: "98462"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG SELATAN",
-    cityCode: "9106",
-    district: "Kais",
-    districtCode: "9106021",
-    village: "Tapuri",
-    villageCode: "9106021001",
     postalCode: "98462"
   },
   {
@@ -8214,41 +4122,8 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9106",
     district: "Kais",
     districtCode: "9106021",
-    village: "Yahadian",
-    villageCode: "9106021005",
-    postalCode: "98462"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG SELATAN",
-    cityCode: "9106",
-    district: "Kais",
-    districtCode: "9106021",
     village: "Benawa I",
     villageCode: "9106021002",
-    postalCode: "98462"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG SELATAN",
-    cityCode: "9106",
-    district: "Kais",
-    districtCode: "9106021",
-    village: "Benawa I",
-    villageCode: "9106021002",
-    postalCode: "98462"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG SELATAN",
-    cityCode: "9106",
-    district: "Kais",
-    districtCode: "9106021",
-    village: "Sumano",
-    villageCode: "9106021003",
     postalCode: "98462"
   },
   {
@@ -8278,42 +4153,9 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     provinceCode: "96",
     city: "KAB. SORONG SELATAN",
     cityCode: "9106",
-    district: "Kais",
-    districtCode: "9106021",
-    village: "Kais",
-    villageCode: "9106021004",
-    postalCode: "98462"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG SELATAN",
-    cityCode: "9106",
     district: "Matemani",
     districtCode: "",
     village: "Saga",
-    villageCode: "",
-    postalCode: "98463"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG SELATAN",
-    cityCode: "9106",
-    district: "Matemani",
-    districtCode: "",
-    village: "Saga",
-    villageCode: "",
-    postalCode: "98463"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG SELATAN",
-    cityCode: "9106",
-    district: "Matemani",
-    districtCode: "",
-    village: "Tawanggire",
     villageCode: "",
     postalCode: "98463"
   },
@@ -8346,28 +4188,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9106",
     district: "Matemani",
     districtCode: "",
-    village: "Nusa",
-    villageCode: "",
-    postalCode: "98463"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG SELATAN",
-    cityCode: "9106",
-    district: "Matemani",
-    districtCode: "",
-    village: "Mugim",
-    villageCode: "",
-    postalCode: "98463"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG SELATAN",
-    cityCode: "9106",
-    district: "Matemani",
-    districtCode: "",
     village: "Mugim",
     villageCode: "",
     postalCode: "98463"
@@ -8380,28 +4200,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     district: "Matemani",
     districtCode: "",
     village: "Bedare",
-    villageCode: "",
-    postalCode: "98463"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG SELATAN",
-    cityCode: "9106",
-    district: "Matemani",
-    districtCode: "",
-    village: "Bedare",
-    villageCode: "",
-    postalCode: "98463"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG SELATAN",
-    cityCode: "9106",
-    district: "Matemani",
-    districtCode: "",
-    village: "Puragi",
     villageCode: "",
     postalCode: "98463"
   },
@@ -8434,41 +4232,8 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9106",
     district: "Inanwatan",
     districtCode: "9106010",
-    village: "Mogibi",
-    villageCode: "",
-    postalCode: "98464"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG SELATAN",
-    cityCode: "9106",
-    district: "Inanwatan",
-    districtCode: "9106010",
     village: "Odeare",
     villageCode: "9106010022",
-    postalCode: "98464"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG SELATAN",
-    cityCode: "9106",
-    district: "Inanwatan",
-    districtCode: "9106010",
-    village: "Odeare",
-    villageCode: "9106010022",
-    postalCode: "98464"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG SELATAN",
-    cityCode: "9106",
-    district: "Inanwatan",
-    districtCode: "9106010",
-    village: "Serkos",
-    villageCode: "9106010017",
     postalCode: "98464"
   },
   {
@@ -8500,41 +4265,8 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9106",
     district: "Inanwatan",
     districtCode: "9106010",
-    village: "Siri-siri",
-    villageCode: "9106010023",
-    postalCode: "98464"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG SELATAN",
-    cityCode: "9106",
-    district: "Inanwatan",
-    districtCode: "9106010",
     village: "Mate",
     villageCode: "9106010001",
-    postalCode: "98464"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG SELATAN",
-    cityCode: "9106",
-    district: "Inanwatan",
-    districtCode: "9106010",
-    village: "Mate",
-    villageCode: "9106010001",
-    postalCode: "98464"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG SELATAN",
-    cityCode: "9106",
-    district: "Inanwatan",
-    districtCode: "9106010",
-    village: "Sibae",
-    villageCode: "9106010003",
     postalCode: "98464"
   },
   {
@@ -8566,41 +4298,8 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9106",
     district: "Inanwatan",
     districtCode: "9106010",
-    village: "Solta Baru",
-    villageCode: "9106010019",
-    postalCode: "98464"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG SELATAN",
-    cityCode: "9106",
-    district: "Inanwatan",
-    districtCode: "9106010",
     village: "Isogo",
     villageCode: "9106010004",
-    postalCode: "98464"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG SELATAN",
-    cityCode: "9106",
-    district: "Inanwatan",
-    districtCode: "9106010",
-    village: "Isogo",
-    villageCode: "9106010004",
-    postalCode: "98464"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG SELATAN",
-    cityCode: "9106",
-    district: "Inanwatan",
-    districtCode: "9106010",
-    village: "Wadoi",
-    villageCode: "9106010002",
     postalCode: "98464"
   },
   {
@@ -8632,41 +4331,8 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9106",
     district: "Kokoda",
     districtCode: "9106020",
-    village: "Totona",
-    villageCode: "9106020012",
-    postalCode: "98465"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG SELATAN",
-    cityCode: "9106",
-    district: "Kokoda",
-    districtCode: "9106020",
     village: "Topdan",
     villageCode: "9106020014",
-    postalCode: "98465"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG SELATAN",
-    cityCode: "9106",
-    district: "Kokoda",
-    districtCode: "9106020",
-    village: "Topdan",
-    villageCode: "9106020014",
-    postalCode: "98465"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG SELATAN",
-    cityCode: "9106",
-    district: "Kokoda",
-    districtCode: "9106020",
-    village: "Migori",
-    villageCode: "9106020001",
     postalCode: "98465"
   },
   {
@@ -8698,41 +4364,8 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9106",
     district: "Kokoda",
     districtCode: "9106020",
-    village: "Daimar",
-    villageCode: "9106020021",
-    postalCode: "98465"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG SELATAN",
-    cityCode: "9106",
-    district: "Kokoda",
-    districtCode: "9106020",
     village: "Tambani",
     villageCode: "9106020004",
-    postalCode: "98465"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG SELATAN",
-    cityCode: "9106",
-    district: "Kokoda",
-    districtCode: "9106020",
-    village: "Tambani",
-    villageCode: "9106020004",
-    postalCode: "98465"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG SELATAN",
-    cityCode: "9106",
-    district: "Kokoda",
-    districtCode: "9106020",
-    village: "Tapas",
-    villageCode: "9106020011",
     postalCode: "98465"
   },
   {
@@ -8764,41 +4397,8 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9106",
     district: "Kokoda",
     districtCode: "9106020",
-    village: "Siwatori",
-    villageCode: "9106020002",
-    postalCode: "98465"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG SELATAN",
-    cityCode: "9106",
-    district: "Kokoda",
-    districtCode: "9106020",
     village: "Kasuweri",
     villageCode: "9106020006",
-    postalCode: "98465"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG SELATAN",
-    cityCode: "9106",
-    district: "Kokoda",
-    districtCode: "9106020",
-    village: "Kasuweri",
-    villageCode: "9106020006",
-    postalCode: "98465"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG SELATAN",
-    cityCode: "9106",
-    district: "Kokoda",
-    districtCode: "9106020",
-    village: "Daubak",
-    villageCode: "9106020013",
     postalCode: "98465"
   },
   {
@@ -8830,41 +4430,8 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9106",
     district: "Kokoda",
     districtCode: "9106020",
-    village: "Tarof",
-    villageCode: "9106020003",
-    postalCode: "98465"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG SELATAN",
-    cityCode: "9106",
-    district: "Kokoda",
-    districtCode: "9106020",
     village: "Korewatara",
     villageCode: "9106020010",
-    postalCode: "98465"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG SELATAN",
-    cityCode: "9106",
-    district: "Kokoda",
-    districtCode: "9106020",
-    village: "Korewatara",
-    villageCode: "9106020010",
-    postalCode: "98465"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG SELATAN",
-    cityCode: "9106",
-    district: "Kokoda",
-    districtCode: "9106020",
-    village: "Negeri Besar",
-    villageCode: "9106020005",
     postalCode: "98465"
   },
   {
@@ -8896,28 +4463,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9106",
     district: "Kokoda",
     districtCode: "9106020",
-    village: "Birawaku",
-    villageCode: "9106020018",
-    postalCode: "98465"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG SELATAN",
-    cityCode: "9106",
-    district: "Kokoda",
-    districtCode: "9106020",
-    village: "Migrito",
-    villageCode: "",
-    postalCode: "98465"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG SELATAN",
-    cityCode: "9106",
-    district: "Kokoda",
-    districtCode: "9106020",
     village: "Migrito",
     villageCode: "",
     postalCode: "98465"
@@ -8931,28 +4476,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     districtCode: "9106020",
     village: "Nayakore",
     villageCode: "9106020015",
-    postalCode: "98465"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG SELATAN",
-    cityCode: "9106",
-    district: "Kokoda",
-    districtCode: "9106020",
-    village: "Nayakore",
-    villageCode: "9106020015",
-    postalCode: "98465"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG SELATAN",
-    cityCode: "9106",
-    district: "Kokoda",
-    districtCode: "9106020",
-    village: "Arbasina",
-    villageCode: "9106020017",
     postalCode: "98465"
   },
   {
@@ -8984,41 +4507,8 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9106",
     district: "Kokoda Utara",
     districtCode: "9106022",
-    village: "Bubuko",
-    villageCode: "9106022007",
-    postalCode: "98466"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG SELATAN",
-    cityCode: "9106",
-    district: "Kokoda Utara",
-    districtCode: "9106022",
     village: "Udagaga",
     villageCode: "9106022002",
-    postalCode: "98466"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG SELATAN",
-    cityCode: "9106",
-    district: "Kokoda Utara",
-    districtCode: "9106022",
-    village: "Udagaga",
-    villageCode: "9106022002",
-    postalCode: "98466"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG SELATAN",
-    cityCode: "9106",
-    district: "Kokoda Utara",
-    districtCode: "9106022",
-    village: "Adona",
-    villageCode: "9106022003",
     postalCode: "98466"
   },
   {
@@ -9050,40 +4540,7 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9106",
     district: "Kokoda Utara",
     districtCode: "9106022",
-    village: "Kayubiro",
-    villageCode: "9106022001",
-    postalCode: "98466"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG SELATAN",
-    cityCode: "9106",
-    district: "Kokoda Utara",
-    districtCode: "9106022",
     village: "Kamundan Satu",
-    villageCode: "",
-    postalCode: "98466"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG SELATAN",
-    cityCode: "9106",
-    district: "Kokoda Utara",
-    districtCode: "9106022",
-    village: "Kamundan Satu",
-    villageCode: "",
-    postalCode: "98466"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG SELATAN",
-    cityCode: "9106",
-    district: "Kokoda Utara",
-    districtCode: "9106022",
-    village: "Kamundan Dua",
     villageCode: "",
     postalCode: "98466"
   },
@@ -9116,41 +4573,8 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9106",
     district: "Kokoda Utara",
     districtCode: "9106022",
-    village: "Benawa II",
-    villageCode: "9106022004",
-    postalCode: "98466"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG SELATAN",
-    cityCode: "9106",
-    district: "Kokoda Utara",
-    districtCode: "9106022",
     village: "Atori",
     villageCode: "",
-    postalCode: "98466"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG SELATAN",
-    cityCode: "9106",
-    district: "Kokoda Utara",
-    districtCode: "9106022",
-    village: "Atori",
-    villageCode: "",
-    postalCode: "98466"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. SORONG SELATAN",
-    cityCode: "9106",
-    district: "Kokoda Utara",
-    districtCode: "9106022",
-    village: "Karirif",
-    villageCode: "9106022008",
     postalCode: "98466"
   },
   {
@@ -9182,41 +4606,8 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9108",
     district: "Waigeo Utara",
     districtCode: "9108060",
-    village: "Andey",
-    villageCode: "9108060007",
-    postalCode: "98481"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. RAJA AMPAT",
-    cityCode: "9108",
-    district: "Waigeo Utara",
-    districtCode: "9108060",
     village: "Kabare",
     villageCode: "9108060008",
-    postalCode: "98481"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. RAJA AMPAT",
-    cityCode: "9108",
-    district: "Waigeo Utara",
-    districtCode: "9108060",
-    village: "Kabare",
-    villageCode: "9108060008",
-    postalCode: "98481"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. RAJA AMPAT",
-    cityCode: "9108",
-    district: "Waigeo Utara",
-    districtCode: "9108060",
-    village: "Kalisade",
-    villageCode: "9108060013",
     postalCode: "98481"
   },
   {
@@ -9248,41 +4639,8 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9108",
     district: "Waigeo Utara",
     districtCode: "9108060",
-    village: "Bonsayor",
-    villageCode: "9108060011",
-    postalCode: "98481"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. RAJA AMPAT",
-    cityCode: "9108",
-    district: "Waigeo Utara",
-    districtCode: "9108060",
     village: "Darumbab",
     villageCode: "9108060012",
-    postalCode: "98481"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. RAJA AMPAT",
-    cityCode: "9108",
-    district: "Waigeo Utara",
-    districtCode: "9108060",
-    village: "Darumbab",
-    villageCode: "9108060012",
-    postalCode: "98481"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. RAJA AMPAT",
-    cityCode: "9108",
-    district: "Waigeo Utara",
-    districtCode: "9108060",
-    village: "Asukweri",
-    villageCode: "9108060006",
     postalCode: "98481"
   },
   {
@@ -9314,28 +4672,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9108",
     district: "Waigeo Timur",
     districtCode: "9108080",
-    village: "Urbinasopen",
-    villageCode: "9108080002",
-    postalCode: "98481"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. RAJA AMPAT",
-    cityCode: "9108",
-    district: "Waigeo Timur",
-    districtCode: "9108080",
-    village: "Puper",
-    villageCode: "",
-    postalCode: "98481"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. RAJA AMPAT",
-    cityCode: "9108",
-    district: "Waigeo Timur",
-    districtCode: "9108080",
     village: "Puper",
     villageCode: "",
     postalCode: "98481"
@@ -9349,28 +4685,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     districtCode: "9108080",
     village: "Yensner",
     villageCode: "",
-    postalCode: "98481"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. RAJA AMPAT",
-    cityCode: "9108",
-    district: "Waigeo Timur",
-    districtCode: "9108080",
-    village: "Yensner",
-    villageCode: "",
-    postalCode: "98481"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. RAJA AMPAT",
-    cityCode: "9108",
-    district: "Waigeo Timur",
-    districtCode: "9108080",
-    village: "Yenbekaki",
-    villageCode: "9108080003",
     postalCode: "98481"
   },
   {
@@ -9402,41 +4716,8 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9108",
     district: "Waigeo Selatan",
     districtCode: "9108040",
-    village: "Saporkren",
-    villageCode: "9108040018",
-    postalCode: "98482"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. RAJA AMPAT",
-    cityCode: "9108",
-    district: "Waigeo Selatan",
-    districtCode: "9108040",
     village: "Yenbeser",
     villageCode: "",
-    postalCode: "98482"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. RAJA AMPAT",
-    cityCode: "9108",
-    district: "Waigeo Selatan",
-    districtCode: "9108040",
-    village: "Yenbeser",
-    villageCode: "",
-    postalCode: "98482"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. RAJA AMPAT",
-    cityCode: "9108",
-    district: "Waigeo Selatan",
-    districtCode: "9108040",
-    village: "Wawiyai",
-    villageCode: "9108040019",
     postalCode: "98482"
   },
   {
@@ -9468,41 +4749,8 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9108",
     district: "Waigeo Selatan",
     districtCode: "9108040",
-    village: "Saonek",
-    villageCode: "9108040015",
-    postalCode: "98482"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. RAJA AMPAT",
-    cityCode: "9108",
-    district: "Waigeo Selatan",
-    districtCode: "9108040",
     village: "Friwen",
     villageCode: "9108040016",
-    postalCode: "98482"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. RAJA AMPAT",
-    cityCode: "9108",
-    district: "Waigeo Selatan",
-    districtCode: "9108040",
-    village: "Friwen",
-    villageCode: "9108040016",
-    postalCode: "98482"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. RAJA AMPAT",
-    cityCode: "9108",
-    district: "Waigeo Barat",
-    districtCode: "9108050",
-    village: "Selpele",
-    villageCode: "",
     postalCode: "98482"
   },
   {
@@ -9534,28 +4782,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9108",
     district: "Waigeo Barat",
     districtCode: "9108050",
-    village: "Bianci",
-    villageCode: "9108050007",
-    postalCode: "98482"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. RAJA AMPAT",
-    cityCode: "9108",
-    district: "Waigeo Barat",
-    districtCode: "9108050",
-    village: "Waisilip",
-    villageCode: "9108050010",
-    postalCode: "98482"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. RAJA AMPAT",
-    cityCode: "9108",
-    district: "Waigeo Barat",
-    districtCode: "9108050",
     village: "Waisilip",
     villageCode: "9108050010",
     postalCode: "98482"
@@ -9568,28 +4794,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     district: "Waigeo Barat",
     districtCode: "9108050",
     village: "Saleo",
-    villageCode: "",
-    postalCode: "98482"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. RAJA AMPAT",
-    cityCode: "9108",
-    district: "Waigeo Barat",
-    districtCode: "9108050",
-    village: "Saleo",
-    villageCode: "",
-    postalCode: "98482"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. RAJA AMPAT",
-    cityCode: "9108",
-    district: "Waigeo Barat",
-    districtCode: "9108050",
-    village: "Mutus",
     villageCode: "",
     postalCode: "98482"
   },
@@ -9622,41 +4826,8 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9108",
     district: "Waigeo Barat Kepulauan",
     districtCode: "9108051",
-    village: "Pam",
-    villageCode: "9108051001",
-    postalCode: "98485"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. RAJA AMPAT",
-    cityCode: "9108",
-    district: "Waigeo Barat Kepulauan",
-    districtCode: "9108051",
     village: "Saukabu",
     villageCode: "9108051005",
-    postalCode: "98485"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. RAJA AMPAT",
-    cityCode: "9108",
-    district: "Waigeo Barat Kepulauan",
-    districtCode: "9108051",
-    village: "Saukabu",
-    villageCode: "9108051005",
-    postalCode: "98485"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. RAJA AMPAT",
-    cityCode: "9108",
-    district: "Waigeo Barat Kepulauan",
-    districtCode: "9108051",
-    village: "Saupapir",
-    villageCode: "9108051006",
     postalCode: "98485"
   },
   {
@@ -9688,41 +4859,8 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9108",
     district: "Waigeo Barat Kepulauan",
     districtCode: "9108051",
-    village: "Gag",
-    villageCode: "9108051002",
-    postalCode: "98485"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. RAJA AMPAT",
-    cityCode: "9108",
-    district: "Waigeo Barat Kepulauan",
-    districtCode: "9108051",
     village: "Manyaifun",
     villageCode: "9108051003",
-    postalCode: "98485"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. RAJA AMPAT",
-    cityCode: "9108",
-    district: "Waigeo Barat Kepulauan",
-    districtCode: "9108051",
-    village: "Manyaifun",
-    villageCode: "9108051003",
-    postalCode: "98485"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. RAJA AMPAT",
-    cityCode: "9108",
-    district: "Waigeo Barat Kepulauan",
-    districtCode: "9108051",
-    village: "Meosmanggara",
-    villageCode: "9108051004",
     postalCode: "98485"
   },
   {
@@ -9744,28 +4882,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     district: "Meos Mansar",
     districtCode: "9108042",
     village: "Sawandarek",
-    villageCode: "",
-    postalCode: "98485"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. RAJA AMPAT",
-    cityCode: "9108",
-    district: "Meos Mansar",
-    districtCode: "9108042",
-    village: "Sawandarek",
-    villageCode: "",
-    postalCode: "98485"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. RAJA AMPAT",
-    cityCode: "9108",
-    district: "Meos Mansar",
-    districtCode: "9108042",
-    village: "Yenwaupnor",
     villageCode: "",
     postalCode: "98485"
   },
@@ -9798,41 +4914,8 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9108",
     district: "Meos Mansar",
     districtCode: "9108042",
-    village: "Arborek",
-    villageCode: "9108042002",
-    postalCode: "98485"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. RAJA AMPAT",
-    cityCode: "9108",
-    district: "Meos Mansar",
-    districtCode: "9108042",
     village: "Kurkapa",
     villageCode: "9108042008",
-    postalCode: "98485"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. RAJA AMPAT",
-    cityCode: "9108",
-    district: "Meos Mansar",
-    districtCode: "9108042",
-    village: "Kurkapa",
-    villageCode: "9108042008",
-    postalCode: "98485"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. RAJA AMPAT",
-    cityCode: "9108",
-    district: "Meos Mansar",
-    districtCode: "9108042",
-    village: "Yenbuba",
-    villageCode: "9108042006",
     postalCode: "98485"
   },
   {
@@ -9864,28 +4947,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9108",
     district: "Meos Mansar",
     districtCode: "9108042",
-    village: "Kapisawar",
-    villageCode: "9108042003",
-    postalCode: "98485"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. RAJA AMPAT",
-    cityCode: "9108",
-    district: "Meos Mansar",
-    districtCode: "9108042",
-    village: "Kabuy",
-    villageCode: "9108042007",
-    postalCode: "98485"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. RAJA AMPAT",
-    cityCode: "9108",
-    district: "Meos Mansar",
-    districtCode: "9108042",
     village: "Kabuy",
     villageCode: "9108042007",
     postalCode: "98485"
@@ -9899,28 +4960,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     districtCode: "9108042",
     village: "Yenbekwan",
     villageCode: "9108042001",
-    postalCode: "98485"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. RAJA AMPAT",
-    cityCode: "9108",
-    district: "Meos Mansar",
-    districtCode: "9108042",
-    village: "Yenbekwan",
-    villageCode: "9108042001",
-    postalCode: "98485"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. RAJA AMPAT",
-    cityCode: "9108",
-    district: "Meos Mansar",
-    districtCode: "9108042",
-    village: "Sawinggrai",
-    villageCode: "9108042004",
     postalCode: "98485"
   },
   {
@@ -9952,28 +4991,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9108",
     district: "Teluk Mayalibit",
     districtCode: "9108041",
-    village: "Mumes",
-    villageCode: "",
-    postalCode: "98486"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. RAJA AMPAT",
-    cityCode: "9108",
-    district: "Teluk Mayalibit",
-    districtCode: "9108041",
-    village: "Lopintol",
-    villageCode: "9108041003",
-    postalCode: "98486"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. RAJA AMPAT",
-    cityCode: "9108",
-    district: "Teluk Mayalibit",
-    districtCode: "9108041",
     village: "Lopintol",
     villageCode: "9108041003",
     postalCode: "98486"
@@ -9987,28 +5004,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     districtCode: "9108041",
     village: "Kalitoko",
     villageCode: "9108041004",
-    postalCode: "98486"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. RAJA AMPAT",
-    cityCode: "9108",
-    district: "Teluk Mayalibit",
-    districtCode: "9108041",
-    village: "Kalitoko",
-    villageCode: "9108041004",
-    postalCode: "98486"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. RAJA AMPAT",
-    cityCode: "9108",
-    district: "Teluk Mayalibit",
-    districtCode: "9108041",
-    village: "Warsamdin",
-    villageCode: "9108041001",
     postalCode: "98486"
   },
   {
@@ -10040,41 +5035,8 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9108",
     district: "Tiplol Mayalibit",
     districtCode: "9108044",
-    village: "Warimak",
-    villageCode: "9108044006",
-    postalCode: "98486"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. RAJA AMPAT",
-    cityCode: "9108",
-    district: "Tiplol Mayalibit",
-    districtCode: "9108044",
     village: "Go",
     villageCode: "9108044004",
-    postalCode: "98486"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. RAJA AMPAT",
-    cityCode: "9108",
-    district: "Tiplol Mayalibit",
-    districtCode: "9108044",
-    village: "Go",
-    villageCode: "9108044004",
-    postalCode: "98486"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. RAJA AMPAT",
-    cityCode: "9108",
-    district: "Tiplol Mayalibit",
-    districtCode: "9108044",
-    village: "Kabilol",
-    villageCode: "9108044003",
     postalCode: "98486"
   },
   {
@@ -10106,41 +5068,8 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9108",
     district: "Tiplol Mayalibit",
     districtCode: "9108044",
-    village: "Arway",
-    villageCode: "",
-    postalCode: "98486"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. RAJA AMPAT",
-    cityCode: "9108",
-    district: "Tiplol Mayalibit",
-    districtCode: "9108044",
     village: "Waifoi",
     villageCode: "9108044005",
-    postalCode: "98486"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. RAJA AMPAT",
-    cityCode: "9108",
-    district: "Tiplol Mayalibit",
-    districtCode: "9108044",
-    village: "Waifoi",
-    villageCode: "9108044005",
-    postalCode: "98486"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. RAJA AMPAT",
-    cityCode: "9108",
-    district: "Tiplol Mayalibit",
-    districtCode: "9108044",
-    village: "Beo",
-    villageCode: "9108044001",
     postalCode: "98486"
   },
   {
@@ -10172,28 +5101,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9108",
     district: "Supnin",
     districtCode: "9108062",
-    village: "Rauki",
-    villageCode: "9108062001",
-    postalCode: "98487"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. RAJA AMPAT",
-    cityCode: "9108",
-    district: "Supnin",
-    districtCode: "9108062",
-    village: "Kapadiri",
-    villageCode: "9108062004",
-    postalCode: "98487"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. RAJA AMPAT",
-    cityCode: "9108",
-    district: "Supnin",
-    districtCode: "9108062",
     village: "Kapadiri",
     villageCode: "9108062004",
     postalCode: "98487"
@@ -10207,28 +5114,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     districtCode: "9108061",
     village: "Boni",
     villageCode: "9108061001",
-    postalCode: "98487"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. RAJA AMPAT",
-    cityCode: "9108",
-    district: "Warwarbomi",
-    districtCode: "9108061",
-    village: "Boni",
-    villageCode: "9108061001",
-    postalCode: "98487"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. RAJA AMPAT",
-    cityCode: "9108",
-    district: "Supnin",
-    districtCode: "9108062",
-    village: "Urai",
-    villageCode: "9108062002",
     postalCode: "98487"
   },
   {
@@ -10260,28 +5145,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9108",
     district: "Warwarbomi",
     districtCode: "9108061",
-    village: "Mnier",
-    villageCode: "9108061003",
-    postalCode: "98487"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. RAJA AMPAT",
-    cityCode: "9108",
-    district: "Warwarbomi",
-    districtCode: "9108061",
-    village: "Warkori",
-    villageCode: "9108061004",
-    postalCode: "98487"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. RAJA AMPAT",
-    cityCode: "9108",
-    district: "Warwarbomi",
-    districtCode: "9108061",
     village: "Warkori",
     villageCode: "9108061004",
     postalCode: "98487"
@@ -10294,28 +5157,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     district: "Supnin",
     districtCode: "9108062",
     village: "Duber",
-    villageCode: "",
-    postalCode: "98487"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. RAJA AMPAT",
-    cityCode: "9108",
-    district: "Supnin",
-    districtCode: "9108062",
-    village: "Duber",
-    villageCode: "",
-    postalCode: "98487"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. RAJA AMPAT",
-    cityCode: "9108",
-    district: "Warwarbomi",
-    districtCode: "9108061",
-    village: "Warmanai",
     villageCode: "",
     postalCode: "98487"
   },
@@ -10348,28 +5189,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9108",
     district: "Kepulauan Ayau",
     districtCode: "9108070",
-    village: "Boiseran",
-    villageCode: "",
-    postalCode: "98488"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. RAJA AMPAT",
-    cityCode: "9108",
-    district: "Kepulauan Ayau",
-    districtCode: "9108070",
-    village: "Runi",
-    villageCode: "",
-    postalCode: "98488"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. RAJA AMPAT",
-    cityCode: "9108",
-    district: "Kepulauan Ayau",
-    districtCode: "9108070",
     village: "Runi",
     villageCode: "",
     postalCode: "98488"
@@ -10382,28 +5201,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     district: "Ayau",
     districtCode: "9108071",
     village: "Reni",
-    villageCode: "",
-    postalCode: "98488"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. RAJA AMPAT",
-    cityCode: "9108",
-    district: "Ayau",
-    districtCode: "9108071",
-    village: "Reni",
-    villageCode: "",
-    postalCode: "98488"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. RAJA AMPAT",
-    cityCode: "9108",
-    district: "Ayau",
-    districtCode: "9108071",
-    village: "Rutum",
     villageCode: "",
     postalCode: "98488"
   },
@@ -10436,28 +5233,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9108",
     district: "Kepulauan Ayau",
     districtCode: "9108070",
-    village: "Yenkanfan",
-    villageCode: "",
-    postalCode: "98488"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. RAJA AMPAT",
-    cityCode: "9108",
-    district: "Kepulauan Ayau",
-    districtCode: "9108070",
-    village: "Yenkawir",
-    villageCode: "",
-    postalCode: "98488"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. RAJA AMPAT",
-    cityCode: "9108",
-    district: "Kepulauan Ayau",
-    districtCode: "9108070",
     village: "Yenkawir",
     villageCode: "",
     postalCode: "98488"
@@ -10480,40 +5255,7 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9108",
     district: "Ayau",
     districtCode: "9108071",
-    village: "Meosbekwan",
-    villageCode: "",
-    postalCode: "98488"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. RAJA AMPAT",
-    cityCode: "9108",
-    district: "Ayau",
-    districtCode: "9108071",
     village: "Abidon",
-    villageCode: "",
-    postalCode: "98488"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. RAJA AMPAT",
-    cityCode: "9108",
-    district: "Ayau",
-    districtCode: "9108071",
-    village: "Abidon",
-    villageCode: "",
-    postalCode: "98488"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. RAJA AMPAT",
-    cityCode: "9108",
-    district: "Kepulauan Ayau",
-    districtCode: "9108070",
-    village: "Dorehkar",
     villageCode: "",
     postalCode: "98488"
   },
@@ -10546,28 +5288,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9108",
     district: "Kota Waisai",
     districtCode: "9108043",
-    village: "Warmasen",
-    villageCode: "9108043004",
-    postalCode: "98489"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. RAJA AMPAT",
-    cityCode: "9108",
-    district: "Kota Waisai",
-    districtCode: "9108043",
-    village: "Bonwakir",
-    villageCode: "",
-    postalCode: "98489"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. RAJA AMPAT",
-    cityCode: "9108",
-    district: "Kota Waisai",
-    districtCode: "9108043",
     village: "Bonwakir",
     villageCode: "",
     postalCode: "98489"
@@ -10581,28 +5301,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     districtCode: "9108043",
     village: "Waisai",
     villageCode: "9108043001",
-    postalCode: "98489"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. RAJA AMPAT",
-    cityCode: "9108",
-    district: "Kota Waisai",
-    districtCode: "9108043",
-    village: "Waisai",
-    villageCode: "9108043001",
-    postalCode: "98489"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. RAJA AMPAT",
-    cityCode: "9108",
-    district: "Kota Waisai",
-    districtCode: "9108043",
-    village: "Sapordanco",
-    villageCode: "9108043002",
     postalCode: "98489"
   },
   {
@@ -10634,41 +5332,8 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9108",
     district: "Misool Barat",
     districtCode: "9108012",
-    village: "Gamta",
-    villageCode: "9108012003",
-    postalCode: "98491"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. RAJA AMPAT",
-    cityCode: "9108",
-    district: "Misool Barat",
-    districtCode: "9108012",
     village: "Magey",
     villageCode: "",
-    postalCode: "98491"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. RAJA AMPAT",
-    cityCode: "9108",
-    district: "Misool Barat",
-    districtCode: "9108012",
-    village: "Magey",
-    villageCode: "",
-    postalCode: "98491"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. RAJA AMPAT",
-    cityCode: "9108",
-    district: "Misool Barat",
-    districtCode: "9108012",
-    village: "Kapatcol",
-    villageCode: "9108012008",
     postalCode: "98491"
   },
   {
@@ -10700,28 +5365,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9108",
     district: "Misool Barat",
     districtCode: "9108012",
-    village: "Biga",
-    villageCode: "9108012002",
-    postalCode: "98491"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. RAJA AMPAT",
-    cityCode: "9108",
-    district: "Misool Barat",
-    districtCode: "9108012",
-    village: "Lilinta",
-    villageCode: "9108012001",
-    postalCode: "98491"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. RAJA AMPAT",
-    cityCode: "9108",
-    district: "Misool Barat",
-    districtCode: "9108012",
     village: "Lilinta",
     villageCode: "9108012001",
     postalCode: "98491"
@@ -10734,28 +5377,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     district: "Misool (Misool Utara)",
     districtCode: "",
     village: "Aduwei",
-    villageCode: "",
-    postalCode: "98491"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. RAJA AMPAT",
-    cityCode: "9108",
-    district: "Misool (Misool Utara)",
-    districtCode: "",
-    village: "Aduwei",
-    villageCode: "",
-    postalCode: "98491"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. RAJA AMPAT",
-    cityCode: "9108",
-    district: "Misool (Misool Utara)",
-    districtCode: "",
-    village: "Solal",
     villageCode: "",
     postalCode: "98491"
   },
@@ -10788,40 +5409,7 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9108",
     district: "Misool (Misool Utara)",
     districtCode: "",
-    village: "Atkari",
-    villageCode: "",
-    postalCode: "98491"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. RAJA AMPAT",
-    cityCode: "9108",
-    district: "Misool (Misool Utara)",
-    districtCode: "",
     village: "Waigama",
-    villageCode: "",
-    postalCode: "98491"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. RAJA AMPAT",
-    cityCode: "9108",
-    district: "Misool (Misool Utara)",
-    districtCode: "",
-    village: "Waigama",
-    villageCode: "",
-    postalCode: "98491"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. RAJA AMPAT",
-    cityCode: "9108",
-    district: "Misool (Misool Utara)",
-    districtCode: "",
-    village: "Salafen",
     villageCode: "",
     postalCode: "98491"
   },
@@ -10854,41 +5442,8 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9108",
     district: "Misool Timur",
     districtCode: "9108022",
-    village: "Folley",
-    villageCode: "9108022001",
-    postalCode: "98492"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. RAJA AMPAT",
-    cityCode: "9108",
-    district: "Misool Timur",
-    districtCode: "9108022",
     village: "Audam",
     villageCode: "9108022007",
-    postalCode: "98492"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. RAJA AMPAT",
-    cityCode: "9108",
-    district: "Misool Timur",
-    districtCode: "9108022",
-    village: "Audam",
-    villageCode: "9108022007",
-    postalCode: "98492"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. RAJA AMPAT",
-    cityCode: "9108",
-    district: "Misool Timur",
-    districtCode: "9108022",
-    village: "Tomolol",
-    villageCode: "9108022002",
     postalCode: "98492"
   },
   {
@@ -10920,41 +5475,8 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9108",
     district: "Misool Timur",
     districtCode: "9108022",
-    village: "Limalas Timur",
-    villageCode: "9108022005",
-    postalCode: "98492"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. RAJA AMPAT",
-    cityCode: "9108",
-    district: "Misool Timur",
-    districtCode: "9108022",
     village: "Usaha Jaya",
     villageCode: "9108022004",
-    postalCode: "98492"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. RAJA AMPAT",
-    cityCode: "9108",
-    district: "Misool Timur",
-    districtCode: "9108022",
-    village: "Usaha Jaya",
-    villageCode: "9108022004",
-    postalCode: "98492"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. RAJA AMPAT",
-    cityCode: "9108",
-    district: "Misool Timur",
-    districtCode: "9108022",
-    village: "Limalas Barat",
-    villageCode: "9108022006",
     postalCode: "98492"
   },
   {
@@ -10986,40 +5508,7 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9108",
     district: "Misool Selatan",
     districtCode: "9108011",
-    village: "Harapan Jaya",
-    villageCode: "9108011002",
-    postalCode: "98492"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. RAJA AMPAT",
-    cityCode: "9108",
-    district: "Misool Selatan",
-    districtCode: "9108011",
     village: "Yellu",
-    villageCode: "",
-    postalCode: "98492"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. RAJA AMPAT",
-    cityCode: "9108",
-    district: "Misool Selatan",
-    districtCode: "9108011",
-    village: "Yellu",
-    villageCode: "",
-    postalCode: "98492"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. RAJA AMPAT",
-    cityCode: "9108",
-    district: "Misool Selatan",
-    districtCode: "9108011",
-    village: "Usaha Jaya",
     villageCode: "",
     postalCode: "98492"
   },
@@ -11052,28 +5541,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9108",
     district: "Misool Selatan",
     districtCode: "9108011",
-    village: "Dabatan",
-    villageCode: "9108011010",
-    postalCode: "98492"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. RAJA AMPAT",
-    cityCode: "9108",
-    district: "Misool Selatan",
-    districtCode: "9108011",
-    village: "Fafanlap",
-    villageCode: "9108011005",
-    postalCode: "98492"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. RAJA AMPAT",
-    cityCode: "9108",
-    district: "Misool Selatan",
-    districtCode: "9108011",
     village: "Fafanlap",
     villageCode: "9108011005",
     postalCode: "98492"
@@ -11087,28 +5554,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     districtCode: "9108023",
     village: "Pulau Tikus",
     villageCode: "9108023001",
-    postalCode: "98493"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. RAJA AMPAT",
-    cityCode: "9108",
-    district: "Kepulauan Sembilan",
-    districtCode: "9108023",
-    village: "Pulau Tikus",
-    villageCode: "9108023001",
-    postalCode: "98493"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. RAJA AMPAT",
-    cityCode: "9108",
-    district: "Kepulauan Sembilan",
-    districtCode: "9108023",
-    village: "Satukurano",
-    villageCode: "9108023004",
     postalCode: "98493"
   },
   {
@@ -11140,28 +5585,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9108",
     district: "Kepulauan Sembilan",
     districtCode: "9108023",
-    village: "Wejim Barat",
-    villageCode: "9108023002",
-    postalCode: "98493"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. RAJA AMPAT",
-    cityCode: "9108",
-    district: "Kepulauan Sembilan",
-    districtCode: "9108023",
-    village: "Wejim Timur",
-    villageCode: "9108023003",
-    postalCode: "98493"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. RAJA AMPAT",
-    cityCode: "9108",
-    district: "Kepulauan Sembilan",
-    districtCode: "9108023",
     village: "Wejim Timur",
     villageCode: "9108023003",
     postalCode: "98493"
@@ -11175,28 +5598,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     districtCode: "9108021",
     village: "Deer",
     villageCode: "",
-    postalCode: "98494"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. RAJA AMPAT",
-    cityCode: "9108",
-    district: "Kofiau",
-    districtCode: "9108021",
-    village: "Deer",
-    villageCode: "",
-    postalCode: "98494"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. RAJA AMPAT",
-    cityCode: "9108",
-    district: "Kofiau",
-    districtCode: "9108021",
-    village: "Mikiran",
-    villageCode: "9108021004",
     postalCode: "98494"
   },
   {
@@ -11228,41 +5629,8 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9108",
     district: "Kofiau",
     districtCode: "9108021",
-    village: "DibalaI",
-    villageCode: "",
-    postalCode: "98494"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. RAJA AMPAT",
-    cityCode: "9108",
-    district: "Kofiau",
-    districtCode: "9108021",
     village: "Awat",
     villageCode: "9108021005",
-    postalCode: "98494"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. RAJA AMPAT",
-    cityCode: "9108",
-    district: "Kofiau",
-    districtCode: "9108021",
-    village: "Awat",
-    villageCode: "9108021005",
-    postalCode: "98494"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. RAJA AMPAT",
-    cityCode: "9108",
-    district: "Kofiau",
-    districtCode: "9108021",
-    village: "Tolobi",
-    villageCode: "9108021001",
     postalCode: "98494"
   },
   {
@@ -11294,41 +5662,8 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9108",
     district: "Salawati Tengah",
     districtCode: "9108033",
-    village: "Sakabu",
-    villageCode: "9108033005",
-    postalCode: "98496"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. RAJA AMPAT",
-    cityCode: "9108",
-    district: "Salawati Tengah",
-    districtCode: "9108033",
     village: "Wailabu",
     villageCode: "9108033004",
-    postalCode: "98496"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. RAJA AMPAT",
-    cityCode: "9108",
-    district: "Salawati Tengah",
-    districtCode: "9108033",
-    village: "Wailabu",
-    villageCode: "9108033004",
-    postalCode: "98496"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. RAJA AMPAT",
-    cityCode: "9108",
-    district: "Salawati Tengah",
-    districtCode: "9108033",
-    village: "Waijan",
-    villageCode: "9108033002",
     postalCode: "98496"
   },
   {
@@ -11360,28 +5695,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9108",
     district: "Salawati Tengah",
     districtCode: "9108033",
-    village: "Kalobo",
-    villageCode: "9108033001",
-    postalCode: "98496"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. RAJA AMPAT",
-    cityCode: "9108",
-    district: "Salawati Tengah",
-    districtCode: "9108033",
-    village: "Wailen",
-    villageCode: "9108033006",
-    postalCode: "98496"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. RAJA AMPAT",
-    cityCode: "9108",
-    district: "Salawati Tengah",
-    districtCode: "9108033",
     village: "Wailen",
     villageCode: "9108033006",
     postalCode: "98496"
@@ -11395,28 +5708,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     districtCode: "9108033",
     village: "Waibu",
     villageCode: "9108033007",
-    postalCode: "98496"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. RAJA AMPAT",
-    cityCode: "9108",
-    district: "Salawati Tengah",
-    districtCode: "9108033",
-    village: "Waibu",
-    villageCode: "9108033007",
-    postalCode: "98496"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. RAJA AMPAT",
-    cityCode: "9108",
-    district: "Salawati Tengah",
-    districtCode: "9108033",
-    village: "Waimeci",
-    villageCode: "9108033003",
     postalCode: "98496"
   },
   {
@@ -11448,28 +5739,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9108",
     district: "Salawati Barat",
     districtCode: "9108034",
-    village: "Kaliam",
-    villageCode: "9108034003",
-    postalCode: "98497"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. RAJA AMPAT",
-    cityCode: "9108",
-    district: "Salawati Barat",
-    districtCode: "9108034",
-    village: "Kalwal",
-    villageCode: "9108034004",
-    postalCode: "98497"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. RAJA AMPAT",
-    cityCode: "9108",
-    district: "Salawati Barat",
-    districtCode: "9108034",
     village: "Kalwal",
     villageCode: "9108034004",
     postalCode: "98497"
@@ -11483,28 +5752,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     districtCode: "9108034",
     village: "Waibon",
     villageCode: "9108034002",
-    postalCode: "98497"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. RAJA AMPAT",
-    cityCode: "9108",
-    district: "Salawati Barat",
-    districtCode: "9108034",
-    village: "Waibon",
-    villageCode: "9108034002",
-    postalCode: "98497"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. RAJA AMPAT",
-    cityCode: "9108",
-    district: "Salawati Barat",
-    districtCode: "9108034",
-    village: "Solol",
-    villageCode: "9108034001",
     postalCode: "98497"
   },
   {
@@ -11536,41 +5783,8 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9108",
     district: "Salawati Utara",
     districtCode: "9108031",
-    village: "Jefman Barat",
-    villageCode: "9108031011",
-    postalCode: "98497"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. RAJA AMPAT",
-    cityCode: "9108",
-    district: "Salawati Utara",
-    districtCode: "9108031",
     village: "Samate",
     villageCode: "9108031003",
-    postalCode: "98497"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. RAJA AMPAT",
-    cityCode: "9108",
-    district: "Salawati Utara",
-    districtCode: "9108031",
-    village: "Samate",
-    villageCode: "9108031003",
-    postalCode: "98497"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. RAJA AMPAT",
-    cityCode: "9108",
-    district: "Salawati Utara",
-    districtCode: "9108031",
-    village: "Waidim",
-    villageCode: "9108031010",
     postalCode: "98497"
   },
   {
@@ -11602,41 +5816,8 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9108",
     district: "Salawati Utara",
     districtCode: "9108031",
-    village: "Kapatlap",
-    villageCode: "9108031005",
-    postalCode: "98497"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. RAJA AMPAT",
-    cityCode: "9108",
-    district: "Salawati Utara",
-    districtCode: "9108031",
     village: "Wamega",
     villageCode: "9108031009",
-    postalCode: "98497"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. RAJA AMPAT",
-    cityCode: "9108",
-    district: "Salawati Utara",
-    districtCode: "9108031",
-    village: "Wamega",
-    villageCode: "9108031009",
-    postalCode: "98497"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. RAJA AMPAT",
-    cityCode: "9108",
-    district: "Salawati Utara",
-    districtCode: "9108031",
-    village: "Jefman Timur",
-    villageCode: "9108031012",
     postalCode: "98497"
   },
   {
@@ -11668,28 +5849,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9108",
     district: "Batanta Utara",
     districtCode: "9108036",
-    village: "Yensawai Barat",
-    villageCode: "9108036004",
-    postalCode: "98498"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. RAJA AMPAT",
-    cityCode: "9108",
-    district: "Batanta Utara",
-    districtCode: "9108036",
-    village: "Arefi Timur",
-    villageCode: "9108036001",
-    postalCode: "98498"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. RAJA AMPAT",
-    cityCode: "9108",
-    district: "Batanta Utara",
-    districtCode: "9108036",
     village: "Arefi Timur",
     villageCode: "9108036001",
     postalCode: "98498"
@@ -11703,28 +5862,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     districtCode: "9108036",
     village: "Yensawai Timur",
     villageCode: "9108036003",
-    postalCode: "98498"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. RAJA AMPAT",
-    cityCode: "9108",
-    district: "Batanta Utara",
-    districtCode: "9108036",
-    village: "Yensawai Timur",
-    villageCode: "9108036003",
-    postalCode: "98498"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. RAJA AMPAT",
-    cityCode: "9108",
-    district: "Batanta Utara",
-    districtCode: "9108036",
-    village: "Arefi Selatan",
-    villageCode: "9108036002",
     postalCode: "98498"
   },
   {
@@ -11756,28 +5893,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9108",
     district: "Batanta Selatan",
     districtCode: "9108035",
-    village: "Yenanas",
-    villageCode: "9108035001",
-    postalCode: "98498"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. RAJA AMPAT",
-    cityCode: "9108",
-    district: "Batanta Selatan",
-    districtCode: "9108035",
-    village: "Amdui",
-    villageCode: "9108035004",
-    postalCode: "98498"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. RAJA AMPAT",
-    cityCode: "9108",
-    district: "Batanta Selatan",
-    districtCode: "9108035",
     village: "Amdui",
     villageCode: "9108035004",
     postalCode: "98498"
@@ -11791,28 +5906,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     districtCode: "9108035",
     village: "Wailebet",
     villageCode: "9108035003",
-    postalCode: "98498"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. RAJA AMPAT",
-    cityCode: "9108",
-    district: "Batanta Selatan",
-    districtCode: "9108035",
-    village: "Wailebet",
-    villageCode: "9108035003",
-    postalCode: "98498"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. RAJA AMPAT",
-    cityCode: "9108",
-    district: "Batanta Selatan",
-    districtCode: "9108035",
-    village: "Waiman",
-    villageCode: "9108035002",
     postalCode: "98498"
   },
   {
@@ -11844,41 +5937,8 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9109",
     district: "Amberbaken",
     districtCode: "9109090",
-    village: "Saukorem",
-    villageCode: "",
-    postalCode: "98371"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Amberbaken",
-    districtCode: "9109090",
     village: "Manggapnut",
     villageCode: "9109090016",
-    postalCode: "98371"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Amberbaken",
-    districtCode: "9109090",
-    village: "Manggapnut",
-    villageCode: "9109090016",
-    postalCode: "98371"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Amberbaken",
-    districtCode: "9109090",
-    village: "Binmaks",
-    villageCode: "",
     postalCode: "98371"
   },
   {
@@ -11910,41 +5970,8 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9109",
     district: "Amberbaken",
     districtCode: "9109090",
-    village: "Wasarak",
-    villageCode: "9109090011",
-    postalCode: "98371"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Amberbaken",
-    districtCode: "9109090",
     village: "Wekari",
     villageCode: "9109090012",
-    postalCode: "98371"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Amberbaken",
-    districtCode: "9109090",
-    village: "Wekari",
-    villageCode: "9109090012",
-    postalCode: "98371"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Amberbaken",
-    districtCode: "9109090",
-    village: "Serayo",
-    villageCode: "9109090005",
     postalCode: "98371"
   },
   {
@@ -11976,28 +6003,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9109",
     district: "Amberbaken",
     districtCode: "9109090",
-    village: "Waramui",
-    villageCode: "9109090017",
-    postalCode: "98371"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Amberbaken",
-    districtCode: "9109090",
-    village: "Kabibwan",
-    villageCode: "",
-    postalCode: "98371"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Amberbaken",
-    districtCode: "9109090",
     village: "Kabibwan",
     villageCode: "",
     postalCode: "98371"
@@ -12011,28 +6016,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     districtCode: "9109090",
     village: "Wefani",
     villageCode: "",
-    postalCode: "98371"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Amberbaken",
-    districtCode: "9109090",
-    village: "Wefani",
-    villageCode: "",
-    postalCode: "98371"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Amberbaken",
-    districtCode: "9109090",
-    village: "Binasi",
-    villageCode: "9109090013",
     postalCode: "98371"
   },
   {
@@ -12064,41 +6047,8 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9109",
     district: "Mpur",
     districtCode: "9109091",
-    village: "Mangganek",
-    villageCode: "9109091002",
-    postalCode: "98371"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Mpur",
-    districtCode: "9109091",
     village: "Arupi",
     villageCode: "",
-    postalCode: "98371"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Mpur",
-    districtCode: "9109091",
-    village: "Arupi",
-    villageCode: "",
-    postalCode: "98371"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Mpur",
-    districtCode: "9109091",
-    village: "Wajarek",
-    villageCode: "9109091003",
     postalCode: "98371"
   },
   {
@@ -12130,41 +6080,8 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9109",
     district: "Mpur",
     districtCode: "9109091",
-    village: "Araro",
-    villageCode: "",
-    postalCode: "98371"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Mpur",
-    districtCode: "9109091",
     village: "Warpaperi",
     villageCode: "9109091005",
-    postalCode: "98371"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Mpur",
-    districtCode: "9109091",
-    village: "Warpaperi",
-    villageCode: "9109091005",
-    postalCode: "98371"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Mpur",
-    districtCode: "9109091",
-    village: "Kali An",
-    villageCode: "",
     postalCode: "98371"
   },
   {
@@ -12196,41 +6113,8 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9109",
     district: "Amberbaken Barat",
     districtCode: "9109092",
-    village: "Saurabon",
-    villageCode: "9109092004",
-    postalCode: "98371"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Amberbaken Barat",
-    districtCode: "9109092",
     village: "Wasawmontem",
     villageCode: "",
-    postalCode: "98371"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Amberbaken Barat",
-    districtCode: "9109092",
-    village: "Wasawmontem",
-    villageCode: "",
-    postalCode: "98371"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Amberbaken Barat",
-    districtCode: "9109092",
-    village: "Bondopi",
-    villageCode: "9109092001",
     postalCode: "98371"
   },
   {
@@ -12262,28 +6146,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9109",
     district: "Amberbaken Barat",
     districtCode: "9109092",
-    village: "Manggaew",
-    villageCode: "9109092003",
-    postalCode: "98371"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Amberbaken Barat",
-    districtCode: "9109092",
-    village: "Sasui",
-    villageCode: "9109092002",
-    postalCode: "98371"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Amberbaken Barat",
-    districtCode: "9109092",
     village: "Sasui",
     villageCode: "9109092002",
     postalCode: "98371"
@@ -12297,28 +6159,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     districtCode: "9109071",
     village: "Arumi",
     villageCode: "9109071004",
-    postalCode: "98372"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Kebar Timur",
-    districtCode: "9109071",
-    village: "Arumi",
-    villageCode: "9109071004",
-    postalCode: "98372"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Kebar Timur",
-    districtCode: "9109071",
-    village: "Meycocforga",
-    villageCode: "",
     postalCode: "98372"
   },
   {
@@ -12350,41 +6190,8 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9109",
     district: "Kebar Timur",
     districtCode: "9109071",
-    village: "Nabisai",
-    villageCode: "9109071011",
-    postalCode: "98372"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Kebar Timur",
-    districtCode: "9109071",
     village: "Kasi Inom",
     villageCode: "9109071005",
-    postalCode: "98372"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Kebar Timur",
-    districtCode: "9109071",
-    village: "Kasi Inom",
-    villageCode: "9109071005",
-    postalCode: "98372"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Kebar Timur",
-    districtCode: "9109071",
-    village: "Untorey",
-    villageCode: "9109071008",
     postalCode: "98372"
   },
   {
@@ -12416,41 +6223,8 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9109",
     district: "Kebar Timur",
     districtCode: "9109071",
-    village: "Inambuari",
-    villageCode: "9109071001",
-    postalCode: "98372"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Kebar Timur",
-    districtCode: "9109071",
     village: "Arampak",
     villageCode: "9109071012",
-    postalCode: "98372"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Kebar Timur",
-    districtCode: "9109071",
-    village: "Arampak",
-    villageCode: "9109071012",
-    postalCode: "98372"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Kebar Timur",
-    districtCode: "9109071",
-    village: "Inam",
-    villageCode: "9109071003",
     postalCode: "98372"
   },
   {
@@ -12482,41 +6256,8 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9109",
     district: "Kebar Timur",
     districtCode: "9109071",
-    village: "Jandurauw",
-    villageCode: "",
-    postalCode: "98372"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Kebar Timur",
-    districtCode: "9109071",
     village: "Karawi",
     villageCode: "9109071009",
-    postalCode: "98372"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Kebar Timur",
-    districtCode: "9109071",
-    village: "Karawi",
-    villageCode: "9109071009",
-    postalCode: "98372"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Kebar Timur",
-    districtCode: "9109071",
-    village: "Ireji",
-    villageCode: "9109071006",
     postalCode: "98372"
   },
   {
@@ -12548,41 +6289,8 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9109",
     district: "Kebar Timur",
     districtCode: "9109071",
-    village: "Sitori",
-    villageCode: "9109071010",
-    postalCode: "98372"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Kebar Timur",
-    districtCode: "9109071",
     village: "Wasabiti",
     villageCode: "9109071013",
-    postalCode: "98372"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Kebar Timur",
-    districtCode: "9109071",
-    village: "Wasabiti",
-    villageCode: "9109071013",
-    postalCode: "98372"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Kebar Selatan",
-    districtCode: "9109072",
-    village: "Nekori",
-    villageCode: "9109072001",
     postalCode: "98372"
   },
   {
@@ -12614,41 +6322,8 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9109",
     district: "Kebar Selatan",
     districtCode: "9109072",
-    village: "Ajami",
-    villageCode: "9109072002",
-    postalCode: "98372"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Kebar Selatan",
-    districtCode: "9109072",
     village: "Umpay",
     villageCode: "9109072009",
-    postalCode: "98372"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Kebar Selatan",
-    districtCode: "9109072",
-    village: "Umpay",
-    villageCode: "9109072009",
-    postalCode: "98372"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Kebar Selatan",
-    districtCode: "9109072",
-    village: "Aniti",
-    villageCode: "9109072006",
     postalCode: "98372"
   },
   {
@@ -12680,41 +6355,8 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9109",
     district: "Kebar Selatan",
     districtCode: "9109072",
-    village: "Atiki",
-    villageCode: "9109072004",
-    postalCode: "98372"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Kebar Selatan",
-    districtCode: "9109072",
     village: "Amnan",
     villageCode: "9109072007",
-    postalCode: "98372"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Kebar Selatan",
-    districtCode: "9109072",
-    village: "Amnan",
-    villageCode: "9109072007",
-    postalCode: "98372"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Kebar Selatan",
-    districtCode: "9109072",
-    village: "Akari",
-    villageCode: "9109072008",
     postalCode: "98372"
   },
   {
@@ -12746,28 +6388,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9109",
     district: "Kebar Selatan",
     districtCode: "9109072",
-    village: "Arwani",
-    villageCode: "9109072003",
-    postalCode: "98372"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Kebar Selatan",
-    districtCode: "9109072",
-    village: "Aritowi",
-    villageCode: "9109072005",
-    postalCode: "98372"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Kebar Selatan",
-    districtCode: "9109072",
     village: "Aritowi",
     villageCode: "9109072005",
     postalCode: "98372"
@@ -12780,28 +6400,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     district: "Kebar Selatan",
     districtCode: "9109072",
     village: "Meiwar",
-    villageCode: "",
-    postalCode: "98372"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Kebar Selatan",
-    districtCode: "9109072",
-    village: "Meiwar",
-    villageCode: "",
-    postalCode: "98372"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Manekar",
-    districtCode: "9109073",
-    village: "Waumi",
     villageCode: "",
     postalCode: "98372"
   },
@@ -12834,41 +6432,8 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9109",
     district: "Manekar",
     districtCode: "9109073",
-    village: "Akmuri",
-    villageCode: "9109073001",
-    postalCode: "98372"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Manekar",
-    districtCode: "9109073",
     village: "Atunari",
     villageCode: "9109073008",
-    postalCode: "98372"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Manekar",
-    districtCode: "9109073",
-    village: "Atunari",
-    villageCode: "9109073008",
-    postalCode: "98372"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Manekar",
-    districtCode: "9109073",
-    village: "Ajami Waripi",
-    villageCode: "9109073005",
     postalCode: "98372"
   },
   {
@@ -12900,28 +6465,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9109",
     district: "Manekar",
     districtCode: "9109073",
-    village: "Aranari",
-    villageCode: "9109073009",
-    postalCode: "98372"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Manekar",
-    districtCode: "9109073",
-    village: "Aneti",
-    villageCode: "9109073004",
-    postalCode: "98372"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Manekar",
-    districtCode: "9109073",
     village: "Aneti",
     villageCode: "9109073004",
     postalCode: "98372"
@@ -12934,28 +6477,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     district: "Manekar",
     districtCode: "9109073",
     village: "Narai",
-    villageCode: "",
-    postalCode: "98372"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Manekar",
-    districtCode: "9109073",
-    village: "Narai",
-    villageCode: "",
-    postalCode: "98372"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Manekar",
-    districtCode: "9109073",
-    village: "Atai",
     villageCode: "",
     postalCode: "98372"
   },
@@ -12988,41 +6509,8 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9109",
     district: "Manekar",
     districtCode: "9109073",
-    village: "Itafiti",
-    villageCode: "",
-    postalCode: "98372"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Manekar",
-    districtCode: "9109073",
     village: "Awori",
     villageCode: "9109073007",
-    postalCode: "98372"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Manekar",
-    districtCode: "9109073",
-    village: "Awori",
-    villageCode: "9109073007",
-    postalCode: "98372"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Kebar",
-    districtCode: "9109070",
-    village: "Matatun",
-    villageCode: "",
     postalCode: "98372"
   },
   {
@@ -13054,28 +6542,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9109",
     district: "Kebar",
     districtCode: "9109070",
-    village: "Wabanek",
-    villageCode: "9109070023",
-    postalCode: "98372"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Kebar",
-    districtCode: "9109070",
-    village: "Apoki",
-    villageCode: "9109070012",
-    postalCode: "98372"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Kebar",
-    districtCode: "9109070",
     village: "Apoki",
     villageCode: "9109070012",
     postalCode: "98372"
@@ -13098,40 +6564,7 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9109",
     district: "Kebar",
     districtCode: "9109070",
-    village: "Manaria",
-    villageCode: "9109070016",
-    postalCode: "98372"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Kebar",
-    districtCode: "9109070",
     village: "Jambuani",
-    villageCode: "9109070015",
-    postalCode: "98372"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Kebar",
-    districtCode: "9109070",
-    village: "Jambuani",
-    villageCode: "9109070015",
-    postalCode: "98372"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Kebar",
-    districtCode: "9109070",
-    village: "Anarum",
     villageCode: "9109070015",
     postalCode: "98372"
   },
@@ -13164,28 +6597,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9109",
     district: "Kebar",
     districtCode: "9109070",
-    village: "Pubuan",
-    villageCode: "9109070039",
-    postalCode: "98372"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Kebar",
-    districtCode: "9109070",
-    village: "Wasanggon",
-    villageCode: "9109070022",
-    postalCode: "98372"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Kebar",
-    districtCode: "9109070",
     village: "Wasanggon",
     villageCode: "9109070022",
     postalCode: "98372"
@@ -13199,28 +6610,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     districtCode: "9109070",
     village: "Injai",
     villageCode: "",
-    postalCode: "98372"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Kebar",
-    districtCode: "9109070",
-    village: "Injai",
-    villageCode: "",
-    postalCode: "98372"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Kebar",
-    districtCode: "9109070",
-    village: "Jafai",
-    villageCode: "9109070013",
     postalCode: "98372"
   },
   {
@@ -13252,41 +6641,8 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9109",
     district: "Mawabuan",
     districtCode: "9109081",
-    village: "Bisaud",
-    villageCode: "9109081005",
-    postalCode: "98374"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Mawabuan",
-    districtCode: "9109081",
     village: "Wausin",
     villageCode: "9109081001",
-    postalCode: "98374"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Mawabuan",
-    districtCode: "9109081",
-    village: "Wausin",
-    villageCode: "9109081001",
-    postalCode: "98374"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Mawabuan",
-    districtCode: "9109081",
-    village: "Nisandauw",
-    villageCode: "9109081006",
     postalCode: "98374"
   },
   {
@@ -13318,28 +6674,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9109",
     district: "Mawabuan",
     districtCode: "9109081",
-    village: "Wufmana",
-    villageCode: "9109081003",
-    postalCode: "98374"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Mawabuan",
-    districtCode: "9109081",
-    village: "Ajokwapi",
-    villageCode: "",
-    postalCode: "98374"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Mawabuan",
-    districtCode: "9109081",
     village: "Ajokwapi",
     villageCode: "",
     postalCode: "98374"
@@ -13353,28 +6687,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     districtCode: "9109081",
     village: "Afrawi",
     villageCode: "9109081002",
-    postalCode: "98374"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Mawabuan",
-    districtCode: "9109081",
-    village: "Afrawi",
-    villageCode: "9109081002",
-    postalCode: "98374"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Mawabuan",
-    districtCode: "9109081",
-    village: "Asiti",
-    villageCode: "9109081004",
     postalCode: "98374"
   },
   {
@@ -13406,41 +6718,8 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9109",
     district: "Senopi",
     districtCode: "9109080",
-    village: "Sumo",
-    villageCode: "9109080006",
-    postalCode: "98374"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Senopi",
-    districtCode: "9109080",
     village: "Thomas",
     villageCode: "9109080014",
-    postalCode: "98374"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Senopi",
-    districtCode: "9109080",
-    village: "Thomas",
-    villageCode: "9109080014",
-    postalCode: "98374"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Senopi",
-    districtCode: "9109080",
-    village: "Senopi",
-    villageCode: "",
     postalCode: "98374"
   },
   {
@@ -13472,41 +6751,8 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9109",
     district: "Senopi",
     districtCode: "9109080",
-    village: "Ifat Mitu",
-    villageCode: "9109080007",
-    postalCode: "98374"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Senopi",
-    districtCode: "9109080",
     village: "Arapi",
     villageCode: "9109080004",
-    postalCode: "98374"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Senopi",
-    districtCode: "9109080",
-    village: "Arapi",
-    villageCode: "9109080004",
-    postalCode: "98374"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Senopi",
-    districtCode: "9109080",
-    village: "Tintum Araw",
-    villageCode: "",
     postalCode: "98374"
   },
   {
@@ -13538,28 +6784,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9109",
     district: "Senopi",
     districtCode: "9109080",
-    village: "Povokek Ania",
-    villageCode: "9109080008",
-    postalCode: "98374"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Senopi",
-    districtCode: "9109080",
-    village: "Srurem",
-    villageCode: "",
-    postalCode: "98374"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Senopi",
-    districtCode: "9109080",
     village: "Srurem",
     villageCode: "",
     postalCode: "98374"
@@ -13572,28 +6796,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     district: "Mubrani",
     districtCode: "",
     village: "Waru",
-    villageCode: "",
-    postalCode: "98375"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Mubrani",
-    districtCode: "",
-    village: "Waru",
-    villageCode: "",
-    postalCode: "98375"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Mubrani",
-    districtCode: "",
-    village: "Bawey",
     villageCode: "",
     postalCode: "98375"
   },
@@ -13626,40 +6828,7 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9109",
     district: "Mubrani",
     districtCode: "",
-    village: "Warokon",
-    villageCode: "",
-    postalCode: "98375"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Mubrani",
-    districtCode: "",
     village: "Arekon",
-    villageCode: "",
-    postalCode: "98375"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Mubrani",
-    districtCode: "",
-    village: "Arekon",
-    villageCode: "",
-    postalCode: "98375"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Mubrani",
-    districtCode: "",
-    village: "Wasnembri",
     villageCode: "",
     postalCode: "98375"
   },
@@ -13692,40 +6861,7 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9109",
     district: "Mubrani",
     districtCode: "",
-    village: "Marbuan",
-    villageCode: "",
-    postalCode: "98375"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Mubrani",
-    districtCode: "",
     village: "Arfu",
-    villageCode: "",
-    postalCode: "98375"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Mubrani",
-    districtCode: "",
-    village: "Arfu",
-    villageCode: "",
-    postalCode: "98375"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Mubrani",
-    districtCode: "",
-    village: "Atori",
     villageCode: "",
     postalCode: "98375"
   },
@@ -13758,40 +6894,7 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9109",
     district: "Mubrani",
     districtCode: "",
-    village: "Meriambeker",
-    villageCode: "",
-    postalCode: "98375"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Mubrani",
-    districtCode: "",
     village: "Bonpaya",
-    villageCode: "",
-    postalCode: "98375"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Mubrani",
-    districtCode: "",
-    village: "Bonpaya",
-    villageCode: "",
-    postalCode: "98375"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Mubrani",
-    districtCode: "",
-    village: "Bijamfou",
     villageCode: "",
     postalCode: "98375"
   },
@@ -13824,40 +6927,7 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9109",
     district: "Kasi",
     districtCode: "",
-    village: "Meserikweda",
-    villageCode: "",
-    postalCode: "98383"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Kasi",
-    districtCode: "",
     village: "Kasi Baru",
-    villageCode: "",
-    postalCode: "98383"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Kasi",
-    districtCode: "",
-    village: "Kasi Baru",
-    villageCode: "",
-    postalCode: "98383"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Kasi",
-    districtCode: "",
-    village: "Kasi Indah",
     villageCode: "",
     postalCode: "98383"
   },
@@ -13890,40 +6960,7 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9109",
     district: "Kasi",
     districtCode: "",
-    village: "Kasi Jaya",
-    villageCode: "",
-    postalCode: "98383"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Kasi",
-    districtCode: "",
     village: "Wacam",
-    villageCode: "",
-    postalCode: "98383"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Kasi",
-    districtCode: "",
-    village: "Wacam",
-    villageCode: "",
-    postalCode: "98383"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Kasi",
-    districtCode: "",
-    village: "Irumfei",
     villageCode: "",
     postalCode: "98383"
   },
@@ -13954,43 +6991,10 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     provinceCode: "96",
     city: "KAB. TAMBRAUW",
     cityCode: "9109",
-    district: "Kasi",
-    districtCode: "",
-    village: "Meimorufof",
-    villageCode: "",
-    postalCode: "98383"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
     district: "Selemkai",
     districtCode: "9109111",
     village: "Klasei",
     villageCode: "9109111004",
-    postalCode: "98447"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Selemkai",
-    districtCode: "9109111",
-    village: "Klasei",
-    villageCode: "9109111004",
-    postalCode: "98447"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Moraid",
-    districtCode: "9109110",
-    village: "Selewok",
-    villageCode: "",
     postalCode: "98447"
   },
   {
@@ -14020,43 +7024,10 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     provinceCode: "96",
     city: "KAB. TAMBRAUW",
     cityCode: "9109",
-    district: "Moraid",
-    districtCode: "9109110",
-    village: "Warmanen",
-    villageCode: "9109110019",
-    postalCode: "98447"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
     district: "Selemkai",
     districtCode: "9109111",
     village: "Kaladum",
     villageCode: "9109111003",
-    postalCode: "98447"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Selemkai",
-    districtCode: "9109111",
-    village: "Kaladum",
-    villageCode: "9109111003",
-    postalCode: "98447"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Moraid",
-    districtCode: "9109110",
-    village: "Bonem",
-    villageCode: "9109110017",
     postalCode: "98447"
   },
   {
@@ -14086,43 +7057,10 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     provinceCode: "96",
     city: "KAB. TAMBRAUW",
     cityCode: "9109",
-    district: "Selemkai",
-    districtCode: "9109111",
-    village: "Klabili",
-    villageCode: "9109111005",
-    postalCode: "98447"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
     district: "Moraid",
     districtCode: "9109110",
     village: "Warafor",
     villageCode: "9109110020",
-    postalCode: "98447"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Moraid",
-    districtCode: "9109110",
-    village: "Warafor",
-    villageCode: "9109110020",
-    postalCode: "98447"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Selemkai",
-    districtCode: "9109111",
-    village: "Megame",
-    villageCode: "9109111002",
     postalCode: "98447"
   },
   {
@@ -14154,28 +7092,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9109",
     district: "Moraid",
     districtCode: "9109110",
-    village: "Warmasi",
-    villageCode: "9109110018",
-    postalCode: "98447"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Moraid",
-    districtCode: "9109110",
-    village: "Mega",
-    villageCode: "9109110010",
-    postalCode: "98447"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Moraid",
-    districtCode: "9109110",
     village: "Mega",
     villageCode: "9109110010",
     postalCode: "98447"
@@ -14189,28 +7105,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     districtCode: "9109110",
     village: "Namuas",
     villageCode: "9109110016",
-    postalCode: "98447"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Moraid",
-    districtCode: "9109110",
-    village: "Namuas",
-    villageCode: "9109110016",
-    postalCode: "98447"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Selemkai",
-    districtCode: "9109111",
-    village: "Dela",
-    villageCode: "9109111001",
     postalCode: "98447"
   },
   {
@@ -14242,28 +7136,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9109",
     district: "Moraid",
     districtCode: "9109110",
-    village: "Malaworsai",
-    villageCode: "9109110012",
-    postalCode: "98447"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Moraid",
-    districtCode: "9109110",
-    village: "Kwade",
-    villageCode: "9109110015",
-    postalCode: "98447"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Moraid",
-    districtCode: "9109110",
     village: "Kwade",
     villageCode: "9109110015",
     postalCode: "98447"
@@ -14277,28 +7149,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     districtCode: "9109023",
     village: "Tabamsere",
     villageCode: "9109023001",
-    postalCode: "98473"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Wilhem Roumbouts",
-    districtCode: "9109023",
-    village: "Tabamsere",
-    villageCode: "9109023001",
-    postalCode: "98473"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Wilhem Roumbouts",
-    districtCode: "9109023",
-    village: "Sayam",
-    villageCode: "9109023002",
     postalCode: "98473"
   },
   {
@@ -14330,28 +7180,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9109",
     district: "Wilhem Roumbouts",
     districtCode: "9109023",
-    village: "Araf Mafat",
-    villageCode: "",
-    postalCode: "98473"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Wilhem Roumbouts",
-    districtCode: "9109023",
-    village: "Esyuom",
-    villageCode: "9109023003",
-    postalCode: "98473"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Wilhem Roumbouts",
-    districtCode: "9109023",
     village: "Esyuom",
     villageCode: "9109023003",
     postalCode: "98473"
@@ -14365,28 +7193,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     districtCode: "9109013",
     village: "Tinggouw",
     villageCode: "9109013003",
-    postalCode: "98473"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Tinggouw",
-    districtCode: "9109013",
-    village: "Tinggouw",
-    villageCode: "9109013003",
-    postalCode: "98473"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Kwoor",
-    districtCode: "9109040",
-    village: "Esmambo",
-    villageCode: "9109040013",
     postalCode: "98473"
   },
   {
@@ -14418,41 +7224,8 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9109",
     district: "Sausapor",
     districtCode: "9109050",
-    village: "Sausapor",
-    villageCode: "9109050001",
-    postalCode: "98473"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Sausapor",
-    districtCode: "9109050",
     village: "Jokte",
     villageCode: "9109050006",
-    postalCode: "98473"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Sausapor",
-    districtCode: "9109050",
-    village: "Jokte",
-    villageCode: "9109050006",
-    postalCode: "98473"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Tinggouw",
-    districtCode: "9109013",
-    village: "Hohair",
-    villageCode: "9109013004",
     postalCode: "98473"
   },
   {
@@ -14484,41 +7257,8 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9109",
     district: "Sausapor",
     districtCode: "9109050",
-    village: "Nanggou",
-    villageCode: "9109050013",
-    postalCode: "98473"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Sausapor",
-    districtCode: "9109050",
     village: "Bondek",
     villageCode: "9109050014",
-    postalCode: "98473"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Sausapor",
-    districtCode: "9109050",
-    village: "Bondek",
-    villageCode: "9109050014",
-    postalCode: "98473"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Tinggouw",
-    districtCode: "9109013",
-    village: "Soon",
-    villageCode: "9109013001",
     postalCode: "98473"
   },
   {
@@ -14550,41 +7290,8 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9109",
     district: "Sausapor",
     districtCode: "9109050",
-    village: "Sau Uram",
-    villageCode: "9109050012",
-    postalCode: "98473"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Sausapor",
-    districtCode: "9109050",
     village: "Bondonggwan",
     villageCode: "",
-    postalCode: "98473"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Sausapor",
-    districtCode: "9109050",
-    village: "Bondonggwan",
-    villageCode: "",
-    postalCode: "98473"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Sausapor",
-    districtCode: "9109050",
-    village: "Syurauw",
-    villageCode: "9109050016",
     postalCode: "98473"
   },
   {
@@ -14616,41 +7323,8 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9109",
     district: "Tinggouw",
     districtCode: "9109013",
-    village: "Ifatkan",
-    villageCode: "",
-    postalCode: "98473"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Tinggouw",
-    districtCode: "9109013",
     village: "Ruriai",
     villageCode: "",
-    postalCode: "98473"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Tinggouw",
-    districtCode: "9109013",
-    village: "Ruriai",
-    villageCode: "",
-    postalCode: "98473"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Kwoor",
-    districtCode: "9109040",
-    village: "Barar",
-    villageCode: "9109040012",
     postalCode: "98473"
   },
   {
@@ -14682,41 +7356,8 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9109",
     district: "Sausapor",
     districtCode: "9109050",
-    village: "Uigwem",
-    villageCode: "9109050008",
-    postalCode: "98473"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Sausapor",
-    districtCode: "9109050",
     village: "Emaos",
     villageCode: "9109050007",
-    postalCode: "98473"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Sausapor",
-    districtCode: "9109050",
-    village: "Emaos",
-    villageCode: "9109050007",
-    postalCode: "98473"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Sausapor",
-    districtCode: "9109050",
-    village: "Sungguwan",
-    villageCode: "9109050011",
     postalCode: "98473"
   },
   {
@@ -14746,43 +7387,10 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     provinceCode: "96",
     city: "KAB. TAMBRAUW",
     cityCode: "9109",
-    district: "Syujak",
-    districtCode: "9109011",
-    village: "Banso",
-    villageCode: "9109011002",
-    postalCode: "98473"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
     district: "Bamusbama",
     districtCode: "9109061",
     village: "Bamusbama",
     villageCode: "9109061001",
-    postalCode: "98473"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Bamusbama",
-    districtCode: "9109061",
-    village: "Bamusbama",
-    villageCode: "9109061001",
-    postalCode: "98473"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Syujak",
-    districtCode: "9109011",
-    village: "Frafane",
-    villageCode: "",
     postalCode: "98473"
   },
   {
@@ -14812,28 +7420,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     provinceCode: "96",
     city: "KAB. TAMBRAUW",
     cityCode: "9109",
-    district: "Bamusbama",
-    districtCode: "9109061",
-    village: "Syarwom",
-    villageCode: "9109061005",
-    postalCode: "98473"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Syujak",
-    districtCode: "9109011",
-    village: "Iof",
-    villageCode: "9109011001",
-    postalCode: "98473"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
     district: "Syujak",
     districtCode: "9109011",
     village: "Iof",
@@ -14849,28 +7435,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     districtCode: "9109061",
     village: "Bano",
     villageCode: "9109061007",
-    postalCode: "98473"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Bamusbama",
-    districtCode: "9109061",
-    village: "Bano",
-    villageCode: "9109061007",
-    postalCode: "98473"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Syujak",
-    districtCode: "9109011",
-    village: "Syujak",
-    villageCode: "9109011004",
     postalCode: "98473"
   },
   {
@@ -14902,28 +7466,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9109",
     district: "Bamusbama",
     districtCode: "9109061",
-    village: "Metbesa",
-    villageCode: "9109061003",
-    postalCode: "98473"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Bamusbama",
-    districtCode: "9109061",
-    village: "Bamuswaiman",
-    villageCode: "",
-    postalCode: "98473"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Bamusbama",
-    districtCode: "9109061",
     village: "Bamuswaiman",
     villageCode: "",
     postalCode: "98473"
@@ -14937,28 +7479,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     districtCode: "9109061",
     village: "Babak",
     villageCode: "9109061006",
-    postalCode: "98473"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Bamusbama",
-    districtCode: "9109061",
-    village: "Babak",
-    villageCode: "9109061006",
-    postalCode: "98473"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Abun",
-    districtCode: "9109030",
-    village: "Warmandi",
-    villageCode: "9109030002",
     postalCode: "98473"
   },
   {
@@ -14990,41 +7510,8 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9109",
     district: "Bikar",
     districtCode: "9109051",
-    village: "Bukit",
-    villageCode: "9109051008",
-    postalCode: "98473"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Bikar",
-    districtCode: "9109051",
     village: "Syunai",
     villageCode: "9109051007",
-    postalCode: "98473"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Bikar",
-    districtCode: "9109051",
-    village: "Syunai",
-    villageCode: "9109051007",
-    postalCode: "98473"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Bikar",
-    districtCode: "9109051",
-    village: "Werbes",
-    villageCode: "",
     postalCode: "98473"
   },
   {
@@ -15056,41 +7543,8 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9109",
     district: "Bikar",
     districtCode: "9109051",
-    village: "Nombrak",
-    villageCode: "9109051006",
-    postalCode: "98473"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Bikar",
-    districtCode: "9109051",
     village: "Werur",
     villageCode: "",
-    postalCode: "98473"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Bikar",
-    districtCode: "9109051",
-    village: "Werur",
-    villageCode: "",
-    postalCode: "98473"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Bikar",
-    districtCode: "9109051",
-    village: "Bikar",
-    villageCode: "9109051001",
     postalCode: "98473"
   },
   {
@@ -15122,28 +7576,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9109",
     district: "Bikar",
     districtCode: "9109051",
-    village: "Wertam",
-    villageCode: "9109051005",
-    postalCode: "98473"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Bikar",
-    districtCode: "9109051",
-    village: "Werwaf",
-    villageCode: "9109051004",
-    postalCode: "98473"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Bikar",
-    districtCode: "9109051",
     village: "Werwaf",
     villageCode: "9109051004",
     postalCode: "98473"
@@ -15157,28 +7589,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     districtCode: "9109051",
     village: "Suyam",
     villageCode: "9109051009",
-    postalCode: "98473"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Bikar",
-    districtCode: "9109051",
-    village: "Suyam",
-    villageCode: "9109051009",
-    postalCode: "98473"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Bikar",
-    districtCode: "9109051",
-    village: "Wertim",
-    villageCode: "",
     postalCode: "98473"
   },
   {
@@ -15210,41 +7620,8 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9109",
     district: "Kwesefo",
     districtCode: "9109042",
-    village: "Kranfotsu",
-    villageCode: "9109042004",
-    postalCode: "98474"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Kwesefo",
-    districtCode: "9109042",
     village: "Batdey",
     villageCode: "",
-    postalCode: "98474"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Kwesefo",
-    districtCode: "9109042",
-    village: "Batdey",
-    villageCode: "",
-    postalCode: "98474"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Kwesefo",
-    districtCode: "9109042",
-    village: "Syuau",
-    villageCode: "9109042001",
     postalCode: "98474"
   },
   {
@@ -15276,28 +7653,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9109",
     district: "Kwesefo",
     districtCode: "9109042",
-    village: "Syumbi",
-    villageCode: "9109042006",
-    postalCode: "98474"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Kwesefo",
-    districtCode: "9109042",
-    village: "Bao",
-    villageCode: "9109042005",
-    postalCode: "98474"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Kwesefo",
-    districtCode: "9109042",
     village: "Bao",
     villageCode: "9109042005",
     postalCode: "98474"
@@ -15311,28 +7666,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     districtCode: "9109042",
     village: "Jokbujoker",
     villageCode: "9109042007",
-    postalCode: "98474"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Kwesefo",
-    districtCode: "9109042",
-    village: "Jokbujoker",
-    villageCode: "9109042007",
-    postalCode: "98474"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Kwesefo",
-    districtCode: "9109042",
-    village: "Kwesefo",
-    villageCode: "9109042003",
     postalCode: "98474"
   },
   {
@@ -15364,41 +7697,8 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9109",
     district: "Tobouw",
     districtCode: "9109041",
-    village: "Krisnos",
-    villageCode: "9109041001",
-    postalCode: "98474"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Tobouw",
-    districtCode: "9109041",
     village: "Syumbab",
     villageCode: "9109041002",
-    postalCode: "98474"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Tobouw",
-    districtCode: "9109041",
-    village: "Syumbab",
-    villageCode: "9109041002",
-    postalCode: "98474"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Tobouw",
-    districtCode: "9109041",
-    village: "Dombron",
-    villageCode: "9109041005",
     postalCode: "98474"
   },
   {
@@ -15430,41 +7730,8 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9109",
     district: "Tobouw",
     districtCode: "9109041",
-    village: "Donan",
-    villageCode: "9109041004",
-    postalCode: "98474"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Tobouw",
-    districtCode: "9109041",
     village: "Syukwes",
     villageCode: "",
-    postalCode: "98474"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Tobouw",
-    districtCode: "9109041",
-    village: "Syukwes",
-    villageCode: "",
-    postalCode: "98474"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Kwoor",
-    districtCode: "9109040",
-    village: "Sunggak",
-    villageCode: "9109040010",
     postalCode: "98474"
   },
   {
@@ -15496,41 +7763,8 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9109",
     district: "Kwoor",
     districtCode: "9109040",
-    village: "Kwoor",
-    villageCode: "9109040001",
-    postalCode: "98474"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Kwoor",
-    districtCode: "9109040",
     village: "Orwen",
     villageCode: "9109040011",
-    postalCode: "98474"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Kwoor",
-    districtCode: "9109040",
-    village: "Orwen",
-    villageCode: "9109040011",
-    postalCode: "98474"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Kwoor",
-    districtCode: "9109040",
-    village: "Hopmare",
-    villageCode: "9109040002",
     postalCode: "98474"
   },
   {
@@ -15562,41 +7796,8 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9109",
     district: "Fef",
     districtCode: "9109010",
-    village: "Fef",
-    villageCode: "",
-    postalCode: "98475"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Fef",
-    districtCode: "9109010",
     village: "Iwin",
     villageCode: "9109010012",
-    postalCode: "98475"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Fef",
-    districtCode: "9109010",
-    village: "Iwin",
-    villageCode: "9109010012",
-    postalCode: "98475"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Fef",
-    districtCode: "9109010",
-    village: "Sikor",
-    villageCode: "9109010007",
     postalCode: "98475"
   },
   {
@@ -15628,41 +7829,8 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9109",
     district: "Fef",
     districtCode: "9109010",
-    village: "Imor",
-    villageCode: "9109010014",
-    postalCode: "98475"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Fef",
-    districtCode: "9109010",
     village: "Syunam",
     villageCode: "9109010010",
-    postalCode: "98475"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Fef",
-    districtCode: "9109010",
-    village: "Syunam",
-    villageCode: "9109010010",
-    postalCode: "98475"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Fef",
-    districtCode: "9109010",
-    village: "Ibe",
-    villageCode: "9109010009",
     postalCode: "98475"
   },
   {
@@ -15694,28 +7862,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9109",
     district: "Fef",
     districtCode: "9109010",
-    village: "Wayo",
-    villageCode: "9109010005",
-    postalCode: "98475"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Fef",
-    districtCode: "9109010",
-    village: "Esyum",
-    villageCode: "",
-    postalCode: "98475"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Fef",
-    districtCode: "9109010",
     village: "Esyum",
     villageCode: "",
     postalCode: "98475"
@@ -15729,28 +7875,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     districtCode: "9109010",
     village: "Syubun",
     villageCode: "",
-    postalCode: "98475"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Fef",
-    districtCode: "9109010",
-    village: "Syubun",
-    villageCode: "",
-    postalCode: "98475"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Fef",
-    districtCode: "9109010",
-    village: "Banfot",
-    villageCode: "9109010011",
     postalCode: "98475"
   },
   {
@@ -15782,28 +7906,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9109",
     district: "Ases",
     districtCode: "9109012",
-    village: "Frasayoah",
-    villageCode: "",
-    postalCode: "98475"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Ases",
-    districtCode: "9109012",
-    village: "Asuon",
-    villageCode: "9109012002",
-    postalCode: "98475"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Ases",
-    districtCode: "9109012",
     village: "Asuon",
     villageCode: "9109012002",
     postalCode: "98475"
@@ -15826,41 +7928,8 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9109",
     district: "Ases",
     districtCode: "9109012",
-    village: "Safoetiek",
-    villageCode: "9109012003",
-    postalCode: "98475"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Ases",
-    districtCode: "9109012",
     village: "Ases",
     villageCode: "9109012001",
-    postalCode: "98475"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Ases",
-    districtCode: "9109012",
-    village: "Ases",
-    villageCode: "9109012001",
-    postalCode: "98475"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Yembun",
-    districtCode: "9109060",
-    village: "Baun",
-    villageCode: "9109060001",
     postalCode: "98475"
   },
   {
@@ -15892,28 +7961,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9109",
     district: "Miyah Selatan",
     districtCode: "9109021",
-    village: "Hewi",
-    villageCode: "9109021004",
-    postalCode: "98475"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Miyah Selatan",
-    districtCode: "9109021",
-    village: "Whismer",
-    villageCode: "9109021007",
-    postalCode: "98475"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Miyah Selatan",
-    districtCode: "9109021",
     village: "Whismer",
     villageCode: "9109021007",
     postalCode: "98475"
@@ -15926,28 +7973,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     district: "Miyah Selatan",
     districtCode: "9109021",
     village: "Sisu",
-    villageCode: "",
-    postalCode: "98475"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Miyah Selatan",
-    districtCode: "9109021",
-    village: "Sisu",
-    villageCode: "",
-    postalCode: "98475"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Miyah Selatan",
-    districtCode: "9109021",
-    village: "Ruf",
     villageCode: "",
     postalCode: "98475"
   },
@@ -15980,41 +8005,8 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9109",
     district: "Miyah Selatan",
     districtCode: "9109021",
-    village: "Ayamane",
-    villageCode: "",
-    postalCode: "98475"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Miyah Selatan",
-    districtCode: "9109021",
     village: "Sahae",
     villageCode: "9109021005",
-    postalCode: "98475"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Miyah Selatan",
-    districtCode: "9109021",
-    village: "Sahae",
-    villageCode: "9109021005",
-    postalCode: "98475"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Miyah Selatan",
-    districtCode: "9109021",
-    village: "Mawor",
-    villageCode: "9109021003",
     postalCode: "98475"
   },
   {
@@ -16046,41 +8038,8 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9109",
     district: "Ireres",
     districtCode: "9109022",
-    village: "Miri",
-    villageCode: "",
-    postalCode: "98476"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Ireres",
-    districtCode: "9109022",
     village: "Meinad",
     villageCode: "9109022004",
-    postalCode: "98476"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Ireres",
-    districtCode: "9109022",
-    village: "Meinad",
-    villageCode: "9109022004",
-    postalCode: "98476"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Ireres",
-    districtCode: "9109022",
-    village: "Ifiam",
-    villageCode: "9109022005",
     postalCode: "98476"
   },
   {
@@ -16112,41 +8071,8 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9109",
     district: "Ireres",
     districtCode: "9109022",
-    village: "Meis",
-    villageCode: "9109022002",
-    postalCode: "98476"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Ireres",
-    districtCode: "9109022",
     village: "Atafrumek",
     villageCode: "",
-    postalCode: "98476"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Ireres",
-    districtCode: "9109022",
-    village: "Atafrumek",
-    villageCode: "",
-    postalCode: "98476"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Ireres",
-    districtCode: "9109022",
-    village: "Aifamas",
-    villageCode: "9109022003",
     postalCode: "98476"
   },
   {
@@ -16178,28 +8104,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9109",
     district: "Miyah",
     districtCode: "9109020",
-    village: "Yabuow",
-    villageCode: "",
-    postalCode: "98476"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Miyah",
-    districtCode: "9109020",
-    village: "Ayae",
-    villageCode: "9109020009",
-    postalCode: "98476"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Miyah",
-    districtCode: "9109020",
     village: "Ayae",
     villageCode: "9109020009",
     postalCode: "98476"
@@ -16222,40 +8126,7 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9109",
     district: "Miyah",
     districtCode: "9109020",
-    village: "Ayawit",
-    villageCode: "9109020018",
-    postalCode: "98476"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Miyah",
-    districtCode: "9109020",
     village: "Ruvewes",
-    villageCode: "",
-    postalCode: "98476"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Miyah",
-    districtCode: "9109020",
-    village: "Ruvewes",
-    villageCode: "",
-    postalCode: "98476"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Miyah",
-    districtCode: "9109020",
-    village: "Siakwa",
     villageCode: "",
     postalCode: "98476"
   },
@@ -16288,41 +8159,8 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9109",
     district: "Miyah",
     districtCode: "9109020",
-    village: "Aibogiar",
-    villageCode: "",
-    postalCode: "98476"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Miyah",
-    districtCode: "9109020",
     village: "Hobiah",
     villageCode: "9109020017",
-    postalCode: "98476"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Miyah",
-    districtCode: "9109020",
-    village: "Hobiah",
-    villageCode: "9109020017",
-    postalCode: "98476"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Miyah",
-    districtCode: "9109020",
-    village: "Aifair",
-    villageCode: "9109020019",
     postalCode: "98476"
   },
   {
@@ -16354,41 +8192,8 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9109",
     district: "Abun",
     districtCode: "9109030",
-    village: "Wowom",
-    villageCode: "",
-    postalCode: "98477"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Abun",
-    districtCode: "9109030",
     village: "Wau",
     villageCode: "9109030003",
-    postalCode: "98477"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Abun",
-    districtCode: "9109030",
-    village: "Wau",
-    villageCode: "9109030003",
-    postalCode: "98477"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Abun",
-    districtCode: "9109030",
-    village: "Waibem",
-    villageCode: "9109030004",
     postalCode: "98477"
   },
   {
@@ -16420,41 +8225,8 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9109",
     district: "Abun",
     districtCode: "9109030",
-    village: "Saubeba",
-    villageCode: "9109030001",
-    postalCode: "98477"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Abun",
-    districtCode: "9109030",
     village: "Weyaf",
     villageCode: "9109030005",
-    postalCode: "98477"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Abun",
-    districtCode: "9109030",
-    village: "Weyaf",
-    villageCode: "9109030005",
-    postalCode: "98477"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Abun",
-    districtCode: "9109030",
-    village: "Weprari",
-    villageCode: "",
     postalCode: "98477"
   },
   {
@@ -16486,41 +8258,8 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9109",
     district: "Yembun",
     districtCode: "9109060",
-    village: "Sumbekas",
-    villageCode: "9109060002",
-    postalCode: "98478"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Yembun",
-    districtCode: "9109060",
     village: "Metnayam",
     villageCode: "9109060003",
-    postalCode: "98478"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Yembun",
-    districtCode: "9109060",
-    village: "Metnayam",
-    villageCode: "9109060003",
-    postalCode: "98478"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Yembun",
-    districtCode: "9109060",
-    village: "Wormon",
-    villageCode: "9109060010",
     postalCode: "98478"
   },
   {
@@ -16552,28 +8291,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9109",
     district: "Yembun",
     districtCode: "9109060",
-    village: "Salem",
-    villageCode: "9109060012",
-    postalCode: "98478"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Yembun",
-    districtCode: "9109060",
-    village: "Metbelum",
-    villageCode: "",
-    postalCode: "98478"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. TAMBRAUW",
-    cityCode: "9109",
-    district: "Yembun",
-    districtCode: "9109060",
     village: "Metbelum",
     villageCode: "",
     postalCode: "98478"
@@ -16587,28 +8304,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     districtCode: "9110100",
     village: "Konja",
     villageCode: "9110100006",
-    postalCode: "98051"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aifat Utara",
-    districtCode: "9110100",
-    village: "Konja",
-    villageCode: "9110100006",
-    postalCode: "98051"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aifat",
-    districtCode: "9110040",
-    village: "Bori",
-    villageCode: "9110040010",
     postalCode: "98051"
   },
   {
@@ -16640,28 +8335,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9110",
     district: "Aifat",
     districtCode: "9110040",
-    village: "Kocuwer Selatan",
-    villageCode: "",
-    postalCode: "98051"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aifat",
-    districtCode: "9110040",
-    village: "Futon",
-    villageCode: "9110040002",
-    postalCode: "98051"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aifat",
-    districtCode: "9110040",
     village: "Futon",
     villageCode: "9110040002",
     postalCode: "98051"
@@ -16684,40 +8357,7 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9110",
     district: "Aifat",
     districtCode: "9110040",
-    village: "Kocuwer",
-    villageCode: "9110040006",
-    postalCode: "98051"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aifat",
-    districtCode: "9110040",
     village: "Faitsawe",
-    villageCode: "",
-    postalCode: "98051"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aifat",
-    districtCode: "9110040",
-    village: "Faitsawe",
-    villageCode: "",
-    postalCode: "98051"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aifat",
-    districtCode: "9110040",
-    village: "Sikof",
     villageCode: "",
     postalCode: "98051"
   },
@@ -16750,40 +8390,7 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9110",
     district: "Aifat",
     districtCode: "9110040",
-    village: "Kocuas Utara",
-    villageCode: "",
-    postalCode: "98051"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aifat",
-    districtCode: "9110040",
     village: "Susumuk",
-    villageCode: "",
-    postalCode: "98051"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aifat",
-    districtCode: "9110040",
-    village: "Susumuk",
-    villageCode: "",
-    postalCode: "98051"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aifat",
-    districtCode: "9110040",
-    village: "Faitmayaf",
     villageCode: "",
     postalCode: "98051"
   },
@@ -16816,40 +8423,7 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9110",
     district: "Aifat",
     districtCode: "9110040",
-    village: "Bori Timur",
-    villageCode: "",
-    postalCode: "98051"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aifat",
-    districtCode: "9110040",
     village: "Sampika",
-    villageCode: "",
-    postalCode: "98051"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aifat",
-    districtCode: "9110040",
-    village: "Sampika",
-    villageCode: "",
-    postalCode: "98051"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aifat",
-    districtCode: "9110040",
-    village: "Kumurkek Barat",
     villageCode: "",
     postalCode: "98051"
   },
@@ -16882,40 +8456,7 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9110",
     district: "Aifat",
     districtCode: "9110040",
-    village: "Ainod",
-    villageCode: "",
-    postalCode: "98051"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aifat",
-    districtCode: "9110040",
     village: "Werjaya",
-    villageCode: "",
-    postalCode: "98051"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aifat",
-    districtCode: "9110040",
-    village: "Werjaya",
-    villageCode: "",
-    postalCode: "98051"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aifat",
-    districtCode: "9110040",
-    village: "Faitmayaf Barat",
     villageCode: "",
     postalCode: "98051"
   },
@@ -16948,40 +8489,7 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9110",
     district: "Aifat",
     districtCode: "9110040",
-    village: "Kocuas",
-    villageCode: "9110040004",
-    postalCode: "98051"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aifat",
-    districtCode: "9110040",
     village: "Kumurkek",
-    villageCode: "",
-    postalCode: "98051"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aifat",
-    districtCode: "9110040",
-    village: "Kumurkek",
-    villageCode: "",
-    postalCode: "98051"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aifat",
-    districtCode: "9110040",
-    village: "Aisyo",
     villageCode: "",
     postalCode: "98051"
   },
@@ -17014,41 +8522,8 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9110",
     district: "Aifat",
     districtCode: "9110040",
-    village: "Sunei",
-    villageCode: "",
-    postalCode: "98051"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aifat",
-    districtCode: "9110040",
     village: "Kokas",
     villageCode: "9110040005",
-    postalCode: "98051"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aifat",
-    districtCode: "9110040",
-    village: "Kokas",
-    villageCode: "9110040005",
-    postalCode: "98051"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aifat",
-    districtCode: "9110040",
-    village: "Martaim",
-    villageCode: "",
     postalCode: "98051"
   },
   {
@@ -17080,28 +8555,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9110",
     district: "Aifat",
     districtCode: "9110040",
-    village: "Frawebo",
-    villageCode: "",
-    postalCode: "98051"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aifat",
-    districtCode: "9110040",
-    village: "Tehahite",
-    villageCode: "9110040001",
-    postalCode: "98051"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aifat",
-    districtCode: "9110040",
     village: "Tehahite",
     villageCode: "9110040001",
     postalCode: "98051"
@@ -17124,40 +8577,7 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9110",
     district: "Aifat Utara",
     districtCode: "9110100",
-    village: "Ayawasi Selatan",
-    villageCode: "9110100002",
-    postalCode: "98052"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aifat Utara",
-    districtCode: "9110100",
     village: "Haenkanes",
-    villageCode: "",
-    postalCode: "98052"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aifat Utara",
-    districtCode: "9110100",
-    village: "Haenkanes",
-    villageCode: "",
-    postalCode: "98052"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aifat Utara",
-    districtCode: "9110100",
-    village: "Mosun Utara",
     villageCode: "",
     postalCode: "98052"
   },
@@ -17190,28 +8610,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9110",
     district: "Aifat Utara",
     districtCode: "9110100",
-    village: "Ayawasi",
-    villageCode: "9110100003",
-    postalCode: "98052"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aifat Utara",
-    districtCode: "9110100",
-    village: "Susai",
-    villageCode: "9110100008",
-    postalCode: "98052"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aifat Utara",
-    districtCode: "9110100",
     village: "Susai",
     villageCode: "9110100008",
     postalCode: "98052"
@@ -17234,40 +8632,7 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9110",
     district: "Aifat Utara",
     districtCode: "9110100",
-    village: "Wayane",
-    villageCode: "9110100010",
-    postalCode: "98052"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aifat Utara",
-    districtCode: "9110100",
     village: "Yarat Timur",
-    villageCode: "",
-    postalCode: "98052"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aifat Utara",
-    districtCode: "9110100",
-    village: "Yarat Timur",
-    villageCode: "",
-    postalCode: "98052"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aifat Utara",
-    districtCode: "9110100",
-    village: "Irata",
     villageCode: "",
     postalCode: "98052"
   },
@@ -17300,28 +8665,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9110",
     district: "Aifat Utara",
     districtCode: "9110100",
-    village: "Man",
-    villageCode: "",
-    postalCode: "98052"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aifat Utara",
-    districtCode: "9110100",
-    village: "Ayawasi Timur",
-    villageCode: "9110100004",
-    postalCode: "98052"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aifat Utara",
-    districtCode: "9110100",
     village: "Ayawasi Timur",
     villageCode: "9110100004",
     postalCode: "98052"
@@ -17334,28 +8677,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     district: "Aifat Utara",
     districtCode: "9110100",
     village: "Neset",
-    villageCode: "",
-    postalCode: "98052"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aifat Utara",
-    districtCode: "9110100",
-    village: "Neset",
-    villageCode: "",
-    postalCode: "98052"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aifat Utara",
-    districtCode: "9110100",
-    village: "Howait",
     villageCode: "",
     postalCode: "98052"
   },
@@ -17388,40 +8709,7 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9110",
     district: "Aifat Utara",
     districtCode: "9110100",
-    village: "Konja Barat",
-    villageCode: "",
-    postalCode: "98052"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aifat Utara",
-    districtCode: "9110100",
     village: "Yarat",
-    villageCode: "",
-    postalCode: "98052"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aifat Utara",
-    districtCode: "9110100",
-    village: "Yarat",
-    villageCode: "",
-    postalCode: "98052"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aifat Utara",
-    districtCode: "9110100",
-    village: "Mosun Timur",
     villageCode: "",
     postalCode: "98052"
   },
@@ -17454,28 +8742,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9110",
     district: "Aifat Utara",
     districtCode: "9110100",
-    village: "Fonatu",
-    villageCode: "9110100001",
-    postalCode: "98052"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aifat Utara",
-    districtCode: "9110100",
-    village: "Raha",
-    villageCode: "",
-    postalCode: "98052"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aifat Utara",
-    districtCode: "9110100",
     village: "Raha",
     villageCode: "",
     postalCode: "98052"
@@ -17489,28 +8755,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     districtCode: "9110100",
     village: "Mosun",
     villageCode: "9110100009",
-    postalCode: "98052"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aifat Utara",
-    districtCode: "9110100",
-    village: "Mosun",
-    villageCode: "9110100009",
-    postalCode: "98052"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aifat Utara",
-    districtCode: "9110100",
-    village: "Mowes",
-    villageCode: "",
     postalCode: "98052"
   },
   {
@@ -17542,41 +8786,8 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9110",
     district: "Aifat Timur Selatan",
     districtCode: "9110031",
-    village: "Srumate",
-    villageCode: "",
-    postalCode: "98053"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aifat Timur Selatan",
-    districtCode: "9110031",
     village: "Makiri",
     villageCode: "9110031005",
-    postalCode: "98053"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aifat Timur Selatan",
-    districtCode: "9110031",
-    village: "Makiri",
-    villageCode: "9110031005",
-    postalCode: "98053"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aifat Timur Selatan",
-    districtCode: "9110031",
-    village: "Wormu",
-    villageCode: "",
     postalCode: "98053"
   },
   {
@@ -17608,41 +8819,8 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9110",
     district: "Aifat Timur Selatan",
     districtCode: "9110031",
-    village: "Warba",
-    villageCode: "9110031003",
-    postalCode: "98053"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aifat Timur Selatan",
-    districtCode: "9110031",
     village: "Womba",
     villageCode: "9110031001",
-    postalCode: "98053"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aifat Timur Selatan",
-    districtCode: "9110031",
-    village: "Womba",
-    villageCode: "9110031001",
-    postalCode: "98053"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aifat Timur Selatan",
-    districtCode: "9110031",
-    village: "Winuni",
-    villageCode: "9110031002",
     postalCode: "98053"
   },
   {
@@ -17674,28 +8852,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9110",
     district: "Aifat Timur Tengah",
     districtCode: "9110111",
-    village: "Aikus",
-    villageCode: "",
-    postalCode: "98053"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aifat Timur Tengah",
-    districtCode: "9110111",
-    village: "Kamat",
-    villageCode: "9110111001",
-    postalCode: "98053"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aifat Timur Tengah",
-    districtCode: "9110111",
     village: "Kamat",
     villageCode: "9110111001",
     postalCode: "98053"
@@ -17708,28 +8864,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     district: "Aifat Timur Tengah",
     districtCode: "9110111",
     village: "Pitor",
-    villageCode: "",
-    postalCode: "98053"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aifat Timur Tengah",
-    districtCode: "9110111",
-    village: "Pitor",
-    villageCode: "",
-    postalCode: "98053"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aifat Timur Tengah",
-    districtCode: "9110111",
-    village: "Assem",
     villageCode: "",
     postalCode: "98053"
   },
@@ -17762,28 +8896,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9110",
     district: "Aifat Timur Tengah",
     districtCode: "9110111",
-    village: "Mupas",
-    villageCode: "9110111004",
-    postalCode: "98053"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aifat Timur Tengah",
-    districtCode: "9110111",
-    village: "Tiam",
-    villageCode: "",
-    postalCode: "98053"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aifat Timur Tengah",
-    districtCode: "9110111",
     village: "Tiam",
     villageCode: "",
     postalCode: "98053"
@@ -17806,40 +8918,7 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9110",
     district: "Aifat Timur Tengah",
     districtCode: "9110111",
-    village: "Aifam",
-    villageCode: "9110111003",
-    postalCode: "98053"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aifat Timur Tengah",
-    districtCode: "9110111",
     village: "Saud",
-    villageCode: "",
-    postalCode: "98053"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aifat Timur Tengah",
-    districtCode: "9110111",
-    village: "Saud",
-    villageCode: "",
-    postalCode: "98053"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aifat Timur Tengah",
-    districtCode: "9110111",
-    village: "Faan Kahrio",
     villageCode: "",
     postalCode: "98053"
   },
@@ -17872,28 +8951,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9110",
     district: "Aifat Timur Tengah",
     districtCode: "9110111",
-    village: "Frambu",
-    villageCode: "",
-    postalCode: "98053"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aifat Timur Tengah",
-    districtCode: "9110111",
-    village: "Ayata",
-    villageCode: "9110111002",
-    postalCode: "98053"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aifat Timur Tengah",
-    districtCode: "9110111",
     village: "Ayata",
     villageCode: "9110111002",
     postalCode: "98053"
@@ -17907,28 +8964,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     districtCode: "9110111",
     village: "Aiwesa",
     villageCode: "",
-    postalCode: "98053"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aifat Timur Tengah",
-    districtCode: "9110111",
-    village: "Aiwesa",
-    villageCode: "",
-    postalCode: "98053"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aifat Selatan",
-    districtCode: "9110030",
-    village: "Sabah",
-    villageCode: "9110030001",
     postalCode: "98053"
   },
   {
@@ -17960,41 +8995,8 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9110",
     district: "Aifat Timur Jauh",
     districtCode: "9110112",
-    village: "Aisasior",
-    villageCode: "9110112012",
-    postalCode: "98053"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aifat Timur Jauh",
-    districtCode: "9110112",
     village: "Tiefromen",
     villageCode: "",
-    postalCode: "98053"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aifat Timur Jauh",
-    districtCode: "9110112",
-    village: "Tiefromen",
-    villageCode: "",
-    postalCode: "98053"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aifat Timur Jauh",
-    districtCode: "9110112",
-    village: "Aimau",
-    villageCode: "9110112001",
     postalCode: "98053"
   },
   {
@@ -18026,41 +9028,8 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9110",
     district: "Aifat Timur Jauh",
     districtCode: "9110112",
-    village: "Aikingging",
-    villageCode: "",
-    postalCode: "98053"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aifat Timur Jauh",
-    districtCode: "9110112",
     village: "Ainesra",
     villageCode: "9110112013",
-    postalCode: "98053"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aifat Timur Jauh",
-    districtCode: "9110112",
-    village: "Ainesra",
-    villageCode: "9110112013",
-    postalCode: "98053"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aifat Timur",
-    districtCode: "9110110",
-    village: "Aikrer",
-    villageCode: "9110110004",
     postalCode: "98053"
   },
   {
@@ -18092,41 +9061,8 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9110",
     district: "Aifat Timur",
     districtCode: "9110110",
-    village: "Wakom",
-    villageCode: "",
-    postalCode: "98053"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aifat Timur",
-    districtCode: "9110110",
     village: "Sawin",
     villageCode: "9110110002",
-    postalCode: "98053"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aifat Timur",
-    districtCode: "9110110",
-    village: "Sawin",
-    villageCode: "9110110002",
-    postalCode: "98053"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aifat Timur",
-    districtCode: "9110110",
-    village: "Aitrem",
-    villageCode: "9110110003",
     postalCode: "98053"
   },
   {
@@ -18158,28 +9094,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9110",
     district: "Aifat Timur",
     districtCode: "9110110",
-    village: "Aisa",
-    villageCode: "9110110008",
-    postalCode: "98053"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aifat Timur",
-    districtCode: "9110110",
-    village: "Sahbuku",
-    villageCode: "9110110016",
-    postalCode: "98053"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aifat Timur",
-    districtCode: "9110110",
     village: "Sahbuku",
     villageCode: "9110110016",
     postalCode: "98053"
@@ -18192,28 +9106,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     district: "Aifat Timur Jauh",
     districtCode: "9110112",
     village: "Franeway",
-    villageCode: "",
-    postalCode: "98053"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aifat Timur Jauh",
-    districtCode: "9110112",
-    village: "Franeway",
-    villageCode: "",
-    postalCode: "98053"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aifat Timur",
-    districtCode: "9110110",
-    village: "Sanem",
     villageCode: "",
     postalCode: "98053"
   },
@@ -18244,42 +9136,9 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     provinceCode: "96",
     city: "KAB. MAYBRAT",
     cityCode: "9110",
-    district: "Aifat Timur Jauh",
-    districtCode: "9110112",
-    village: "Mesyam",
-    villageCode: "9110112011",
-    postalCode: "98053"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
     district: "Aifat Timur",
     districtCode: "9110110",
     village: "Buoh Sa",
-    villageCode: "",
-    postalCode: "98053"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aifat Timur",
-    districtCode: "9110110",
-    village: "Buoh Sa",
-    villageCode: "",
-    postalCode: "98053"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aifat Timur",
-    districtCode: "9110110",
-    village: "Sasior Frabuku",
     villageCode: "",
     postalCode: "98053"
   },
@@ -18312,41 +9171,8 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9110",
     district: "Aifat Selatan",
     districtCode: "9110030",
-    village: "Krus",
-    villageCode: "",
-    postalCode: "98054"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aifat Selatan",
-    districtCode: "9110030",
     village: "Sorry",
     villageCode: "",
-    postalCode: "98054"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aifat Selatan",
-    districtCode: "9110030",
-    village: "Sorry",
-    villageCode: "",
-    postalCode: "98054"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aifat Selatan",
-    districtCode: "9110030",
-    village: "Imsun",
-    villageCode: "9110030004",
     postalCode: "98054"
   },
   {
@@ -18378,28 +9204,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9110",
     district: "Aifat Selatan",
     districtCode: "9110030",
-    village: "Awet Main",
-    villageCode: "",
-    postalCode: "98054"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aifat Selatan",
-    districtCode: "9110030",
-    village: "Fuog",
-    villageCode: "9110030003",
-    postalCode: "98054"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aifat Selatan",
-    districtCode: "9110030",
     village: "Fuog",
     villageCode: "9110030003",
     postalCode: "98054"
@@ -18412,28 +9216,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     district: "Aifat Selatan",
     districtCode: "9110030",
     village: "Kaitana",
-    villageCode: "",
-    postalCode: "98054"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aifat Selatan",
-    districtCode: "9110030",
-    village: "Kaitana",
-    villageCode: "",
-    postalCode: "98054"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aifat Selatan",
-    districtCode: "9110030",
-    village: "Fuog Selatan",
     villageCode: "",
     postalCode: "98054"
   },
@@ -18466,40 +9248,7 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9110",
     district: "Aifat Selatan",
     districtCode: "9110030",
-    village: "Roma",
-    villageCode: "",
-    postalCode: "98054"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aifat Selatan",
-    districtCode: "9110030",
     village: "Asiaf Saman",
-    villageCode: "",
-    postalCode: "98054"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aifat Selatan",
-    districtCode: "9110030",
-    village: "Asiaf Saman",
-    villageCode: "",
-    postalCode: "98054"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aifat Selatan",
-    districtCode: "9110030",
-    village: "Same Rakator",
     villageCode: "",
     postalCode: "98054"
   },
@@ -18532,40 +9281,7 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9110",
     district: "Aifat Selatan",
     districtCode: "9110030",
-    village: "Kisor",
-    villageCode: "9110030005",
-    postalCode: "98054"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aifat Selatan",
-    districtCode: "9110030",
     village: "Tahsimara",
-    villageCode: "",
-    postalCode: "98054"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aifat Selatan",
-    districtCode: "9110030",
-    village: "Tahsimara",
-    villageCode: "",
-    postalCode: "98054"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aifat Selatan",
-    districtCode: "9110030",
-    village: "Hora Iek",
     villageCode: "",
     postalCode: "98054"
   },
@@ -18598,28 +9314,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9110",
     district: "Aifat Selatan",
     districtCode: "9110030",
-    village: "Yeek",
-    villageCode: "",
-    postalCode: "98054"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aifat Selatan",
-    districtCode: "9110030",
-    village: "Tolak",
-    villageCode: "",
-    postalCode: "98054"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aifat Selatan",
-    districtCode: "9110030",
     village: "Tolak",
     villageCode: "",
     postalCode: "98054"
@@ -18633,28 +9327,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     districtCode: "9110020",
     village: "Irohe",
     villageCode: "",
-    postalCode: "98055"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aitinyo",
-    districtCode: "9110020",
-    village: "Irohe",
-    villageCode: "",
-    postalCode: "98055"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aitinyo",
-    districtCode: "9110020",
-    village: "Kamro",
-    villageCode: "9110020001",
     postalCode: "98055"
   },
   {
@@ -18686,40 +9358,7 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9110",
     district: "Aitinyo",
     districtCode: "9110020",
-    village: "Tehak Kecil",
-    villageCode: "9110020008",
-    postalCode: "98055"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aitinyo",
-    districtCode: "9110020",
     village: "Subin",
-    villageCode: "",
-    postalCode: "98055"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aitinyo",
-    districtCode: "9110020",
-    village: "Subin",
-    villageCode: "",
-    postalCode: "98055"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aitinyo",
-    districtCode: "9110020",
-    village: "Bofait",
     villageCode: "",
     postalCode: "98055"
   },
@@ -18752,41 +9391,8 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9110",
     district: "Aitinyo",
     districtCode: "9110020",
-    village: "Afkrem",
-    villageCode: "",
-    postalCode: "98055"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aitinyo",
-    districtCode: "9110020",
     village: "Kamro Selatan",
     villageCode: "",
-    postalCode: "98055"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aitinyo",
-    districtCode: "9110020",
-    village: "Kamro Selatan",
-    villageCode: "",
-    postalCode: "98055"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aitinyo",
-    districtCode: "9110020",
-    village: "Sris",
-    villageCode: "9110020004",
     postalCode: "98055"
   },
   {
@@ -18818,41 +9424,8 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9110",
     district: "Aitinyo",
     districtCode: "9110020",
-    village: "Wiho",
-    villageCode: "",
-    postalCode: "98055"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aitinyo",
-    districtCode: "9110020",
     village: "Karsu",
     villageCode: "9110020003",
-    postalCode: "98055"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aitinyo",
-    districtCode: "9110020",
-    village: "Karsu",
-    villageCode: "9110020003",
-    postalCode: "98055"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aitinyo",
-    districtCode: "9110020",
-    village: "Irohmrar",
-    villageCode: "",
     postalCode: "98055"
   },
   {
@@ -18884,41 +9457,8 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9110",
     district: "Aitinyo",
     districtCode: "9110020",
-    village: "Ibasuf",
-    villageCode: "9110020015",
-    postalCode: "98055"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aitinyo",
-    districtCode: "9110020",
     village: "Sira Aya",
     villageCode: "9110020009",
-    postalCode: "98055"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aitinyo",
-    districtCode: "9110020",
-    village: "Sira Aya",
-    villageCode: "9110020009",
-    postalCode: "98055"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aitinyo",
-    districtCode: "9110020",
-    village: "Korom",
-    villageCode: "9110020007",
     postalCode: "98055"
   },
   {
@@ -18950,41 +9490,8 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9110",
     district: "Aitinyo",
     districtCode: "9110020",
-    village: "Sowai Sau",
-    villageCode: "9110020014",
-    postalCode: "98055"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aitinyo",
-    districtCode: "9110020",
     village: "Aitinyo",
     villageCode: "9110020006",
-    postalCode: "98055"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aitinyo",
-    districtCode: "9110020",
-    village: "Aitinyo",
-    villageCode: "9110020006",
-    postalCode: "98055"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aitinyo",
-    districtCode: "9110020",
-    village: "Sumanis",
-    villageCode: "9110020002",
     postalCode: "98055"
   },
   {
@@ -19016,41 +9523,8 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9110",
     district: "Aitinyo Tengah",
     districtCode: "9110021",
-    village: "Sira",
-    villageCode: "9110021003",
-    postalCode: "98055"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aitinyo Tengah",
-    districtCode: "9110021",
     village: "Yaksoro",
     villageCode: "9110021002",
-    postalCode: "98055"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aitinyo Tengah",
-    districtCode: "9110021",
-    village: "Yaksoro",
-    villageCode: "9110021002",
-    postalCode: "98055"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aitinyo Tengah",
-    districtCode: "9110021",
-    village: "Awit",
-    villageCode: "9110021004",
     postalCode: "98055"
   },
   {
@@ -19082,28 +9556,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9110",
     district: "Aitinyo Tengah",
     districtCode: "9110021",
-    village: "Eway",
-    villageCode: "9110021008",
-    postalCode: "98056"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aitinyo Tengah",
-    districtCode: "9110021",
-    village: "Itigah",
-    villageCode: "9110021005",
-    postalCode: "98056"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aitinyo Tengah",
-    districtCode: "9110021",
     village: "Itigah",
     villageCode: "9110021005",
     postalCode: "98056"
@@ -19116,28 +9568,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     district: "Aitinyo Tengah",
     districtCode: "9110021",
     village: "Wrait U",
-    villageCode: "",
-    postalCode: "98056"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aitinyo Tengah",
-    districtCode: "9110021",
-    village: "Wrait U",
-    villageCode: "",
-    postalCode: "98056"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aitinyo Tengah",
-    districtCode: "9110021",
-    village: "Iroh Sohser",
     villageCode: "",
     postalCode: "98056"
   },
@@ -19170,28 +9600,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9110",
     district: "Aitinyo Tengah",
     districtCode: "9110021",
-    village: "Tohmri",
-    villageCode: "",
-    postalCode: "98056"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aitinyo Tengah",
-    districtCode: "9110021",
-    village: "Sabun",
-    villageCode: "9110021007",
-    postalCode: "98056"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aitinyo Tengah",
-    districtCode: "9110021",
     village: "Sabun",
     villageCode: "9110021007",
     postalCode: "98056"
@@ -19204,28 +9612,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     district: "Aitinyo Tengah",
     districtCode: "9110021",
     village: "Way U",
-    villageCode: "",
-    postalCode: "98056"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aitinyo Tengah",
-    districtCode: "9110021",
-    village: "Way U",
-    villageCode: "",
-    postalCode: "98056"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aitinyo Tengah",
-    districtCode: "9110021",
-    village: "Asnaif",
     villageCode: "",
     postalCode: "98056"
   },
@@ -19258,41 +9644,8 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9110",
     district: "Aitinyo Tengah",
     districtCode: "9110021",
-    village: "Erokwero",
-    villageCode: "",
-    postalCode: "98056"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aitinyo Tengah",
-    districtCode: "9110021",
     village: "Sira Tee",
     villageCode: "9110021006",
-    postalCode: "98056"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aitinyo Tengah",
-    districtCode: "9110021",
-    village: "Sira Tee",
-    villageCode: "9110021006",
-    postalCode: "98056"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aitinyo Tengah",
-    districtCode: "9110021",
-    village: "Framboh",
-    villageCode: "",
     postalCode: "98056"
   },
   {
@@ -19324,28 +9677,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9110",
     district: "Ayamaru Selatan Jaya",
     districtCode: "9110011",
-    village: "Faitsimar",
-    villageCode: "9110011005",
-    postalCode: "98056"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Ayamaru Selatan Jaya",
-    districtCode: "9110011",
-    village: "Asses",
-    villageCode: "",
-    postalCode: "98056"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Ayamaru Selatan Jaya",
-    districtCode: "9110011",
     village: "Asses",
     villageCode: "",
     postalCode: "98056"
@@ -19368,40 +9699,7 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9110",
     district: "Ayamaru Selatan Jaya",
     districtCode: "9110011",
-    village: "Arus",
-    villageCode: "9110011002",
-    postalCode: "98056"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Ayamaru Selatan Jaya",
-    districtCode: "9110011",
     village: "Fait Nigre",
-    villageCode: "",
-    postalCode: "98056"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Ayamaru Selatan Jaya",
-    districtCode: "9110011",
-    village: "Fait Nigre",
-    villageCode: "",
-    postalCode: "98056"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Ayamaru Selatan Jaya",
-    districtCode: "9110011",
-    village: "Sufu",
     villageCode: "",
     postalCode: "98056"
   },
@@ -19434,28 +9732,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9110",
     district: "Ayamaru Selatan Jaya",
     districtCode: "9110011",
-    village: "Isnum",
-    villageCode: "9110011001",
-    postalCode: "98056"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Ayamaru Selatan Jaya",
-    districtCode: "9110011",
-    village: "Kofait",
-    villageCode: "9110011003",
-    postalCode: "98056"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Ayamaru Selatan Jaya",
-    districtCode: "9110011",
     village: "Kofait",
     villageCode: "9110011003",
     postalCode: "98056"
@@ -19468,28 +9744,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     district: "Aitinyo Barat",
     districtCode: "",
     village: "Hosyo Ata",
-    villageCode: "",
-    postalCode: "98056"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aitinyo Barat",
-    districtCode: "",
-    village: "Hosyo Ata",
-    villageCode: "",
-    postalCode: "98056"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aitinyo Barat",
-    districtCode: "",
-    village: "Kambufatem Utara",
     villageCode: "",
     postalCode: "98056"
   },
@@ -19522,40 +9776,7 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9110",
     district: "Aitinyo Barat",
     districtCode: "",
-    village: "Waybomatah",
-    villageCode: "",
-    postalCode: "98056"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aitinyo Barat",
-    districtCode: "",
     village: "Siyo",
-    villageCode: "",
-    postalCode: "98056"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aitinyo Barat",
-    districtCode: "",
-    village: "Siyo",
-    villageCode: "",
-    postalCode: "98056"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aitinyo Barat",
-    districtCode: "",
-    village: "Fatem",
     villageCode: "",
     postalCode: "98056"
   },
@@ -19588,28 +9809,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9110",
     district: "Aitinyo Barat",
     districtCode: "",
-    village: "Fatase",
-    villageCode: "",
-    postalCode: "98056"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aitinyo Barat",
-    districtCode: "",
-    village: "Hosyo Banah",
-    villageCode: "",
-    postalCode: "98056"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aitinyo Barat",
-    districtCode: "",
     village: "Hosyo Banah",
     villageCode: "",
     postalCode: "98056"
@@ -19622,28 +9821,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     district: "Aitinyo Barat",
     districtCode: "",
     village: "Kambufatem",
-    villageCode: "",
-    postalCode: "98056"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aitinyo Barat",
-    districtCode: "",
-    village: "Kambufatem",
-    villageCode: "",
-    postalCode: "98056"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aitinyo Barat",
-    districtCode: "",
-    village: "Hasweh",
     villageCode: "",
     postalCode: "98056"
   },
@@ -19676,41 +9853,8 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9110",
     district: "Aitinyo Raya",
     districtCode: "9110051",
-    village: "Sarimo",
-    villageCode: "9110051005",
-    postalCode: "98057"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aitinyo Raya",
-    districtCode: "9110051",
     village: "Ikuf",
     villageCode: "9110051004",
-    postalCode: "98057"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aitinyo Raya",
-    districtCode: "9110051",
-    village: "Ikuf",
-    villageCode: "9110051004",
-    postalCode: "98057"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aitinyo Raya",
-    districtCode: "9110051",
-    village: "Yumame",
-    villageCode: "",
     postalCode: "98057"
   },
   {
@@ -19742,40 +9886,7 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9110",
     district: "Aitinyo Raya",
     districtCode: "9110051",
-    village: "Isir",
-    villageCode: "9110051003",
-    postalCode: "98057"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aitinyo Raya",
-    districtCode: "9110051",
     village: "Srirtabam",
-    villageCode: "",
-    postalCode: "98057"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aitinyo Raya",
-    districtCode: "9110051",
-    village: "Srirtabam",
-    villageCode: "",
-    postalCode: "98057"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aitinyo Raya",
-    districtCode: "9110051",
-    village: "Faithowes",
     villageCode: "",
     postalCode: "98057"
   },
@@ -19808,28 +9919,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9110",
     district: "Aitinyo Raya",
     districtCode: "9110051",
-    village: "Jitmau Timur",
-    villageCode: "9110051001",
-    postalCode: "98057"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aitinyo Raya",
-    districtCode: "9110051",
-    village: "Ikuf Utara",
-    villageCode: "9110051007",
-    postalCode: "98057"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aitinyo Raya",
-    districtCode: "9110051",
     village: "Ikuf Utara",
     villageCode: "9110051007",
     postalCode: "98057"
@@ -19843,28 +9932,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     districtCode: "9110051",
     village: "Jitmau",
     villageCode: "9110051002",
-    postalCode: "98057"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aitinyo Raya",
-    districtCode: "9110051",
-    village: "Jitmau",
-    villageCode: "9110051002",
-    postalCode: "98057"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aitinyo Raya",
-    districtCode: "9110051",
-    village: "Kambusabo",
-    villageCode: "9110051006",
     postalCode: "98057"
   },
   {
@@ -19896,28 +9963,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9110",
     district: "Aitinyo Utara",
     districtCode: "9110050",
-    village: "Tehak Besar",
-    villageCode: "9110050001",
-    postalCode: "98057"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aitinyo Utara",
-    districtCode: "9110050",
-    village: "Gohsames",
-    villageCode: "9110050004",
-    postalCode: "98057"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aitinyo Utara",
-    districtCode: "9110050",
     village: "Gohsames",
     villageCode: "9110050004",
     postalCode: "98057"
@@ -19930,28 +9975,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     district: "Aitinyo Utara",
     districtCode: "9110050",
     village: "Subrit",
-    villageCode: "",
-    postalCode: "98057"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aitinyo Utara",
-    districtCode: "9110050",
-    village: "Subrit",
-    villageCode: "",
-    postalCode: "98057"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aitinyo Utara",
-    districtCode: "9110050",
-    village: "Asmuruf U",
     villageCode: "",
     postalCode: "98057"
   },
@@ -19984,40 +10007,7 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9110",
     district: "Aitinyo Utara",
     districtCode: "9110050",
-    village: "Mirafaan",
-    villageCode: "",
-    postalCode: "98057"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aitinyo Utara",
-    districtCode: "9110050",
     village: "Inta",
-    villageCode: "",
-    postalCode: "98057"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aitinyo Utara",
-    districtCode: "9110050",
-    village: "Inta",
-    villageCode: "",
-    postalCode: "98057"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aitinyo Utara",
-    districtCode: "9110050",
-    village: "Framafir",
     villageCode: "",
     postalCode: "98057"
   },
@@ -20050,40 +10040,7 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9110",
     district: "Aitinyo Utara",
     districtCode: "9110050",
-    village: "Fategomi",
-    villageCode: "9110050003",
-    postalCode: "98057"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aitinyo Utara",
-    districtCode: "9110050",
     village: "Asmuruf Tee",
-    villageCode: "",
-    postalCode: "98057"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aitinyo Utara",
-    districtCode: "9110050",
-    village: "Asmuruf Tee",
-    villageCode: "",
-    postalCode: "98057"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aitinyo Utara",
-    districtCode: "9110050",
-    village: "Bahwat",
     villageCode: "",
     postalCode: "98057"
   },
@@ -20116,28 +10073,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9110",
     district: "Aitinyo Utara",
     districtCode: "9110050",
-    village: "Fan",
-    villageCode: "",
-    postalCode: "98057"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aitinyo Utara",
-    districtCode: "9110050",
-    village: "Tehak Tee",
-    villageCode: "",
-    postalCode: "98057"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Aitinyo Utara",
-    districtCode: "9110050",
     village: "Tehak Tee",
     villageCode: "",
     postalCode: "98057"
@@ -20160,40 +10095,7 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9110",
     district: "Ayamaru",
     districtCode: "9110070",
-    village: "Ayamaru",
-    villageCode: "9110070010",
-    postalCode: "98058"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Ayamaru",
-    districtCode: "9110070",
     village: "Tuso",
-    villageCode: "",
-    postalCode: "98058"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Ayamaru",
-    districtCode: "9110070",
-    village: "Tuso",
-    villageCode: "",
-    postalCode: "98058"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Ayamaru",
-    districtCode: "9110070",
-    village: "Fraharo",
     villageCode: "",
     postalCode: "98058"
   },
@@ -20226,28 +10128,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9110",
     district: "Ayamaru",
     districtCode: "9110070",
-    village: "Framu",
-    villageCode: "9110070011",
-    postalCode: "98058"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Ayamaru",
-    districtCode: "9110070",
-    village: "Mefkajim II",
-    villageCode: "9110070006",
-    postalCode: "98058"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Ayamaru",
-    districtCode: "9110070",
     village: "Mefkajim II",
     villageCode: "9110070006",
     postalCode: "98058"
@@ -20270,40 +10150,7 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9110",
     district: "Ayamaru",
     districtCode: "9110070",
-    village: "Smusswioh",
-    villageCode: "",
-    postalCode: "98058"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Ayamaru",
-    districtCode: "9110070",
     village: "Twer",
-    villageCode: "",
-    postalCode: "98058"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Ayamaru",
-    districtCode: "9110070",
-    village: "Twer",
-    villageCode: "",
-    postalCode: "98058"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Ayamaru",
-    districtCode: "9110070",
-    village: "Afes",
     villageCode: "",
     postalCode: "98058"
   },
@@ -20336,28 +10183,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9110",
     district: "Ayamaru Timur Selatan",
     districtCode: "9110061",
-    village: "Isusu",
-    villageCode: "9110061005",
-    postalCode: "98058"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Ayamaru Timur Selatan",
-    districtCode: "9110061",
-    village: "Kambuskato",
-    villageCode: "9110061002",
-    postalCode: "98058"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Ayamaru Timur Selatan",
-    districtCode: "9110061",
     village: "Kambuskato",
     villageCode: "9110061002",
     postalCode: "98058"
@@ -20370,28 +10195,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     district: "Ayamaru Timur Selatan",
     districtCode: "9110061",
     village: "Faitwosur/Angkasa Pura",
-    villageCode: "",
-    postalCode: "98058"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Ayamaru Timur Selatan",
-    districtCode: "9110061",
-    village: "Faitwosur/Angkasa Pura",
-    villageCode: "",
-    postalCode: "98058"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Ayamaru Timur Selatan",
-    districtCode: "9110061",
-    village: "Sipat",
     villageCode: "",
     postalCode: "98058"
   },
@@ -20424,41 +10227,8 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9110",
     district: "Ayamaru Timur Selatan",
     districtCode: "9110061",
-    village: "Kambuifa",
-    villageCode: "",
-    postalCode: "98058"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Ayamaru Timur Selatan",
-    districtCode: "9110061",
     village: "Mano",
     villageCode: "9110061003",
-    postalCode: "98058"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Ayamaru Timur Selatan",
-    districtCode: "9110061",
-    village: "Mano",
-    villageCode: "9110061003",
-    postalCode: "98058"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Ayamaru Timur Selatan",
-    districtCode: "9110061",
-    village: "Kambuskato Utara",
-    villageCode: "9110061004",
     postalCode: "98058"
   },
   {
@@ -20490,41 +10260,8 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9110",
     district: "Ayamaru Selatan",
     districtCode: "9110071",
-    village: "Simiyah",
-    villageCode: "",
-    postalCode: "98058"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Ayamaru Selatan",
-    districtCode: "9110071",
     village: "Kanisabar",
     villageCode: "9110071004",
-    postalCode: "98058"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Ayamaru Selatan",
-    districtCode: "9110071",
-    village: "Kanisabar",
-    villageCode: "9110071004",
-    postalCode: "98058"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Ayamaru Selatan",
-    districtCode: "9110071",
-    village: "Sembaro",
-    villageCode: "9110071002",
     postalCode: "98058"
   },
   {
@@ -20556,41 +10293,8 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9110",
     district: "Ayamaru Selatan",
     districtCode: "9110071",
-    village: "Hawioh",
-    villageCode: "",
-    postalCode: "98058"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Ayamaru Selatan",
-    districtCode: "9110071",
     village: "Sauf",
     villageCode: "9110071003",
-    postalCode: "98058"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Ayamaru Selatan",
-    districtCode: "9110071",
-    village: "Sauf",
-    villageCode: "9110071003",
-    postalCode: "98058"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Ayamaru Selatan",
-    districtCode: "9110071",
-    village: "Sfarare",
-    villageCode: "9110071005",
     postalCode: "98058"
   },
   {
@@ -20622,28 +10326,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9110",
     district: "Ayamaru Selatan",
     districtCode: "9110071",
-    village: "Lemauk Klit",
-    villageCode: "9110071007",
-    postalCode: "98058"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Ayamaru Selatan",
-    districtCode: "9110071",
-    village: "Koma Koma",
-    villageCode: "",
-    postalCode: "98058"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Ayamaru Selatan",
-    districtCode: "9110071",
     village: "Koma Koma",
     villageCode: "",
     postalCode: "98058"
@@ -20656,28 +10338,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     district: "Ayamaru Selatan",
     districtCode: "9110071",
     village: "Saneh",
-    villageCode: "",
-    postalCode: "98058"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Ayamaru Selatan",
-    districtCode: "9110071",
-    village: "Saneh",
-    villageCode: "",
-    postalCode: "98058"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Ayamaru Selatan",
-    districtCode: "9110071",
-    village: "Sagrim",
     villageCode: "",
     postalCode: "98058"
   },
@@ -20710,28 +10370,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9110",
     district: "Ayamaru Tengah",
     districtCode: "9110073",
-    village: "Isme",
-    villageCode: "9110073004",
-    postalCode: "98058"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Ayamaru Tengah",
-    districtCode: "9110073",
-    village: "Men",
-    villageCode: "",
-    postalCode: "98058"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Ayamaru Tengah",
-    districtCode: "9110073",
     village: "Men",
     villageCode: "",
     postalCode: "98058"
@@ -20754,40 +10392,7 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9110",
     district: "Ayamaru Tengah",
     districtCode: "9110073",
-    village: "Fiane",
-    villageCode: "9110073001",
-    postalCode: "98058"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Ayamaru Tengah",
-    districtCode: "9110073",
     village: "Tut",
-    villageCode: "",
-    postalCode: "98058"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Ayamaru Tengah",
-    districtCode: "9110073",
-    village: "Tut",
-    villageCode: "",
-    postalCode: "98058"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Ayamaru Tengah",
-    districtCode: "9110073",
-    village: "Rindu",
     villageCode: "",
     postalCode: "98058"
   },
@@ -20820,41 +10425,8 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9110",
     district: "Ayamaru Tengah",
     districtCode: "9110073",
-    village: "Bawy",
-    villageCode: "",
-    postalCode: "98058"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Ayamaru Tengah",
-    districtCode: "9110073",
     village: "Kartapura",
     villageCode: "9110073002",
-    postalCode: "98058"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Ayamaru Tengah",
-    districtCode: "9110073",
-    village: "Kartapura",
-    villageCode: "9110073002",
-    postalCode: "98058"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Ayamaru Tengah",
-    districtCode: "9110073",
-    village: "Hufioh",
-    villageCode: "",
     postalCode: "98058"
   },
   {
@@ -20886,28 +10458,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9110",
     district: "Ayamaru Tengah",
     districtCode: "9110073",
-    village: "Semu",
-    villageCode: "",
-    postalCode: "98058"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Ayamaru Tengah",
-    districtCode: "9110073",
-    village: "Yohwer",
-    villageCode: "",
-    postalCode: "98058"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Ayamaru Tengah",
-    districtCode: "9110073",
     village: "Yohwer",
     villageCode: "",
     postalCode: "98058"
@@ -20920,28 +10470,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     district: "Ayamaru Timur",
     districtCode: "9110060",
     village: "Faitsiur",
-    villageCode: "",
-    postalCode: "98058"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Ayamaru Timur",
-    districtCode: "9110060",
-    village: "Faitsiur",
-    villageCode: "",
-    postalCode: "98058"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Ayamaru Jaya",
-    districtCode: "9110072",
-    village: "Temel",
     villageCode: "",
     postalCode: "98058"
   },
@@ -20974,28 +10502,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9110",
     district: "Ayamaru Timur",
     districtCode: "9110060",
-    village: "Ismayo",
-    villageCode: "9110060010",
-    postalCode: "98058"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Ayamaru Timur",
-    districtCode: "9110060",
-    village: "Kambuaya",
-    villageCode: "9110060003",
-    postalCode: "98058"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Ayamaru Timur",
-    districtCode: "9110060",
     village: "Kambuaya",
     villageCode: "9110060003",
     postalCode: "98058"
@@ -21009,28 +10515,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     districtCode: "9110060",
     village: "Sefayit",
     villageCode: "9110060009",
-    postalCode: "98058"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Ayamaru Timur",
-    districtCode: "9110060",
-    village: "Sefayit",
-    villageCode: "9110060009",
-    postalCode: "98058"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Ayamaru Jaya",
-    districtCode: "9110072",
-    village: "Sosian",
-    villageCode: "9110072003",
     postalCode: "98058"
   },
   {
@@ -21062,41 +10546,8 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9110",
     district: "Ayamaru Timur",
     districtCode: "9110060",
-    village: "Faitmajin",
-    villageCode: "9110060004",
-    postalCode: "98058"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Ayamaru Timur",
-    districtCode: "9110060",
     village: "Keyum",
     villageCode: "",
-    postalCode: "98058"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Ayamaru Timur",
-    districtCode: "9110060",
-    village: "Keyum",
-    villageCode: "",
-    postalCode: "98058"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Ayamaru Jaya",
-    districtCode: "9110072",
-    village: "Adoh",
-    villageCode: "9110072001",
     postalCode: "98058"
   },
   {
@@ -21128,41 +10579,8 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9110",
     district: "Ayamaru Timur",
     districtCode: "9110060",
-    village: "Insas",
-    villageCode: "",
-    postalCode: "98058"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Ayamaru Timur",
-    districtCode: "9110060",
     village: "Huberita",
     villageCode: "9110060005",
-    postalCode: "98058"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Ayamaru Timur",
-    districtCode: "9110060",
-    village: "Huberita",
-    villageCode: "9110060005",
-    postalCode: "98058"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Ayamaru Barat",
-    districtCode: "9110074",
-    village: "Sfacko",
-    villageCode: "9110074005",
     postalCode: "98058"
   },
   {
@@ -21194,28 +10612,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9110",
     district: "Ayamaru Barat",
     districtCode: "9110074",
-    village: "Sehu",
-    villageCode: "",
-    postalCode: "98058"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Ayamaru Barat",
-    districtCode: "9110074",
-    village: "Soroan",
-    villageCode: "9110074002",
-    postalCode: "98058"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Ayamaru Barat",
-    districtCode: "9110074",
     village: "Soroan",
     villageCode: "9110074002",
     postalCode: "98058"
@@ -21238,40 +10634,7 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9110",
     district: "Ayamaru Barat",
     districtCode: "9110074",
-    village: "Fanse",
-    villageCode: "9110074003",
-    postalCode: "98058"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Ayamaru Barat",
-    districtCode: "9110074",
     village: "Sfaraka",
-    villageCode: "",
-    postalCode: "98058"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Ayamaru Barat",
-    districtCode: "9110074",
-    village: "Sfaraka",
-    villageCode: "",
-    postalCode: "98058"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Ayamaru Barat",
-    districtCode: "9110074",
-    village: "Sien",
     villageCode: "",
     postalCode: "98058"
   },
@@ -21304,28 +10667,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9110",
     district: "Ayamaru Barat",
     districtCode: "9110074",
-    village: "Chaliat",
-    villageCode: "9110074001",
-    postalCode: "98058"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Ayamaru Barat",
-    districtCode: "9110074",
-    village: "Tbo",
-    villageCode: "",
-    postalCode: "98058"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Ayamaru Barat",
-    districtCode: "9110074",
     village: "Tbo",
     villageCode: "",
     postalCode: "98058"
@@ -21348,41 +10689,8 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9110",
     district: "Ayamaru Utara",
     districtCode: "9110080",
-    village: "Nauwita",
-    villageCode: "",
-    postalCode: "98059"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Ayamaru Utara",
-    districtCode: "9110080",
     village: "Serma",
     villageCode: "9110080012",
-    postalCode: "98059"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Ayamaru Utara",
-    districtCode: "9110080",
-    village: "Serma",
-    villageCode: "9110080012",
-    postalCode: "98059"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Ayamaru Utara Timur",
-    districtCode: "9110081",
-    village: "Suwiam",
-    villageCode: "9110081001",
     postalCode: "98059"
   },
   {
@@ -21414,28 +10722,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9110",
     district: "Ayamaru Utara",
     districtCode: "9110080",
-    village: "Setta",
-    villageCode: "9110080003",
-    postalCode: "98059"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Ayamaru Utara",
-    districtCode: "9110080",
-    village: "Yukase",
-    villageCode: "9110080011",
-    postalCode: "98059"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Ayamaru Utara",
-    districtCode: "9110080",
     village: "Yukase",
     villageCode: "9110080011",
     postalCode: "98059"
@@ -21448,28 +10734,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     district: "Ayamaru Utara",
     districtCode: "9110080",
     village: "Arne Timur",
-    villageCode: "",
-    postalCode: "98059"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Ayamaru Utara",
-    districtCode: "9110080",
-    village: "Arne Timur",
-    villageCode: "",
-    postalCode: "98059"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Ayamaru Utara Timur",
-    districtCode: "9110081",
-    village: "Kona",
     villageCode: "",
     postalCode: "98059"
   },
@@ -21502,40 +10766,7 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9110",
     district: "Ayamaru Utara",
     districtCode: "9110080",
-    village: "Karetubun",
-    villageCode: "9110080005",
-    postalCode: "98059"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Ayamaru Utara",
-    districtCode: "9110080",
     village: "Kfaa",
-    villageCode: "",
-    postalCode: "98059"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Ayamaru Utara",
-    districtCode: "9110080",
-    village: "Kfaa",
-    villageCode: "",
-    postalCode: "98059"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Ayamaru Utara Timur",
-    districtCode: "9110081",
-    village: "Tomase",
     villageCode: "",
     postalCode: "98059"
   },
@@ -21568,41 +10799,8 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9110",
     district: "Ayamaru Utara",
     districtCode: "9110080",
-    village: "Johafah",
-    villageCode: "",
-    postalCode: "98059"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Ayamaru Utara",
-    districtCode: "9110080",
     village: "Aus Tiwit",
     villageCode: "9110080010",
-    postalCode: "98059"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Ayamaru Utara",
-    districtCode: "9110080",
-    village: "Aus Tiwit",
-    villageCode: "9110080010",
-    postalCode: "98059"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Ayamaru Utara",
-    districtCode: "9110080",
-    village: "Yubiah",
-    villageCode: "9110080006",
     postalCode: "98059"
   },
   {
@@ -21634,28 +10832,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9110",
     district: "Ayamaru Utara Timur",
     districtCode: "9110081",
-    village: "Mapura",
-    villageCode: "9110081002",
-    postalCode: "98059"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Ayamaru Utara Timur",
-    districtCode: "9110081",
-    village: "Karfa",
-    villageCode: "9110081003",
-    postalCode: "98059"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Ayamaru Utara Timur",
-    districtCode: "9110081",
     village: "Karfa",
     villageCode: "9110081003",
     postalCode: "98059"
@@ -21668,28 +10844,6 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     district: "Ayamaru Utara",
     districtCode: "9110080",
     village: "Arne",
-    villageCode: "",
-    postalCode: "98059"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Ayamaru Utara",
-    districtCode: "9110080",
-    village: "Arne",
-    villageCode: "",
-    postalCode: "98059"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Ayamaru Utara",
-    districtCode: "9110080",
-    village: "Hohoyor",
     villageCode: "",
     postalCode: "98059"
   },
@@ -21722,40 +10876,7 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9110",
     district: "Ayamaru Utara Timur",
     districtCode: "9110081",
-    village: "Frabo",
-    villageCode: "",
-    postalCode: "98059"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Ayamaru Utara Timur",
-    districtCode: "9110081",
     village: "Kosah",
-    villageCode: "",
-    postalCode: "98059"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Ayamaru Utara Timur",
-    districtCode: "9110081",
-    village: "Kosah",
-    villageCode: "",
-    postalCode: "98059"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Ayamaru Jaya",
-    districtCode: "9110072",
-    village: "Soan",
     villageCode: "",
     postalCode: "98059"
   },
@@ -21788,41 +10909,8 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9110",
     district: "Ayamaru Jaya",
     districtCode: "9110072",
-    village: "Woman",
-    villageCode: "",
-    postalCode: "98059"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Ayamaru Jaya",
-    districtCode: "9110072",
     village: "Segior",
     villageCode: "9110072005",
-    postalCode: "98059"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Ayamaru Jaya",
-    districtCode: "9110072",
-    village: "Segior",
-    villageCode: "9110072005",
-    postalCode: "98059"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Ayamaru Jaya",
-    districtCode: "9110072",
-    village: "Orain",
-    villageCode: "9110072004",
     postalCode: "98059"
   },
   {
@@ -21854,40 +10942,7 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9110",
     district: "Ayamaru Jaya",
     districtCode: "9110072",
-    village: "Orsu",
-    villageCode: "9110072006",
-    postalCode: "98059"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Ayamaru Jaya",
-    districtCode: "9110072",
     village: "Rawas",
-    villageCode: "",
-    postalCode: "98059"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Ayamaru Jaya",
-    districtCode: "9110072",
-    village: "Rawas",
-    villageCode: "",
-    postalCode: "98059"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Ayamaru Jaya",
-    districtCode: "9110072",
-    village: "Warbo",
     villageCode: "",
     postalCode: "98059"
   },
@@ -21920,41 +10975,8 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9110",
     district: "Mare Selatan",
     districtCode: "9110091",
-    village: "Renis",
-    villageCode: "9110091001",
-    postalCode: "98059"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Mare Selatan",
-    districtCode: "9110091",
     village: "Sire Timur",
     villageCode: "",
-    postalCode: "98059"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Mare Selatan",
-    districtCode: "9110091",
-    village: "Sire Timur",
-    villageCode: "",
-    postalCode: "98059"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Mare Selatan",
-    districtCode: "9110091",
-    village: "Sire",
-    villageCode: "9110091002",
     postalCode: "98059"
   },
   {
@@ -21986,41 +11008,8 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9110",
     district: "Mare Selatan",
     districtCode: "9110091",
-    village: "Fase",
-    villageCode: "9110091005",
-    postalCode: "98059"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Mare Selatan",
-    districtCode: "9110091",
     village: "Osom",
     villageCode: "",
-    postalCode: "98059"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Mare Selatan",
-    districtCode: "9110091",
-    village: "Osom",
-    villageCode: "",
-    postalCode: "98059"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Mare Selatan",
-    districtCode: "9110091",
-    village: "Kuraso",
-    villageCode: "9110091006",
     postalCode: "98059"
   },
   {
@@ -22052,41 +11041,8 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9110",
     district: "Mare Selatan",
     districtCode: "9110091",
-    village: "Seni",
-    villageCode: "9110091003",
-    postalCode: "98059"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Mare Selatan",
-    districtCode: "9110091",
     village: "Sidi",
     villageCode: "",
-    postalCode: "98059"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Mare Selatan",
-    districtCode: "9110091",
-    village: "Sidi",
-    villageCode: "",
-    postalCode: "98059"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Mare Selatan",
-    districtCode: "9110091",
-    village: "Sabes",
-    villageCode: "9110091004",
     postalCode: "98059"
   },
   {
@@ -22118,41 +11074,8 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9110",
     district: "Mare",
     districtCode: "9110090",
-    village: "Mahos",
-    villageCode: "",
-    postalCode: "98059"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Mare",
-    districtCode: "9110090",
     village: "Suswa",
     villageCode: "9110090006",
-    postalCode: "98059"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Mare",
-    districtCode: "9110090",
-    village: "Suswa",
-    villageCode: "9110090006",
-    postalCode: "98059"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Mare",
-    districtCode: "9110090",
-    village: "Rufases",
-    villageCode: "9110090011",
     postalCode: "98059"
   },
   {
@@ -22184,40 +11107,7 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9110",
     district: "Mare",
     districtCode: "9110090",
-    village: "Waban",
-    villageCode: "9110090007",
-    postalCode: "98059"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Mare",
-    districtCode: "9110090",
     village: "Sawo",
-    villageCode: "",
-    postalCode: "98059"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Mare",
-    districtCode: "9110090",
-    village: "Sawo",
-    villageCode: "",
-    postalCode: "98059"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Mare",
-    districtCode: "9110090",
-    village: "Nafasi",
     villageCode: "",
     postalCode: "98059"
   },
@@ -22250,41 +11140,8 @@ export const PAPUA_BARAT_DAYA: PostalCode[] = [
     cityCode: "9110",
     district: "Mare",
     districtCode: "9110090",
-    village: "Kombif",
-    villageCode: "9110090004",
-    postalCode: "98059"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Mare",
-    districtCode: "9110090",
     village: "Bakrabi",
     villageCode: "",
-    postalCode: "98059"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Mare",
-    districtCode: "9110090",
-    village: "Bakrabi",
-    villageCode: "",
-    postalCode: "98059"
-  },
-  {
-    province: "PAPUA BARAT DAYA",
-    provinceCode: "96",
-    city: "KAB. MAYBRAT",
-    cityCode: "9110",
-    district: "Mare",
-    districtCode: "9110090",
-    village: "Seya",
-    villageCode: "9110090005",
     postalCode: "98059"
   },
   {

@@ -41302,17 +41302,6 @@ export const ACEH: PostalCode[] = [
     cityCode: "1104",
     district: "Babul Makmur",
     districtCode: "1104021",
-    village: "Pardamean",
-    villageCode: "1104021003",
-    postalCode: "24674"
-  },
-  {
-    province: "ACEH",
-    provinceCode: "11",
-    city: "KAB. ACEH TENGGARA",
-    cityCode: "1104",
-    district: "Babul Makmur",
-    districtCode: "1104021",
     village: "Lawe Mantik",
     villageCode: "1104021021",
     postalCode: "24674"

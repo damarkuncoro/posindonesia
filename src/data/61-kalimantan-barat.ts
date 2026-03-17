@@ -5482,193 +5482,6 @@ export const KALIMANTAN_BARAT: PostalCode[] = [
   {
     province: "KALIMANTAN BARAT",
     provinceCode: "61",
-    city: "KAB. LANDAK",
-    cityCode: "6103",
-    district: "Mempawah Hulu",
-    districtCode: "6103070",
-    village: "Sampuro",
-    villageCode: "6103070007",
-    postalCode: "78363"
-  },
-  {
-    province: "KALIMANTAN BARAT",
-    provinceCode: "61",
-    city: "KAB. LANDAK",
-    cityCode: "6103",
-    district: "Mempawah Hulu",
-    districtCode: "6103070",
-    village: "Mentonyek",
-    villageCode: "6103070014",
-    postalCode: "78363"
-  },
-  {
-    province: "KALIMANTAN BARAT",
-    provinceCode: "61",
-    city: "KAB. LANDAK",
-    cityCode: "6103",
-    district: "Mempawah Hulu",
-    districtCode: "6103070",
-    village: "Karangan",
-    villageCode: "6103070010",
-    postalCode: "78363"
-  },
-  {
-    province: "KALIMANTAN BARAT",
-    provinceCode: "61",
-    city: "KAB. LANDAK",
-    cityCode: "6103",
-    district: "Mempawah Hulu",
-    districtCode: "6103070",
-    village: "Sailo",
-    villageCode: "6103070015",
-    postalCode: "78363"
-  },
-  {
-    province: "KALIMANTAN BARAT",
-    provinceCode: "61",
-    city: "KAB. LANDAK",
-    cityCode: "6103",
-    district: "Mempawah Hulu",
-    districtCode: "6103070",
-    village: "Salaas",
-    villageCode: "",
-    postalCode: "78363"
-  },
-  {
-    province: "KALIMANTAN BARAT",
-    provinceCode: "61",
-    city: "KAB. LANDAK",
-    cityCode: "6103",
-    district: "Mempawah Hulu",
-    districtCode: "6103070",
-    village: "Sungai Laki",
-    villageCode: "",
-    postalCode: "78363"
-  },
-  {
-    province: "KALIMANTAN BARAT",
-    provinceCode: "61",
-    city: "KAB. LANDAK",
-    cityCode: "6103",
-    district: "Mempawah Hulu",
-    districtCode: "6103070",
-    village: "Pahokng",
-    villageCode: "6103070013",
-    postalCode: "78363"
-  },
-  {
-    province: "KALIMANTAN BARAT",
-    provinceCode: "61",
-    city: "KAB. LANDAK",
-    cityCode: "6103",
-    district: "Mempawah Hulu",
-    districtCode: "6103070",
-    village: "Tiang Tanjung",
-    villageCode: "6103070017",
-    postalCode: "78363"
-  },
-  {
-    province: "KALIMANTAN BARAT",
-    provinceCode: "61",
-    city: "KAB. LANDAK",
-    cityCode: "6103",
-    district: "Mempawah Hulu",
-    districtCode: "6103070",
-    village: "Parigi",
-    villageCode: "6103070023",
-    postalCode: "78363"
-  },
-  {
-    province: "KALIMANTAN BARAT",
-    provinceCode: "61",
-    city: "KAB. LANDAK",
-    cityCode: "6103",
-    district: "Mempawah Hulu",
-    districtCode: "6103070",
-    village: "Sabaka",
-    villageCode: "6103070020",
-    postalCode: "78363"
-  },
-  {
-    province: "KALIMANTAN BARAT",
-    provinceCode: "61",
-    city: "KAB. LANDAK",
-    cityCode: "6103",
-    district: "Mempawah Hulu",
-    districtCode: "6103070",
-    village: "Garu",
-    villageCode: "6103070011",
-    postalCode: "78363"
-  },
-  {
-    province: "KALIMANTAN BARAT",
-    provinceCode: "61",
-    city: "KAB. LANDAK",
-    cityCode: "6103",
-    district: "Mempawah Hulu",
-    districtCode: "6103070",
-    village: "Tunang",
-    villageCode: "6103070018",
-    postalCode: "78363"
-  },
-  {
-    province: "KALIMANTAN BARAT",
-    provinceCode: "61",
-    city: "KAB. LANDAK",
-    cityCode: "6103",
-    district: "Mempawah Hulu",
-    districtCode: "6103070",
-    village: "Bilayuk",
-    villageCode: "6103070019",
-    postalCode: "78363"
-  },
-  {
-    province: "KALIMANTAN BARAT",
-    provinceCode: "61",
-    city: "KAB. LANDAK",
-    cityCode: "6103",
-    district: "Mempawah Hulu",
-    districtCode: "6103070",
-    village: "Caokng",
-    villageCode: "6103070022",
-    postalCode: "78363"
-  },
-  {
-    province: "KALIMANTAN BARAT",
-    provinceCode: "61",
-    city: "KAB. LANDAK",
-    cityCode: "6103",
-    district: "Mempawah Hulu",
-    districtCode: "6103070",
-    village: "Salumang",
-    villageCode: "6103070024",
-    postalCode: "78363"
-  },
-  {
-    province: "KALIMANTAN BARAT",
-    provinceCode: "61",
-    city: "KAB. LANDAK",
-    cityCode: "6103",
-    district: "Mempawah Hulu",
-    districtCode: "6103070",
-    village: "Babatn",
-    villageCode: "6103070012",
-    postalCode: "78363"
-  },
-  {
-    province: "KALIMANTAN BARAT",
-    provinceCode: "61",
-    city: "KAB. LANDAK",
-    cityCode: "6103",
-    district: "Mempawah Hulu",
-    districtCode: "6103070",
-    village: "Ansolok",
-    villageCode: "6103070021",
-    postalCode: "78363"
-  },
-  {
-    province: "KALIMANTAN BARAT",
-    provinceCode: "61",
     city: "KAB. MEMPAWAH",
     cityCode: "6104",
     district: "Mempawah Hilir",
@@ -8261,61 +8074,6 @@ export const KALIMANTAN_BARAT: PostalCode[] = [
     village: "Sanggau Kulor",
     villageCode: "6172020002",
     postalCode: "79251"
-  },
-  {
-    province: "KALIMANTAN BARAT",
-    provinceCode: "61",
-    city: "KAB. BENGKAYANG",
-    cityCode: "6102",
-    district: "Sanggau Ledo",
-    districtCode: "6102060",
-    village: "Danti",
-    villageCode: "6102060009",
-    postalCode: "79284"
-  },
-  {
-    province: "KALIMANTAN BARAT",
-    provinceCode: "61",
-    city: "KAB. BENGKAYANG",
-    cityCode: "6102",
-    district: "Sanggau Ledo",
-    districtCode: "6102060",
-    village: "Bange",
-    villageCode: "6102060005",
-    postalCode: "79284"
-  },
-  {
-    province: "KALIMANTAN BARAT",
-    provinceCode: "61",
-    city: "KAB. BENGKAYANG",
-    cityCode: "6102",
-    district: "Sanggau Ledo",
-    districtCode: "6102060",
-    village: "Sango",
-    villageCode: "6102060007",
-    postalCode: "79284"
-  },
-  {
-    province: "KALIMANTAN BARAT",
-    provinceCode: "61",
-    city: "KAB. BENGKAYANG",
-    cityCode: "6102",
-    district: "Sanggau Ledo",
-    districtCode: "6102060",
-    village: "Lembang",
-    villageCode: "6102060006",
-    postalCode: "79284"
-  },
-  {
-    province: "KALIMANTAN BARAT",
-    provinceCode: "61",
-    city: "KAB. BENGKAYANG",
-    cityCode: "6102",
-    district: "Sanggau Ledo",
-    districtCode: "6102060",
-    village: "Gua",
-    villageCode: "6102060008",
-    postalCode: "79284"
   },
   {
     province: "BANTEN",
@@ -20816,17 +20574,6 @@ export const KALIMANTAN_BARAT: PostalCode[] = [
   {
     province: "KALIMANTAN BARAT",
     provinceCode: "61",
-    city: "KAB. SANGGAU",
-    cityCode: "6105",
-    district: "Meliau",
-    districtCode: "6105020",
-    village: "Melawi Makmur",
-    villageCode: "6105020019",
-    postalCode: "78571"
-  },
-  {
-    province: "KALIMANTAN BARAT",
-    provinceCode: "61",
     city: "KAB. MELAWI",
     cityCode: "6110",
     district: "Nanga Pinoh",
@@ -23157,17 +22904,6 @@ export const KALIMANTAN_BARAT: PostalCode[] = [
     postalCode: "78857"
   },
   {
-    province: "KALIMANTAN BARAT",
-    provinceCode: "61",
-    city: "KAB. KETAPANG",
-    cityCode: "6106",
-    district: "Nanga Tayap",
-    districtCode: "6106090",
-    village: "Kayong Utara",
-    villageCode: "6106090014",
-    postalCode: "78873"
-  },
-  {
     province: "ACEH",
     provinceCode: "61",
     city: "KAB. BIREUEN",
@@ -25035,17 +24771,6 @@ export const KALIMANTAN_BARAT: PostalCode[] = [
     districtCode: "6172010",
     village: "Pangmilang",
     villageCode: "6172010003",
-    postalCode: "79251"
-  },
-  {
-    province: "KALIMANTAN BARAT",
-    provinceCode: "61",
-    city: "KOTA SINGKAWANG",
-    cityCode: "6172",
-    district: "Singkawang Timur",
-    districtCode: "6172020",
-    village: "Sanggau Kulor",
-    villageCode: "6172020002",
     postalCode: "79251"
   },
   {

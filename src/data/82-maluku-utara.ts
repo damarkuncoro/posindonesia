@@ -12137,28 +12137,6 @@ export const MALUKU_UTARA: PostalCode[] = [
   {
     province: "MALUKU UTARA",
     provinceCode: "82",
-    city: "KAB. HALMAHERA BARAT",
-    cityCode: "8201",
-    district: "Ibu",
-    districtCode: "8201130",
-    village: "Tongute Ternate",
-    villageCode: "8201130020",
-    postalCode: "97754"
-  },
-  {
-    province: "MALUKU UTARA",
-    provinceCode: "82",
-    city: "KAB. HALMAHERA BARAT",
-    cityCode: "8201",
-    district: "Ibu",
-    districtCode: "8201130",
-    village: "Tongute Ternate Selatan",
-    villageCode: "",
-    postalCode: "97754"
-  },
-  {
-    province: "MALUKU UTARA",
-    provinceCode: "82",
     city: "KOTA TIDORE KEPULAUAN",
     cityCode: "8272",
     district: "Tidore",

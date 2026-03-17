@@ -23071,17 +23071,6 @@ export const PAPUA_PEGUNUNGAN: PostalCode[] = [
   {
     province: "PAPUA PEGUNUNGAN",
     provinceCode: "95",
-    city: "KAB. YAHUKIMO",
-    cityCode: "9416",
-    district: "Tangma",
-    districtCode: "9416042",
-    village: "Yalimo",
-    villageCode: "9416042009",
-    postalCode: "99059"
-  },
-  {
-    province: "PAPUA PEGUNUNGAN",
-    provinceCode: "95",
     city: "KAB. YALIMO",
     cityCode: "9432",
     district: "Elelim",
