@@ -1,5 +1,5 @@
 /**
- * Sends a POST request to Pos Indonesia CariKodepos endpoint.
+ * Sends a POST request to Pos Indonesia CariKodepos endpoint with retry logic.
  * @param keyword - The search keyword (village name or postal code)
  * @param cookie - Optional session cookie
  * @returns The raw HTML response
