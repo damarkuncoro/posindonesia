@@ -1,0 +1,3426 @@
+[
+  {
+    "no": "1",
+    "kodepos": "25390",
+    "desa_kelurahan": "Saumanganya",
+    "kecamatan": "Pagai Utara",
+    "kabupaten_kota": "KAB. KEPULAUAN MENTAWAI",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "2",
+    "kodepos": "25390",
+    "desa_kelurahan": "Silabu",
+    "kecamatan": "Pagai Utara",
+    "kabupaten_kota": "KAB. KEPULAUAN MENTAWAI",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "3",
+    "kodepos": "25390",
+    "desa_kelurahan": "Betumonga",
+    "kecamatan": "Pagai Utara",
+    "kabupaten_kota": "KAB. KEPULAUAN MENTAWAI",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "4",
+    "kodepos": "25391",
+    "desa_kelurahan": "Makalo",
+    "kecamatan": "Pagai Selatan",
+    "kabupaten_kota": "KAB. KEPULAUAN MENTAWAI",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "5",
+    "kodepos": "25391",
+    "desa_kelurahan": "Bulasat",
+    "kecamatan": "Pagai Selatan",
+    "kabupaten_kota": "KAB. KEPULAUAN MENTAWAI",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "6",
+    "kodepos": "25391",
+    "desa_kelurahan": "Malakopa",
+    "kecamatan": "Pagai Selatan",
+    "kabupaten_kota": "KAB. KEPULAUAN MENTAWAI",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "7",
+    "kodepos": "25391",
+    "desa_kelurahan": "Sinaka",
+    "kecamatan": "Pagai Selatan",
+    "kabupaten_kota": "KAB. KEPULAUAN MENTAWAI",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "8",
+    "kodepos": "25392",
+    "desa_kelurahan": "Mara",
+    "kecamatan": "Sipora Selatan",
+    "kabupaten_kota": "KAB. KEPULAUAN MENTAWAI",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "9",
+    "kodepos": "25392",
+    "desa_kelurahan": "Sioban",
+    "kecamatan": "Sipora Selatan",
+    "kabupaten_kota": "KAB. KEPULAUAN MENTAWAI",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "10",
+    "kodepos": "25392",
+    "desa_kelurahan": "Beriulou",
+    "kecamatan": "Sipora Selatan",
+    "kabupaten_kota": "KAB. KEPULAUAN MENTAWAI",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "11",
+    "kodepos": "25392",
+    "desa_kelurahan": "Bosua",
+    "kecamatan": "Sipora Selatan",
+    "kabupaten_kota": "KAB. KEPULAUAN MENTAWAI",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "12",
+    "kodepos": "25392",
+    "desa_kelurahan": "Saureinu",
+    "kecamatan": "Sipora Selatan",
+    "kabupaten_kota": "KAB. KEPULAUAN MENTAWAI",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "13",
+    "kodepos": "25392",
+    "desa_kelurahan": "Matobe",
+    "kecamatan": "Sipora Selatan",
+    "kabupaten_kota": "KAB. KEPULAUAN MENTAWAI",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "14",
+    "kodepos": "25392",
+    "desa_kelurahan": "Nemnemleleu",
+    "kecamatan": "Sipora Selatan",
+    "kabupaten_kota": "KAB. KEPULAUAN MENTAWAI",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "15",
+    "kodepos": "25394",
+    "desa_kelurahan": "Simatalu",
+    "kecamatan": "Siberut Barat",
+    "kabupaten_kota": "KAB. KEPULAUAN MENTAWAI",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "16",
+    "kodepos": "25394",
+    "desa_kelurahan": "Simalegi",
+    "kecamatan": "Siberut Barat",
+    "kabupaten_kota": "KAB. KEPULAUAN MENTAWAI",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "17",
+    "kodepos": "25394",
+    "desa_kelurahan": "Sigapokna",
+    "kecamatan": "Siberut Barat",
+    "kabupaten_kota": "KAB. KEPULAUAN MENTAWAI",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "18",
+    "kodepos": "25395",
+    "desa_kelurahan": "Mongan Poula",
+    "kecamatan": "Siberut Utara",
+    "kabupaten_kota": "KAB. KEPULAUAN MENTAWAI",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "19",
+    "kodepos": "25395",
+    "desa_kelurahan": "Malancan",
+    "kecamatan": "Siberut Utara",
+    "kabupaten_kota": "KAB. KEPULAUAN MENTAWAI",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "20",
+    "kodepos": "25395",
+    "desa_kelurahan": "Bojakan",
+    "kecamatan": "Siberut Utara",
+    "kabupaten_kota": "KAB. KEPULAUAN MENTAWAI",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "21",
+    "kodepos": "25395",
+    "desa_kelurahan": "Sirilogui",
+    "kecamatan": "Siberut Utara",
+    "kabupaten_kota": "KAB. KEPULAUAN MENTAWAI",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "22",
+    "kodepos": "25395",
+    "desa_kelurahan": "Muara Sikabaluan",
+    "kecamatan": "Siberut Utara",
+    "kabupaten_kota": "KAB. KEPULAUAN MENTAWAI",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "23",
+    "kodepos": "25395",
+    "desa_kelurahan": "Sotboyak",
+    "kecamatan": "Siberut Utara",
+    "kabupaten_kota": "KAB. KEPULAUAN MENTAWAI",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "24",
+    "kodepos": "25397",
+    "desa_kelurahan": "Maileppet",
+    "kecamatan": "Siberut Selatan",
+    "kabupaten_kota": "KAB. KEPULAUAN MENTAWAI",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "25",
+    "kodepos": "25397",
+    "desa_kelurahan": "Muntei",
+    "kecamatan": "Siberut Selatan",
+    "kabupaten_kota": "KAB. KEPULAUAN MENTAWAI",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "26",
+    "kodepos": "25397",
+    "desa_kelurahan": "Muara Siberut",
+    "kecamatan": "Siberut Selatan",
+    "kabupaten_kota": "KAB. KEPULAUAN MENTAWAI",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "27",
+    "kodepos": "25397",
+    "desa_kelurahan": "Matotonan",
+    "kecamatan": "Siberut Selatan",
+    "kabupaten_kota": "KAB. KEPULAUAN MENTAWAI",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "28",
+    "kodepos": "25397",
+    "desa_kelurahan": "Madobag",
+    "kecamatan": "Siberut Selatan",
+    "kabupaten_kota": "KAB. KEPULAUAN MENTAWAI",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "29",
+    "kodepos": "25399",
+    "desa_kelurahan": "Sikakap",
+    "kecamatan": "Sikakap",
+    "kabupaten_kota": "KAB. KEPULAUAN MENTAWAI",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "30",
+    "kodepos": "25399",
+    "desa_kelurahan": "Taikako",
+    "kecamatan": "Sikakap",
+    "kabupaten_kota": "KAB. KEPULAUAN MENTAWAI",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "31",
+    "kodepos": "25399",
+    "desa_kelurahan": "Matobe",
+    "kecamatan": "Sikakap",
+    "kabupaten_kota": "KAB. KEPULAUAN MENTAWAI",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "32",
+    "kodepos": "25771",
+    "desa_kelurahan": "Betumonga",
+    "kecamatan": "Sipora Utara",
+    "kabupaten_kota": "KAB. KEPULAUAN MENTAWAI",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "33",
+    "kodepos": "25771",
+    "desa_kelurahan": "Goisooinan",
+    "kecamatan": "Sipora Utara",
+    "kabupaten_kota": "KAB. KEPULAUAN MENTAWAI",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "34",
+    "kodepos": "25771",
+    "desa_kelurahan": "Bukit Pamewa",
+    "kecamatan": "Sipora Utara",
+    "kabupaten_kota": "KAB. KEPULAUAN MENTAWAI",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "35",
+    "kodepos": "25771",
+    "desa_kelurahan": "Sipora Jaya",
+    "kecamatan": "Sipora Utara",
+    "kabupaten_kota": "KAB. KEPULAUAN MENTAWAI",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "36",
+    "kodepos": "25771",
+    "desa_kelurahan": "Sido Makmur",
+    "kecamatan": "Sipora Utara",
+    "kabupaten_kota": "KAB. KEPULAUAN MENTAWAI",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "37",
+    "kodepos": "25771",
+    "desa_kelurahan": "Tuapejat",
+    "kecamatan": "Sipora Utara",
+    "kabupaten_kota": "KAB. KEPULAUAN MENTAWAI",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "38",
+    "kodepos": "25796",
+    "desa_kelurahan": "Saliguma",
+    "kecamatan": "Siberut Tengah",
+    "kabupaten_kota": "KAB. KEPULAUAN MENTAWAI",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "39",
+    "kodepos": "25796",
+    "desa_kelurahan": "Cimpungan",
+    "kecamatan": "Siberut Tengah",
+    "kabupaten_kota": "KAB. KEPULAUAN MENTAWAI",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "40",
+    "kodepos": "25796",
+    "desa_kelurahan": "Saibi Samukop",
+    "kecamatan": "Siberut Tengah",
+    "kabupaten_kota": "KAB. KEPULAUAN MENTAWAI",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "41",
+    "kodepos": "25797",
+    "desa_kelurahan": "Katurei",
+    "kecamatan": "Siberut Barat Daya",
+    "kabupaten_kota": "KAB. KEPULAUAN MENTAWAI",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "42",
+    "kodepos": "25797",
+    "desa_kelurahan": "Sagulubbeg",
+    "kecamatan": "Siberut Barat Daya",
+    "kabupaten_kota": "KAB. KEPULAUAN MENTAWAI",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "43",
+    "kodepos": "25797",
+    "desa_kelurahan": "Pasakiat Taileleu",
+    "kecamatan": "Siberut Barat Daya",
+    "kabupaten_kota": "KAB. KEPULAUAN MENTAWAI",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "1",
+    "kodepos": "25651",
+    "desa_kelurahan": "Koto Rawang",
+    "kecamatan": "IV Jurai",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "2",
+    "kodepos": "25651",
+    "desa_kelurahan": "Limau Gadang Lumpo",
+    "kecamatan": "IV Jurai",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "3",
+    "kodepos": "25651",
+    "desa_kelurahan": "Taratak Tangah Lumpo",
+    "kecamatan": "IV Jurai",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "4",
+    "kodepos": "25651",
+    "desa_kelurahan": "Ampang Tareh Lumpo",
+    "kecamatan": "IV Jurai",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "5",
+    "kodepos": "25651",
+    "desa_kelurahan": "Balai Sinayan Lumpo",
+    "kecamatan": "IV Jurai",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "6",
+    "kodepos": "25651",
+    "desa_kelurahan": "Salido Sari Bulan",
+    "kecamatan": "IV Jurai",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "7",
+    "kodepos": "25651",
+    "desa_kelurahan": "Gunung Bungkuak Lumpo",
+    "kecamatan": "IV Jurai",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "8",
+    "kodepos": "25651",
+    "desa_kelurahan": "Painan Selatan Painan",
+    "kecamatan": "IV Jurai",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "9",
+    "kodepos": "25651",
+    "desa_kelurahan": "Batu Kunik Lumpo",
+    "kecamatan": "IV Jurai",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "10",
+    "kodepos": "25651",
+    "desa_kelurahan": "Ampuan Lumpo",
+    "kecamatan": "IV Jurai",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "11",
+    "kodepos": "25651",
+    "desa_kelurahan": "Bukik Kaciak Lumpo",
+    "kecamatan": "IV Jurai",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "12",
+    "kodepos": "25651",
+    "desa_kelurahan": "Sungai Gayo Lumpo",
+    "kecamatan": "IV Jurai",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "13",
+    "kodepos": "25651",
+    "desa_kelurahan": "Lumpo",
+    "kecamatan": "IV Jurai",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "14",
+    "kodepos": "25651",
+    "desa_kelurahan": "Painan",
+    "kecamatan": "IV Jurai",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "15",
+    "kodepos": "25651",
+    "desa_kelurahan": "Salido",
+    "kecamatan": "IV Jurai",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "16",
+    "kodepos": "25651",
+    "desa_kelurahan": "Painan Timur Painan",
+    "kecamatan": "IV Jurai",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "17",
+    "kodepos": "25651",
+    "desa_kelurahan": "Sungai Sariak Lumpo",
+    "kecamatan": "IV Jurai",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "18",
+    "kodepos": "25651",
+    "desa_kelurahan": "Sago Salido",
+    "kecamatan": "IV Jurai",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "19",
+    "kodepos": "25651",
+    "desa_kelurahan": "Tambang",
+    "kecamatan": "IV Jurai",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "20",
+    "kodepos": "25651",
+    "desa_kelurahan": "Bunga Pasang Salido",
+    "kecamatan": "IV Jurai",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "21",
+    "kodepos": "25652",
+    "desa_kelurahan": "Muaro Aie",
+    "kecamatan": "IV Nagari Bayang Utara",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "22",
+    "kodepos": "25652",
+    "desa_kelurahan": "Puluik-Puluik Selatan",
+    "kecamatan": "IV Nagari Bayang Utara",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "23",
+    "kodepos": "25652",
+    "desa_kelurahan": "Puluik-Puluik",
+    "kecamatan": "IV Nagari Bayang Utara",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "24",
+    "kodepos": "25652",
+    "desa_kelurahan": "Koto Ranah",
+    "kecamatan": "IV Nagari Bayang Utara",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "25",
+    "kodepos": "25652",
+    "desa_kelurahan": "Limau Gadang Pancung Taba",
+    "kecamatan": "IV Nagari Bayang Utara",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "26",
+    "kodepos": "25652",
+    "desa_kelurahan": "Pancuang Taba",
+    "kecamatan": "IV Nagari Bayang Utara",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "27",
+    "kodepos": "25652",
+    "desa_kelurahan": "Sawah Laweh Pasar Baru",
+    "kecamatan": "Bayang",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "28",
+    "kodepos": "25652",
+    "desa_kelurahan": "Kapeh Panji Jaya Talaok",
+    "kecamatan": "Bayang",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "29",
+    "kodepos": "25652",
+    "desa_kelurahan": "Gurun Panjang Utara",
+    "kecamatan": "Bayang",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "30",
+    "kodepos": "25652",
+    "desa_kelurahan": "Koto Berapak",
+    "kecamatan": "Bayang",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "31",
+    "kodepos": "25652",
+    "desa_kelurahan": "Gurun Panjang Barat",
+    "kecamatan": "Bayang",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "32",
+    "kodepos": "25652",
+    "desa_kelurahan": "Talaok",
+    "kecamatan": "Bayang",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "33",
+    "kodepos": "25652",
+    "desa_kelurahan": "Koto Baru Koto Berapak",
+    "kecamatan": "Bayang",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "34",
+    "kodepos": "25652",
+    "desa_kelurahan": "Api-api Pasar Baru",
+    "kecamatan": "Bayang",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "35",
+    "kodepos": "25652",
+    "desa_kelurahan": "Kubang Koto Berapak",
+    "kecamatan": "Bayang",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "36",
+    "kodepos": "25652",
+    "desa_kelurahan": "Kapujan Koto Berapak",
+    "kecamatan": "Bayang",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "37",
+    "kodepos": "25652",
+    "desa_kelurahan": "Aur Begalung Talaok",
+    "kecamatan": "Bayang",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "38",
+    "kodepos": "25652",
+    "desa_kelurahan": "Kapelgam Koto Berapak",
+    "kecamatan": "Bayang",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "39",
+    "kodepos": "25652",
+    "desa_kelurahan": "Asam Kamba Pasar Baru",
+    "kecamatan": "Bayang",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "40",
+    "kodepos": "25652",
+    "desa_kelurahan": "Gurun Panjang Selatan",
+    "kecamatan": "Bayang",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "41",
+    "kodepos": "25652",
+    "desa_kelurahan": "Pasar Baru",
+    "kecamatan": "Bayang",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "42",
+    "kodepos": "25652",
+    "desa_kelurahan": "Gurun Panjang",
+    "kecamatan": "Bayang",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "43",
+    "kodepos": "25652",
+    "desa_kelurahan": "Tanjung Durian Pasar Baru",
+    "kecamatan": "Bayang",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "44",
+    "kodepos": "25654",
+    "desa_kelurahan": "Jinang Kampung Pansur Ampang Pulai",
+    "kecamatan": "Koto XI Tarusan",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "45",
+    "kodepos": "25654",
+    "desa_kelurahan": "Setara Nanggalo",
+    "kecamatan": "Koto XI Tarusan",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "46",
+    "kodepos": "25654",
+    "desa_kelurahan": "Kapuh",
+    "kecamatan": "Koto XI Tarusan",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "47",
+    "kodepos": "25654",
+    "desa_kelurahan": "Barung-Barung Balantai Timur",
+    "kecamatan": "Koto XI Tarusan",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "48",
+    "kodepos": "25654",
+    "desa_kelurahan": "Barung-Barung Balantai Tengah",
+    "kecamatan": "Koto XI Tarusan",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "49",
+    "kodepos": "25654",
+    "desa_kelurahan": "Ampang Pulai",
+    "kecamatan": "Koto XI Tarusan",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "50",
+    "kodepos": "25654",
+    "desa_kelurahan": "Barung-Barung Balantai Selatan",
+    "kecamatan": "Koto XI Tarusan",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "51",
+    "kodepos": "25654",
+    "desa_kelurahan": "Siguntur",
+    "kecamatan": "Koto XI Tarusan",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "52",
+    "kodepos": "25654",
+    "desa_kelurahan": "Pulau Karam Ampang Pulai",
+    "kecamatan": "Koto XI Tarusan",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "53",
+    "kodepos": "25654",
+    "desa_kelurahan": "Sungai Nyalo Mudiak Aia",
+    "kecamatan": "Koto XI Tarusan",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "54",
+    "kodepos": "25654",
+    "desa_kelurahan": "Sungai Pinang",
+    "kecamatan": "Koto XI Tarusan",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "55",
+    "kodepos": "25654",
+    "desa_kelurahan": "Batu Hampa",
+    "kecamatan": "Koto XI Tarusan",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "56",
+    "kodepos": "25654",
+    "desa_kelurahan": "Taratak Sungai Lundang",
+    "kecamatan": "Koto XI Tarusan",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "57",
+    "kodepos": "25654",
+    "desa_kelurahan": "Kampung Baru Korong Nan Ampek",
+    "kecamatan": "Koto XI Tarusan",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "58",
+    "kodepos": "25654",
+    "desa_kelurahan": "Siguntur Tua",
+    "kecamatan": "Koto XI Tarusan",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "59",
+    "kodepos": "25654",
+    "desa_kelurahan": "Mandeh",
+    "kecamatan": "Koto XI Tarusan",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "60",
+    "kodepos": "25654",
+    "desa_kelurahan": "Duku",
+    "kecamatan": "Koto XI Tarusan",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "61",
+    "kodepos": "25654",
+    "desa_kelurahan": "Kapuah Utara",
+    "kecamatan": "Koto XI Tarusan",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "62",
+    "kodepos": "25654",
+    "desa_kelurahan": "Duku Utara",
+    "kecamatan": "Koto XI Tarusan",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "63",
+    "kodepos": "25654",
+    "desa_kelurahan": "Cerocok Anau Ampang Pulai",
+    "kecamatan": "Koto XI Tarusan",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "64",
+    "kodepos": "25654",
+    "desa_kelurahan": "Nanggalo",
+    "kecamatan": "Koto XI Tarusan",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "65",
+    "kodepos": "25654",
+    "desa_kelurahan": "Barung-Barung Balantai",
+    "kecamatan": "Koto XI Tarusan",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "66",
+    "kodepos": "25654",
+    "desa_kelurahan": "Batu Hampar Selatan",
+    "kecamatan": "Koto XI Tarusan",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "67",
+    "kodepos": "25661",
+    "desa_kelurahan": "Ganting Mudiak Selatan Surantih",
+    "kecamatan": "Sutera",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "68",
+    "kodepos": "25661",
+    "desa_kelurahan": "Taratak",
+    "kecamatan": "Sutera",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "69",
+    "kodepos": "25661",
+    "desa_kelurahan": "Koto Nan Tigo Selatan Surantih",
+    "kecamatan": "Sutera",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "70",
+    "kodepos": "25661",
+    "desa_kelurahan": "Lansano Taratak",
+    "kecamatan": "Sutera",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "71",
+    "kodepos": "25661",
+    "desa_kelurahan": "Amping Parak Timur",
+    "kecamatan": "Sutera",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "72",
+    "kodepos": "25661",
+    "desa_kelurahan": "Aur Duri Surantih",
+    "kecamatan": "Sutera",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "73",
+    "kodepos": "25661",
+    "desa_kelurahan": "Koto Nan Tigo Utara Surantih",
+    "kecamatan": "Sutera",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "74",
+    "kodepos": "25661",
+    "desa_kelurahan": "Rawang Gunung Malelo Surantih",
+    "kecamatan": "Sutera",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "75",
+    "kodepos": "25661",
+    "desa_kelurahan": "Amping Parak",
+    "kecamatan": "Sutera",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "76",
+    "kodepos": "25661",
+    "desa_kelurahan": "Surantih",
+    "kecamatan": "Sutera",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "77",
+    "kodepos": "25661",
+    "desa_kelurahan": "Koto Taratak",
+    "kecamatan": "Sutera",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "78",
+    "kodepos": "25661",
+    "desa_kelurahan": "Ganting Mudiak Utara Surantih",
+    "kecamatan": "Sutera",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "79",
+    "kodepos": "25661",
+    "desa_kelurahan": "IV Koto Hilie",
+    "kecamatan": "Batang Kapas",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "80",
+    "kodepos": "25661",
+    "desa_kelurahan": "IV Koto Mudiek",
+    "kecamatan": "Batang Kapas",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "81",
+    "kodepos": "25661",
+    "desa_kelurahan": "Taluak",
+    "kecamatan": "Batang Kapas",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "82",
+    "kodepos": "25661",
+    "desa_kelurahan": "Teratak Tempatih IV Koto Mudiek",
+    "kecamatan": "Batang Kapas",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "83",
+    "kodepos": "25661",
+    "desa_kelurahan": "Koto Nan Duo IV Koto Hilie",
+    "kecamatan": "Batang Kapas",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "84",
+    "kodepos": "25661",
+    "desa_kelurahan": "Sungai Nyalo IV Koto Mudiek",
+    "kecamatan": "Batang Kapas",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "85",
+    "kodepos": "25661",
+    "desa_kelurahan": "Koto Nan Tigo IV Koto Hilie",
+    "kecamatan": "Batang Kapas",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "86",
+    "kodepos": "25661",
+    "desa_kelurahan": "Tuik IV Koto Mudiek",
+    "kecamatan": "Batang Kapas",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "87",
+    "kodepos": "25661",
+    "desa_kelurahan": "Taluk Tigo Sakato",
+    "kecamatan": "Batang Kapas",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "88",
+    "kodepos": "25663",
+    "desa_kelurahan": "Kambang Utara",
+    "kecamatan": "Lengayang",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "89",
+    "kodepos": "25663",
+    "desa_kelurahan": "Lakitan",
+    "kecamatan": "Lengayang",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "90",
+    "kodepos": "25663",
+    "desa_kelurahan": "Lakitan Utara",
+    "kecamatan": "Lengayang",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "91",
+    "kodepos": "25663",
+    "desa_kelurahan": "Lakitan Tengah",
+    "kecamatan": "Lengayang",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "92",
+    "kodepos": "25663",
+    "desa_kelurahan": "Kambang",
+    "kecamatan": "Lengayang",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "93",
+    "kodepos": "25663",
+    "desa_kelurahan": "Lakitan Timur",
+    "kecamatan": "Lengayang",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "94",
+    "kodepos": "25663",
+    "desa_kelurahan": "Kambang Timur",
+    "kecamatan": "Lengayang",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "95",
+    "kodepos": "25663",
+    "desa_kelurahan": "Lakitan Selatan",
+    "kecamatan": "Lengayang",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "96",
+    "kodepos": "25663",
+    "desa_kelurahan": "Kambang Barat",
+    "kecamatan": "Lengayang",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "97",
+    "kodepos": "25666",
+    "desa_kelurahan": "Air Haji",
+    "kecamatan": "Linggo Sari Baganti",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "98",
+    "kodepos": "25666",
+    "desa_kelurahan": "Lagan Hilir Punggasan",
+    "kecamatan": "Linggo Sari Baganti",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "99",
+    "kodepos": "25666",
+    "desa_kelurahan": "Punggasan",
+    "kecamatan": "Linggo Sari Baganti",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "100",
+    "kodepos": "25666",
+    "desa_kelurahan": "Punggasan Timur",
+    "kecamatan": "Linggo Sari Baganti",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "101",
+    "kodepos": "25666",
+    "desa_kelurahan": "Air Haji Tenggara",
+    "kecamatan": "Linggo Sari Baganti",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "102",
+    "kodepos": "25666",
+    "desa_kelurahan": "Pasar Bukit Air Haji",
+    "kecamatan": "Linggo Sari Baganti",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "103",
+    "kodepos": "25666",
+    "desa_kelurahan": "Air Haji Tengah",
+    "kecamatan": "Linggo Sari Baganti",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "104",
+    "kodepos": "25666",
+    "desa_kelurahan": "Padang XI Punggasan",
+    "kecamatan": "Linggo Sari Baganti",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "105",
+    "kodepos": "25666",
+    "desa_kelurahan": "Sungai Tunu Barat",
+    "kecamatan": "Ranah Pesisir",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "106",
+    "kodepos": "25666",
+    "desa_kelurahan": "Pasia Pelangai",
+    "kecamatan": "Ranah Pesisir",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "107",
+    "kodepos": "25666",
+    "desa_kelurahan": "Air Haji Barat",
+    "kecamatan": "Linggo Sari Baganti",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "108",
+    "kodepos": "25666",
+    "desa_kelurahan": "Nyiur Melambai Pelangai",
+    "kecamatan": "Ranah Pesisir",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "109",
+    "kodepos": "25666",
+    "desa_kelurahan": "Koto VIII Pelangai",
+    "kecamatan": "Ranah Pesisir",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "110",
+    "kodepos": "25666",
+    "desa_kelurahan": "Pasar Lama Muara Air Haji",
+    "kecamatan": "Linggo Sari Baganti",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "111",
+    "kodepos": "25666",
+    "desa_kelurahan": "Muara Gadang Air Haji",
+    "kecamatan": "Linggo Sari Baganti",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "112",
+    "kodepos": "25666",
+    "desa_kelurahan": "Sungai Tunu Utara",
+    "kecamatan": "Ranah Pesisir",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "113",
+    "kodepos": "25666",
+    "desa_kelurahan": "Pelangai Kaciak",
+    "kecamatan": "Ranah Pesisir",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "114",
+    "kodepos": "25666",
+    "desa_kelurahan": "Sungai Tunu",
+    "kecamatan": "Ranah Pesisir",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "115",
+    "kodepos": "25666",
+    "desa_kelurahan": "Pelangai",
+    "kecamatan": "Ranah Pesisir",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "116",
+    "kodepos": "25666",
+    "desa_kelurahan": "Sungai Liku Pelangai",
+    "kecamatan": "Ranah Pesisir",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "117",
+    "kodepos": "25666",
+    "desa_kelurahan": "Punggasan Utara",
+    "kecamatan": "Linggo Sari Baganti",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "118",
+    "kodepos": "25666",
+    "desa_kelurahan": "Sungai Sirah Air Haji",
+    "kecamatan": "Linggo Sari Baganti",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "119",
+    "kodepos": "25666",
+    "desa_kelurahan": "Muara Kandis Punggasan",
+    "kecamatan": "Linggo Sari Baganti",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "120",
+    "kodepos": "25666",
+    "desa_kelurahan": "Pelangai Gadang",
+    "kecamatan": "Ranah Pesisir",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "121",
+    "kodepos": "25666",
+    "desa_kelurahan": "Lagan Mudik Punggasan",
+    "kecamatan": "Linggo Sari Baganti",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "122",
+    "kodepos": "25666",
+    "desa_kelurahan": "Rantau Simalenang Air Haji",
+    "kecamatan": "Linggo Sari Baganti",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "123",
+    "kodepos": "25671",
+    "desa_kelurahan": "Muara Inderapura",
+    "kecamatan": "Airpura",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "124",
+    "kodepos": "25671",
+    "desa_kelurahan": "Pulau Rajo Inderapura",
+    "kecamatan": "Airpura",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "125",
+    "kodepos": "25671",
+    "desa_kelurahan": "Tanah Bakali Inderapura",
+    "kecamatan": "Airpura",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "126",
+    "kodepos": "25671",
+    "desa_kelurahan": "Palokan Inderapura",
+    "kecamatan": "Airpura",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "127",
+    "kodepos": "25671",
+    "desa_kelurahan": "Inderapura Utara",
+    "kecamatan": "Airpura",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "128",
+    "kodepos": "25671",
+    "desa_kelurahan": "Lalang Panjang Inderapura",
+    "kecamatan": "Airpura",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "129",
+    "kodepos": "25671",
+    "desa_kelurahan": "Tluk Kualo Inderapura",
+    "kecamatan": "Airpura",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "130",
+    "kodepos": "25671",
+    "desa_kelurahan": "Inderapura Timur",
+    "kecamatan": "Airpura",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "131",
+    "kodepos": "25671",
+    "desa_kelurahan": "Damar Lapan Batang Inderapura",
+    "kecamatan": "Airpura",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "132",
+    "kodepos": "25671",
+    "desa_kelurahan": "Lubuk Betung Inderapura",
+    "kecamatan": "Airpura",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "133",
+    "kodepos": "25671",
+    "desa_kelurahan": "Kudo-Kudo Inderapura",
+    "kecamatan": "Pancung Soal",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "134",
+    "kodepos": "25671",
+    "desa_kelurahan": "Inderapura Barat",
+    "kecamatan": "Pancung Soal",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "135",
+    "kodepos": "25671",
+    "desa_kelurahan": "Tigo Sungai Inderapura",
+    "kecamatan": "Pancung Soal",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "136",
+    "kodepos": "25671",
+    "desa_kelurahan": "Tluk Amplu Inderapura",
+    "kecamatan": "Pancung Soal",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "137",
+    "kodepos": "25671",
+    "desa_kelurahan": "Muaro Sakai Inderapura",
+    "kecamatan": "Pancung Soal",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "138",
+    "kodepos": "25671",
+    "desa_kelurahan": "Simpang Lama Inderapura",
+    "kecamatan": "Pancung Soal",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "139",
+    "kodepos": "25671",
+    "desa_kelurahan": "Tiga Sepakat Inderapura",
+    "kecamatan": "Pancung Soal",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "140",
+    "kodepos": "25671",
+    "desa_kelurahan": "Inderapura Tengah",
+    "kecamatan": "Pancung Soal",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "141",
+    "kodepos": "25671",
+    "desa_kelurahan": "Inderapura",
+    "kecamatan": "Pancung Soal",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "142",
+    "kodepos": "25671",
+    "desa_kelurahan": "Inderapura Selatan",
+    "kecamatan": "Pancung Soal",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "143",
+    "kodepos": "25673",
+    "desa_kelurahan": "Kubu Tapan",
+    "kecamatan": "Ranah Ampek Hulu Tapan",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "144",
+    "kodepos": "25673",
+    "desa_kelurahan": "Talang Balarik Tapan",
+    "kecamatan": "Ranah Ampek Hulu Tapan",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "145",
+    "kodepos": "25673",
+    "desa_kelurahan": "Tebing Tinggi Tapan",
+    "kecamatan": "Ranah Ampek Hulu Tapan",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "146",
+    "kodepos": "25673",
+    "desa_kelurahan": "Talang Koto Pulai Tapan",
+    "kecamatan": "Ranah Ampek Hulu Tapan",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "147",
+    "kodepos": "25673",
+    "desa_kelurahan": "Limau Purut Tapan",
+    "kecamatan": "Ranah Ampek Hulu Tapan",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "148",
+    "kodepos": "25673",
+    "desa_kelurahan": "Sungai Pinang Tapan",
+    "kecamatan": "Ranah Ampek Hulu Tapan",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "149",
+    "kodepos": "25673",
+    "desa_kelurahan": "Simpang Gunung Tapan",
+    "kecamatan": "Ranah Ampek Hulu Tapan",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "150",
+    "kodepos": "25673",
+    "desa_kelurahan": "Binjai Tapan",
+    "kecamatan": "Ranah Ampek Hulu Tapan",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "151",
+    "kodepos": "25673",
+    "desa_kelurahan": "Kampung Tengah Tapan",
+    "kecamatan": "Ranah Ampek Hulu Tapan",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "152",
+    "kodepos": "25673",
+    "desa_kelurahan": "Sungai Gambir Sako Tapan",
+    "kecamatan": "Ranah Ampek Hulu Tapan",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "153",
+    "kodepos": "25673",
+    "desa_kelurahan": "Batang Betung Tapan",
+    "kecamatan": "Basa Ampek Balai Tapan",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "154",
+    "kodepos": "25673",
+    "desa_kelurahan": "Riak Danau Tapan",
+    "kecamatan": "Basa Ampek Balai Tapan",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "155",
+    "kodepos": "25673",
+    "desa_kelurahan": "Tapan",
+    "kecamatan": "Basa Ampek Balai Tapan",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "156",
+    "kodepos": "25673",
+    "desa_kelurahan": "Tanjung Pondok Tapan",
+    "kecamatan": "Basa Ampek Balai Tapan",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "157",
+    "kodepos": "25673",
+    "desa_kelurahan": "Koto Anau Tapan",
+    "kecamatan": "Basa Ampek Balai Tapan",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "158",
+    "kodepos": "25673",
+    "desa_kelurahan": "Dusun Baru Tapan",
+    "kecamatan": "Basa Ampek Balai Tapan",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "159",
+    "kodepos": "25673",
+    "desa_kelurahan": "Batang Arah Tapan",
+    "kecamatan": "Basa Ampek Balai Tapan",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "160",
+    "kodepos": "25673",
+    "desa_kelurahan": "Bukit Buai Tapan",
+    "kecamatan": "Basa Ampek Balai Tapan",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "161",
+    "kodepos": "25673",
+    "desa_kelurahan": "Ampang Tulak Tapan",
+    "kecamatan": "Basa Ampek Balai Tapan",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "162",
+    "kodepos": "25673",
+    "desa_kelurahan": "Pasar Tapan",
+    "kecamatan": "Basa Ampek Balai Tapan",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "163",
+    "kodepos": "25674",
+    "desa_kelurahan": "Air Hitam",
+    "kecamatan": "Silaut",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "164",
+    "kodepos": "25674",
+    "desa_kelurahan": "Sambungo",
+    "kecamatan": "Silaut",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "165",
+    "kodepos": "25674",
+    "desa_kelurahan": "Lunang Selatan",
+    "kecamatan": "Lunang",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "166",
+    "kodepos": "25674",
+    "desa_kelurahan": "Lunang Tiga",
+    "kecamatan": "Lunang",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "167",
+    "kodepos": "25674",
+    "desa_kelurahan": "Pondok Parian Lunang",
+    "kecamatan": "Lunang",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "168",
+    "kodepos": "25674",
+    "desa_kelurahan": "Sungai Pulai",
+    "kecamatan": "Silaut",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "169",
+    "kodepos": "25674",
+    "desa_kelurahan": "Sungai Sarik",
+    "kecamatan": "Silaut",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "170",
+    "kodepos": "25674",
+    "desa_kelurahan": "Lunang Utara",
+    "kecamatan": "Lunang",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "171",
+    "kodepos": "25674",
+    "desa_kelurahan": "Sungai Sirah",
+    "kecamatan": "Silaut",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "172",
+    "kodepos": "25674",
+    "desa_kelurahan": "Pasir Binjai",
+    "kecamatan": "Silaut",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "173",
+    "kodepos": "25674",
+    "desa_kelurahan": "Silaut",
+    "kecamatan": "Silaut",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "174",
+    "kodepos": "25674",
+    "desa_kelurahan": "Durian Seribu",
+    "kecamatan": "Silaut",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "175",
+    "kodepos": "25674",
+    "desa_kelurahan": "Lubuk Bunta",
+    "kecamatan": "Silaut",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "176",
+    "kodepos": "25674",
+    "desa_kelurahan": "Lunang",
+    "kecamatan": "Lunang",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "177",
+    "kodepos": "25674",
+    "desa_kelurahan": "Lunang Satu",
+    "kecamatan": "Lunang",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "178",
+    "kodepos": "25674",
+    "desa_kelurahan": "Lunang Dua",
+    "kecamatan": "Lunang",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "179",
+    "kodepos": "25674",
+    "desa_kelurahan": "Talang Binjai",
+    "kecamatan": "Silaut",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "180",
+    "kodepos": "25674",
+    "desa_kelurahan": "Lunang Barat",
+    "kecamatan": "Lunang",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "181",
+    "kodepos": "25674",
+    "desa_kelurahan": "Sindang Lunang",
+    "kecamatan": "Lunang",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "182",
+    "kodepos": "25674",
+    "desa_kelurahan": "Lunang Tengah",
+    "kecamatan": "Lunang",
+    "kabupaten_kota": "KAB. PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "183",
+    "kodepos": "35985",
+    "desa_kelurahan": "Tanjung Setia",
+    "kecamatan": "Pesisir Selatan",
+    "kabupaten_kota": "KAB. PESISIR BARAT",
+    "provinsi": "LAMPUNG"
+  },
+  {
+    "no": "184",
+    "kodepos": "35985",
+    "desa_kelurahan": "Tanjung Raya",
+    "kecamatan": "Pesisir Selatan",
+    "kabupaten_kota": "KAB. PESISIR BARAT",
+    "provinsi": "LAMPUNG"
+  },
+  {
+    "no": "185",
+    "kodepos": "35985",
+    "desa_kelurahan": "Sukarame",
+    "kecamatan": "Pesisir Selatan",
+    "kabupaten_kota": "KAB. PESISIR BARAT",
+    "provinsi": "LAMPUNG"
+  },
+  {
+    "no": "186",
+    "kodepos": "35985",
+    "desa_kelurahan": "Ulok Manik",
+    "kecamatan": "Pesisir Selatan",
+    "kabupaten_kota": "KAB. PESISIR BARAT",
+    "provinsi": "LAMPUNG"
+  },
+  {
+    "no": "187",
+    "kodepos": "35985",
+    "desa_kelurahan": "Way Jambu",
+    "kecamatan": "Pesisir Selatan",
+    "kabupaten_kota": "KAB. PESISIR BARAT",
+    "provinsi": "LAMPUNG"
+  },
+  {
+    "no": "188",
+    "kodepos": "35985",
+    "desa_kelurahan": "Marang",
+    "kecamatan": "Pesisir Selatan",
+    "kabupaten_kota": "KAB. PESISIR BARAT",
+    "provinsi": "LAMPUNG"
+  },
+  {
+    "no": "189",
+    "kodepos": "35985",
+    "desa_kelurahan": "Pelita Jaya",
+    "kecamatan": "Pesisir Selatan",
+    "kabupaten_kota": "KAB. PESISIR BARAT",
+    "provinsi": "LAMPUNG"
+  },
+  {
+    "no": "190",
+    "kodepos": "35985",
+    "desa_kelurahan": "Sumur Jaya",
+    "kecamatan": "Pesisir Selatan",
+    "kabupaten_kota": "KAB. PESISIR BARAT",
+    "provinsi": "LAMPUNG"
+  },
+  {
+    "no": "191",
+    "kodepos": "35985",
+    "desa_kelurahan": "Pagar Dalam",
+    "kecamatan": "Pesisir Selatan",
+    "kabupaten_kota": "KAB. PESISIR BARAT",
+    "provinsi": "LAMPUNG"
+  },
+  {
+    "no": "192",
+    "kodepos": "35985",
+    "desa_kelurahan": "Paku Negara",
+    "kecamatan": "Pesisir Selatan",
+    "kabupaten_kota": "KAB. PESISIR BARAT",
+    "provinsi": "LAMPUNG"
+  },
+  {
+    "no": "193",
+    "kodepos": "35985",
+    "desa_kelurahan": "Tanjung Jati",
+    "kecamatan": "Pesisir Selatan",
+    "kabupaten_kota": "KAB. PESISIR BARAT",
+    "provinsi": "LAMPUNG"
+  },
+  {
+    "no": "194",
+    "kodepos": "35985",
+    "desa_kelurahan": "Biha",
+    "kecamatan": "Pesisir Selatan",
+    "kabupaten_kota": "KAB. PESISIR BARAT",
+    "provinsi": "LAMPUNG"
+  },
+  {
+    "no": "195",
+    "kodepos": "35985",
+    "desa_kelurahan": "Tulung Bamban",
+    "kecamatan": "Pesisir Selatan",
+    "kabupaten_kota": "KAB. PESISIR BARAT",
+    "provinsi": "LAMPUNG"
+  },
+  {
+    "no": "196",
+    "kodepos": "35985",
+    "desa_kelurahan": "Negeri Ratu Tenumbang",
+    "kecamatan": "Pesisir Selatan",
+    "kabupaten_kota": "KAB. PESISIR BARAT",
+    "provinsi": "LAMPUNG"
+  },
+  {
+    "no": "197",
+    "kodepos": "35985",
+    "desa_kelurahan": "Bangun Negara",
+    "kecamatan": "Pesisir Selatan",
+    "kabupaten_kota": "KAB. PESISIR BARAT",
+    "provinsi": "LAMPUNG"
+  },
+  {
+    "no": "198",
+    "kodepos": "94658",
+    "desa_kelurahan": "Malitu",
+    "kecamatan": "Poso Pesisir Selatan",
+    "kabupaten_kota": "KAB. POSO",
+    "provinsi": "SULAWESI TENGAH"
+  },
+  {
+    "no": "199",
+    "kodepos": "94658",
+    "desa_kelurahan": "Sangginora",
+    "kecamatan": "Poso Pesisir Selatan",
+    "kabupaten_kota": "KAB. POSO",
+    "provinsi": "SULAWESI TENGAH"
+  },
+  {
+    "no": "200",
+    "kodepos": "94658",
+    "desa_kelurahan": "Dewua",
+    "kecamatan": "Poso Pesisir Selatan",
+    "kabupaten_kota": "KAB. POSO",
+    "provinsi": "SULAWESI TENGAH"
+  },
+  {
+    "no": "201",
+    "kodepos": "94658",
+    "desa_kelurahan": "Pantangolemba",
+    "kecamatan": "Poso Pesisir Selatan",
+    "kabupaten_kota": "KAB. POSO",
+    "provinsi": "SULAWESI TENGAH"
+  },
+  {
+    "no": "202",
+    "kodepos": "94658",
+    "desa_kelurahan": "Tangkura",
+    "kecamatan": "Poso Pesisir Selatan",
+    "kabupaten_kota": "KAB. POSO",
+    "provinsi": "SULAWESI TENGAH"
+  },
+  {
+    "no": "203",
+    "kodepos": "94658",
+    "desa_kelurahan": "Patiwunga",
+    "kecamatan": "Poso Pesisir Selatan",
+    "kabupaten_kota": "KAB. POSO",
+    "provinsi": "SULAWESI TENGAH"
+  },
+  {
+    "no": "204",
+    "kodepos": "94658",
+    "desa_kelurahan": "Padalembara",
+    "kecamatan": "Poso Pesisir Selatan",
+    "kabupaten_kota": "KAB. POSO",
+    "provinsi": "SULAWESI TENGAH"
+  },
+  {
+    "no": "205",
+    "kodepos": "94658",
+    "desa_kelurahan": "Betalemba",
+    "kecamatan": "Poso Pesisir Selatan",
+    "kabupaten_kota": "KAB. POSO",
+    "provinsi": "SULAWESI TENGAH"
+  },
+  {
+    "no": "206",
+    "kodepos": "94658",
+    "desa_kelurahan": "Taunca",
+    "kecamatan": "Poso Pesisir Selatan",
+    "kabupaten_kota": "KAB. POSO",
+    "provinsi": "SULAWESI TENGAH"
+  },
+  {
+    "no": "1",
+    "kodepos": "22564",
+    "desa_kelurahan": "Kampung Solok",
+    "kecamatan": "Barus",
+    "kabupaten_kota": "KAB. TAPANULI TENGAH",
+    "provinsi": "SUMATERA UTARA"
+  },
+  {
+    "no": "2",
+    "kodepos": "26671",
+    "desa_kelurahan": "Solok Bio Bio",
+    "kecamatan": "Harau",
+    "kabupaten_kota": "KAB. LIMA PULUH KOTA",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "3",
+    "kodepos": "27311",
+    "desa_kelurahan": "VI Suku",
+    "kecamatan": "Lubuk Sikarah",
+    "kabupaten_kota": "KOTA SOLOK",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "4",
+    "kodepos": "27312",
+    "desa_kelurahan": "Tanah Garam",
+    "kecamatan": "Lubuk Sikarah",
+    "kabupaten_kota": "KOTA SOLOK",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "5",
+    "kodepos": "27313",
+    "desa_kelurahan": "Sinapa Piliang",
+    "kecamatan": "Lubuk Sikarah",
+    "kabupaten_kota": "KOTA SOLOK",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "6",
+    "kodepos": "27314",
+    "desa_kelurahan": "IX Korong",
+    "kecamatan": "Lubuk Sikarah",
+    "kabupaten_kota": "KOTA SOLOK",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "7",
+    "kodepos": "27315",
+    "desa_kelurahan": "Kampai Tabu Karambia",
+    "kecamatan": "Lubuk Sikarah",
+    "kabupaten_kota": "KOTA SOLOK",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "8",
+    "kodepos": "27316",
+    "desa_kelurahan": "Simpang Rumbio",
+    "kecamatan": "Lubuk Sikarah",
+    "kabupaten_kota": "KOTA SOLOK",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "9",
+    "kodepos": "27317",
+    "desa_kelurahan": "Aro IV Korong",
+    "kecamatan": "Lubuk Sikarah",
+    "kabupaten_kota": "KOTA SOLOK",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "10",
+    "kodepos": "27321",
+    "desa_kelurahan": "Kampung Jawa",
+    "kecamatan": "Tanjung Harapan",
+    "kabupaten_kota": "KOTA SOLOK",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "11",
+    "kodepos": "27322",
+    "desa_kelurahan": "Pasar Pandan Air Mati",
+    "kecamatan": "Tanjung Harapan",
+    "kabupaten_kota": "KOTA SOLOK",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "12",
+    "kodepos": "27323",
+    "desa_kelurahan": "Koto Panjang",
+    "kecamatan": "Tanjung Harapan",
+    "kabupaten_kota": "KOTA SOLOK",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "13",
+    "kodepos": "27324",
+    "desa_kelurahan": "Tanjung Paku",
+    "kecamatan": "Tanjung Harapan",
+    "kabupaten_kota": "KOTA SOLOK",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "14",
+    "kodepos": "27325",
+    "desa_kelurahan": "Laing",
+    "kecamatan": "Tanjung Harapan",
+    "kabupaten_kota": "KOTA SOLOK",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "15",
+    "kodepos": "27326",
+    "desa_kelurahan": "Nan Balimo",
+    "kecamatan": "Tanjung Harapan",
+    "kabupaten_kota": "KOTA SOLOK",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "16",
+    "kodepos": "27351",
+    "desa_kelurahan": "Koto Sani",
+    "kecamatan": "X Koto Singkarak",
+    "kabupaten_kota": "KAB. SOLOK",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "17",
+    "kodepos": "27351",
+    "desa_kelurahan": "Tikalak",
+    "kecamatan": "X Koto Singkarak",
+    "kabupaten_kota": "KAB. SOLOK",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "18",
+    "kodepos": "27351",
+    "desa_kelurahan": "Aripan",
+    "kecamatan": "X Koto Singkarak",
+    "kabupaten_kota": "KAB. SOLOK",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "19",
+    "kodepos": "27351",
+    "desa_kelurahan": "Kacang",
+    "kecamatan": "X Koto Singkarak",
+    "kabupaten_kota": "KAB. SOLOK",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "20",
+    "kodepos": "27351",
+    "desa_kelurahan": "Singkarak",
+    "kecamatan": "X Koto Singkarak",
+    "kabupaten_kota": "KAB. SOLOK",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "21",
+    "kodepos": "27351",
+    "desa_kelurahan": "Sumani",
+    "kecamatan": "X Koto Singkarak",
+    "kabupaten_kota": "KAB. SOLOK",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "22",
+    "kodepos": "27351",
+    "desa_kelurahan": "Saniangbaka",
+    "kecamatan": "X Koto Singkarak",
+    "kabupaten_kota": "KAB. SOLOK",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "23",
+    "kodepos": "27351",
+    "desa_kelurahan": "Tanjung Alai",
+    "kecamatan": "X Koto Singkarak",
+    "kabupaten_kota": "KAB. SOLOK",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "24",
+    "kodepos": "27353",
+    "desa_kelurahan": "Muaro Pingai",
+    "kecamatan": "Junjung Sirih",
+    "kabupaten_kota": "KAB. SOLOK",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "25",
+    "kodepos": "27353",
+    "desa_kelurahan": "Paninggahan",
+    "kecamatan": "Junjung Sirih",
+    "kabupaten_kota": "KAB. SOLOK",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "26",
+    "kodepos": "27354",
+    "desa_kelurahan": "Katialo",
+    "kecamatan": "X Koto Diatas",
+    "kabupaten_kota": "KAB. SOLOK",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "27",
+    "kodepos": "27354",
+    "desa_kelurahan": "Sibarambang",
+    "kecamatan": "X Koto Diatas",
+    "kabupaten_kota": "KAB. SOLOK",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "28",
+    "kodepos": "27354",
+    "desa_kelurahan": "Pasilihan",
+    "kecamatan": "X Koto Diatas",
+    "kabupaten_kota": "KAB. SOLOK",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "29",
+    "kodepos": "27354",
+    "desa_kelurahan": "Tanjung Balik",
+    "kecamatan": "X Koto Diatas",
+    "kabupaten_kota": "KAB. SOLOK",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "30",
+    "kodepos": "27354",
+    "desa_kelurahan": "Labuh Panjang",
+    "kecamatan": "X Koto Diatas",
+    "kabupaten_kota": "KAB. SOLOK",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "31",
+    "kodepos": "27354",
+    "desa_kelurahan": "Kuncir",
+    "kecamatan": "X Koto Diatas",
+    "kabupaten_kota": "KAB. SOLOK",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "32",
+    "kodepos": "27354",
+    "desa_kelurahan": "Bukit Kanduang",
+    "kecamatan": "X Koto Diatas",
+    "kabupaten_kota": "KAB. SOLOK",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "33",
+    "kodepos": "27354",
+    "desa_kelurahan": "Sulit Air",
+    "kecamatan": "X Koto Diatas",
+    "kabupaten_kota": "KAB. SOLOK",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "34",
+    "kodepos": "27354",
+    "desa_kelurahan": "Paninjauan",
+    "kecamatan": "X Koto Diatas",
+    "kabupaten_kota": "KAB. SOLOK",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "35",
+    "kodepos": "27361",
+    "desa_kelurahan": "Gaung",
+    "kecamatan": "Kubung",
+    "kabupaten_kota": "KAB. SOLOK",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "36",
+    "kodepos": "27361",
+    "desa_kelurahan": "Saok Laweh",
+    "kecamatan": "Kubung",
+    "kabupaten_kota": "KAB. SOLOK",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "37",
+    "kodepos": "27361",
+    "desa_kelurahan": "Selayo",
+    "kecamatan": "Kubung",
+    "kabupaten_kota": "KAB. SOLOK",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "38",
+    "kodepos": "27361",
+    "desa_kelurahan": "Gantuang Ciri",
+    "kecamatan": "Kubung",
+    "kabupaten_kota": "KAB. SOLOK",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "39",
+    "kodepos": "27361",
+    "desa_kelurahan": "Koto Hilalang",
+    "kecamatan": "Kubung",
+    "kabupaten_kota": "KAB. SOLOK",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "40",
+    "kodepos": "27361",
+    "desa_kelurahan": "Panyakalan",
+    "kecamatan": "Kubung",
+    "kabupaten_kota": "KAB. SOLOK",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "41",
+    "kodepos": "27361",
+    "desa_kelurahan": "Koto Baru",
+    "kecamatan": "Kubung",
+    "kabupaten_kota": "KAB. SOLOK",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "42",
+    "kodepos": "27361",
+    "desa_kelurahan": "Tanjung Bingkung",
+    "kecamatan": "Kubung",
+    "kabupaten_kota": "KAB. SOLOK",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "43",
+    "kodepos": "27365",
+    "desa_kelurahan": "Jawi Jawi",
+    "kecamatan": "Gunung Talang",
+    "kabupaten_kota": "KAB. SOLOK",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "44",
+    "kodepos": "27365",
+    "desa_kelurahan": "Cupak",
+    "kecamatan": "Gunung Talang",
+    "kabupaten_kota": "KAB. SOLOK",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "45",
+    "kodepos": "27365",
+    "desa_kelurahan": "Aie Batumbuak",
+    "kecamatan": "Gunung Talang",
+    "kabupaten_kota": "KAB. SOLOK",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "46",
+    "kodepos": "27365",
+    "desa_kelurahan": "Koto Gaek Guguk",
+    "kecamatan": "Gunung Talang",
+    "kabupaten_kota": "KAB. SOLOK",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "47",
+    "kodepos": "27365",
+    "desa_kelurahan": "Sungai Janiah",
+    "kecamatan": "Gunung Talang",
+    "kabupaten_kota": "KAB. SOLOK",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "48",
+    "kodepos": "27365",
+    "desa_kelurahan": "Koto Gadang Guguak",
+    "kecamatan": "Gunung Talang",
+    "kabupaten_kota": "KAB. SOLOK",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "49",
+    "kodepos": "27365",
+    "desa_kelurahan": "Talang",
+    "kecamatan": "Gunung Talang",
+    "kabupaten_kota": "KAB. SOLOK",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "50",
+    "kodepos": "27365",
+    "desa_kelurahan": "Batang Barus",
+    "kecamatan": "Gunung Talang",
+    "kabupaten_kota": "KAB. SOLOK",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "51",
+    "kodepos": "27371",
+    "desa_kelurahan": "Alahan Panjang",
+    "kecamatan": "Lembah Gumanti",
+    "kabupaten_kota": "KAB. SOLOK",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "52",
+    "kodepos": "27371",
+    "desa_kelurahan": "Sungai Nanam",
+    "kecamatan": "Lembah Gumanti",
+    "kabupaten_kota": "KAB. SOLOK",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "53",
+    "kodepos": "27371",
+    "desa_kelurahan": "Aie Dingin",
+    "kecamatan": "Lembah Gumanti",
+    "kabupaten_kota": "KAB. SOLOK",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "54",
+    "kodepos": "27371",
+    "desa_kelurahan": "Salimpat",
+    "kecamatan": "Lembah Gumanti",
+    "kabupaten_kota": "KAB. SOLOK",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "55",
+    "kodepos": "27372",
+    "desa_kelurahan": "Talang Babungo",
+    "kecamatan": "Hiliran Gumanti",
+    "kabupaten_kota": "KAB. SOLOK",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "56",
+    "kodepos": "27372",
+    "desa_kelurahan": "Sariak Alahan Tigo",
+    "kecamatan": "Hiliran Gumanti",
+    "kabupaten_kota": "KAB. SOLOK",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "57",
+    "kodepos": "27372",
+    "desa_kelurahan": "Sungai Abu",
+    "kecamatan": "Hiliran Gumanti",
+    "kabupaten_kota": "KAB. SOLOK",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "58",
+    "kodepos": "27373",
+    "desa_kelurahan": "Surian",
+    "kecamatan": "Pantai Cermin",
+    "kabupaten_kota": "KAB. SOLOK",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "59",
+    "kodepos": "27373",
+    "desa_kelurahan": "Lolo",
+    "kecamatan": "Pantai Cermin",
+    "kabupaten_kota": "KAB. SOLOK",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "60",
+    "kodepos": "27381",
+    "desa_kelurahan": "Muaro Paneh",
+    "kecamatan": "Bukit Sundi",
+    "kabupaten_kota": "KAB. SOLOK",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "61",
+    "kodepos": "27381",
+    "desa_kelurahan": "Kinari",
+    "kecamatan": "Bukit Sundi",
+    "kabupaten_kota": "KAB. SOLOK",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "62",
+    "kodepos": "27381",
+    "desa_kelurahan": "Dilam",
+    "kecamatan": "Bukit Sundi",
+    "kabupaten_kota": "KAB. SOLOK",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "63",
+    "kodepos": "27381",
+    "desa_kelurahan": "Parambahan",
+    "kecamatan": "Bukit Sundi",
+    "kabupaten_kota": "KAB. SOLOK",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "64",
+    "kodepos": "27381",
+    "desa_kelurahan": "Bukit Tandang",
+    "kecamatan": "Bukit Sundi",
+    "kabupaten_kota": "KAB. SOLOK",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "65",
+    "kodepos": "27383",
+    "desa_kelurahan": "Selayo Tanang B. Sileh",
+    "kecamatan": "Lembang Jaya",
+    "kabupaten_kota": "KAB. SOLOK",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "66",
+    "kodepos": "27383",
+    "desa_kelurahan": "Koto Gadang Koto Anau",
+    "kecamatan": "Lembang Jaya",
+    "kabupaten_kota": "KAB. SOLOK",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "67",
+    "kodepos": "27383",
+    "desa_kelurahan": "Koto Laweh",
+    "kecamatan": "Lembang Jaya",
+    "kabupaten_kota": "KAB. SOLOK",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "68",
+    "kodepos": "27383",
+    "desa_kelurahan": "Limau Lunggo",
+    "kecamatan": "Lembang Jaya",
+    "kabupaten_kota": "KAB. SOLOK",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "69",
+    "kodepos": "27383",
+    "desa_kelurahan": "Batu Bajanjang",
+    "kecamatan": "Lembang Jaya",
+    "kabupaten_kota": "KAB. SOLOK",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "70",
+    "kodepos": "27383",
+    "desa_kelurahan": "Batu Banyak",
+    "kecamatan": "Lembang Jaya",
+    "kabupaten_kota": "KAB. SOLOK",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "71",
+    "kodepos": "27384",
+    "desa_kelurahan": "Kampung Batu Dalam",
+    "kecamatan": "Danau Kembar",
+    "kabupaten_kota": "KAB. SOLOK",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "72",
+    "kodepos": "27384",
+    "desa_kelurahan": "Simpang Tj. Nan IV",
+    "kecamatan": "Danau Kembar",
+    "kabupaten_kota": "KAB. SOLOK",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "73",
+    "kodepos": "27386",
+    "desa_kelurahan": "Rangkiang Luluih",
+    "kecamatan": "Tigo Lurah",
+    "kabupaten_kota": "KAB. SOLOK",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "74",
+    "kodepos": "27386",
+    "desa_kelurahan": "Batu Bajanjang",
+    "kecamatan": "Tigo Lurah",
+    "kabupaten_kota": "KAB. SOLOK",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "75",
+    "kodepos": "27386",
+    "desa_kelurahan": "Simanau",
+    "kecamatan": "Tigo Lurah",
+    "kabupaten_kota": "KAB. SOLOK",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "76",
+    "kodepos": "27386",
+    "desa_kelurahan": "Garabak Data",
+    "kecamatan": "Tigo Lurah",
+    "kabupaten_kota": "KAB. SOLOK",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "77",
+    "kodepos": "27386",
+    "desa_kelurahan": "Tanjung Balik Sumiso",
+    "kecamatan": "Tigo Lurah",
+    "kabupaten_kota": "KAB. SOLOK",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "78",
+    "kodepos": "27387",
+    "desa_kelurahan": "Sirukam",
+    "kecamatan": "Payung Sekaki",
+    "kabupaten_kota": "KAB. SOLOK",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "79",
+    "kodepos": "27387",
+    "desa_kelurahan": "Aie Luo",
+    "kecamatan": "Payung Sekaki",
+    "kabupaten_kota": "KAB. SOLOK",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "80",
+    "kodepos": "27387",
+    "desa_kelurahan": "Supayang",
+    "kecamatan": "Payung Sekaki",
+    "kabupaten_kota": "KAB. SOLOK",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "81",
+    "kodepos": "27388",
+    "desa_kelurahan": "Taruang-Taruang",
+    "kecamatan": "IX Koto Sungai Lasi",
+    "kabupaten_kota": "KAB. SOLOK",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "82",
+    "kodepos": "27388",
+    "desa_kelurahan": "Guguak Sarai",
+    "kecamatan": "IX Koto Sungai Lasi",
+    "kabupaten_kota": "KAB. SOLOK",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "83",
+    "kodepos": "27388",
+    "desa_kelurahan": "Koto Laweh",
+    "kecamatan": "IX Koto Sungai Lasi",
+    "kabupaten_kota": "KAB. SOLOK",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "84",
+    "kodepos": "27388",
+    "desa_kelurahan": "Bukik Bais",
+    "kecamatan": "IX Koto Sungai Lasi",
+    "kabupaten_kota": "KAB. SOLOK",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "85",
+    "kodepos": "27388",
+    "desa_kelurahan": "Siaro-Aro",
+    "kecamatan": "IX Koto Sungai Lasi",
+    "kabupaten_kota": "KAB. SOLOK",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "86",
+    "kodepos": "27388",
+    "desa_kelurahan": "Indudur",
+    "kecamatan": "IX Koto Sungai Lasi",
+    "kabupaten_kota": "KAB. SOLOK",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "87",
+    "kodepos": "27388",
+    "desa_kelurahan": "Sungai Jambur",
+    "kecamatan": "IX Koto Sungai Lasi",
+    "kabupaten_kota": "KAB. SOLOK",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "88",
+    "kodepos": "27388",
+    "desa_kelurahan": "Sungai Durian",
+    "kecamatan": "IX Koto Sungai Lasi",
+    "kabupaten_kota": "KAB. SOLOK",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "89",
+    "kodepos": "27388",
+    "desa_kelurahan": "Pianggu",
+    "kecamatan": "IX Koto Sungai Lasi",
+    "kabupaten_kota": "KAB. SOLOK",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "90",
+    "kodepos": "27518",
+    "desa_kelurahan": "Solok Ambah",
+    "kecamatan": "Sijunjung",
+    "kabupaten_kota": "KAB. SIJUNJUNG",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "91",
+    "kodepos": "27711",
+    "desa_kelurahan": "Lubuk Gadang Utara",
+    "kecamatan": "Sangir",
+    "kabupaten_kota": "KAB. SOLOK SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "92",
+    "kodepos": "27712",
+    "desa_kelurahan": "Lubuk Gadang Selatan",
+    "kecamatan": "Sangir",
+    "kabupaten_kota": "KAB. SOLOK SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "93",
+    "kodepos": "27713",
+    "desa_kelurahan": "Lubuk Gadang Timur",
+    "kecamatan": "Sangir",
+    "kabupaten_kota": "KAB. SOLOK SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "94",
+    "kodepos": "27714",
+    "desa_kelurahan": "Lubuk Gadang",
+    "kecamatan": "Sangir",
+    "kabupaten_kota": "KAB. SOLOK SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "95",
+    "kodepos": "27774",
+    "desa_kelurahan": "Luak Kapau Alam Pauh Duo",
+    "kecamatan": "Pauh Duo",
+    "kabupaten_kota": "KAB. SOLOK SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "96",
+    "kodepos": "27774",
+    "desa_kelurahan": "Pauh Duo Nan Batigo",
+    "kecamatan": "Pauh Duo",
+    "kabupaten_kota": "KAB. SOLOK SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "97",
+    "kodepos": "27774",
+    "desa_kelurahan": "Kapau Alam Pauh Duo",
+    "kecamatan": "Pauh Duo",
+    "kabupaten_kota": "KAB. SOLOK SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "98",
+    "kodepos": "27774",
+    "desa_kelurahan": "Alam Pauh Duo",
+    "kecamatan": "Pauh Duo",
+    "kabupaten_kota": "KAB. SOLOK SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "99",
+    "kodepos": "27775",
+    "desa_kelurahan": "Pakan Rabaa Timur",
+    "kecamatan": "Koto Parik Gadang Diateh",
+    "kabupaten_kota": "KAB. SOLOK SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "100",
+    "kodepos": "27775",
+    "desa_kelurahan": "Pakan Rabaa Tengah",
+    "kecamatan": "Koto Parik Gadang Diateh",
+    "kabupaten_kota": "KAB. SOLOK SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "101",
+    "kodepos": "27775",
+    "desa_kelurahan": "Pakan Rabaa",
+    "kecamatan": "Koto Parik Gadang Diateh",
+    "kabupaten_kota": "KAB. SOLOK SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "102",
+    "kodepos": "27775",
+    "desa_kelurahan": "Pakan Rabaa Utara",
+    "kecamatan": "Koto Parik Gadang Diateh",
+    "kabupaten_kota": "KAB. SOLOK SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "103",
+    "kodepos": "27776",
+    "desa_kelurahan": "Pulakek Koto Baru",
+    "kecamatan": "Sungai Pagu",
+    "kabupaten_kota": "KAB. SOLOK SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "104",
+    "kodepos": "27776",
+    "desa_kelurahan": "Pasir Talang",
+    "kecamatan": "Sungai Pagu",
+    "kabupaten_kota": "KAB. SOLOK SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "105",
+    "kodepos": "27776",
+    "desa_kelurahan": "Sako Pasia Talang",
+    "kecamatan": "Sungai Pagu",
+    "kabupaten_kota": "KAB. SOLOK SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "106",
+    "kodepos": "27776",
+    "desa_kelurahan": "Koto Baru",
+    "kecamatan": "Sungai Pagu",
+    "kabupaten_kota": "KAB. SOLOK SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "107",
+    "kodepos": "27776",
+    "desa_kelurahan": "Pasar Muara Labuh",
+    "kecamatan": "Sungai Pagu",
+    "kabupaten_kota": "KAB. SOLOK SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "108",
+    "kodepos": "27776",
+    "desa_kelurahan": "Pasir Talang Timur",
+    "kecamatan": "Sungai Pagu",
+    "kabupaten_kota": "KAB. SOLOK SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "109",
+    "kodepos": "27776",
+    "desa_kelurahan": "Sako Utara Pasia Talang",
+    "kecamatan": "Sungai Pagu",
+    "kabupaten_kota": "KAB. SOLOK SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "110",
+    "kodepos": "27776",
+    "desa_kelurahan": "Sako Selatan Pasia Talang",
+    "kecamatan": "Sungai Pagu",
+    "kabupaten_kota": "KAB. SOLOK SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "111",
+    "kodepos": "27776",
+    "desa_kelurahan": "Pasir Talang Barat",
+    "kecamatan": "Sungai Pagu",
+    "kabupaten_kota": "KAB. SOLOK SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "112",
+    "kodepos": "27776",
+    "desa_kelurahan": "Pasir Talang Selatan",
+    "kecamatan": "Sungai Pagu",
+    "kabupaten_kota": "KAB. SOLOK SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "113",
+    "kodepos": "27776",
+    "desa_kelurahan": "Bomas",
+    "kecamatan": "Sungai Pagu",
+    "kabupaten_kota": "KAB. SOLOK SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "114",
+    "kodepos": "27777",
+    "desa_kelurahan": "Padang Air Dingin",
+    "kecamatan": "Sangir Jujuan",
+    "kabupaten_kota": "KAB. SOLOK SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "115",
+    "kodepos": "27777",
+    "desa_kelurahan": "Padang Limau Sundai",
+    "kecamatan": "Sangir Jujuan",
+    "kabupaten_kota": "KAB. SOLOK SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "116",
+    "kodepos": "27777",
+    "desa_kelurahan": "Lubuk Malako",
+    "kecamatan": "Sangir Jujuan",
+    "kabupaten_kota": "KAB. SOLOK SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "117",
+    "kodepos": "27777",
+    "desa_kelurahan": "Bidar Alam",
+    "kecamatan": "Sangir Jujuan",
+    "kabupaten_kota": "KAB. SOLOK SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "118",
+    "kodepos": "27777",
+    "desa_kelurahan": "Padang Gantiang",
+    "kecamatan": "Sangir Jujuan",
+    "kabupaten_kota": "KAB. SOLOK SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "119",
+    "kodepos": "27779",
+    "desa_kelurahan": "Ranah Pantai Cermin",
+    "kecamatan": "Sangir Batang Hari",
+    "kabupaten_kota": "KAB. SOLOK SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "120",
+    "kodepos": "27779",
+    "desa_kelurahan": "Abai",
+    "kecamatan": "Sangir Batang Hari",
+    "kabupaten_kota": "KAB. SOLOK SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "121",
+    "kodepos": "27779",
+    "desa_kelurahan": "Lubuk Ulang Aling",
+    "kecamatan": "Sangir Batang Hari",
+    "kabupaten_kota": "KAB. SOLOK SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "122",
+    "kodepos": "27779",
+    "desa_kelurahan": "Dusun Tangah",
+    "kecamatan": "Sangir Batang Hari",
+    "kabupaten_kota": "KAB. SOLOK SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "123",
+    "kodepos": "27779",
+    "desa_kelurahan": "Lubuk Ulang Aling Selatan",
+    "kecamatan": "Sangir Batang Hari",
+    "kabupaten_kota": "KAB. SOLOK SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "124",
+    "kodepos": "27779",
+    "desa_kelurahan": "Sitapus",
+    "kecamatan": "Sangir Batang Hari",
+    "kabupaten_kota": "KAB. SOLOK SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "125",
+    "kodepos": "27779",
+    "desa_kelurahan": "Lubuk Ulang Aling Tengah",
+    "kecamatan": "Sangir Batang Hari",
+    "kabupaten_kota": "KAB. SOLOK SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "126",
+    "kodepos": "27781",
+    "desa_kelurahan": "Talao Sungai Kunyit",
+    "kecamatan": "Sangir Balai Janggo",
+    "kabupaten_kota": "KAB. SOLOK SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "127",
+    "kodepos": "27781",
+    "desa_kelurahan": "Sungai Kunyit",
+    "kecamatan": "Sangir Balai Janggo",
+    "kabupaten_kota": "KAB. SOLOK SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "128",
+    "kodepos": "27781",
+    "desa_kelurahan": "Talunan Maju",
+    "kecamatan": "Sangir Balai Janggo",
+    "kabupaten_kota": "KAB. SOLOK SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "129",
+    "kodepos": "27781",
+    "desa_kelurahan": "Sungai Kunyit Barat",
+    "kecamatan": "Sangir Balai Janggo",
+    "kabupaten_kota": "KAB. SOLOK SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": "130",
+    "kodepos": "28384",
+    "desa_kelurahan": "Sungai Solok",
+    "kecamatan": "Kuala Kampar",
+    "kabupaten_kota": "KAB. PELALAWAN",
+    "provinsi": "RIAU"
+  },
+  {
+    "no": "131",
+    "kodepos": "30773",
+    "desa_kelurahan": "Air Solok Batu",
+    "kecamatan": "Air Salek",
+    "kabupaten_kota": "KAB. BANYUASIN",
+    "provinsi": "SUMATERA SELATAN"
+  },
+  {
+    "no": "132",
+    "kodepos": "36121",
+    "desa_kelurahan": "Solok Sipin",
+    "kecamatan": "Danau Sipin",
+    "kabupaten_kota": "KOTA JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "133",
+    "kodepos": "36373",
+    "desa_kelurahan": "Solok",
+    "kecamatan": "Kumpeh Ulu",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "134",
+    "kodepos": "36761",
+    "desa_kelurahan": "Tanjungsolok",
+    "kecamatan": "Kuala Jambi",
+    "kabupaten_kota": "KAB. TANJUNG JABUNG TIMUR",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "135",
+    "kodepos": "40387",
+    "desa_kelurahan": "Rancakasumba",
+    "kecamatan": "Solokanjeruk",
+    "kabupaten_kota": "KAB. BANDUNG",
+    "provinsi": "JAWA BARAT"
+  },
+  {
+    "no": "136",
+    "kodepos": "40387",
+    "desa_kelurahan": "Bojongemas",
+    "kecamatan": "Solokanjeruk",
+    "kabupaten_kota": "KAB. BANDUNG",
+    "provinsi": "JAWA BARAT"
+  },
+  {
+    "no": "137",
+    "kodepos": "40387",
+    "desa_kelurahan": "Padamukti",
+    "kecamatan": "Solokanjeruk",
+    "kabupaten_kota": "KAB. BANDUNG",
+    "provinsi": "JAWA BARAT"
+  },
+  {
+    "no": "138",
+    "kodepos": "40387",
+    "desa_kelurahan": "Solokanjeruk",
+    "kecamatan": "Solokanjeruk",
+    "kabupaten_kota": "KAB. BANDUNG",
+    "provinsi": "JAWA BARAT"
+  },
+  {
+    "no": "139",
+    "kodepos": "40387",
+    "desa_kelurahan": "Panyadap",
+    "kecamatan": "Solokanjeruk",
+    "kabupaten_kota": "KAB. BANDUNG",
+    "provinsi": "JAWA BARAT"
+  },
+  {
+    "no": "140",
+    "kodepos": "40387",
+    "desa_kelurahan": "Cibodas",
+    "kecamatan": "Solokanjeruk",
+    "kabupaten_kota": "KAB. BANDUNG",
+    "provinsi": "JAWA BARAT"
+  },
+  {
+    "no": "141",
+    "kodepos": "40387",
+    "desa_kelurahan": "Langensari",
+    "kecamatan": "Solokanjeruk",
+    "kabupaten_kota": "KAB. BANDUNG",
+    "provinsi": "JAWA BARAT"
+  },
+  {
+    "no": "142",
+    "kodepos": "41355",
+    "desa_kelurahan": "Solokan",
+    "kecamatan": "Pakisjaya",
+    "kabupaten_kota": "KAB. KARAWANG",
+    "provinsi": "JAWA BARAT"
+  },
+  {
+    "no": "143",
+    "kodepos": "43214",
+    "desa_kelurahan": "Solokpandan",
+    "kecamatan": "Cianjur",
+    "kabupaten_kota": "KAB. CIANJUR",
+    "provinsi": "JAWA BARAT"
+  },
+  {
+    "no": "144",
+    "kodepos": "43366",
+    "desa_kelurahan": "Wanajaya",
+    "kecamatan": "Cisolok",
+    "kabupaten_kota": "KAB. SUKABUMI",
+    "provinsi": "JAWA BARAT"
+  },
+  {
+    "no": "145",
+    "kodepos": "43366",
+    "desa_kelurahan": "Sirnaresmi",
+    "kecamatan": "Cisolok",
+    "kabupaten_kota": "KAB. SUKABUMI",
+    "provinsi": "JAWA BARAT"
+  },
+  {
+    "no": "146",
+    "kodepos": "43366",
+    "desa_kelurahan": "Pasir Baru",
+    "kecamatan": "Cisolok",
+    "kabupaten_kota": "KAB. SUKABUMI",
+    "provinsi": "JAWA BARAT"
+  },
+  {
+    "no": "147",
+    "kodepos": "43366",
+    "desa_kelurahan": "Caringin",
+    "kecamatan": "Cisolok",
+    "kabupaten_kota": "KAB. SUKABUMI",
+    "provinsi": "JAWA BARAT"
+  },
+  {
+    "no": "148",
+    "kodepos": "43366",
+    "desa_kelurahan": "Gunungkaramat",
+    "kecamatan": "Cisolok",
+    "kabupaten_kota": "KAB. SUKABUMI",
+    "provinsi": "JAWA BARAT"
+  },
+  {
+    "no": "149",
+    "kodepos": "43366",
+    "desa_kelurahan": "Cicadas",
+    "kecamatan": "Cisolok",
+    "kabupaten_kota": "KAB. SUKABUMI",
+    "provinsi": "JAWA BARAT"
+  },
+  {
+    "no": "150",
+    "kodepos": "43366",
+    "desa_kelurahan": "Wangunsari",
+    "kecamatan": "Cisolok",
+    "kabupaten_kota": "KAB. SUKABUMI",
+    "provinsi": "JAWA BARAT"
+  },
+  {
+    "no": "151",
+    "kodepos": "43366",
+    "desa_kelurahan": "Gunungtanjung",
+    "kecamatan": "Cisolok",
+    "kabupaten_kota": "KAB. SUKABUMI",
+    "provinsi": "JAWA BARAT"
+  },
+  {
+    "no": "152",
+    "kodepos": "43366",
+    "desa_kelurahan": "Cikelat",
+    "kecamatan": "Cisolok",
+    "kabupaten_kota": "KAB. SUKABUMI",
+    "provinsi": "JAWA BARAT"
+  },
+  {
+    "no": "153",
+    "kodepos": "43366",
+    "desa_kelurahan": "Karangpapak",
+    "kecamatan": "Cisolok",
+    "kabupaten_kota": "KAB. SUKABUMI",
+    "provinsi": "JAWA BARAT"
+  },
+  {
+    "no": "154",
+    "kodepos": "43366",
+    "desa_kelurahan": "Cisolok",
+    "kecamatan": "Cisolok",
+    "kabupaten_kota": "KAB. SUKABUMI",
+    "provinsi": "JAWA BARAT"
+  },
+  {
+    "no": "155",
+    "kodepos": "43366",
+    "desa_kelurahan": "Cikahuripan",
+    "kecamatan": "Cisolok",
+    "kabupaten_kota": "KAB. SUKABUMI",
+    "provinsi": "JAWA BARAT"
+  },
+  {
+    "no": "156",
+    "kodepos": "43366",
+    "desa_kelurahan": "Sukarame",
+    "kecamatan": "Cisolok",
+    "kabupaten_kota": "KAB. SUKABUMI",
+    "provinsi": "JAWA BARAT"
+  },
+  {
+    "no": "157",
+    "kodepos": "62265",
+    "desa_kelurahan": "Bluri",
+    "kecamatan": "Solokuro",
+    "kabupaten_kota": "KAB. LAMONGAN",
+    "provinsi": "JAWA TIMUR"
+  },
+  {
+    "no": "158",
+    "kodepos": "62265",
+    "desa_kelurahan": "Banyubang",
+    "kecamatan": "Solokuro",
+    "kabupaten_kota": "KAB. LAMONGAN",
+    "provinsi": "JAWA TIMUR"
+  },
+  {
+    "no": "159",
+    "kodepos": "62265",
+    "desa_kelurahan": "Tenggulun",
+    "kecamatan": "Solokuro",
+    "kabupaten_kota": "KAB. LAMONGAN",
+    "provinsi": "JAWA TIMUR"
+  },
+  {
+    "no": "160",
+    "kodepos": "62265",
+    "desa_kelurahan": "Dadapan",
+    "kecamatan": "Solokuro",
+    "kabupaten_kota": "KAB. LAMONGAN",
+    "provinsi": "JAWA TIMUR"
+  },
+  {
+    "no": "161",
+    "kodepos": "62265",
+    "desa_kelurahan": "Payaman",
+    "kecamatan": "Solokuro",
+    "kabupaten_kota": "KAB. LAMONGAN",
+    "provinsi": "JAWA TIMUR"
+  },
+  {
+    "no": "162",
+    "kodepos": "62265",
+    "desa_kelurahan": "Solokuro",
+    "kecamatan": "Solokuro",
+    "kabupaten_kota": "KAB. LAMONGAN",
+    "provinsi": "JAWA TIMUR"
+  },
+  {
+    "no": "163",
+    "kodepos": "62265",
+    "desa_kelurahan": "Dagan",
+    "kecamatan": "Solokuro",
+    "kabupaten_kota": "KAB. LAMONGAN",
+    "provinsi": "JAWA TIMUR"
+  },
+  {
+    "no": "164",
+    "kodepos": "62265",
+    "desa_kelurahan": "Takerharjo",
+    "kecamatan": "Solokuro",
+    "kabupaten_kota": "KAB. LAMONGAN",
+    "provinsi": "JAWA TIMUR"
+  },
+  {
+    "no": "165",
+    "kodepos": "62265",
+    "desa_kelurahan": "Sugihan",
+    "kecamatan": "Solokuro",
+    "kabupaten_kota": "KAB. LAMONGAN",
+    "provinsi": "JAWA TIMUR"
+  },
+  {
+    "no": "166",
+    "kodepos": "62265",
+    "desa_kelurahan": "Tebluru",
+    "kecamatan": "Solokuro",
+    "kabupaten_kota": "KAB. LAMONGAN",
+    "provinsi": "JAWA TIMUR"
+  },
+  {
+    "no": "167",
+    "kodepos": "77553",
+    "desa_kelurahan": "Punan Gong Solok",
+    "kecamatan": "Malinau Selatan Hilir",
+    "kabupaten_kota": "KAB. MALINAU",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "168",
+    "kodepos": "77553",
+    "desa_kelurahan": "Gong Solok",
+    "kecamatan": "Malinau Selatan Hilir",
+    "kabupaten_kota": "KAB. MALINAU",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "169",
+    "kodepos": "78363",
+    "desa_kelurahan": "Ansolok",
+    "kecamatan": "Mempawah Hulu",
+    "kabupaten_kota": "KAB. LANDAK",
+    "provinsi": "KALIMANTAN BARAT"
+  },
+  {
+    "no": "170",
+    "kodepos": "99049",
+    "desa_kelurahan": "Solok",
+    "kecamatan": "Suru Suru",
+    "kabupaten_kota": "KAB. YAHUKIMO",
+    "provinsi": "PAPUA PEGUNUNGAN"
+  },
+  {
+    "no": "171",
+    "kodepos": "99524",
+    "desa_kelurahan": "Asolokobal",
+    "kecamatan": "Asolokobal",
+    "kabupaten_kota": "KAB. JAYAWIJAYA",
+    "provinsi": "PAPUA PEGUNUNGAN"
+  },
+  {
+    "no": "172",
+    "kodepos": "99524",
+    "desa_kelurahan": "Sinata",
+    "kecamatan": "Asolokobal",
+    "kabupaten_kota": "KAB. JAYAWIJAYA",
+    "provinsi": "PAPUA PEGUNUNGAN"
+  },
+  {
+    "no": "173",
+    "kodepos": "99524",
+    "desa_kelurahan": "Mulinekama",
+    "kecamatan": "Asolokobal",
+    "kabupaten_kota": "KAB. JAYAWIJAYA",
+    "provinsi": "PAPUA PEGUNUNGAN"
+  },
+  {
+    "no": "174",
+    "kodepos": "99524",
+    "desa_kelurahan": "Helaluwa",
+    "kecamatan": "Asolokobal",
+    "kabupaten_kota": "KAB. JAYAWIJAYA",
+    "provinsi": "PAPUA PEGUNUNGAN"
+  },
+  {
+    "no": "175",
+    "kodepos": "99524",
+    "desa_kelurahan": "Asotapo",
+    "kecamatan": "Asolokobal",
+    "kabupaten_kota": "KAB. JAYAWIJAYA",
+    "provinsi": "PAPUA PEGUNUNGAN"
+  },
+  {
+    "no": "176",
+    "kodepos": "99524",
+    "desa_kelurahan": "Wiaima",
+    "kecamatan": "Asolokobal",
+    "kabupaten_kota": "KAB. JAYAWIJAYA",
+    "provinsi": "PAPUA PEGUNUNGAN"
+  },
+  {
+    "no": "177",
+    "kodepos": "99524",
+    "desa_kelurahan": "Ninabua",
+    "kecamatan": "Asolokobal",
+    "kabupaten_kota": "KAB. JAYAWIJAYA",
+    "provinsi": "PAPUA PEGUNUNGAN"
+  },
+  {
+    "no": "178",
+    "kodepos": "99524",
+    "desa_kelurahan": "Yapema",
+    "kecamatan": "Asolokobal",
+    "kabupaten_kota": "KAB. JAYAWIJAYA",
+    "provinsi": "PAPUA PEGUNUNGAN"
+  },
+  {
+    "no": "179",
+    "kodepos": "99524",
+    "desa_kelurahan": "Hesatom",
+    "kecamatan": "Asolokobal",
+    "kabupaten_kota": "KAB. JAYAWIJAYA",
+    "provinsi": "PAPUA PEGUNUNGAN"
+  }
+]

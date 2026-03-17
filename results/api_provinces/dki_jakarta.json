@@ -1,0 +1,2138 @@
+[
+  {
+    "no": "1",
+    "kodepos": "14510",
+    "desa_kelurahan": "Pulau Untung Jawa",
+    "kecamatan": "Kepulauan Seribu Selatan.",
+    "kabupaten_kota": "KAB. ADM. KEP. SERIBU",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "2",
+    "kodepos": "14520",
+    "desa_kelurahan": "Pulau Tidung",
+    "kecamatan": "Kepulauan Seribu Selatan.",
+    "kabupaten_kota": "KAB. ADM. KEP. SERIBU",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "3",
+    "kodepos": "14520",
+    "desa_kelurahan": "Pulau Pari",
+    "kecamatan": "Kepulauan Seribu Selatan.",
+    "kabupaten_kota": "KAB. ADM. KEP. SERIBU",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "4",
+    "kodepos": "14530",
+    "desa_kelurahan": "Pulau Panggang",
+    "kecamatan": "Kepulauan Seribu Utara",
+    "kabupaten_kota": "KAB. ADM. KEP. SERIBU",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "5",
+    "kodepos": "14540",
+    "desa_kelurahan": "Pulau Kelapa",
+    "kecamatan": "Kepulauan Seribu Utara",
+    "kabupaten_kota": "KAB. ADM. KEP. SERIBU",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "6",
+    "kodepos": "14540",
+    "desa_kelurahan": "Pulau Harapan",
+    "kecamatan": "Kepulauan Seribu Utara",
+    "kabupaten_kota": "KAB. ADM. KEP. SERIBU",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "1",
+    "kodepos": "12110",
+    "desa_kelurahan": "Selong",
+    "kecamatan": "Kebayoran Baru",
+    "kabupaten_kota": "KOTA ADM. JAKARTA SELATAN",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "2",
+    "kodepos": "12120",
+    "desa_kelurahan": "Gunung",
+    "kecamatan": "Kebayoran Baru",
+    "kabupaten_kota": "KOTA ADM. JAKARTA SELATAN",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "3",
+    "kodepos": "12130",
+    "desa_kelurahan": "Kramat Pela",
+    "kecamatan": "Kebayoran Baru",
+    "kabupaten_kota": "KOTA ADM. JAKARTA SELATAN",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "4",
+    "kodepos": "12140",
+    "desa_kelurahan": "Gandaria Utara",
+    "kecamatan": "Kebayoran Baru",
+    "kabupaten_kota": "KOTA ADM. JAKARTA SELATAN",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "5",
+    "kodepos": "12150",
+    "desa_kelurahan": "Cipete Utara",
+    "kecamatan": "Kebayoran Baru",
+    "kabupaten_kota": "KOTA ADM. JAKARTA SELATAN",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "6",
+    "kodepos": "12160",
+    "desa_kelurahan": "Pulo",
+    "kecamatan": "Kebayoran Baru",
+    "kabupaten_kota": "KOTA ADM. JAKARTA SELATAN",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "7",
+    "kodepos": "12160",
+    "desa_kelurahan": "Melawai",
+    "kecamatan": "Kebayoran Baru",
+    "kabupaten_kota": "KOTA ADM. JAKARTA SELATAN",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "8",
+    "kodepos": "12170",
+    "desa_kelurahan": "Petogogan",
+    "kecamatan": "Kebayoran Baru",
+    "kabupaten_kota": "KOTA ADM. JAKARTA SELATAN",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "9",
+    "kodepos": "12180",
+    "desa_kelurahan": "Rawa Barat",
+    "kecamatan": "Kebayoran Baru",
+    "kabupaten_kota": "KOTA ADM. JAKARTA SELATAN",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "10",
+    "kodepos": "12190",
+    "desa_kelurahan": "Senayan",
+    "kecamatan": "Kebayoran Baru",
+    "kabupaten_kota": "KOTA ADM. JAKARTA SELATAN",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "11",
+    "kodepos": "12210",
+    "desa_kelurahan": "Grogol Utara",
+    "kecamatan": "Kebayoran Lama",
+    "kabupaten_kota": "KOTA ADM. JAKARTA SELATAN",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "12",
+    "kodepos": "12220",
+    "desa_kelurahan": "Grogol Selatan",
+    "kecamatan": "Kebayoran Lama",
+    "kabupaten_kota": "KOTA ADM. JAKARTA SELATAN",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "13",
+    "kodepos": "12230",
+    "desa_kelurahan": "Cipulir",
+    "kecamatan": "Kebayoran Lama",
+    "kabupaten_kota": "KOTA ADM. JAKARTA SELATAN",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "14",
+    "kodepos": "12240",
+    "desa_kelurahan": "Kebayoran Lama Utara",
+    "kecamatan": "Kebayoran Lama",
+    "kabupaten_kota": "KOTA ADM. JAKARTA SELATAN",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "15",
+    "kodepos": "12240",
+    "desa_kelurahan": "Kebayoran Lama Selatan",
+    "kecamatan": "Kebayoran Lama",
+    "kabupaten_kota": "KOTA ADM. JAKARTA SELATAN",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "16",
+    "kodepos": "12250",
+    "desa_kelurahan": "Ulujami",
+    "kecamatan": "Pesanggrahan",
+    "kabupaten_kota": "KOTA ADM. JAKARTA SELATAN",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "17",
+    "kodepos": "12260",
+    "desa_kelurahan": "Petukangan Utara",
+    "kecamatan": "Pesanggrahan",
+    "kabupaten_kota": "KOTA ADM. JAKARTA SELATAN",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "18",
+    "kodepos": "12270",
+    "desa_kelurahan": "Petukangan Selatan",
+    "kecamatan": "Pesanggrahan",
+    "kabupaten_kota": "KOTA ADM. JAKARTA SELATAN",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "19",
+    "kodepos": "12310",
+    "desa_kelurahan": "Pondok Pinang",
+    "kecamatan": "Kebayoran Lama",
+    "kabupaten_kota": "KOTA ADM. JAKARTA SELATAN",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "20",
+    "kodepos": "12320",
+    "desa_kelurahan": "Pesanggrahan",
+    "kecamatan": "Pesanggrahan",
+    "kabupaten_kota": "KOTA ADM. JAKARTA SELATAN",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "21",
+    "kodepos": "12330",
+    "desa_kelurahan": "Bintaro",
+    "kecamatan": "Pesanggrahan",
+    "kabupaten_kota": "KOTA ADM. JAKARTA SELATAN",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "22",
+    "kodepos": "12410",
+    "desa_kelurahan": "Cipete Selatan",
+    "kecamatan": "Cilandak",
+    "kabupaten_kota": "KOTA ADM. JAKARTA SELATAN",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "23",
+    "kodepos": "12420",
+    "desa_kelurahan": "Gandaria Selatan",
+    "kecamatan": "Cilandak",
+    "kabupaten_kota": "KOTA ADM. JAKARTA SELATAN",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "24",
+    "kodepos": "12430",
+    "desa_kelurahan": "Cilandak Barat",
+    "kecamatan": "Cilandak",
+    "kabupaten_kota": "KOTA ADM. JAKARTA SELATAN",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "25",
+    "kodepos": "12440",
+    "desa_kelurahan": "Lebak Bulus",
+    "kecamatan": "Cilandak",
+    "kabupaten_kota": "KOTA ADM. JAKARTA SELATAN",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "26",
+    "kodepos": "12450",
+    "desa_kelurahan": "Pondok Labu",
+    "kecamatan": "Cilandak",
+    "kabupaten_kota": "KOTA ADM. JAKARTA SELATAN",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "27",
+    "kodepos": "12510",
+    "desa_kelurahan": "Pejaten Timur",
+    "kecamatan": "Pasar Minggu",
+    "kabupaten_kota": "KOTA ADM. JAKARTA SELATAN",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "28",
+    "kodepos": "12510",
+    "desa_kelurahan": "Pejaten Barat",
+    "kecamatan": "Pasar Minggu",
+    "kabupaten_kota": "KOTA ADM. JAKARTA SELATAN",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "29",
+    "kodepos": "12520",
+    "desa_kelurahan": "Kebagusan",
+    "kecamatan": "Pasar Minggu",
+    "kabupaten_kota": "KOTA ADM. JAKARTA SELATAN",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "30",
+    "kodepos": "12520",
+    "desa_kelurahan": "Pasar Minggu",
+    "kecamatan": "Pasar Minggu",
+    "kabupaten_kota": "KOTA ADM. JAKARTA SELATAN",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "31",
+    "kodepos": "12530",
+    "desa_kelurahan": "Tanjung Barat",
+    "kecamatan": "Jagakarsa",
+    "kabupaten_kota": "KOTA ADM. JAKARTA SELATAN",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "32",
+    "kodepos": "12540",
+    "desa_kelurahan": "Jati Padang",
+    "kecamatan": "Pasar Minggu",
+    "kabupaten_kota": "KOTA ADM. JAKARTA SELATAN",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "33",
+    "kodepos": "12550",
+    "desa_kelurahan": "Ragunan",
+    "kecamatan": "Pasar Minggu",
+    "kabupaten_kota": "KOTA ADM. JAKARTA SELATAN",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "34",
+    "kodepos": "12560",
+    "desa_kelurahan": "Cilandak Timur",
+    "kecamatan": "Pasar Minggu",
+    "kabupaten_kota": "KOTA ADM. JAKARTA SELATAN",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "35",
+    "kodepos": "12610",
+    "desa_kelurahan": "Lenteng Agung",
+    "kecamatan": "Jagakarsa",
+    "kabupaten_kota": "KOTA ADM. JAKARTA SELATAN",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "36",
+    "kodepos": "12620",
+    "desa_kelurahan": "Jagakarsa",
+    "kecamatan": "Jagakarsa",
+    "kabupaten_kota": "KOTA ADM. JAKARTA SELATAN",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "37",
+    "kodepos": "12630",
+    "desa_kelurahan": "Cipedak",
+    "kecamatan": "Jagakarsa",
+    "kabupaten_kota": "KOTA ADM. JAKARTA SELATAN",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "38",
+    "kodepos": "12630",
+    "desa_kelurahan": "Ciganjur",
+    "kecamatan": "Jagakarsa",
+    "kabupaten_kota": "KOTA ADM. JAKARTA SELATAN",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "39",
+    "kodepos": "12640",
+    "desa_kelurahan": "Srengseng Sawah",
+    "kecamatan": "Jagakarsa",
+    "kabupaten_kota": "KOTA ADM. JAKARTA SELATAN",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "40",
+    "kodepos": "12710",
+    "desa_kelurahan": "Kuningan Barat",
+    "kecamatan": "Mampang Prapatan",
+    "kabupaten_kota": "KOTA ADM. JAKARTA SELATAN",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "41",
+    "kodepos": "12720",
+    "desa_kelurahan": "Pela Mampang",
+    "kecamatan": "Mampang Prapatan",
+    "kabupaten_kota": "KOTA ADM. JAKARTA SELATAN",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "42",
+    "kodepos": "12730",
+    "desa_kelurahan": "Bangka",
+    "kecamatan": "Mampang Prapatan",
+    "kabupaten_kota": "KOTA ADM. JAKARTA SELATAN",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "43",
+    "kodepos": "12740",
+    "desa_kelurahan": "Kalibata",
+    "kecamatan": "Pancoran",
+    "kabupaten_kota": "KOTA ADM. JAKARTA SELATAN",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "44",
+    "kodepos": "12750",
+    "desa_kelurahan": "Rawajati",
+    "kecamatan": "Pancoran",
+    "kabupaten_kota": "KOTA ADM. JAKARTA SELATAN",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "45",
+    "kodepos": "12760",
+    "desa_kelurahan": "Duren Tiga",
+    "kecamatan": "Pancoran",
+    "kabupaten_kota": "KOTA ADM. JAKARTA SELATAN",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "46",
+    "kodepos": "12770",
+    "desa_kelurahan": "Cikoko",
+    "kecamatan": "Pancoran",
+    "kabupaten_kota": "KOTA ADM. JAKARTA SELATAN",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "47",
+    "kodepos": "12770",
+    "desa_kelurahan": "Pengadegan",
+    "kecamatan": "Pancoran",
+    "kabupaten_kota": "KOTA ADM. JAKARTA SELATAN",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "48",
+    "kodepos": "12780",
+    "desa_kelurahan": "Pancoran",
+    "kecamatan": "Pancoran",
+    "kabupaten_kota": "KOTA ADM. JAKARTA SELATAN",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "49",
+    "kodepos": "12790",
+    "desa_kelurahan": "Tegal Parang",
+    "kecamatan": "Mampang Prapatan",
+    "kabupaten_kota": "KOTA ADM. JAKARTA SELATAN",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "50",
+    "kodepos": "12790",
+    "desa_kelurahan": "Mampang Prapatan",
+    "kecamatan": "Mampang Prapatan",
+    "kabupaten_kota": "KOTA ADM. JAKARTA SELATAN",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "51",
+    "kodepos": "12810",
+    "desa_kelurahan": "Tebet Barat",
+    "kecamatan": "Tebet",
+    "kabupaten_kota": "KOTA ADM. JAKARTA SELATAN",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "52",
+    "kodepos": "12820",
+    "desa_kelurahan": "Tebet Timur",
+    "kecamatan": "Tebet",
+    "kabupaten_kota": "KOTA ADM. JAKARTA SELATAN",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "53",
+    "kodepos": "12830",
+    "desa_kelurahan": "Kebon Baru",
+    "kecamatan": "Tebet",
+    "kabupaten_kota": "KOTA ADM. JAKARTA SELATAN",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "54",
+    "kodepos": "12840",
+    "desa_kelurahan": "Bukit Duri",
+    "kecamatan": "Tebet",
+    "kabupaten_kota": "KOTA ADM. JAKARTA SELATAN",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "55",
+    "kodepos": "12850",
+    "desa_kelurahan": "Manggarai",
+    "kecamatan": "Tebet",
+    "kabupaten_kota": "KOTA ADM. JAKARTA SELATAN",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "56",
+    "kodepos": "12860",
+    "desa_kelurahan": "Manggarai Selatan",
+    "kecamatan": "Tebet",
+    "kabupaten_kota": "KOTA ADM. JAKARTA SELATAN",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "57",
+    "kodepos": "12870",
+    "desa_kelurahan": "Menteng Dalam",
+    "kecamatan": "Tebet",
+    "kabupaten_kota": "KOTA ADM. JAKARTA SELATAN",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "58",
+    "kodepos": "12910",
+    "desa_kelurahan": "Setia Budi",
+    "kecamatan": "Setiabudi",
+    "kabupaten_kota": "KOTA ADM. JAKARTA SELATAN",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "59",
+    "kodepos": "12920",
+    "desa_kelurahan": "Karet",
+    "kecamatan": "Setiabudi",
+    "kabupaten_kota": "KOTA ADM. JAKARTA SELATAN",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "60",
+    "kodepos": "12930",
+    "desa_kelurahan": "Karet Semanggi",
+    "kecamatan": "Setiabudi",
+    "kabupaten_kota": "KOTA ADM. JAKARTA SELATAN",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "61",
+    "kodepos": "12940",
+    "desa_kelurahan": "Karet Kuningan",
+    "kecamatan": "Setiabudi",
+    "kabupaten_kota": "KOTA ADM. JAKARTA SELATAN",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "62",
+    "kodepos": "12950",
+    "desa_kelurahan": "Kuningan Timur",
+    "kecamatan": "Setiabudi",
+    "kabupaten_kota": "KOTA ADM. JAKARTA SELATAN",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "63",
+    "kodepos": "12960",
+    "desa_kelurahan": "Menteng Atas",
+    "kecamatan": "Setiabudi",
+    "kabupaten_kota": "KOTA ADM. JAKARTA SELATAN",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "64",
+    "kodepos": "12970",
+    "desa_kelurahan": "Pasar Manggis",
+    "kecamatan": "Setiabudi",
+    "kabupaten_kota": "KOTA ADM. JAKARTA SELATAN",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "65",
+    "kodepos": "12980",
+    "desa_kelurahan": "Guntur",
+    "kecamatan": "Setiabudi",
+    "kabupaten_kota": "KOTA ADM. JAKARTA SELATAN",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "1",
+    "kodepos": "13110",
+    "desa_kelurahan": "Pisangan Baru",
+    "kecamatan": "Matraman",
+    "kabupaten_kota": "KOTA ADM. JAKARTA TIMUR",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "2",
+    "kodepos": "13120",
+    "desa_kelurahan": "Utan Kayu Utara",
+    "kecamatan": "Matraman",
+    "kabupaten_kota": "KOTA ADM. JAKARTA TIMUR",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "3",
+    "kodepos": "13120",
+    "desa_kelurahan": "Utan Kayu Selatan",
+    "kecamatan": "Matraman",
+    "kabupaten_kota": "KOTA ADM. JAKARTA TIMUR",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "4",
+    "kodepos": "13130",
+    "desa_kelurahan": "Kayu Manis",
+    "kecamatan": "Matraman",
+    "kabupaten_kota": "KOTA ADM. JAKARTA TIMUR",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "5",
+    "kodepos": "13140",
+    "desa_kelurahan": "Palmeriam",
+    "kecamatan": "Matraman",
+    "kabupaten_kota": "KOTA ADM. JAKARTA TIMUR",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "6",
+    "kodepos": "13150",
+    "desa_kelurahan": "Kebon Manggis",
+    "kecamatan": "Matraman",
+    "kabupaten_kota": "KOTA ADM. JAKARTA TIMUR",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "7",
+    "kodepos": "13210",
+    "desa_kelurahan": "Kayu Putih",
+    "kecamatan": "Pulogadung",
+    "kabupaten_kota": "KOTA ADM. JAKARTA TIMUR",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "8",
+    "kodepos": "13220",
+    "desa_kelurahan": "Jati",
+    "kecamatan": "Pulogadung",
+    "kabupaten_kota": "KOTA ADM. JAKARTA TIMUR",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "9",
+    "kodepos": "13220",
+    "desa_kelurahan": "Rawamangun",
+    "kecamatan": "Pulogadung",
+    "kabupaten_kota": "KOTA ADM. JAKARTA TIMUR",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "10",
+    "kodepos": "13230",
+    "desa_kelurahan": "Pisangan Timur",
+    "kecamatan": "Pulogadung",
+    "kabupaten_kota": "KOTA ADM. JAKARTA TIMUR",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "11",
+    "kodepos": "13240",
+    "desa_kelurahan": "Cipinang",
+    "kecamatan": "Pulogadung",
+    "kabupaten_kota": "KOTA ADM. JAKARTA TIMUR",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "12",
+    "kodepos": "13250",
+    "desa_kelurahan": "Jatinegara Kaum",
+    "kecamatan": "Pulogadung",
+    "kabupaten_kota": "KOTA ADM. JAKARTA TIMUR",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "13",
+    "kodepos": "13260",
+    "desa_kelurahan": "Pulo Gadung",
+    "kecamatan": "Pulogadung",
+    "kabupaten_kota": "KOTA ADM. JAKARTA TIMUR",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "14",
+    "kodepos": "13310",
+    "desa_kelurahan": "Bali Mester",
+    "kecamatan": "Jatinegara",
+    "kabupaten_kota": "KOTA ADM. JAKARTA TIMUR",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "15",
+    "kodepos": "13320",
+    "desa_kelurahan": "Kampung Melayu",
+    "kecamatan": "Jatinegara",
+    "kabupaten_kota": "KOTA ADM. JAKARTA TIMUR",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "16",
+    "kodepos": "13330",
+    "desa_kelurahan": "Bidara Cina",
+    "kecamatan": "Jatinegara",
+    "kabupaten_kota": "KOTA ADM. JAKARTA TIMUR",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "17",
+    "kodepos": "13340",
+    "desa_kelurahan": "Cipinang Cempedak",
+    "kecamatan": "Jatinegara",
+    "kabupaten_kota": "KOTA ADM. JAKARTA TIMUR",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "18",
+    "kodepos": "13350",
+    "desa_kelurahan": "Rawa Bunga",
+    "kecamatan": "Jatinegara",
+    "kabupaten_kota": "KOTA ADM. JAKARTA TIMUR",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "19",
+    "kodepos": "13410",
+    "desa_kelurahan": "Cipinang Besar Utara",
+    "kecamatan": "Jatinegara",
+    "kabupaten_kota": "KOTA ADM. JAKARTA TIMUR",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "20",
+    "kodepos": "13410",
+    "desa_kelurahan": "Cipinang Besar Selatan",
+    "kecamatan": "Jatinegara",
+    "kabupaten_kota": "KOTA ADM. JAKARTA TIMUR",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "21",
+    "kodepos": "13420",
+    "desa_kelurahan": "Cipinang Muara",
+    "kecamatan": "Jatinegara",
+    "kabupaten_kota": "KOTA ADM. JAKARTA TIMUR",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "22",
+    "kodepos": "13430",
+    "desa_kelurahan": "Pondok Bambu",
+    "kecamatan": "Duren Sawit",
+    "kabupaten_kota": "KOTA ADM. JAKARTA TIMUR",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "23",
+    "kodepos": "13440",
+    "desa_kelurahan": "Duren Sawit",
+    "kecamatan": "Duren Sawit",
+    "kabupaten_kota": "KOTA ADM. JAKARTA TIMUR",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "24",
+    "kodepos": "13450",
+    "desa_kelurahan": "Pondok Kelapa",
+    "kecamatan": "Duren Sawit",
+    "kabupaten_kota": "KOTA ADM. JAKARTA TIMUR",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "25",
+    "kodepos": "13460",
+    "desa_kelurahan": "Malaka Sari",
+    "kecamatan": "Duren Sawit",
+    "kabupaten_kota": "KOTA ADM. JAKARTA TIMUR",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "26",
+    "kodepos": "13460",
+    "desa_kelurahan": "Malaka Jaya",
+    "kecamatan": "Duren Sawit",
+    "kabupaten_kota": "KOTA ADM. JAKARTA TIMUR",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "27",
+    "kodepos": "13460",
+    "desa_kelurahan": "Pondok Kopi",
+    "kecamatan": "Duren Sawit",
+    "kabupaten_kota": "KOTA ADM. JAKARTA TIMUR",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "28",
+    "kodepos": "13470",
+    "desa_kelurahan": "Klender",
+    "kecamatan": "Duren Sawit",
+    "kabupaten_kota": "KOTA ADM. JAKARTA TIMUR",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "29",
+    "kodepos": "13510",
+    "desa_kelurahan": "Kramatjati",
+    "kecamatan": "Kramatjati",
+    "kabupaten_kota": "KOTA ADM. JAKARTA TIMUR",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "30",
+    "kodepos": "13520",
+    "desa_kelurahan": "Batu Ampar",
+    "kecamatan": "Kramatjati",
+    "kabupaten_kota": "KOTA ADM. JAKARTA TIMUR",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "31",
+    "kodepos": "13530",
+    "desa_kelurahan": "Balekambang",
+    "kecamatan": "Kramatjati",
+    "kabupaten_kota": "KOTA ADM. JAKARTA TIMUR",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "32",
+    "kodepos": "13540",
+    "desa_kelurahan": "Tengah",
+    "kecamatan": "Kramatjati",
+    "kabupaten_kota": "KOTA ADM. JAKARTA TIMUR",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "33",
+    "kodepos": "13550",
+    "desa_kelurahan": "Dukuh",
+    "kecamatan": "Kramatjati",
+    "kabupaten_kota": "KOTA ADM. JAKARTA TIMUR",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "34",
+    "kodepos": "13560",
+    "desa_kelurahan": "Pinangranti",
+    "kecamatan": "Makasar",
+    "kabupaten_kota": "KOTA ADM. JAKARTA TIMUR",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "35",
+    "kodepos": "13570",
+    "desa_kelurahan": "Makasar",
+    "kecamatan": "Makasar",
+    "kabupaten_kota": "KOTA ADM. JAKARTA TIMUR",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "36",
+    "kodepos": "13610",
+    "desa_kelurahan": "Halim Perdana Kusuma",
+    "kecamatan": "Makasar",
+    "kabupaten_kota": "KOTA ADM. JAKARTA TIMUR",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "37",
+    "kodepos": "13620",
+    "desa_kelurahan": "Cipinang Melayu",
+    "kecamatan": "Makasar",
+    "kabupaten_kota": "KOTA ADM. JAKARTA TIMUR",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "38",
+    "kodepos": "13630",
+    "desa_kelurahan": "Cawang",
+    "kecamatan": "Kramatjati",
+    "kabupaten_kota": "KOTA ADM. JAKARTA TIMUR",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "39",
+    "kodepos": "13640",
+    "desa_kelurahan": "Cililitan",
+    "kecamatan": "Kramatjati",
+    "kabupaten_kota": "KOTA ADM. JAKARTA TIMUR",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "40",
+    "kodepos": "13650",
+    "desa_kelurahan": "Kebon Pala",
+    "kecamatan": "Makasar",
+    "kabupaten_kota": "KOTA ADM. JAKARTA TIMUR",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "41",
+    "kodepos": "13710",
+    "desa_kelurahan": "Pekayon",
+    "kecamatan": "Pasar Rebo",
+    "kabupaten_kota": "KOTA ADM. JAKARTA TIMUR",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "42",
+    "kodepos": "13720",
+    "desa_kelurahan": "Cibubur",
+    "kecamatan": "Ciracas",
+    "kabupaten_kota": "KOTA ADM. JAKARTA TIMUR",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "43",
+    "kodepos": "13730",
+    "desa_kelurahan": "Kelapa Dua Wetan",
+    "kecamatan": "Ciracas",
+    "kabupaten_kota": "KOTA ADM. JAKARTA TIMUR",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "44",
+    "kodepos": "13740",
+    "desa_kelurahan": "Ciracas",
+    "kecamatan": "Ciracas",
+    "kabupaten_kota": "KOTA ADM. JAKARTA TIMUR",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "45",
+    "kodepos": "13750",
+    "desa_kelurahan": "Susukan",
+    "kecamatan": "Ciracas",
+    "kabupaten_kota": "KOTA ADM. JAKARTA TIMUR",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "46",
+    "kodepos": "13760",
+    "desa_kelurahan": "Gedong",
+    "kecamatan": "Pasar Rebo",
+    "kabupaten_kota": "KOTA ADM. JAKARTA TIMUR",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "47",
+    "kodepos": "13770",
+    "desa_kelurahan": "Cijantung",
+    "kecamatan": "Pasar Rebo",
+    "kabupaten_kota": "KOTA ADM. JAKARTA TIMUR",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "48",
+    "kodepos": "13780",
+    "desa_kelurahan": "Baru",
+    "kecamatan": "Pasar Rebo",
+    "kabupaten_kota": "KOTA ADM. JAKARTA TIMUR",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "49",
+    "kodepos": "13790",
+    "desa_kelurahan": "Kalisari",
+    "kecamatan": "Pasar Rebo",
+    "kabupaten_kota": "KOTA ADM. JAKARTA TIMUR",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "50",
+    "kodepos": "13810",
+    "desa_kelurahan": "Lubang Buaya",
+    "kecamatan": "Cipayung",
+    "kabupaten_kota": "KOTA ADM. JAKARTA TIMUR",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "51",
+    "kodepos": "13820",
+    "desa_kelurahan": "Ceger",
+    "kecamatan": "Cipayung",
+    "kabupaten_kota": "KOTA ADM. JAKARTA TIMUR",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "52",
+    "kodepos": "13830",
+    "desa_kelurahan": "Rambutan",
+    "kecamatan": "Ciracas",
+    "kabupaten_kota": "KOTA ADM. JAKARTA TIMUR",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "53",
+    "kodepos": "13840",
+    "desa_kelurahan": "Cipayung",
+    "kecamatan": "Cipayung",
+    "kabupaten_kota": "KOTA ADM. JAKARTA TIMUR",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "54",
+    "kodepos": "13850",
+    "desa_kelurahan": "Munjul",
+    "kecamatan": "Cipayung",
+    "kabupaten_kota": "KOTA ADM. JAKARTA TIMUR",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "55",
+    "kodepos": "13860",
+    "desa_kelurahan": "Pondok Ranggon",
+    "kecamatan": "Cipayung",
+    "kabupaten_kota": "KOTA ADM. JAKARTA TIMUR",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "56",
+    "kodepos": "13870",
+    "desa_kelurahan": "Cilangkap",
+    "kecamatan": "Cipayung",
+    "kabupaten_kota": "KOTA ADM. JAKARTA TIMUR",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "57",
+    "kodepos": "13880",
+    "desa_kelurahan": "Setu",
+    "kecamatan": "Cipayung",
+    "kabupaten_kota": "KOTA ADM. JAKARTA TIMUR",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "58",
+    "kodepos": "13890",
+    "desa_kelurahan": "Bambu Apus",
+    "kecamatan": "Cipayung",
+    "kabupaten_kota": "KOTA ADM. JAKARTA TIMUR",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "59",
+    "kodepos": "13910",
+    "desa_kelurahan": "Cakung Timur",
+    "kecamatan": "Cakung",
+    "kabupaten_kota": "KOTA ADM. JAKARTA TIMUR",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "60",
+    "kodepos": "13910",
+    "desa_kelurahan": "Cakung Barat",
+    "kecamatan": "Cakung",
+    "kabupaten_kota": "KOTA ADM. JAKARTA TIMUR",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "61",
+    "kodepos": "13920",
+    "desa_kelurahan": "Rawa Terate",
+    "kecamatan": "Cakung",
+    "kabupaten_kota": "KOTA ADM. JAKARTA TIMUR",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "62",
+    "kodepos": "13930",
+    "desa_kelurahan": "Jatinegara",
+    "kecamatan": "Cakung",
+    "kabupaten_kota": "KOTA ADM. JAKARTA TIMUR",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "63",
+    "kodepos": "13940",
+    "desa_kelurahan": "Penggilingan",
+    "kecamatan": "Cakung",
+    "kabupaten_kota": "KOTA ADM. JAKARTA TIMUR",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "64",
+    "kodepos": "13950",
+    "desa_kelurahan": "Pulo Gebang",
+    "kecamatan": "Cakung",
+    "kabupaten_kota": "KOTA ADM. JAKARTA TIMUR",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "65",
+    "kodepos": "13960",
+    "desa_kelurahan": "Ujung Menteng",
+    "kecamatan": "Cakung",
+    "kabupaten_kota": "KOTA ADM. JAKARTA TIMUR",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "1",
+    "kodepos": "10110",
+    "desa_kelurahan": "Gambir",
+    "kecamatan": "Gambir",
+    "kabupaten_kota": "KOTA ADM. JAKARTA PUSAT",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "2",
+    "kodepos": "10120",
+    "desa_kelurahan": "Kebon Kelapa",
+    "kecamatan": "Gambir",
+    "kabupaten_kota": "KOTA ADM. JAKARTA PUSAT",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "3",
+    "kodepos": "10130",
+    "desa_kelurahan": "Petojo Utara",
+    "kecamatan": "Gambir",
+    "kabupaten_kota": "KOTA ADM. JAKARTA PUSAT",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "4",
+    "kodepos": "10140",
+    "desa_kelurahan": "Duri Pulo",
+    "kecamatan": "Gambir",
+    "kabupaten_kota": "KOTA ADM. JAKARTA PUSAT",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "5",
+    "kodepos": "10150",
+    "desa_kelurahan": "Cideng",
+    "kecamatan": "Gambir",
+    "kabupaten_kota": "KOTA ADM. JAKARTA PUSAT",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "6",
+    "kodepos": "10160",
+    "desa_kelurahan": "Petojo Selatan",
+    "kecamatan": "Gambir",
+    "kabupaten_kota": "KOTA ADM. JAKARTA PUSAT",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "7",
+    "kodepos": "10210",
+    "desa_kelurahan": "Bendungan Hilir",
+    "kecamatan": "Tanah Abang",
+    "kabupaten_kota": "KOTA ADM. JAKARTA PUSAT",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "8",
+    "kodepos": "10220",
+    "desa_kelurahan": "Karet Tengsin",
+    "kecamatan": "Tanah Abang",
+    "kabupaten_kota": "KOTA ADM. JAKARTA PUSAT",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "9",
+    "kodepos": "10230",
+    "desa_kelurahan": "Kebon Melati",
+    "kecamatan": "Tanah Abang",
+    "kabupaten_kota": "KOTA ADM. JAKARTA PUSAT",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "10",
+    "kodepos": "10240",
+    "desa_kelurahan": "Kebon Kacang",
+    "kecamatan": "Tanah Abang",
+    "kabupaten_kota": "KOTA ADM. JAKARTA PUSAT",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "11",
+    "kodepos": "10250",
+    "desa_kelurahan": "Kampung Bali",
+    "kecamatan": "Tanah Abang",
+    "kabupaten_kota": "KOTA ADM. JAKARTA PUSAT",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "12",
+    "kodepos": "10260",
+    "desa_kelurahan": "Petamburan",
+    "kecamatan": "Tanah Abang",
+    "kabupaten_kota": "KOTA ADM. JAKARTA PUSAT",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "13",
+    "kodepos": "10270",
+    "desa_kelurahan": "Gelora",
+    "kecamatan": "Tanah Abang",
+    "kabupaten_kota": "KOTA ADM. JAKARTA PUSAT",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "14",
+    "kodepos": "10310",
+    "desa_kelurahan": "Menteng",
+    "kecamatan": "Menteng",
+    "kabupaten_kota": "KOTA ADM. JAKARTA PUSAT",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "15",
+    "kodepos": "10320",
+    "desa_kelurahan": "Pegangsaan",
+    "kecamatan": "Menteng",
+    "kabupaten_kota": "KOTA ADM. JAKARTA PUSAT",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "16",
+    "kodepos": "10330",
+    "desa_kelurahan": "Cikini",
+    "kecamatan": "Menteng",
+    "kabupaten_kota": "KOTA ADM. JAKARTA PUSAT",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "17",
+    "kodepos": "10340",
+    "desa_kelurahan": "Kebon Sirih",
+    "kecamatan": "Menteng",
+    "kabupaten_kota": "KOTA ADM. JAKARTA PUSAT",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "18",
+    "kodepos": "10350",
+    "desa_kelurahan": "Gondangdia",
+    "kecamatan": "Menteng",
+    "kabupaten_kota": "KOTA ADM. JAKARTA PUSAT",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "19",
+    "kodepos": "10410",
+    "desa_kelurahan": "Senen",
+    "kecamatan": "Senen",
+    "kabupaten_kota": "KOTA ADM. JAKARTA PUSAT",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "20",
+    "kodepos": "10420",
+    "desa_kelurahan": "Kwitang",
+    "kecamatan": "Senen",
+    "kabupaten_kota": "KOTA ADM. JAKARTA PUSAT",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "21",
+    "kodepos": "10430",
+    "desa_kelurahan": "Kenari",
+    "kecamatan": "Senen",
+    "kabupaten_kota": "KOTA ADM. JAKARTA PUSAT",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "22",
+    "kodepos": "10440",
+    "desa_kelurahan": "Paseban",
+    "kecamatan": "Senen",
+    "kabupaten_kota": "KOTA ADM. JAKARTA PUSAT",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "23",
+    "kodepos": "10450",
+    "desa_kelurahan": "Kramat",
+    "kecamatan": "Senen",
+    "kabupaten_kota": "KOTA ADM. JAKARTA PUSAT",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "24",
+    "kodepos": "10460",
+    "desa_kelurahan": "Bungur",
+    "kecamatan": "Senen",
+    "kabupaten_kota": "KOTA ADM. JAKARTA PUSAT",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "25",
+    "kodepos": "10510",
+    "desa_kelurahan": "Cempaka Putih Timur",
+    "kecamatan": "Cempaka Putih",
+    "kabupaten_kota": "KOTA ADM. JAKARTA PUSAT",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "26",
+    "kodepos": "10520",
+    "desa_kelurahan": "Cempaka Putih Barat",
+    "kecamatan": "Cempaka Putih",
+    "kabupaten_kota": "KOTA ADM. JAKARTA PUSAT",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "27",
+    "kodepos": "10530",
+    "desa_kelurahan": "Galur",
+    "kecamatan": "Johar Baru",
+    "kabupaten_kota": "KOTA ADM. JAKARTA PUSAT",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "28",
+    "kodepos": "10540",
+    "desa_kelurahan": "Tanah Tinggi",
+    "kecamatan": "Johar Baru",
+    "kabupaten_kota": "KOTA ADM. JAKARTA PUSAT",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "29",
+    "kodepos": "10550",
+    "desa_kelurahan": "Kampung Rawa",
+    "kecamatan": "Johar Baru",
+    "kabupaten_kota": "KOTA ADM. JAKARTA PUSAT",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "30",
+    "kodepos": "10560",
+    "desa_kelurahan": "Johar Baru",
+    "kecamatan": "Johar Baru",
+    "kabupaten_kota": "KOTA ADM. JAKARTA PUSAT",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "31",
+    "kodepos": "10570",
+    "desa_kelurahan": "Rawasari",
+    "kecamatan": "Cempaka Putih",
+    "kabupaten_kota": "KOTA ADM. JAKARTA PUSAT",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "32",
+    "kodepos": "10610",
+    "desa_kelurahan": "Gunung Sahari Selatan",
+    "kecamatan": "Kemayoran",
+    "kabupaten_kota": "KOTA ADM. JAKARTA PUSAT",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "33",
+    "kodepos": "10620",
+    "desa_kelurahan": "Kemayoran",
+    "kecamatan": "Kemayoran",
+    "kabupaten_kota": "KOTA ADM. JAKARTA PUSAT",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "34",
+    "kodepos": "10630",
+    "desa_kelurahan": "Kebon Kosong",
+    "kecamatan": "Kemayoran",
+    "kabupaten_kota": "KOTA ADM. JAKARTA PUSAT",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "35",
+    "kodepos": "10640",
+    "desa_kelurahan": "Harapan Mulia",
+    "kecamatan": "Kemayoran",
+    "kabupaten_kota": "KOTA ADM. JAKARTA PUSAT",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "36",
+    "kodepos": "10640",
+    "desa_kelurahan": "Sumur Batu",
+    "kecamatan": "Kemayoran",
+    "kabupaten_kota": "KOTA ADM. JAKARTA PUSAT",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "37",
+    "kodepos": "10640",
+    "desa_kelurahan": "Cempaka Baru",
+    "kecamatan": "Kemayoran",
+    "kabupaten_kota": "KOTA ADM. JAKARTA PUSAT",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "38",
+    "kodepos": "10650",
+    "desa_kelurahan": "Serdang",
+    "kecamatan": "Kemayoran",
+    "kabupaten_kota": "KOTA ADM. JAKARTA PUSAT",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "39",
+    "kodepos": "10650",
+    "desa_kelurahan": "Utan Panjang",
+    "kecamatan": "Kemayoran",
+    "kabupaten_kota": "KOTA ADM. JAKARTA PUSAT",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "40",
+    "kodepos": "10710",
+    "desa_kelurahan": "Pasar Baru",
+    "kecamatan": "Sawah Besar",
+    "kabupaten_kota": "KOTA ADM. JAKARTA PUSAT",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "41",
+    "kodepos": "10720",
+    "desa_kelurahan": "Gunung Sahari Utara",
+    "kecamatan": "Sawah Besar",
+    "kabupaten_kota": "KOTA ADM. JAKARTA PUSAT",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "42",
+    "kodepos": "10730",
+    "desa_kelurahan": "Mangga Dua Selatan",
+    "kecamatan": "Sawah Besar",
+    "kabupaten_kota": "KOTA ADM. JAKARTA PUSAT",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "43",
+    "kodepos": "10740",
+    "desa_kelurahan": "Karang Anyar",
+    "kecamatan": "Sawah Besar",
+    "kabupaten_kota": "KOTA ADM. JAKARTA PUSAT",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "44",
+    "kodepos": "10750",
+    "desa_kelurahan": "Kartini",
+    "kecamatan": "Sawah Besar",
+    "kabupaten_kota": "KOTA ADM. JAKARTA PUSAT",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "1",
+    "kodepos": "11110",
+    "desa_kelurahan": "Pinangsia",
+    "kecamatan": "Taman Sari",
+    "kabupaten_kota": "KOTA ADM. JAKARTA BARAT",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "2",
+    "kodepos": "11120",
+    "desa_kelurahan": "Glodok",
+    "kecamatan": "Taman Sari",
+    "kabupaten_kota": "KOTA ADM. JAKARTA BARAT",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "3",
+    "kodepos": "11130",
+    "desa_kelurahan": "Keagungan",
+    "kecamatan": "Taman Sari",
+    "kabupaten_kota": "KOTA ADM. JAKARTA BARAT",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "4",
+    "kodepos": "11140",
+    "desa_kelurahan": "Krukut",
+    "kecamatan": "Taman Sari",
+    "kabupaten_kota": "KOTA ADM. JAKARTA BARAT",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "5",
+    "kodepos": "11150",
+    "desa_kelurahan": "Taman Sari",
+    "kecamatan": "Taman Sari",
+    "kabupaten_kota": "KOTA ADM. JAKARTA BARAT",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "6",
+    "kodepos": "11160",
+    "desa_kelurahan": "Maphar",
+    "kecamatan": "Taman Sari",
+    "kabupaten_kota": "KOTA ADM. JAKARTA BARAT",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "7",
+    "kodepos": "11170",
+    "desa_kelurahan": "Tangki",
+    "kecamatan": "Taman Sari",
+    "kabupaten_kota": "KOTA ADM. JAKARTA BARAT",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "8",
+    "kodepos": "11180",
+    "desa_kelurahan": "Mangga Besar",
+    "kecamatan": "Taman Sari",
+    "kabupaten_kota": "KOTA ADM. JAKARTA BARAT",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "9",
+    "kodepos": "11210",
+    "desa_kelurahan": "Tanah Sereal",
+    "kecamatan": "Tambora",
+    "kabupaten_kota": "KOTA ADM. JAKARTA BARAT",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "10",
+    "kodepos": "11220",
+    "desa_kelurahan": "Tambora",
+    "kecamatan": "Tambora",
+    "kabupaten_kota": "KOTA ADM. JAKARTA BARAT",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "11",
+    "kodepos": "11230",
+    "desa_kelurahan": "Roa Malaka",
+    "kecamatan": "Tambora",
+    "kabupaten_kota": "KOTA ADM. JAKARTA BARAT",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "12",
+    "kodepos": "11240",
+    "desa_kelurahan": "Pekojan",
+    "kecamatan": "Tambora",
+    "kabupaten_kota": "KOTA ADM. JAKARTA BARAT",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "13",
+    "kodepos": "11250",
+    "desa_kelurahan": "Jembatan Lima",
+    "kecamatan": "Tambora",
+    "kabupaten_kota": "KOTA ADM. JAKARTA BARAT",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "14",
+    "kodepos": "11260",
+    "desa_kelurahan": "Krendang",
+    "kecamatan": "Tambora",
+    "kabupaten_kota": "KOTA ADM. JAKARTA BARAT",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "15",
+    "kodepos": "11270",
+    "desa_kelurahan": "Duri Selatan",
+    "kecamatan": "Tambora",
+    "kabupaten_kota": "KOTA ADM. JAKARTA BARAT",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "16",
+    "kodepos": "11270",
+    "desa_kelurahan": "Duri Utara",
+    "kecamatan": "Tambora",
+    "kabupaten_kota": "KOTA ADM. JAKARTA BARAT",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "17",
+    "kodepos": "11310",
+    "desa_kelurahan": "Kali Anyar",
+    "kecamatan": "Tambora",
+    "kabupaten_kota": "KOTA ADM. JAKARTA BARAT",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "18",
+    "kodepos": "11320",
+    "desa_kelurahan": "Jembatan Besi",
+    "kecamatan": "Tambora",
+    "kabupaten_kota": "KOTA ADM. JAKARTA BARAT",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "19",
+    "kodepos": "11330",
+    "desa_kelurahan": "Angke",
+    "kecamatan": "Tambora",
+    "kabupaten_kota": "KOTA ADM. JAKARTA BARAT",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "20",
+    "kodepos": "11410",
+    "desa_kelurahan": "Slipi",
+    "kecamatan": "Pal Merah",
+    "kabupaten_kota": "KOTA ADM. JAKARTA BARAT",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "21",
+    "kodepos": "11420",
+    "desa_kelurahan": "Kota Bambu Selatan",
+    "kecamatan": "Pal Merah",
+    "kabupaten_kota": "KOTA ADM. JAKARTA BARAT",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "22",
+    "kodepos": "11420",
+    "desa_kelurahan": "Kota Bambu Utara",
+    "kecamatan": "Pal Merah",
+    "kabupaten_kota": "KOTA ADM. JAKARTA BARAT",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "23",
+    "kodepos": "11430",
+    "desa_kelurahan": "Jatipulo",
+    "kecamatan": "Pal Merah",
+    "kabupaten_kota": "KOTA ADM. JAKARTA BARAT",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "24",
+    "kodepos": "11440",
+    "desa_kelurahan": "Tomang",
+    "kecamatan": "Grogol Petamburan",
+    "kabupaten_kota": "KOTA ADM. JAKARTA BARAT",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "25",
+    "kodepos": "11450",
+    "desa_kelurahan": "Grogol",
+    "kecamatan": "Grogol Petamburan",
+    "kabupaten_kota": "KOTA ADM. JAKARTA BARAT",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "26",
+    "kodepos": "11460",
+    "desa_kelurahan": "Jelambar",
+    "kecamatan": "Grogol Petamburan",
+    "kabupaten_kota": "KOTA ADM. JAKARTA BARAT",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "27",
+    "kodepos": "11460",
+    "desa_kelurahan": "Jelambar Baru",
+    "kecamatan": "Grogol Petamburan",
+    "kabupaten_kota": "KOTA ADM. JAKARTA BARAT",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "28",
+    "kodepos": "11460",
+    "desa_kelurahan": "Wijaya Kusuma",
+    "kecamatan": "Grogol Petamburan",
+    "kabupaten_kota": "KOTA ADM. JAKARTA BARAT",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "29",
+    "kodepos": "11470",
+    "desa_kelurahan": "Tanjung Duren Utara",
+    "kecamatan": "Grogol Petamburan",
+    "kabupaten_kota": "KOTA ADM. JAKARTA BARAT",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "30",
+    "kodepos": "11470",
+    "desa_kelurahan": "Tanjung Duren Selatan",
+    "kecamatan": "Grogol Petamburan",
+    "kabupaten_kota": "KOTA ADM. JAKARTA BARAT",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "31",
+    "kodepos": "11480",
+    "desa_kelurahan": "Palmerah",
+    "kecamatan": "Pal Merah",
+    "kabupaten_kota": "KOTA ADM. JAKARTA BARAT",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "32",
+    "kodepos": "11480",
+    "desa_kelurahan": "Kemanggisan",
+    "kecamatan": "Pal Merah",
+    "kabupaten_kota": "KOTA ADM. JAKARTA BARAT",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "33",
+    "kodepos": "11510",
+    "desa_kelurahan": "Duri Kepa",
+    "kecamatan": "Kebon Jeruk",
+    "kabupaten_kota": "KOTA ADM. JAKARTA BARAT",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "34",
+    "kodepos": "11520",
+    "desa_kelurahan": "Kedoya Utara",
+    "kecamatan": "Kebon Jeruk",
+    "kabupaten_kota": "KOTA ADM. JAKARTA BARAT",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "35",
+    "kodepos": "11520",
+    "desa_kelurahan": "Kedoya Selatan",
+    "kecamatan": "Kebon Jeruk",
+    "kabupaten_kota": "KOTA ADM. JAKARTA BARAT",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "36",
+    "kodepos": "11530",
+    "desa_kelurahan": "Kebon Jeruk",
+    "kecamatan": "Kebon Jeruk",
+    "kabupaten_kota": "KOTA ADM. JAKARTA BARAT",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "37",
+    "kodepos": "11540",
+    "desa_kelurahan": "Sukabumi Utara",
+    "kecamatan": "Kebon Jeruk",
+    "kabupaten_kota": "KOTA ADM. JAKARTA BARAT",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "38",
+    "kodepos": "11550",
+    "desa_kelurahan": "Kelapa Dua",
+    "kecamatan": "Kebon Jeruk",
+    "kabupaten_kota": "KOTA ADM. JAKARTA BARAT",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "39",
+    "kodepos": "11560",
+    "desa_kelurahan": "Sukabumi Selatan",
+    "kecamatan": "Kebon Jeruk",
+    "kabupaten_kota": "KOTA ADM. JAKARTA BARAT",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "40",
+    "kodepos": "11610",
+    "desa_kelurahan": "Kembangan Utara",
+    "kecamatan": "Kembangan",
+    "kabupaten_kota": "KOTA ADM. JAKARTA BARAT",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "41",
+    "kodepos": "11610",
+    "desa_kelurahan": "Kembangan Selatan",
+    "kecamatan": "Kembangan",
+    "kabupaten_kota": "KOTA ADM. JAKARTA BARAT",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "42",
+    "kodepos": "11620",
+    "desa_kelurahan": "Meruya Utara",
+    "kecamatan": "Kembangan",
+    "kabupaten_kota": "KOTA ADM. JAKARTA BARAT",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "43",
+    "kodepos": "11630",
+    "desa_kelurahan": "Srengseng",
+    "kecamatan": "Kembangan",
+    "kabupaten_kota": "KOTA ADM. JAKARTA BARAT",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "44",
+    "kodepos": "11640",
+    "desa_kelurahan": "Joglo",
+    "kecamatan": "Kembangan",
+    "kabupaten_kota": "KOTA ADM. JAKARTA BARAT",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "45",
+    "kodepos": "11650",
+    "desa_kelurahan": "Meruya Selatan",
+    "kecamatan": "Kembangan",
+    "kabupaten_kota": "KOTA ADM. JAKARTA BARAT",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "46",
+    "kodepos": "11710",
+    "desa_kelurahan": "Kedaung Kali Angke",
+    "kecamatan": "Cengkareng",
+    "kabupaten_kota": "KOTA ADM. JAKARTA BARAT",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "47",
+    "kodepos": "11720",
+    "desa_kelurahan": "Kapuk",
+    "kecamatan": "Cengkareng",
+    "kabupaten_kota": "KOTA ADM. JAKARTA BARAT",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "48",
+    "kodepos": "11730",
+    "desa_kelurahan": "Cengkareng Timur",
+    "kecamatan": "Cengkareng",
+    "kabupaten_kota": "KOTA ADM. JAKARTA BARAT",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "49",
+    "kodepos": "11730",
+    "desa_kelurahan": "Cengkareng Barat",
+    "kecamatan": "Cengkareng",
+    "kabupaten_kota": "KOTA ADM. JAKARTA BARAT",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "50",
+    "kodepos": "11740",
+    "desa_kelurahan": "Rawa Buaya",
+    "kecamatan": "Cengkareng",
+    "kabupaten_kota": "KOTA ADM. JAKARTA BARAT",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "51",
+    "kodepos": "11750",
+    "desa_kelurahan": "Duri Kosambi",
+    "kecamatan": "Cengkareng",
+    "kabupaten_kota": "KOTA ADM. JAKARTA BARAT",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "52",
+    "kodepos": "11810",
+    "desa_kelurahan": "Kamal",
+    "kecamatan": "Kalideres",
+    "kabupaten_kota": "KOTA ADM. JAKARTA BARAT",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "53",
+    "kodepos": "11820",
+    "desa_kelurahan": "Tegal Alur",
+    "kecamatan": "Kalideres",
+    "kabupaten_kota": "KOTA ADM. JAKARTA BARAT",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "54",
+    "kodepos": "11830",
+    "desa_kelurahan": "Pegadungan",
+    "kecamatan": "Kalideres",
+    "kabupaten_kota": "KOTA ADM. JAKARTA BARAT",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "55",
+    "kodepos": "11840",
+    "desa_kelurahan": "Kalideres",
+    "kecamatan": "Kalideres",
+    "kabupaten_kota": "KOTA ADM. JAKARTA BARAT",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "56",
+    "kodepos": "11850",
+    "desa_kelurahan": "Semanan",
+    "kecamatan": "Kalideres",
+    "kabupaten_kota": "KOTA ADM. JAKARTA BARAT",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "1",
+    "kodepos": "14110",
+    "desa_kelurahan": "Kalibaru",
+    "kecamatan": "Cilincing",
+    "kabupaten_kota": "KOTA ADM. JAKARTA UTARA",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "2",
+    "kodepos": "14120",
+    "desa_kelurahan": "Cilincing",
+    "kecamatan": "Cilincing",
+    "kabupaten_kota": "KOTA ADM. JAKARTA UTARA",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "3",
+    "kodepos": "14130",
+    "desa_kelurahan": "Semper Barat",
+    "kecamatan": "Cilincing",
+    "kabupaten_kota": "KOTA ADM. JAKARTA UTARA",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "4",
+    "kodepos": "14130",
+    "desa_kelurahan": "Semper Timur",
+    "kecamatan": "Cilincing",
+    "kabupaten_kota": "KOTA ADM. JAKARTA UTARA",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "5",
+    "kodepos": "14140",
+    "desa_kelurahan": "Sukapura",
+    "kecamatan": "Cilincing",
+    "kabupaten_kota": "KOTA ADM. JAKARTA UTARA",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "6",
+    "kodepos": "14140",
+    "desa_kelurahan": "Rorotan",
+    "kecamatan": "Cilincing",
+    "kabupaten_kota": "KOTA ADM. JAKARTA UTARA",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "7",
+    "kodepos": "14150",
+    "desa_kelurahan": "Marunda",
+    "kecamatan": "Cilincing",
+    "kabupaten_kota": "KOTA ADM. JAKARTA UTARA",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "8",
+    "kodepos": "14210",
+    "desa_kelurahan": "Koja",
+    "kecamatan": "Koja",
+    "kabupaten_kota": "KOTA ADM. JAKARTA UTARA",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "9",
+    "kodepos": "14230",
+    "desa_kelurahan": "Rawa Badak Selatan",
+    "kecamatan": "Koja",
+    "kabupaten_kota": "KOTA ADM. JAKARTA UTARA",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "10",
+    "kodepos": "14230",
+    "desa_kelurahan": "Rawa Badak Utara",
+    "kecamatan": "Koja",
+    "kabupaten_kota": "KOTA ADM. JAKARTA UTARA",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "11",
+    "kodepos": "14240",
+    "desa_kelurahan": "Kelapa Gading Barat",
+    "kecamatan": "Kelapa Gading",
+    "kabupaten_kota": "KOTA ADM. JAKARTA UTARA",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "12",
+    "kodepos": "14240",
+    "desa_kelurahan": "Kelapa Gading Timur",
+    "kecamatan": "Kelapa Gading",
+    "kabupaten_kota": "KOTA ADM. JAKARTA UTARA",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "13",
+    "kodepos": "14250",
+    "desa_kelurahan": "Pegangsaan Dua",
+    "kecamatan": "Kelapa Gading",
+    "kabupaten_kota": "KOTA ADM. JAKARTA UTARA",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "14",
+    "kodepos": "14260",
+    "desa_kelurahan": "Tugu Selatan",
+    "kecamatan": "Koja",
+    "kabupaten_kota": "KOTA ADM. JAKARTA UTARA",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "15",
+    "kodepos": "14260",
+    "desa_kelurahan": "Tugu Utara",
+    "kecamatan": "Koja",
+    "kabupaten_kota": "KOTA ADM. JAKARTA UTARA",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "16",
+    "kodepos": "14270",
+    "desa_kelurahan": "Lagoa",
+    "kecamatan": "Koja",
+    "kabupaten_kota": "KOTA ADM. JAKARTA UTARA",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "17",
+    "kodepos": "14310",
+    "desa_kelurahan": "Tanjung Priok",
+    "kecamatan": "Tanjung Priok",
+    "kabupaten_kota": "KOTA ADM. JAKARTA UTARA",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "18",
+    "kodepos": "14320",
+    "desa_kelurahan": "Kebon Bawang",
+    "kecamatan": "Tanjung Priok",
+    "kabupaten_kota": "KOTA ADM. JAKARTA UTARA",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "19",
+    "kodepos": "14330",
+    "desa_kelurahan": "Sungai Bambu",
+    "kecamatan": "Tanjung Priok",
+    "kabupaten_kota": "KOTA ADM. JAKARTA UTARA",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "20",
+    "kodepos": "14340",
+    "desa_kelurahan": "Papanggo",
+    "kecamatan": "Tanjung Priok",
+    "kabupaten_kota": "KOTA ADM. JAKARTA UTARA",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "21",
+    "kodepos": "14340",
+    "desa_kelurahan": "Warakas",
+    "kecamatan": "Tanjung Priok",
+    "kabupaten_kota": "KOTA ADM. JAKARTA UTARA",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "22",
+    "kodepos": "14350",
+    "desa_kelurahan": "Sunter Agung",
+    "kecamatan": "Tanjung Priok",
+    "kabupaten_kota": "KOTA ADM. JAKARTA UTARA",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "23",
+    "kodepos": "14350",
+    "desa_kelurahan": "Sunter Jaya",
+    "kecamatan": "Tanjung Priok",
+    "kabupaten_kota": "KOTA ADM. JAKARTA UTARA",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "24",
+    "kodepos": "14410",
+    "desa_kelurahan": "Pademangan Timur",
+    "kecamatan": "Pademangan",
+    "kabupaten_kota": "KOTA ADM. JAKARTA UTARA",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "25",
+    "kodepos": "14420",
+    "desa_kelurahan": "Pademangan Barat",
+    "kecamatan": "Pademangan",
+    "kabupaten_kota": "KOTA ADM. JAKARTA UTARA",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "26",
+    "kodepos": "14430",
+    "desa_kelurahan": "Ancol",
+    "kecamatan": "Pademangan",
+    "kabupaten_kota": "KOTA ADM. JAKARTA UTARA",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "27",
+    "kodepos": "14440",
+    "desa_kelurahan": "Penjaringan",
+    "kecamatan": "Penjaringan",
+    "kabupaten_kota": "KOTA ADM. JAKARTA UTARA",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "28",
+    "kodepos": "14450",
+    "desa_kelurahan": "Pluit",
+    "kecamatan": "Penjaringan",
+    "kabupaten_kota": "KOTA ADM. JAKARTA UTARA",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "29",
+    "kodepos": "14450",
+    "desa_kelurahan": "Pejagalan",
+    "kecamatan": "Penjaringan",
+    "kabupaten_kota": "KOTA ADM. JAKARTA UTARA",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "30",
+    "kodepos": "14460",
+    "desa_kelurahan": "Kapuk Muara",
+    "kecamatan": "Penjaringan",
+    "kabupaten_kota": "KOTA ADM. JAKARTA UTARA",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "31",
+    "kodepos": "14470",
+    "desa_kelurahan": "Kamal Muara",
+    "kecamatan": "Penjaringan",
+    "kabupaten_kota": "KOTA ADM. JAKARTA UTARA",
+    "provinsi": "DKI JAKARTA"
+  }
+]

@@ -1,0 +1,362 @@
+[
+  {
+    "no": "1",
+    "kodepos": "55111",
+    "desa_kelurahan": "Gunungketur",
+    "kecamatan": "Pakualaman",
+    "kabupaten_kota": "KOTA YOGYAKARTA",
+    "provinsi": "DAERAH ISTIMEWA YOGYAKARTA"
+  },
+  {
+    "no": "2",
+    "kodepos": "55112",
+    "desa_kelurahan": "Purwokinanti",
+    "kecamatan": "Pakualaman",
+    "kabupaten_kota": "KOTA YOGYAKARTA",
+    "provinsi": "DAERAH ISTIMEWA YOGYAKARTA"
+  },
+  {
+    "no": "3",
+    "kodepos": "55121",
+    "desa_kelurahan": "Prawirodirjan",
+    "kecamatan": "Gondomanan",
+    "kabupaten_kota": "KOTA YOGYAKARTA",
+    "provinsi": "DAERAH ISTIMEWA YOGYAKARTA"
+  },
+  {
+    "no": "4",
+    "kodepos": "55122",
+    "desa_kelurahan": "Ngupasan",
+    "kecamatan": "Gondomanan",
+    "kabupaten_kota": "KOTA YOGYAKARTA",
+    "provinsi": "DAERAH ISTIMEWA YOGYAKARTA"
+  },
+  {
+    "no": "5",
+    "kodepos": "55131",
+    "desa_kelurahan": "Panembahan",
+    "kecamatan": "Kraton",
+    "kabupaten_kota": "KOTA YOGYAKARTA",
+    "provinsi": "DAERAH ISTIMEWA YOGYAKARTA"
+  },
+  {
+    "no": "6",
+    "kodepos": "55132",
+    "desa_kelurahan": "Kadipaten",
+    "kecamatan": "Kraton",
+    "kabupaten_kota": "KOTA YOGYAKARTA",
+    "provinsi": "DAERAH ISTIMEWA YOGYAKARTA"
+  },
+  {
+    "no": "7",
+    "kodepos": "55133",
+    "desa_kelurahan": "Patehan",
+    "kecamatan": "Kraton",
+    "kabupaten_kota": "KOTA YOGYAKARTA",
+    "provinsi": "DAERAH ISTIMEWA YOGYAKARTA"
+  },
+  {
+    "no": "8",
+    "kodepos": "55141",
+    "desa_kelurahan": "Suryodiningratan",
+    "kecamatan": "Mantrijeron",
+    "kabupaten_kota": "KOTA YOGYAKARTA",
+    "provinsi": "DAERAH ISTIMEWA YOGYAKARTA"
+  },
+  {
+    "no": "9",
+    "kodepos": "55142",
+    "desa_kelurahan": "Gedongkiwo",
+    "kecamatan": "Mantrijeron",
+    "kabupaten_kota": "KOTA YOGYAKARTA",
+    "provinsi": "DAERAH ISTIMEWA YOGYAKARTA"
+  },
+  {
+    "no": "10",
+    "kodepos": "55143",
+    "desa_kelurahan": "Mantrijeron",
+    "kecamatan": "Mantrijeron",
+    "kabupaten_kota": "KOTA YOGYAKARTA",
+    "provinsi": "DAERAH ISTIMEWA YOGYAKARTA"
+  },
+  {
+    "no": "11",
+    "kodepos": "55151",
+    "desa_kelurahan": "Wirogunan",
+    "kecamatan": "Mergangsan",
+    "kabupaten_kota": "KOTA YOGYAKARTA",
+    "provinsi": "DAERAH ISTIMEWA YOGYAKARTA"
+  },
+  {
+    "no": "12",
+    "kodepos": "55152",
+    "desa_kelurahan": "Keparakan",
+    "kecamatan": "Mergangsan",
+    "kabupaten_kota": "KOTA YOGYAKARTA",
+    "provinsi": "DAERAH ISTIMEWA YOGYAKARTA"
+  },
+  {
+    "no": "13",
+    "kodepos": "55153",
+    "desa_kelurahan": "Brontokusuman",
+    "kecamatan": "Mergangsan",
+    "kabupaten_kota": "KOTA YOGYAKARTA",
+    "provinsi": "DAERAH ISTIMEWA YOGYAKARTA"
+  },
+  {
+    "no": "14",
+    "kodepos": "55161",
+    "desa_kelurahan": "Pandeyan",
+    "kecamatan": "Umbulharjo",
+    "kabupaten_kota": "KOTA YOGYAKARTA",
+    "provinsi": "DAERAH ISTIMEWA YOGYAKARTA"
+  },
+  {
+    "no": "15",
+    "kodepos": "55162",
+    "desa_kelurahan": "Sorosutan",
+    "kecamatan": "Umbulharjo",
+    "kabupaten_kota": "KOTA YOGYAKARTA",
+    "provinsi": "DAERAH ISTIMEWA YOGYAKARTA"
+  },
+  {
+    "no": "16",
+    "kodepos": "55163",
+    "desa_kelurahan": "Giwangan",
+    "kecamatan": "Umbulharjo",
+    "kabupaten_kota": "KOTA YOGYAKARTA",
+    "provinsi": "DAERAH ISTIMEWA YOGYAKARTA"
+  },
+  {
+    "no": "17",
+    "kodepos": "55164",
+    "desa_kelurahan": "Warungboto",
+    "kecamatan": "Umbulharjo",
+    "kabupaten_kota": "KOTA YOGYAKARTA",
+    "provinsi": "DAERAH ISTIMEWA YOGYAKARTA"
+  },
+  {
+    "no": "18",
+    "kodepos": "55165",
+    "desa_kelurahan": "Muja Muju",
+    "kecamatan": "Umbulharjo",
+    "kabupaten_kota": "KOTA YOGYAKARTA",
+    "provinsi": "DAERAH ISTIMEWA YOGYAKARTA"
+  },
+  {
+    "no": "19",
+    "kodepos": "55166",
+    "desa_kelurahan": "Semaki",
+    "kecamatan": "Umbulharjo",
+    "kabupaten_kota": "KOTA YOGYAKARTA",
+    "provinsi": "DAERAH ISTIMEWA YOGYAKARTA"
+  },
+  {
+    "no": "20",
+    "kodepos": "55167",
+    "desa_kelurahan": "Tahunan",
+    "kecamatan": "Umbulharjo",
+    "kabupaten_kota": "KOTA YOGYAKARTA",
+    "provinsi": "DAERAH ISTIMEWA YOGYAKARTA"
+  },
+  {
+    "no": "21",
+    "kodepos": "55171",
+    "desa_kelurahan": "Rejowinangun",
+    "kecamatan": "Kotagede",
+    "kabupaten_kota": "KOTA YOGYAKARTA",
+    "provinsi": "DAERAH ISTIMEWA YOGYAKARTA"
+  },
+  {
+    "no": "22",
+    "kodepos": "55172",
+    "desa_kelurahan": "Prenggan",
+    "kecamatan": "Kotagede",
+    "kabupaten_kota": "KOTA YOGYAKARTA",
+    "provinsi": "DAERAH ISTIMEWA YOGYAKARTA"
+  },
+  {
+    "no": "23",
+    "kodepos": "55173",
+    "desa_kelurahan": "Purbayan",
+    "kecamatan": "Kotagede",
+    "kabupaten_kota": "KOTA YOGYAKARTA",
+    "provinsi": "DAERAH ISTIMEWA YOGYAKARTA"
+  },
+  {
+    "no": "24",
+    "kodepos": "55211",
+    "desa_kelurahan": "Bausasran",
+    "kecamatan": "Danurejan",
+    "kabupaten_kota": "KOTA YOGYAKARTA",
+    "provinsi": "DAERAH ISTIMEWA YOGYAKARTA"
+  },
+  {
+    "no": "25",
+    "kodepos": "55212",
+    "desa_kelurahan": "Tegalpanggung",
+    "kecamatan": "Danurejan",
+    "kabupaten_kota": "KOTA YOGYAKARTA",
+    "provinsi": "DAERAH ISTIMEWA YOGYAKARTA"
+  },
+  {
+    "no": "26",
+    "kodepos": "55213",
+    "desa_kelurahan": "Suryatmajan",
+    "kecamatan": "Danurejan",
+    "kabupaten_kota": "KOTA YOGYAKARTA",
+    "provinsi": "DAERAH ISTIMEWA YOGYAKARTA"
+  },
+  {
+    "no": "27",
+    "kodepos": "55221",
+    "desa_kelurahan": "Demangan",
+    "kecamatan": "Gondokusuman",
+    "kabupaten_kota": "KOTA YOGYAKARTA",
+    "provinsi": "DAERAH ISTIMEWA YOGYAKARTA"
+  },
+  {
+    "no": "28",
+    "kodepos": "55222",
+    "desa_kelurahan": "Klitren",
+    "kecamatan": "Gondokusuman",
+    "kabupaten_kota": "KOTA YOGYAKARTA",
+    "provinsi": "DAERAH ISTIMEWA YOGYAKARTA"
+  },
+  {
+    "no": "29",
+    "kodepos": "55223",
+    "desa_kelurahan": "Terban",
+    "kecamatan": "Gondokusuman",
+    "kabupaten_kota": "KOTA YOGYAKARTA",
+    "provinsi": "DAERAH ISTIMEWA YOGYAKARTA"
+  },
+  {
+    "no": "30",
+    "kodepos": "55224",
+    "desa_kelurahan": "Kotabaru",
+    "kecamatan": "Gondokusuman",
+    "kabupaten_kota": "KOTA YOGYAKARTA",
+    "provinsi": "DAERAH ISTIMEWA YOGYAKARTA"
+  },
+  {
+    "no": "31",
+    "kodepos": "55225",
+    "desa_kelurahan": "Baciro",
+    "kecamatan": "Gondokusuman",
+    "kabupaten_kota": "KOTA YOGYAKARTA",
+    "provinsi": "DAERAH ISTIMEWA YOGYAKARTA"
+  },
+  {
+    "no": "32",
+    "kodepos": "55231",
+    "desa_kelurahan": "Bumijo",
+    "kecamatan": "Jetis",
+    "kabupaten_kota": "KOTA YOGYAKARTA",
+    "provinsi": "DAERAH ISTIMEWA YOGYAKARTA"
+  },
+  {
+    "no": "33",
+    "kodepos": "55232",
+    "desa_kelurahan": "Gowongan",
+    "kecamatan": "Jetis",
+    "kabupaten_kota": "KOTA YOGYAKARTA",
+    "provinsi": "DAERAH ISTIMEWA YOGYAKARTA"
+  },
+  {
+    "no": "34",
+    "kodepos": "55233",
+    "desa_kelurahan": "Cokrodiningratan",
+    "kecamatan": "Jetis",
+    "kabupaten_kota": "KOTA YOGYAKARTA",
+    "provinsi": "DAERAH ISTIMEWA YOGYAKARTA"
+  },
+  {
+    "no": "35",
+    "kodepos": "55241",
+    "desa_kelurahan": "Karangwaru",
+    "kecamatan": "Tegalrejo",
+    "kabupaten_kota": "KOTA YOGYAKARTA",
+    "provinsi": "DAERAH ISTIMEWA YOGYAKARTA"
+  },
+  {
+    "no": "36",
+    "kodepos": "55242",
+    "desa_kelurahan": "Kricak",
+    "kecamatan": "Tegalrejo",
+    "kabupaten_kota": "KOTA YOGYAKARTA",
+    "provinsi": "DAERAH ISTIMEWA YOGYAKARTA"
+  },
+  {
+    "no": "37",
+    "kodepos": "55243",
+    "desa_kelurahan": "Bener",
+    "kecamatan": "Tegalrejo",
+    "kabupaten_kota": "KOTA YOGYAKARTA",
+    "provinsi": "DAERAH ISTIMEWA YOGYAKARTA"
+  },
+  {
+    "no": "38",
+    "kodepos": "55244",
+    "desa_kelurahan": "Tegalrejo",
+    "kecamatan": "Tegalrejo",
+    "kabupaten_kota": "KOTA YOGYAKARTA",
+    "provinsi": "DAERAH ISTIMEWA YOGYAKARTA"
+  },
+  {
+    "no": "39",
+    "kodepos": "55251",
+    "desa_kelurahan": "Patangpuluhan",
+    "kecamatan": "Wirobrajan",
+    "kabupaten_kota": "KOTA YOGYAKARTA",
+    "provinsi": "DAERAH ISTIMEWA YOGYAKARTA"
+  },
+  {
+    "no": "40",
+    "kodepos": "55252",
+    "desa_kelurahan": "Wirobrajan",
+    "kecamatan": "Wirobrajan",
+    "kabupaten_kota": "KOTA YOGYAKARTA",
+    "provinsi": "DAERAH ISTIMEWA YOGYAKARTA"
+  },
+  {
+    "no": "41",
+    "kodepos": "55253",
+    "desa_kelurahan": "Pakuncen",
+    "kecamatan": "Wirobrajan",
+    "kabupaten_kota": "KOTA YOGYAKARTA",
+    "provinsi": "DAERAH ISTIMEWA YOGYAKARTA"
+  },
+  {
+    "no": "42",
+    "kodepos": "55261",
+    "desa_kelurahan": "Ngampilan",
+    "kecamatan": "Ngampilan",
+    "kabupaten_kota": "KOTA YOGYAKARTA",
+    "provinsi": "DAERAH ISTIMEWA YOGYAKARTA"
+  },
+  {
+    "no": "43",
+    "kodepos": "55262",
+    "desa_kelurahan": "Notoprajan",
+    "kecamatan": "Ngampilan",
+    "kabupaten_kota": "KOTA YOGYAKARTA",
+    "provinsi": "DAERAH ISTIMEWA YOGYAKARTA"
+  },
+  {
+    "no": "44",
+    "kodepos": "55271",
+    "desa_kelurahan": "Sosromenduran",
+    "kecamatan": "Gedongtengen",
+    "kabupaten_kota": "KOTA YOGYAKARTA",
+    "provinsi": "DAERAH ISTIMEWA YOGYAKARTA"
+  },
+  {
+    "no": "45",
+    "kodepos": "55272",
+    "desa_kelurahan": "Pringgokusuman",
+    "kecamatan": "Gedongtengen",
+    "kabupaten_kota": "KOTA YOGYAKARTA",
+    "provinsi": "DAERAH ISTIMEWA YOGYAKARTA"
+  }
+]

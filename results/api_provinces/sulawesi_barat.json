@@ -1,0 +1,5130 @@
+[
+  {
+    "no": "1",
+    "kodepos": "91411",
+    "desa_kelurahan": "Galung",
+    "kecamatan": "Banggae",
+    "kabupaten_kota": "KAB. MAJENE",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "2",
+    "kodepos": "91411",
+    "desa_kelurahan": "Banggae",
+    "kecamatan": "Banggae",
+    "kabupaten_kota": "KAB. MAJENE",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "3",
+    "kodepos": "91411",
+    "desa_kelurahan": "Baruga Dhua",
+    "kecamatan": "Banggae Timur",
+    "kabupaten_kota": "KAB. MAJENE",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "4",
+    "kodepos": "91411",
+    "desa_kelurahan": "Pangali Ali",
+    "kecamatan": "Banggae",
+    "kabupaten_kota": "KAB. MAJENE",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "5",
+    "kodepos": "91412",
+    "desa_kelurahan": "Labuang",
+    "kecamatan": "Banggae Timur",
+    "kabupaten_kota": "KAB. MAJENE",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "6",
+    "kodepos": "91412",
+    "desa_kelurahan": "Baurung",
+    "kecamatan": "Banggae Timur",
+    "kabupaten_kota": "KAB. MAJENE",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "7",
+    "kodepos": "91413",
+    "desa_kelurahan": "Tande Timur",
+    "kecamatan": "Banggae Timur",
+    "kabupaten_kota": "KAB. MAJENE",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "8",
+    "kodepos": "91413",
+    "desa_kelurahan": "Tande",
+    "kecamatan": "Banggae Timur",
+    "kabupaten_kota": "KAB. MAJENE",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "9",
+    "kodepos": "91413",
+    "desa_kelurahan": "Labuang Utara",
+    "kecamatan": "Banggae Timur",
+    "kabupaten_kota": "KAB. MAJENE",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "10",
+    "kodepos": "91413",
+    "desa_kelurahan": "Buttu Baruga",
+    "kecamatan": "Banggae Timur",
+    "kabupaten_kota": "KAB. MAJENE",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "11",
+    "kodepos": "91413",
+    "desa_kelurahan": "Lembang",
+    "kecamatan": "Banggae Timur",
+    "kabupaten_kota": "KAB. MAJENE",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "12",
+    "kodepos": "91414",
+    "desa_kelurahan": "Baruga",
+    "kecamatan": "Banggae Timur",
+    "kabupaten_kota": "KAB. MAJENE",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "13",
+    "kodepos": "91415",
+    "desa_kelurahan": "Palipi Soreang",
+    "kecamatan": "Banggae",
+    "kabupaten_kota": "KAB. MAJENE",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "14",
+    "kodepos": "91415",
+    "desa_kelurahan": "Baru",
+    "kecamatan": "Banggae",
+    "kabupaten_kota": "KAB. MAJENE",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "15",
+    "kodepos": "91415",
+    "desa_kelurahan": "Totoli",
+    "kecamatan": "Banggae",
+    "kabupaten_kota": "KAB. MAJENE",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "16",
+    "kodepos": "91415",
+    "desa_kelurahan": "Rangas",
+    "kecamatan": "Banggae",
+    "kabupaten_kota": "KAB. MAJENE",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "17",
+    "kodepos": "91415",
+    "desa_kelurahan": "Pamboborang",
+    "kecamatan": "Banggae",
+    "kabupaten_kota": "KAB. MAJENE",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "18",
+    "kodepos": "91450",
+    "desa_kelurahan": "Tammerodo Utara",
+    "kecamatan": "Tammerodo Sendana",
+    "kabupaten_kota": "KAB. MAJENE",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "19",
+    "kodepos": "91450",
+    "desa_kelurahan": "Manyamba",
+    "kecamatan": "Tammerodo Sendana",
+    "kabupaten_kota": "KAB. MAJENE",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "20",
+    "kodepos": "91450",
+    "desa_kelurahan": "Tallambalao",
+    "kecamatan": "Tammerodo Sendana",
+    "kabupaten_kota": "KAB. MAJENE",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "21",
+    "kodepos": "91450",
+    "desa_kelurahan": "Tammerodo",
+    "kecamatan": "Tammerodo Sendana",
+    "kabupaten_kota": "KAB. MAJENE",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "22",
+    "kodepos": "91450",
+    "desa_kelurahan": "Ulidang",
+    "kecamatan": "Tammerodo Sendana",
+    "kabupaten_kota": "KAB. MAJENE",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "23",
+    "kodepos": "91450",
+    "desa_kelurahan": "Awo",
+    "kecamatan": "Tammerodo Sendana",
+    "kabupaten_kota": "KAB. MAJENE",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "24",
+    "kodepos": "91450",
+    "desa_kelurahan": "Seppong",
+    "kecamatan": "Tammerodo Sendana",
+    "kabupaten_kota": "KAB. MAJENE",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "25",
+    "kodepos": "91451",
+    "desa_kelurahan": "Sirindu",
+    "kecamatan": "Pamboang",
+    "kabupaten_kota": "KAB. MAJENE",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "26",
+    "kodepos": "91451",
+    "desa_kelurahan": "Bababulo",
+    "kecamatan": "Pamboang",
+    "kabupaten_kota": "KAB. MAJENE",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "27",
+    "kodepos": "91451",
+    "desa_kelurahan": "Simbang",
+    "kecamatan": "Pamboang",
+    "kabupaten_kota": "KAB. MAJENE",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "28",
+    "kodepos": "91451",
+    "desa_kelurahan": "Pesuloang",
+    "kecamatan": "Pamboang",
+    "kabupaten_kota": "KAB. MAJENE",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "29",
+    "kodepos": "91451",
+    "desa_kelurahan": "Adolang",
+    "kecamatan": "Pamboang",
+    "kabupaten_kota": "KAB. MAJENE",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "30",
+    "kodepos": "91451",
+    "desa_kelurahan": "Adolang Dhua",
+    "kecamatan": "Pamboang",
+    "kabupaten_kota": "KAB. MAJENE",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "31",
+    "kodepos": "91451",
+    "desa_kelurahan": "Balombong",
+    "kecamatan": "Pamboang",
+    "kabupaten_kota": "KAB. MAJENE",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "32",
+    "kodepos": "91451",
+    "desa_kelurahan": "Banua Adolang",
+    "kecamatan": "Pamboang",
+    "kabupaten_kota": "KAB. MAJENE",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "33",
+    "kodepos": "91451",
+    "desa_kelurahan": "Bababulo Utara",
+    "kecamatan": "Pamboang",
+    "kabupaten_kota": "KAB. MAJENE",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "34",
+    "kodepos": "91451",
+    "desa_kelurahan": "Bonde",
+    "kecamatan": "Pamboang",
+    "kabupaten_kota": "KAB. MAJENE",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "35",
+    "kodepos": "91451",
+    "desa_kelurahan": "Bonde Utara",
+    "kecamatan": "Pamboang",
+    "kabupaten_kota": "KAB. MAJENE",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "36",
+    "kodepos": "91451",
+    "desa_kelurahan": "Tinambung",
+    "kecamatan": "Pamboang",
+    "kabupaten_kota": "KAB. MAJENE",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "37",
+    "kodepos": "91451",
+    "desa_kelurahan": "Lalampanua",
+    "kecamatan": "Pamboang",
+    "kabupaten_kota": "KAB. MAJENE",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "38",
+    "kodepos": "91451",
+    "desa_kelurahan": "Betteng",
+    "kecamatan": "Pamboang",
+    "kabupaten_kota": "KAB. MAJENE",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "39",
+    "kodepos": "91451",
+    "desa_kelurahan": "Buttu Pamboang",
+    "kecamatan": "Pamboang",
+    "kabupaten_kota": "KAB. MAJENE",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "40",
+    "kodepos": "91452",
+    "desa_kelurahan": "Lalatedzong",
+    "kecamatan": "Sendana",
+    "kabupaten_kota": "KAB. MAJENE",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "41",
+    "kodepos": "91452",
+    "desa_kelurahan": "Sendana",
+    "kecamatan": "Sendana",
+    "kabupaten_kota": "KAB. MAJENE",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "42",
+    "kodepos": "91452",
+    "desa_kelurahan": "Banua Sendana",
+    "kecamatan": "Sendana",
+    "kabupaten_kota": "KAB. MAJENE",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "43",
+    "kodepos": "91452",
+    "desa_kelurahan": "Limboro Rambu-Rambu",
+    "kecamatan": "Sendana",
+    "kabupaten_kota": "KAB. MAJENE",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "44",
+    "kodepos": "91452",
+    "desa_kelurahan": "Mosso Dhua",
+    "kecamatan": "Sendana",
+    "kabupaten_kota": "KAB. MAJENE",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "45",
+    "kodepos": "91452",
+    "desa_kelurahan": "Puttada",
+    "kecamatan": "Sendana",
+    "kabupaten_kota": "KAB. MAJENE",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "46",
+    "kodepos": "91452",
+    "desa_kelurahan": "Limbua",
+    "kecamatan": "Sendana",
+    "kabupaten_kota": "KAB. MAJENE",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "47",
+    "kodepos": "91452",
+    "desa_kelurahan": "Paminggalan",
+    "kecamatan": "Sendana",
+    "kabupaten_kota": "KAB. MAJENE",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "48",
+    "kodepos": "91452",
+    "desa_kelurahan": "Bukit Samang",
+    "kecamatan": "Sendana",
+    "kabupaten_kota": "KAB. MAJENE",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "49",
+    "kodepos": "91452",
+    "desa_kelurahan": "Leppangang",
+    "kecamatan": "Sendana",
+    "kabupaten_kota": "KAB. MAJENE",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "50",
+    "kodepos": "91452",
+    "desa_kelurahan": "Pundau",
+    "kecamatan": "Sendana",
+    "kabupaten_kota": "KAB. MAJENE",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "51",
+    "kodepos": "91452",
+    "desa_kelurahan": "Binanga",
+    "kecamatan": "Sendana",
+    "kabupaten_kota": "KAB. MAJENE",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "52",
+    "kodepos": "91452",
+    "desa_kelurahan": "Mosso",
+    "kecamatan": "Sendana",
+    "kabupaten_kota": "KAB. MAJENE",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "53",
+    "kodepos": "91452",
+    "desa_kelurahan": "Tallubanua Utara",
+    "kecamatan": "Sendana",
+    "kabupaten_kota": "KAB. MAJENE",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "54",
+    "kodepos": "91452",
+    "desa_kelurahan": "Totolisi Sendana",
+    "kecamatan": "Sendana",
+    "kabupaten_kota": "KAB. MAJENE",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "55",
+    "kodepos": "91452",
+    "desa_kelurahan": "Tallubanua",
+    "kecamatan": "Sendana",
+    "kabupaten_kota": "KAB. MAJENE",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "56",
+    "kodepos": "91453",
+    "desa_kelurahan": "Malunda",
+    "kecamatan": "Malunda",
+    "kabupaten_kota": "KAB. MAJENE",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "57",
+    "kodepos": "91453",
+    "desa_kelurahan": "Lamungang Batu",
+    "kecamatan": "Malunda",
+    "kabupaten_kota": "KAB. MAJENE",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "58",
+    "kodepos": "91453",
+    "desa_kelurahan": "Lombang",
+    "kecamatan": "Malunda",
+    "kabupaten_kota": "KAB. MAJENE",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "59",
+    "kodepos": "91453",
+    "desa_kelurahan": "Mekkatta",
+    "kecamatan": "Malunda",
+    "kabupaten_kota": "KAB. MAJENE",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "60",
+    "kodepos": "91453",
+    "desa_kelurahan": "Lombong Timur",
+    "kecamatan": "Malunda",
+    "kabupaten_kota": "KAB. MAJENE",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "61",
+    "kodepos": "91453",
+    "desa_kelurahan": "Lombang Timur",
+    "kecamatan": "Malunda",
+    "kabupaten_kota": "KAB. MAJENE",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "62",
+    "kodepos": "91453",
+    "desa_kelurahan": "Lombong",
+    "kecamatan": "Malunda",
+    "kabupaten_kota": "KAB. MAJENE",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "63",
+    "kodepos": "91453",
+    "desa_kelurahan": "Kayuangin",
+    "kecamatan": "Malunda",
+    "kabupaten_kota": "KAB. MAJENE",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "64",
+    "kodepos": "91453",
+    "desa_kelurahan": "Bambangan",
+    "kecamatan": "Malunda",
+    "kabupaten_kota": "KAB. MAJENE",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "65",
+    "kodepos": "91453",
+    "desa_kelurahan": "Maliaya",
+    "kecamatan": "Malunda",
+    "kabupaten_kota": "KAB. MAJENE",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "66",
+    "kodepos": "91453",
+    "desa_kelurahan": "Mekkatta Selatan",
+    "kecamatan": "Malunda",
+    "kabupaten_kota": "KAB. MAJENE",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "67",
+    "kodepos": "91453",
+    "desa_kelurahan": "Salutahongan",
+    "kecamatan": "Malunda",
+    "kabupaten_kota": "KAB. MAJENE",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "68",
+    "kodepos": "91454",
+    "desa_kelurahan": "Popenga",
+    "kecamatan": "Ulumanda",
+    "kabupaten_kota": "KAB. MAJENE",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "69",
+    "kodepos": "91454",
+    "desa_kelurahan": "Kabiraan",
+    "kecamatan": "Ulumanda",
+    "kabupaten_kota": "KAB. MAJENE",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "70",
+    "kodepos": "91454",
+    "desa_kelurahan": "Sambabo",
+    "kecamatan": "Ulumanda",
+    "kabupaten_kota": "KAB. MAJENE",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "71",
+    "kodepos": "91454",
+    "desa_kelurahan": "Tandeallo",
+    "kecamatan": "Ulumanda",
+    "kabupaten_kota": "KAB. MAJENE",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "72",
+    "kodepos": "91454",
+    "desa_kelurahan": "Sulai",
+    "kecamatan": "Ulumanda",
+    "kabupaten_kota": "KAB. MAJENE",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "73",
+    "kodepos": "91454",
+    "desa_kelurahan": "Panggalo",
+    "kecamatan": "Ulumanda",
+    "kabupaten_kota": "KAB. MAJENE",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "74",
+    "kodepos": "91454",
+    "desa_kelurahan": "Salutambung",
+    "kecamatan": "Ulumanda",
+    "kabupaten_kota": "KAB. MAJENE",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "75",
+    "kodepos": "91454",
+    "desa_kelurahan": "Ulumanda",
+    "kecamatan": "Ulumanda",
+    "kabupaten_kota": "KAB. MAJENE",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "76",
+    "kodepos": "91455",
+    "desa_kelurahan": "Tubo Poang",
+    "kecamatan": "Tubo Sendana",
+    "kabupaten_kota": "KAB. MAJENE",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "77",
+    "kodepos": "91455",
+    "desa_kelurahan": "Tubo Tengah",
+    "kecamatan": "Tubo Sendana",
+    "kabupaten_kota": "KAB. MAJENE",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "78",
+    "kodepos": "91455",
+    "desa_kelurahan": "Onang",
+    "kecamatan": "Tubo Sendana",
+    "kabupaten_kota": "KAB. MAJENE",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "79",
+    "kodepos": "91455",
+    "desa_kelurahan": "Bonde bonde",
+    "kecamatan": "Tubo Sendana",
+    "kabupaten_kota": "KAB. MAJENE",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "80",
+    "kodepos": "91455",
+    "desa_kelurahan": "Tubo Selatan",
+    "kecamatan": "Tubo Sendana",
+    "kabupaten_kota": "KAB. MAJENE",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "81",
+    "kodepos": "91455",
+    "desa_kelurahan": "Tubo",
+    "kecamatan": "Tubo Sendana",
+    "kabupaten_kota": "KAB. MAJENE",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "82",
+    "kodepos": "91455",
+    "desa_kelurahan": "Onang Utara",
+    "kecamatan": "Tubo Sendana",
+    "kabupaten_kota": "KAB. MAJENE",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "83",
+    "kodepos": "98433",
+    "desa_kelurahan": "Majener",
+    "kecamatan": "Salawati",
+    "kabupaten_kota": "KAB. SORONG",
+    "provinsi": "PAPUA BARAT"
+  },
+  {
+    "no": "84",
+    "kodepos": "98433",
+    "desa_kelurahan": "Majener",
+    "kecamatan": "Salawati",
+    "kabupaten_kota": "KAB. SORONG",
+    "provinsi": "PAPUA BARAT DAYA"
+  },
+  {
+    "no": "1",
+    "kodepos": "91311",
+    "desa_kelurahan": "Polewali",
+    "kecamatan": "Polewali",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "2",
+    "kodepos": "91313",
+    "desa_kelurahan": "Takatidung",
+    "kecamatan": "Polewali",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "3",
+    "kodepos": "91314",
+    "desa_kelurahan": "Darma",
+    "kecamatan": "Polewali",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "4",
+    "kodepos": "91315",
+    "desa_kelurahan": "Madate",
+    "kecamatan": "Polewali",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "5",
+    "kodepos": "91319",
+    "desa_kelurahan": "Wattang",
+    "kecamatan": "Polewali",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "6",
+    "kodepos": "91319",
+    "desa_kelurahan": "Sulewatang",
+    "kecamatan": "Polewali",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "7",
+    "kodepos": "91319",
+    "desa_kelurahan": "Pekkabata",
+    "kecamatan": "Polewali",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "8",
+    "kodepos": "91319",
+    "desa_kelurahan": "Manding",
+    "kecamatan": "Polewali",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "9",
+    "kodepos": "91319",
+    "desa_kelurahan": "Lantora",
+    "kecamatan": "Polewali",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "10",
+    "kodepos": "91341",
+    "desa_kelurahan": "Kunyi",
+    "kecamatan": "Anreapi",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "11",
+    "kodepos": "91341",
+    "desa_kelurahan": "Kelapa Dua",
+    "kecamatan": "Anreapi",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "12",
+    "kodepos": "91341",
+    "desa_kelurahan": "Duampanua",
+    "kecamatan": "Anreapi",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "13",
+    "kodepos": "91341",
+    "desa_kelurahan": "Papandangan",
+    "kecamatan": "Anreapi",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "14",
+    "kodepos": "91341",
+    "desa_kelurahan": "Anreapi",
+    "kecamatan": "Anreapi",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "15",
+    "kodepos": "91342",
+    "desa_kelurahan": "Petampanua",
+    "kecamatan": "Matakali",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "16",
+    "kodepos": "91342",
+    "desa_kelurahan": "Tonrolima",
+    "kecamatan": "Matakali",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "17",
+    "kodepos": "91342",
+    "desa_kelurahan": "Bunga-Bunga",
+    "kecamatan": "Matakali",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "18",
+    "kodepos": "91342",
+    "desa_kelurahan": "Matakali",
+    "kecamatan": "Matakali",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "19",
+    "kodepos": "91342",
+    "desa_kelurahan": "Pasiang",
+    "kecamatan": "Matakali",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "20",
+    "kodepos": "91342",
+    "desa_kelurahan": "Barumbung",
+    "kecamatan": "Matakali",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "21",
+    "kodepos": "91342",
+    "desa_kelurahan": "Indomakkombong",
+    "kecamatan": "Matakali",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "22",
+    "kodepos": "91343",
+    "desa_kelurahan": "Riso",
+    "kecamatan": "Tapango",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "23",
+    "kodepos": "91343",
+    "desa_kelurahan": "Bussu",
+    "kecamatan": "Tapango",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "24",
+    "kodepos": "91343",
+    "desa_kelurahan": "Rappang",
+    "kecamatan": "Tapango",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "25",
+    "kodepos": "91343",
+    "desa_kelurahan": "Batu",
+    "kecamatan": "Tapango",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "26",
+    "kodepos": "91343",
+    "desa_kelurahan": "Jambu Malea",
+    "kecamatan": "Tapango",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "27",
+    "kodepos": "91343",
+    "desa_kelurahan": "Tapango",
+    "kecamatan": "Tapango",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "28",
+    "kodepos": "91343",
+    "desa_kelurahan": "Banato Rejo",
+    "kecamatan": "Tapango",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "29",
+    "kodepos": "91343",
+    "desa_kelurahan": "Pelitakan",
+    "kecamatan": "Tapango",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "30",
+    "kodepos": "91343",
+    "desa_kelurahan": "Dakka",
+    "kecamatan": "Tapango",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "31",
+    "kodepos": "91343",
+    "desa_kelurahan": "Kalimbua",
+    "kecamatan": "Tapango",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "32",
+    "kodepos": "91343",
+    "desa_kelurahan": "Palatta",
+    "kecamatan": "Tapango",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "33",
+    "kodepos": "91343",
+    "desa_kelurahan": "Kurrak",
+    "kecamatan": "Tapango",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "34",
+    "kodepos": "91343",
+    "desa_kelurahan": "Tapango Barat",
+    "kecamatan": "Tapango",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "35",
+    "kodepos": "91343",
+    "desa_kelurahan": "Tuttula",
+    "kecamatan": "Tapango",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "36",
+    "kodepos": "91344",
+    "desa_kelurahan": "Baba Tapua",
+    "kecamatan": "Matangnga",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "37",
+    "kodepos": "91344",
+    "desa_kelurahan": "Matangnga",
+    "kecamatan": "Matangnga",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "38",
+    "kodepos": "91344",
+    "desa_kelurahan": "Tapua",
+    "kecamatan": "Matangnga",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "39",
+    "kodepos": "91344",
+    "desa_kelurahan": "Mambu Tapua",
+    "kecamatan": "Matangnga",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "40",
+    "kodepos": "91344",
+    "desa_kelurahan": "Katimbang",
+    "kecamatan": "Matangnga",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "41",
+    "kodepos": "91344",
+    "desa_kelurahan": "Rangoan",
+    "kecamatan": "Matangnga",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "42",
+    "kodepos": "91344",
+    "desa_kelurahan": "Lilli",
+    "kecamatan": "Matangnga",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "43",
+    "kodepos": "91345",
+    "desa_kelurahan": "Kurma",
+    "kecamatan": "Mapilli",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "44",
+    "kodepos": "91345",
+    "desa_kelurahan": "Beroangin",
+    "kecamatan": "Mapilli",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "45",
+    "kodepos": "91345",
+    "desa_kelurahan": "Rumpa",
+    "kecamatan": "Mapilli",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "46",
+    "kodepos": "91345",
+    "desa_kelurahan": "Bonra",
+    "kecamatan": "Mapilli",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "47",
+    "kodepos": "91345",
+    "desa_kelurahan": "Segerang",
+    "kecamatan": "Mapilli",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "48",
+    "kodepos": "91345",
+    "desa_kelurahan": "Mapili",
+    "kecamatan": "Mapilli",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "49",
+    "kodepos": "91345",
+    "desa_kelurahan": "Rappang Barat",
+    "kecamatan": "Mapilli",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "50",
+    "kodepos": "91345",
+    "desa_kelurahan": "Bonne Bonne",
+    "kecamatan": "Mapilli",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "51",
+    "kodepos": "91345",
+    "desa_kelurahan": "Buku",
+    "kecamatan": "Mapilli",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "52",
+    "kodepos": "91345",
+    "desa_kelurahan": "Landi Kanusuang",
+    "kecamatan": "Mapilli",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "53",
+    "kodepos": "91345",
+    "desa_kelurahan": "Sattoko",
+    "kecamatan": "Mapilli",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "54",
+    "kodepos": "91345",
+    "desa_kelurahan": "Ugibaru",
+    "kecamatan": "Mapilli",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "55",
+    "kodepos": "91346",
+    "desa_kelurahan": "Sepporraki",
+    "kecamatan": "Bulo",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "56",
+    "kodepos": "91346",
+    "desa_kelurahan": "Daala Timur",
+    "kecamatan": "Bulo",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "57",
+    "kodepos": "91346",
+    "desa_kelurahan": "Karombang",
+    "kecamatan": "Bulo",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "58",
+    "kodepos": "91346",
+    "desa_kelurahan": "Patambanua",
+    "kecamatan": "Bulo",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "59",
+    "kodepos": "91346",
+    "desa_kelurahan": "Bulo",
+    "kecamatan": "Bulo",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "60",
+    "kodepos": "91346",
+    "desa_kelurahan": "Pulliwa",
+    "kecamatan": "Bulo",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "61",
+    "kodepos": "91346",
+    "desa_kelurahan": "Ihing",
+    "kecamatan": "Bulo",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "62",
+    "kodepos": "91346",
+    "desa_kelurahan": "Sabura",
+    "kecamatan": "Bulo",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "63",
+    "kodepos": "91346",
+    "desa_kelurahan": "Lenggo",
+    "kecamatan": "Bulo",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "64",
+    "kodepos": "91351",
+    "desa_kelurahan": "Amassangan",
+    "kecamatan": "Binuang",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "65",
+    "kodepos": "91351",
+    "desa_kelurahan": "Mammi",
+    "kecamatan": "Binuang",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "66",
+    "kodepos": "91351",
+    "desa_kelurahan": "Rea",
+    "kecamatan": "Binuang",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "67",
+    "kodepos": "91351",
+    "desa_kelurahan": "Kuajang",
+    "kecamatan": "Binuang",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "68",
+    "kodepos": "91351",
+    "desa_kelurahan": "Tonyaman",
+    "kecamatan": "Binuang",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "69",
+    "kodepos": "91351",
+    "desa_kelurahan": "Mirring",
+    "kecamatan": "Binuang",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "70",
+    "kodepos": "91351",
+    "desa_kelurahan": "Batetangnga",
+    "kecamatan": "Binuang",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "71",
+    "kodepos": "91351",
+    "desa_kelurahan": "Amola",
+    "kecamatan": "Binuang",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "72",
+    "kodepos": "91351",
+    "desa_kelurahan": "Kaleok",
+    "kecamatan": "Binuang",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "73",
+    "kodepos": "91351",
+    "desa_kelurahan": "Paku",
+    "kecamatan": "Binuang",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "74",
+    "kodepos": "91352",
+    "desa_kelurahan": "Bakka-Bakka",
+    "kecamatan": "Wonomulyo",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "75",
+    "kodepos": "91352",
+    "desa_kelurahan": "Nepo",
+    "kecamatan": "Wonomulyo",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "76",
+    "kodepos": "91352",
+    "desa_kelurahan": "Sidorejo",
+    "kecamatan": "Wonomulyo",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "77",
+    "kodepos": "91352",
+    "desa_kelurahan": "Sumberejo",
+    "kecamatan": "Wonomulyo",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "78",
+    "kodepos": "91352",
+    "desa_kelurahan": "Campurjo",
+    "kecamatan": "Wonomulyo",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "79",
+    "kodepos": "91352",
+    "desa_kelurahan": "Banua Baru",
+    "kecamatan": "Wonomulyo",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "80",
+    "kodepos": "91352",
+    "desa_kelurahan": "Arjo Sari",
+    "kecamatan": "Wonomulyo",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "81",
+    "kodepos": "91352",
+    "desa_kelurahan": "Galeson",
+    "kecamatan": "Wonomulyo",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "82",
+    "kodepos": "91352",
+    "desa_kelurahan": "Kebunsari",
+    "kecamatan": "Wonomulyo",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "83",
+    "kodepos": "91352",
+    "desa_kelurahan": "Sugihwaras",
+    "kecamatan": "Wonomulyo",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "84",
+    "kodepos": "91352",
+    "desa_kelurahan": "Bumimulyo",
+    "kecamatan": "Wonomulyo",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "85",
+    "kodepos": "91352",
+    "desa_kelurahan": "Sidodadi",
+    "kecamatan": "Wonomulyo",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "86",
+    "kodepos": "91352",
+    "desa_kelurahan": "Tumpiling",
+    "kecamatan": "Wonomulyo",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "87",
+    "kodepos": "91352",
+    "desa_kelurahan": "Bumiayu",
+    "kecamatan": "Wonomulyo",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "88",
+    "kodepos": "91353",
+    "desa_kelurahan": "Sumarrang",
+    "kecamatan": "Campalagian",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "89",
+    "kodepos": "91353",
+    "desa_kelurahan": "Panyampa",
+    "kecamatan": "Campalagian",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "90",
+    "kodepos": "91353",
+    "desa_kelurahan": "Katumbangan Lemo",
+    "kecamatan": "Campalagian",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "91",
+    "kodepos": "91353",
+    "desa_kelurahan": "Ongko",
+    "kecamatan": "Campalagian",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "92",
+    "kodepos": "91353",
+    "desa_kelurahan": "Lagi-Agi",
+    "kecamatan": "Campalagian",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "93",
+    "kodepos": "91353",
+    "desa_kelurahan": "Padang",
+    "kecamatan": "Campalagian",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "94",
+    "kodepos": "91353",
+    "desa_kelurahan": "Katumbangan",
+    "kecamatan": "Campalagian",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "95",
+    "kodepos": "91353",
+    "desa_kelurahan": "Pappang",
+    "kecamatan": "Campalagian",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "96",
+    "kodepos": "91353",
+    "desa_kelurahan": "Laliko",
+    "kecamatan": "Campalagian",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "97",
+    "kodepos": "91353",
+    "desa_kelurahan": "Suruang",
+    "kecamatan": "Campalagian",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "98",
+    "kodepos": "91353",
+    "desa_kelurahan": "Gattungan",
+    "kecamatan": "Campalagian",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "99",
+    "kodepos": "91353",
+    "desa_kelurahan": "Bonde",
+    "kecamatan": "Campalagian",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "100",
+    "kodepos": "91353",
+    "desa_kelurahan": "Kenje",
+    "kecamatan": "Campalagian",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "101",
+    "kodepos": "91353",
+    "desa_kelurahan": "Lapeo",
+    "kecamatan": "Campalagian",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "102",
+    "kodepos": "91353",
+    "desa_kelurahan": "Botto",
+    "kecamatan": "Campalagian",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "103",
+    "kodepos": "91353",
+    "desa_kelurahan": "Lampoko",
+    "kecamatan": "Campalagian",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "104",
+    "kodepos": "91353",
+    "desa_kelurahan": "Parappe",
+    "kecamatan": "Campalagian",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "105",
+    "kodepos": "91353",
+    "desa_kelurahan": "Padang Timur",
+    "kecamatan": "Campalagian",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "106",
+    "kodepos": "91354",
+    "desa_kelurahan": "Tinambung",
+    "kecamatan": "Tinambung",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "107",
+    "kodepos": "91354",
+    "desa_kelurahan": "Batulaya",
+    "kecamatan": "Tinambung",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "108",
+    "kodepos": "91354",
+    "desa_kelurahan": "Galung Lombok",
+    "kecamatan": "Tinambung",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "109",
+    "kodepos": "91354",
+    "desa_kelurahan": "Sepabatu",
+    "kecamatan": "Tinambung",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "110",
+    "kodepos": "91354",
+    "desa_kelurahan": "Karama",
+    "kecamatan": "Tinambung",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "111",
+    "kodepos": "91354",
+    "desa_kelurahan": "Tangnga Tangnga",
+    "kecamatan": "Tinambung",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "112",
+    "kodepos": "91354",
+    "desa_kelurahan": "Lekopadis",
+    "kecamatan": "Tinambung",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "113",
+    "kodepos": "91354",
+    "desa_kelurahan": "Tandung",
+    "kecamatan": "Tinambung",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "114",
+    "kodepos": "91355",
+    "desa_kelurahan": "Taramanu Tua",
+    "kecamatan": "Tutar",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "115",
+    "kodepos": "91355",
+    "desa_kelurahan": "Taloba",
+    "kecamatan": "Tutar",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "116",
+    "kodepos": "91355",
+    "desa_kelurahan": "Tubbi",
+    "kecamatan": "Tutar",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "117",
+    "kodepos": "91355",
+    "desa_kelurahan": "Poda",
+    "kecamatan": "Tutar",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "118",
+    "kodepos": "91355",
+    "desa_kelurahan": "Ratte",
+    "kecamatan": "Tutar",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "119",
+    "kodepos": "91355",
+    "desa_kelurahan": "Piriang Tapiko",
+    "kecamatan": "Tutar",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "120",
+    "kodepos": "91355",
+    "desa_kelurahan": "Ambopadang",
+    "kecamatan": "Tutar",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "121",
+    "kodepos": "91355",
+    "desa_kelurahan": "Pollewani",
+    "kecamatan": "Tutar",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "122",
+    "kodepos": "91355",
+    "desa_kelurahan": "Taramanu",
+    "kecamatan": "Tutar",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "123",
+    "kodepos": "91355",
+    "desa_kelurahan": "Besoangin Utara",
+    "kecamatan": "Tutar",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "124",
+    "kodepos": "91355",
+    "desa_kelurahan": "Besoangin",
+    "kecamatan": "Tutar",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "125",
+    "kodepos": "91355",
+    "desa_kelurahan": "Arabua",
+    "kecamatan": "Tutar",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "126",
+    "kodepos": "91355",
+    "desa_kelurahan": "Peburru",
+    "kecamatan": "Tutar",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "127",
+    "kodepos": "91356",
+    "desa_kelurahan": "Pao-pao",
+    "kecamatan": "Allu",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "128",
+    "kodepos": "91356",
+    "desa_kelurahan": "Alu",
+    "kecamatan": "Allu",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "129",
+    "kodepos": "91356",
+    "desa_kelurahan": "Petoosang",
+    "kecamatan": "Allu",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "130",
+    "kodepos": "91356",
+    "desa_kelurahan": "Sayoang",
+    "kecamatan": "Allu",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "131",
+    "kodepos": "91356",
+    "desa_kelurahan": "Saragian",
+    "kecamatan": "Allu",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "132",
+    "kodepos": "91356",
+    "desa_kelurahan": "Mombi",
+    "kecamatan": "Allu",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "133",
+    "kodepos": "91356",
+    "desa_kelurahan": "Puppu Uring",
+    "kecamatan": "Allu",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "134",
+    "kodepos": "91356",
+    "desa_kelurahan": "Kalumammang",
+    "kecamatan": "Allu",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "135",
+    "kodepos": "91357",
+    "desa_kelurahan": "Mapili Barat",
+    "kecamatan": "Luyo",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "136",
+    "kodepos": "91357",
+    "desa_kelurahan": "Sambali Wali",
+    "kecamatan": "Luyo",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "137",
+    "kodepos": "91357",
+    "desa_kelurahan": "Batupanga",
+    "kecamatan": "Luyo",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "138",
+    "kodepos": "91357",
+    "desa_kelurahan": "Mambu",
+    "kecamatan": "Luyo",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "139",
+    "kodepos": "91357",
+    "desa_kelurahan": "Luyo",
+    "kecamatan": "Luyo",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "140",
+    "kodepos": "91357",
+    "desa_kelurahan": "Pussui Barat",
+    "kecamatan": "Luyo",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "141",
+    "kodepos": "91357",
+    "desa_kelurahan": "Baru",
+    "kecamatan": "Luyo",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "142",
+    "kodepos": "91357",
+    "desa_kelurahan": "Puccadi",
+    "kecamatan": "Luyo",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "143",
+    "kodepos": "91357",
+    "desa_kelurahan": "Tenggelang",
+    "kecamatan": "Luyo",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "144",
+    "kodepos": "91357",
+    "desa_kelurahan": "Batupanga Daala",
+    "kecamatan": "Luyo",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "145",
+    "kodepos": "91357",
+    "desa_kelurahan": "Pussui",
+    "kecamatan": "Luyo",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "146",
+    "kodepos": "91358",
+    "desa_kelurahan": "Tandasura",
+    "kecamatan": "Limboro",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "147",
+    "kodepos": "91358",
+    "desa_kelurahan": "Salarri",
+    "kecamatan": "Limboro",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "148",
+    "kodepos": "91358",
+    "desa_kelurahan": "Palece",
+    "kecamatan": "Limboro",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "149",
+    "kodepos": "91358",
+    "desa_kelurahan": "Renggeang",
+    "kecamatan": "Limboro",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "150",
+    "kodepos": "91358",
+    "desa_kelurahan": "Lembang Lembang",
+    "kecamatan": "Limboro",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "151",
+    "kodepos": "91358",
+    "desa_kelurahan": "Todang Todang",
+    "kecamatan": "Limboro",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "152",
+    "kodepos": "91358",
+    "desa_kelurahan": "Limboro",
+    "kecamatan": "Limboro",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "153",
+    "kodepos": "91358",
+    "desa_kelurahan": "Napo",
+    "kecamatan": "Limboro",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "154",
+    "kodepos": "91358",
+    "desa_kelurahan": "Samasundu",
+    "kecamatan": "Limboro",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "155",
+    "kodepos": "91358",
+    "desa_kelurahan": "Pendulangan",
+    "kecamatan": "Limboro",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "156",
+    "kodepos": "91358",
+    "desa_kelurahan": "Tangan Baru",
+    "kecamatan": "Limboro",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "157",
+    "kodepos": "91359",
+    "desa_kelurahan": "Lambanan",
+    "kecamatan": "Balanipa",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "158",
+    "kodepos": "91359",
+    "desa_kelurahan": "Balanipa",
+    "kecamatan": "Balanipa",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "159",
+    "kodepos": "91359",
+    "desa_kelurahan": "Sabang Subik",
+    "kecamatan": "Balanipa",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "160",
+    "kodepos": "91359",
+    "desa_kelurahan": "Galung Tuluk",
+    "kecamatan": "Balanipa",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "161",
+    "kodepos": "91359",
+    "desa_kelurahan": "Pallis",
+    "kecamatan": "Balanipa",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "162",
+    "kodepos": "91359",
+    "desa_kelurahan": "Tamanggalle",
+    "kecamatan": "Balanipa",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "163",
+    "kodepos": "91359",
+    "desa_kelurahan": "Tammajarra",
+    "kecamatan": "Balanipa",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "164",
+    "kodepos": "91359",
+    "desa_kelurahan": "Bala",
+    "kecamatan": "Balanipa",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "165",
+    "kodepos": "91359",
+    "desa_kelurahan": "Lego",
+    "kecamatan": "Balanipa",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "166",
+    "kodepos": "91359",
+    "desa_kelurahan": "Pambusuang",
+    "kecamatan": "Balanipa",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "167",
+    "kodepos": "91359",
+    "desa_kelurahan": "Mosso",
+    "kecamatan": "Balanipa",
+    "kabupaten_kota": "KAB. POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "1",
+    "kodepos": "91360",
+    "desa_kelurahan": "Batangnguru Timur",
+    "kecamatan": "Sumarorong",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "2",
+    "kodepos": "91360",
+    "desa_kelurahan": "Sasakan",
+    "kecamatan": "Sumarorong",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "3",
+    "kodepos": "91360",
+    "desa_kelurahan": "Batang Uru",
+    "kecamatan": "Sumarorong",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "4",
+    "kodepos": "91360",
+    "desa_kelurahan": "Sibanawa",
+    "kecamatan": "Sumarorong",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "5",
+    "kodepos": "91360",
+    "desa_kelurahan": "Rante Kamase",
+    "kecamatan": "Sumarorong",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "6",
+    "kodepos": "91360",
+    "desa_kelurahan": "Sumarorong",
+    "kecamatan": "Sumarorong",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "7",
+    "kodepos": "91360",
+    "desa_kelurahan": "Tabone",
+    "kecamatan": "Sumarorong",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "8",
+    "kodepos": "91360",
+    "desa_kelurahan": "Banea",
+    "kecamatan": "Sumarorong",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "9",
+    "kodepos": "91360",
+    "desa_kelurahan": "Tadisi",
+    "kecamatan": "Sumarorong",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "10",
+    "kodepos": "91360",
+    "desa_kelurahan": "Salubalo",
+    "kecamatan": "Sumarorong",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "11",
+    "kodepos": "91361",
+    "desa_kelurahan": "Pasma Mambu",
+    "kecamatan": "Messawa",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "12",
+    "kodepos": "91361",
+    "desa_kelurahan": "Rippung",
+    "kecamatan": "Messawa",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "13",
+    "kodepos": "91361",
+    "desa_kelurahan": "Makuang",
+    "kecamatan": "Messawa",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "14",
+    "kodepos": "91361",
+    "desa_kelurahan": "Tanete Batu",
+    "kecamatan": "Messawa",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "15",
+    "kodepos": "91361",
+    "desa_kelurahan": "Sepang",
+    "kecamatan": "Messawa",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "16",
+    "kodepos": "91361",
+    "desa_kelurahan": "Sipai",
+    "kecamatan": "Messawa",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "17",
+    "kodepos": "91361",
+    "desa_kelurahan": "Matande",
+    "kecamatan": "Messawa",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "18",
+    "kodepos": "91361",
+    "desa_kelurahan": "Messawa",
+    "kecamatan": "Messawa",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "19",
+    "kodepos": "91361",
+    "desa_kelurahan": "Malimbong",
+    "kecamatan": "Messawa",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "20",
+    "kodepos": "91362",
+    "desa_kelurahan": "Buntu Buda",
+    "kecamatan": "Mamasa",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "21",
+    "kodepos": "91362",
+    "desa_kelurahan": "Mamasa",
+    "kecamatan": "Mamasa",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "22",
+    "kodepos": "91362",
+    "desa_kelurahan": "Taupe",
+    "kecamatan": "Mamasa",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "23",
+    "kodepos": "91362",
+    "desa_kelurahan": "Rambusaratu",
+    "kecamatan": "Mamasa",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "24",
+    "kodepos": "91362",
+    "desa_kelurahan": "Tondok Bakaru",
+    "kecamatan": "Mamasa",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "25",
+    "kodepos": "91362",
+    "desa_kelurahan": "Lembana Salulo",
+    "kecamatan": "Mamasa",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "26",
+    "kodepos": "91362",
+    "desa_kelurahan": "Pebassian",
+    "kecamatan": "Mamasa",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "27",
+    "kodepos": "91362",
+    "desa_kelurahan": "Bombong Lambe",
+    "kecamatan": "Mamasa",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "28",
+    "kodepos": "91362",
+    "desa_kelurahan": "Lambanan",
+    "kecamatan": "Mamasa",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "29",
+    "kodepos": "91362",
+    "desa_kelurahan": "Osango",
+    "kecamatan": "Mamasa",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "30",
+    "kodepos": "91362",
+    "desa_kelurahan": "Mambuliling",
+    "kecamatan": "Mamasa",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "31",
+    "kodepos": "91362",
+    "desa_kelurahan": "Bubun Batu",
+    "kecamatan": "Mamasa",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "32",
+    "kodepos": "91363",
+    "desa_kelurahan": "Minanga",
+    "kecamatan": "Nosu",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "33",
+    "kodepos": "91363",
+    "desa_kelurahan": "Siwi",
+    "kecamatan": "Nosu",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "34",
+    "kodepos": "91363",
+    "desa_kelurahan": "Masewwe",
+    "kecamatan": "Nosu",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "35",
+    "kodepos": "91363",
+    "desa_kelurahan": "Nosu",
+    "kecamatan": "Nosu",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "36",
+    "kodepos": "91363",
+    "desa_kelurahan": "Parinding",
+    "kecamatan": "Nosu",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "37",
+    "kodepos": "91363",
+    "desa_kelurahan": "Batupapan",
+    "kecamatan": "Nosu",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "38",
+    "kodepos": "91363",
+    "desa_kelurahan": "Minanga Timur",
+    "kecamatan": "Nosu",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "39",
+    "kodepos": "91364",
+    "desa_kelurahan": "Tabang Barat",
+    "kecamatan": "Tabang",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "40",
+    "kodepos": "91364",
+    "desa_kelurahan": "Masupu",
+    "kecamatan": "Tabang",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "41",
+    "kodepos": "91364",
+    "desa_kelurahan": "Tabang",
+    "kecamatan": "Tabang",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "42",
+    "kodepos": "91364",
+    "desa_kelurahan": "Kalama",
+    "kecamatan": "Tabang",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "43",
+    "kodepos": "91364",
+    "desa_kelurahan": "Salukona",
+    "kecamatan": "Tabang",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "44",
+    "kodepos": "91364",
+    "desa_kelurahan": "Bakadisura",
+    "kecamatan": "Tabang",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "45",
+    "kodepos": "91364",
+    "desa_kelurahan": "Tadokalua",
+    "kecamatan": "Tabang",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "46",
+    "kodepos": "91365",
+    "desa_kelurahan": "Satenetean",
+    "kecamatan": "Sesenapadang",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "47",
+    "kodepos": "91365",
+    "desa_kelurahan": "Paladan",
+    "kecamatan": "Sesenapadang",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "48",
+    "kodepos": "91365",
+    "desa_kelurahan": "Malimbong",
+    "kecamatan": "Sesenapadang",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "49",
+    "kodepos": "91365",
+    "desa_kelurahan": "Marampan Orobua",
+    "kecamatan": "Sesenapadang",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "50",
+    "kodepos": "91365",
+    "desa_kelurahan": "Orobua",
+    "kecamatan": "Sesenapadang",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "51",
+    "kodepos": "91365",
+    "desa_kelurahan": "Rante Puang",
+    "kecamatan": "Sesenapadang",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "52",
+    "kodepos": "91365",
+    "desa_kelurahan": "Lisuan Ada",
+    "kecamatan": "Sesenapadang",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "53",
+    "kodepos": "91365",
+    "desa_kelurahan": "Orobua Selatan",
+    "kecamatan": "Sesenapadang",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "54",
+    "kodepos": "91365",
+    "desa_kelurahan": "Malangkena Padang",
+    "kecamatan": "Sesenapadang",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "55",
+    "kodepos": "91365",
+    "desa_kelurahan": "Orobua Timur",
+    "kecamatan": "Sesenapadang",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "56",
+    "kodepos": "91366",
+    "desa_kelurahan": "Bambapuang",
+    "kecamatan": "Balla",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "57",
+    "kodepos": "91366",
+    "desa_kelurahan": "Balla",
+    "kecamatan": "Balla",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "58",
+    "kodepos": "91366",
+    "desa_kelurahan": "Balla Timur",
+    "kecamatan": "Balla",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "59",
+    "kodepos": "91366",
+    "desa_kelurahan": "Balla Barat",
+    "kecamatan": "Balla",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "60",
+    "kodepos": "91366",
+    "desa_kelurahan": "Sepakuan",
+    "kecamatan": "Balla",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "61",
+    "kodepos": "91366",
+    "desa_kelurahan": "Balla Tumuka",
+    "kecamatan": "Balla",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "62",
+    "kodepos": "91366",
+    "desa_kelurahan": "Balla Satanetean",
+    "kecamatan": "Balla",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "63",
+    "kodepos": "91366",
+    "desa_kelurahan": "Pidara",
+    "kecamatan": "Balla",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "64",
+    "kodepos": "91367",
+    "desa_kelurahan": "Kanan",
+    "kecamatan": "Tanduk Kalua",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "65",
+    "kodepos": "91367",
+    "desa_kelurahan": "Minake",
+    "kecamatan": "Tanduk Kalua",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "66",
+    "kodepos": "91367",
+    "desa_kelurahan": "Mannababa",
+    "kecamatan": "Tanduk Kalua",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "67",
+    "kodepos": "91367",
+    "desa_kelurahan": "Mesakada",
+    "kecamatan": "Tanduk Kalua",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "68",
+    "kodepos": "91367",
+    "desa_kelurahan": "Salurano",
+    "kecamatan": "Tanduk Kalua",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "69",
+    "kodepos": "91367",
+    "desa_kelurahan": "Pambe",
+    "kecamatan": "Tanduk Kalua",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "70",
+    "kodepos": "91367",
+    "desa_kelurahan": "Talimbung",
+    "kecamatan": "Tanduk Kalua",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "71",
+    "kodepos": "91367",
+    "desa_kelurahan": "Tamalantik",
+    "kecamatan": "Tanduk Kalua",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "72",
+    "kodepos": "91367",
+    "desa_kelurahan": "Ballabatu",
+    "kecamatan": "Tanduk Kalua",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "73",
+    "kodepos": "91367",
+    "desa_kelurahan": "Malabo",
+    "kecamatan": "Tanduk Kalua",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "74",
+    "kodepos": "91367",
+    "desa_kelurahan": "Sindagamanik",
+    "kecamatan": "Tanduk Kalua",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "75",
+    "kodepos": "91367",
+    "desa_kelurahan": "Parondobulawan",
+    "kecamatan": "Tanduk Kalua",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "76",
+    "kodepos": "91368",
+    "desa_kelurahan": "Tawalian",
+    "kecamatan": "Tawalian",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "77",
+    "kodepos": "91368",
+    "desa_kelurahan": "Tawalian Timur",
+    "kecamatan": "Tawalian",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "78",
+    "kodepos": "91368",
+    "desa_kelurahan": "Kariango",
+    "kecamatan": "Tawalian",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "79",
+    "kodepos": "91368",
+    "desa_kelurahan": "Rantetangnga",
+    "kecamatan": "Tawalian",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "80",
+    "kodepos": "91369",
+    "desa_kelurahan": "Ulusalu",
+    "kecamatan": "Pana",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "81",
+    "kodepos": "91369",
+    "desa_kelurahan": "Sapan",
+    "kecamatan": "Pana",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "82",
+    "kodepos": "91369",
+    "desa_kelurahan": "Weri",
+    "kecamatan": "Pana",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "83",
+    "kodepos": "91369",
+    "desa_kelurahan": "Mamullu",
+    "kecamatan": "Pana",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "84",
+    "kodepos": "91369",
+    "desa_kelurahan": "Pana",
+    "kecamatan": "Pana",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "85",
+    "kodepos": "91369",
+    "desa_kelurahan": "Karaka",
+    "kecamatan": "Pana",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "86",
+    "kodepos": "91369",
+    "desa_kelurahan": "Panura",
+    "kecamatan": "Pana",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "87",
+    "kodepos": "91369",
+    "desa_kelurahan": "Salutambun",
+    "kecamatan": "Pana",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "88",
+    "kodepos": "91369",
+    "desa_kelurahan": "Manipi",
+    "kecamatan": "Pana",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "89",
+    "kodepos": "91369",
+    "desa_kelurahan": "Datubaringan",
+    "kecamatan": "Pana",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "90",
+    "kodepos": "91369",
+    "desa_kelurahan": "Tallang Bulawan",
+    "kecamatan": "Pana",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "91",
+    "kodepos": "91369",
+    "desa_kelurahan": "Ulusalu Indah",
+    "kecamatan": "Pana",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "92",
+    "kodepos": "91369",
+    "desa_kelurahan": "Saloan",
+    "kecamatan": "Pana",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "93",
+    "kodepos": "91370",
+    "desa_kelurahan": "Bujung Manurung",
+    "kecamatan": "Mambi",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "94",
+    "kodepos": "91370",
+    "desa_kelurahan": "Talipukki",
+    "kecamatan": "Mambi",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "95",
+    "kodepos": "91370",
+    "desa_kelurahan": "Sendana",
+    "kecamatan": "Mambi",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "96",
+    "kodepos": "91370",
+    "desa_kelurahan": "Indobanua",
+    "kecamatan": "Mambi",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "97",
+    "kodepos": "91370",
+    "desa_kelurahan": "Mambi",
+    "kecamatan": "Mambi",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "98",
+    "kodepos": "91370",
+    "desa_kelurahan": "Sondonglayu",
+    "kecamatan": "Mambi",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "99",
+    "kodepos": "91370",
+    "desa_kelurahan": "Pamosean",
+    "kecamatan": "Mambi",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "100",
+    "kodepos": "91370",
+    "desa_kelurahan": "Saludurian",
+    "kecamatan": "Mambi",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "101",
+    "kodepos": "91370",
+    "desa_kelurahan": "Salu Alo",
+    "kecamatan": "Mambi",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "102",
+    "kodepos": "91370",
+    "desa_kelurahan": "Selumaka",
+    "kecamatan": "Mambi",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "103",
+    "kodepos": "91370",
+    "desa_kelurahan": "Tapalina",
+    "kecamatan": "Mambi",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "104",
+    "kodepos": "91370",
+    "desa_kelurahan": "Rantebulahan",
+    "kecamatan": "Mambi",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "105",
+    "kodepos": "91370",
+    "desa_kelurahan": "Salubanua",
+    "kecamatan": "Mambi",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "106",
+    "kodepos": "91371",
+    "desa_kelurahan": "Salukadi",
+    "kecamatan": "Bambang",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "107",
+    "kodepos": "91371",
+    "desa_kelurahan": "Bambang",
+    "kecamatan": "Bambang",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "108",
+    "kodepos": "91371",
+    "desa_kelurahan": "Mokallang",
+    "kecamatan": "Bambang",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "109",
+    "kodepos": "91371",
+    "desa_kelurahan": "Salubulo",
+    "kecamatan": "Bambang",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "110",
+    "kodepos": "91371",
+    "desa_kelurahan": "Saludengen",
+    "kecamatan": "Bambang",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "111",
+    "kodepos": "91371",
+    "desa_kelurahan": "Salutabang",
+    "kecamatan": "Bambang",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "112",
+    "kodepos": "91371",
+    "desa_kelurahan": "Balatana",
+    "kecamatan": "Bambang",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "113",
+    "kodepos": "91371",
+    "desa_kelurahan": "Masoso",
+    "kecamatan": "Bambang",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "114",
+    "kodepos": "91371",
+    "desa_kelurahan": "Tanete Tomba",
+    "kecamatan": "Bambang",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "115",
+    "kodepos": "91371",
+    "desa_kelurahan": "Rantelemo",
+    "kecamatan": "Bambang",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "116",
+    "kodepos": "91371",
+    "desa_kelurahan": "Minanga",
+    "kecamatan": "Bambang",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "117",
+    "kodepos": "91371",
+    "desa_kelurahan": "Salururu",
+    "kecamatan": "Bambang",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "118",
+    "kodepos": "91371",
+    "desa_kelurahan": "Salukepopok",
+    "kecamatan": "Bambang",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "119",
+    "kodepos": "91371",
+    "desa_kelurahan": "Saluassing",
+    "kecamatan": "Bambang",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "120",
+    "kodepos": "91371",
+    "desa_kelurahan": "Rantetarima",
+    "kecamatan": "Bambang",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "121",
+    "kodepos": "91371",
+    "desa_kelurahan": "Limbadebata",
+    "kecamatan": "Bambang",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "122",
+    "kodepos": "91371",
+    "desa_kelurahan": "Sikamase",
+    "kecamatan": "Bambang",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "123",
+    "kodepos": "91371",
+    "desa_kelurahan": "Ulumambi Barat",
+    "kecamatan": "Bambang",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "124",
+    "kodepos": "91371",
+    "desa_kelurahan": "Bambang Timur",
+    "kecamatan": "Bambang",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "125",
+    "kodepos": "91371",
+    "desa_kelurahan": "Ulumambi",
+    "kecamatan": "Bambang",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "126",
+    "kodepos": "91372",
+    "desa_kelurahan": "Tabulahan",
+    "kecamatan": "Tabulahan",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "127",
+    "kodepos": "91372",
+    "desa_kelurahan": "Timoro",
+    "kecamatan": "Tabulahan",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "128",
+    "kodepos": "91372",
+    "desa_kelurahan": "Salubakka",
+    "kecamatan": "Tabulahan",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "129",
+    "kodepos": "91372",
+    "desa_kelurahan": "Lakahang Utama",
+    "kecamatan": "Tabulahan",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "130",
+    "kodepos": "91372",
+    "desa_kelurahan": "Burana",
+    "kecamatan": "Tabulahan",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "131",
+    "kodepos": "91372",
+    "desa_kelurahan": "Peu",
+    "kecamatan": "Tabulahan",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "132",
+    "kodepos": "91372",
+    "desa_kelurahan": "Gandang Dewata",
+    "kecamatan": "Tabulahan",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "133",
+    "kodepos": "91372",
+    "desa_kelurahan": "Saluleang",
+    "kecamatan": "Tabulahan",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "134",
+    "kodepos": "91372",
+    "desa_kelurahan": "Tampak Kurra",
+    "kecamatan": "Tabulahan",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "135",
+    "kodepos": "91372",
+    "desa_kelurahan": "Periangan",
+    "kecamatan": "Tabulahan",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "136",
+    "kodepos": "91372",
+    "desa_kelurahan": "Pangandaran",
+    "kecamatan": "Tabulahan",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "137",
+    "kodepos": "91372",
+    "desa_kelurahan": "Lakahang",
+    "kecamatan": "Tabulahan",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "138",
+    "kodepos": "91372",
+    "desa_kelurahan": "Malatiro",
+    "kecamatan": "Tabulahan",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "139",
+    "kodepos": "91372",
+    "desa_kelurahan": "Talopak",
+    "kecamatan": "Tabulahan",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "140",
+    "kodepos": "91373",
+    "desa_kelurahan": "Uhailanu",
+    "kecamatan": "Aralle",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "141",
+    "kodepos": "91373",
+    "desa_kelurahan": "Hahangan",
+    "kecamatan": "Aralle",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "142",
+    "kodepos": "91373",
+    "desa_kelurahan": "Aralle Utara",
+    "kecamatan": "Aralle",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "143",
+    "kodepos": "91373",
+    "desa_kelurahan": "Kalabe",
+    "kecamatan": "Aralle",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "144",
+    "kodepos": "91373",
+    "desa_kelurahan": "Ralleanak Utara",
+    "kecamatan": "Aralle",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "145",
+    "kodepos": "91373",
+    "desa_kelurahan": "Ralle Anak",
+    "kecamatan": "Aralle",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "146",
+    "kodepos": "91373",
+    "desa_kelurahan": "Aralle Selatan",
+    "kecamatan": "Aralle",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "147",
+    "kodepos": "91373",
+    "desa_kelurahan": "Panetean",
+    "kecamatan": "Aralle",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "148",
+    "kodepos": "91373",
+    "desa_kelurahan": "Baruru",
+    "kecamatan": "Aralle",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "149",
+    "kodepos": "91373",
+    "desa_kelurahan": "Pamoseang Pangga",
+    "kecamatan": "Aralle",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "150",
+    "kodepos": "91373",
+    "desa_kelurahan": "Aralle",
+    "kecamatan": "Aralle",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "151",
+    "kodepos": "91373",
+    "desa_kelurahan": "Uhaidaho",
+    "kecamatan": "Aralle",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "152",
+    "kodepos": "91374",
+    "desa_kelurahan": "Aralle Timur",
+    "kecamatan": "Buntumalangka",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "153",
+    "kodepos": "91374",
+    "desa_kelurahan": "Salutambun",
+    "kecamatan": "Buntumalangka",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "154",
+    "kodepos": "91374",
+    "desa_kelurahan": "Kabae",
+    "kecamatan": "Buntumalangka",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "155",
+    "kodepos": "91374",
+    "desa_kelurahan": "Taora",
+    "kecamatan": "Buntumalangka",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "156",
+    "kodepos": "91374",
+    "desa_kelurahan": "Penatangan",
+    "kecamatan": "Buntumalangka",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "157",
+    "kodepos": "91374",
+    "desa_kelurahan": "Salutambun Barat",
+    "kecamatan": "Buntumalangka",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "158",
+    "kodepos": "91374",
+    "desa_kelurahan": "Salurindu",
+    "kecamatan": "Buntumalangka",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "159",
+    "kodepos": "91374",
+    "desa_kelurahan": "Salutambun Timur",
+    "kecamatan": "Buntumalangka",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "160",
+    "kodepos": "91374",
+    "desa_kelurahan": "Buntumalangka",
+    "kecamatan": "Buntumalangka",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "161",
+    "kodepos": "91374",
+    "desa_kelurahan": "Ranteberan",
+    "kecamatan": "Buntumalangka",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "162",
+    "kodepos": "91374",
+    "desa_kelurahan": "Kebanga",
+    "kecamatan": "Buntumalangka",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "163",
+    "kodepos": "91376",
+    "desa_kelurahan": "Kirak",
+    "kecamatan": "Rantebulahan Timur",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "164",
+    "kodepos": "91376",
+    "desa_kelurahan": "Salumokanan",
+    "kecamatan": "Rantebulahan Timur",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "165",
+    "kodepos": "91376",
+    "desa_kelurahan": "Bambang Buda",
+    "kecamatan": "Rantebulahan Timur",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "166",
+    "kodepos": "91376",
+    "desa_kelurahan": "Salumokanan Barat",
+    "kecamatan": "Rantebulahan Timur",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "167",
+    "kodepos": "91376",
+    "desa_kelurahan": "Buangin",
+    "kecamatan": "Rantebulahan Timur",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "168",
+    "kodepos": "91376",
+    "desa_kelurahan": "Salumokanan Utara",
+    "kecamatan": "Rantebulahan Timur",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "169",
+    "kodepos": "91376",
+    "desa_kelurahan": "Leko",
+    "kecamatan": "Rantebulahan Timur",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "170",
+    "kodepos": "91376",
+    "desa_kelurahan": "Sampale",
+    "kecamatan": "Rantebulahan Timur",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "171",
+    "kodepos": "91377",
+    "desa_kelurahan": "Kondo",
+    "kecamatan": "Mehalaan",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "172",
+    "kodepos": "91377",
+    "desa_kelurahan": "Leko Sukamaju",
+    "kecamatan": "Mehalaan",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "173",
+    "kodepos": "91377",
+    "desa_kelurahan": "Mehalaan",
+    "kecamatan": "Mehalaan",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "174",
+    "kodepos": "91377",
+    "desa_kelurahan": "Mesakada",
+    "kecamatan": "Mehalaan",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "175",
+    "kodepos": "91377",
+    "desa_kelurahan": "Mehalaan Barat",
+    "kecamatan": "Mehalaan",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "176",
+    "kodepos": "91377",
+    "desa_kelurahan": "Salukonta",
+    "kecamatan": "Mehalaan",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "177",
+    "kodepos": "91377",
+    "desa_kelurahan": "Salubalo",
+    "kecamatan": "Mehalaan",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "178",
+    "kodepos": "91377",
+    "desa_kelurahan": "Saluahok",
+    "kecamatan": "Mehalaan",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "179",
+    "kodepos": "91377",
+    "desa_kelurahan": "Passembuk",
+    "kecamatan": "Mehalaan",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "180",
+    "kodepos": "91377",
+    "desa_kelurahan": "Botteng",
+    "kecamatan": "Mehalaan",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "181",
+    "kodepos": "91377",
+    "desa_kelurahan": "Ulumea",
+    "kecamatan": "Mehalaan",
+    "kabupaten_kota": "KAB. MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "1",
+    "kodepos": "91460",
+    "desa_kelurahan": "Kadaila",
+    "kecamatan": "Karossa",
+    "kabupaten_kota": "KAB. MAMUJU TENGAH",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "2",
+    "kodepos": "91460",
+    "desa_kelurahan": "Benggaulu",
+    "kecamatan": "Karossa",
+    "kabupaten_kota": "KAB. MAMUJU TENGAH",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "3",
+    "kodepos": "91460",
+    "desa_kelurahan": "Lara",
+    "kecamatan": "Karossa",
+    "kabupaten_kota": "KAB. MAMUJU TENGAH",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "4",
+    "kodepos": "91460",
+    "desa_kelurahan": "Lembah Hopo",
+    "kecamatan": "Karossa",
+    "kabupaten_kota": "KAB. MAMUJU TENGAH",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "5",
+    "kodepos": "91460",
+    "desa_kelurahan": "Salubiro",
+    "kecamatan": "Karossa",
+    "kabupaten_kota": "KAB. MAMUJU TENGAH",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "6",
+    "kodepos": "91460",
+    "desa_kelurahan": "Kayu Calla",
+    "kecamatan": "Karossa",
+    "kabupaten_kota": "KAB. MAMUJU TENGAH",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "7",
+    "kodepos": "91460",
+    "desa_kelurahan": "Suka Maju",
+    "kecamatan": "Karossa",
+    "kabupaten_kota": "KAB. MAMUJU TENGAH",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "8",
+    "kodepos": "91460",
+    "desa_kelurahan": "Tasokko",
+    "kecamatan": "Karossa",
+    "kabupaten_kota": "KAB. MAMUJU TENGAH",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "9",
+    "kodepos": "91460",
+    "desa_kelurahan": "Sanjango",
+    "kecamatan": "Karossa",
+    "kabupaten_kota": "KAB. MAMUJU TENGAH",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "10",
+    "kodepos": "91460",
+    "desa_kelurahan": "Kambunong",
+    "kecamatan": "Karossa",
+    "kabupaten_kota": "KAB. MAMUJU TENGAH",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "11",
+    "kodepos": "91460",
+    "desa_kelurahan": "Karossa",
+    "kecamatan": "Karossa",
+    "kabupaten_kota": "KAB. MAMUJU TENGAH",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "12",
+    "kodepos": "91461",
+    "desa_kelurahan": "Babana",
+    "kecamatan": "Budong-Budong",
+    "kabupaten_kota": "KAB. MAMUJU TENGAH",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "13",
+    "kodepos": "91461",
+    "desa_kelurahan": "Salumanurung",
+    "kecamatan": "Budong-Budong",
+    "kabupaten_kota": "KAB. MAMUJU TENGAH",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "14",
+    "kodepos": "91461",
+    "desa_kelurahan": "Lembah Hada",
+    "kecamatan": "Budong-Budong",
+    "kabupaten_kota": "KAB. MAMUJU TENGAH",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "15",
+    "kodepos": "91461",
+    "desa_kelurahan": "Bojo",
+    "kecamatan": "Budong-Budong",
+    "kabupaten_kota": "KAB. MAMUJU TENGAH",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "16",
+    "kodepos": "91461",
+    "desa_kelurahan": "Barakkang",
+    "kecamatan": "Budong-Budong",
+    "kabupaten_kota": "KAB. MAMUJU TENGAH",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "17",
+    "kodepos": "91461",
+    "desa_kelurahan": "Lumu",
+    "kecamatan": "Budong-Budong",
+    "kabupaten_kota": "KAB. MAMUJU TENGAH",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "18",
+    "kodepos": "91461",
+    "desa_kelurahan": "Salogatta",
+    "kecamatan": "Budong-Budong",
+    "kabupaten_kota": "KAB. MAMUJU TENGAH",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "19",
+    "kodepos": "91461",
+    "desa_kelurahan": "Kire",
+    "kecamatan": "Budong-Budong",
+    "kabupaten_kota": "KAB. MAMUJU TENGAH",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "20",
+    "kodepos": "91461",
+    "desa_kelurahan": "Pontanakayang",
+    "kecamatan": "Budong-Budong",
+    "kabupaten_kota": "KAB. MAMUJU TENGAH",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "21",
+    "kodepos": "91461",
+    "desa_kelurahan": "Tinali",
+    "kecamatan": "Budong-Budong",
+    "kabupaten_kota": "KAB. MAMUJU TENGAH",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "22",
+    "kodepos": "91461",
+    "desa_kelurahan": "Pasapa",
+    "kecamatan": "Budong-Budong",
+    "kabupaten_kota": "KAB. MAMUJU TENGAH",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "23",
+    "kodepos": "91462",
+    "desa_kelurahan": "Sartanamaju",
+    "kecamatan": "Pangale",
+    "kabupaten_kota": "KAB. MAMUJU TENGAH",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "24",
+    "kodepos": "91462",
+    "desa_kelurahan": "Kombiling",
+    "kecamatan": "Pangale",
+    "kabupaten_kota": "KAB. MAMUJU TENGAH",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "25",
+    "kodepos": "91462",
+    "desa_kelurahan": "Pangale",
+    "kecamatan": "Pangale",
+    "kabupaten_kota": "KAB. MAMUJU TENGAH",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "26",
+    "kodepos": "91462",
+    "desa_kelurahan": "Kuo",
+    "kecamatan": "Pangale",
+    "kabupaten_kota": "KAB. MAMUJU TENGAH",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "27",
+    "kodepos": "91462",
+    "desa_kelurahan": "Polo Camba",
+    "kecamatan": "Pangale",
+    "kabupaten_kota": "KAB. MAMUJU TENGAH",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "28",
+    "kodepos": "91462",
+    "desa_kelurahan": "Polo Pangale",
+    "kecamatan": "Pangale",
+    "kabupaten_kota": "KAB. MAMUJU TENGAH",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "29",
+    "kodepos": "91462",
+    "desa_kelurahan": "Polo Lereng",
+    "kecamatan": "Pangale",
+    "kabupaten_kota": "KAB. MAMUJU TENGAH",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "30",
+    "kodepos": "91462",
+    "desa_kelurahan": "Lamba-lamba",
+    "kecamatan": "Pangale",
+    "kabupaten_kota": "KAB. MAMUJU TENGAH",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "31",
+    "kodepos": "91462",
+    "desa_kelurahan": "Lemo-Lemo",
+    "kecamatan": "Pangale",
+    "kabupaten_kota": "KAB. MAMUJU TENGAH",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "32",
+    "kodepos": "91463",
+    "desa_kelurahan": "Mahahe",
+    "kecamatan": "Tobadak",
+    "kabupaten_kota": "KAB. MAMUJU TENGAH",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "33",
+    "kodepos": "91463",
+    "desa_kelurahan": "Palongaan",
+    "kecamatan": "Tobadak",
+    "kabupaten_kota": "KAB. MAMUJU TENGAH",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "34",
+    "kodepos": "91463",
+    "desa_kelurahan": "Bambadaru",
+    "kecamatan": "Tobadak",
+    "kabupaten_kota": "KAB. MAMUJU TENGAH",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "35",
+    "kodepos": "91463",
+    "desa_kelurahan": "Sejati",
+    "kecamatan": "Tobadak",
+    "kabupaten_kota": "KAB. MAMUJU TENGAH",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "36",
+    "kodepos": "91463",
+    "desa_kelurahan": "Batu Parigi",
+    "kecamatan": "Tobadak",
+    "kabupaten_kota": "KAB. MAMUJU TENGAH",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "37",
+    "kodepos": "91463",
+    "desa_kelurahan": "Tobadak",
+    "kecamatan": "Tobadak",
+    "kabupaten_kota": "KAB. MAMUJU TENGAH",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "38",
+    "kodepos": "91463",
+    "desa_kelurahan": "Saloadak",
+    "kecamatan": "Tobadak",
+    "kabupaten_kota": "KAB. MAMUJU TENGAH",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "39",
+    "kodepos": "91463",
+    "desa_kelurahan": "Salobaja",
+    "kecamatan": "Tobadak",
+    "kabupaten_kota": "KAB. MAMUJU TENGAH",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "40",
+    "kodepos": "91464",
+    "desa_kelurahan": "Sinabatta",
+    "kecamatan": "Topoyo",
+    "kabupaten_kota": "KAB. MAMUJU TENGAH",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "41",
+    "kodepos": "91464",
+    "desa_kelurahan": "Kabubu",
+    "kecamatan": "Topoyo",
+    "kabupaten_kota": "KAB. MAMUJU TENGAH",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "42",
+    "kodepos": "91464",
+    "desa_kelurahan": "Waeputeh",
+    "kecamatan": "Topoyo",
+    "kabupaten_kota": "KAB. MAMUJU TENGAH",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "43",
+    "kodepos": "91464",
+    "desa_kelurahan": "Tappilina",
+    "kecamatan": "Topoyo",
+    "kabupaten_kota": "KAB. MAMUJU TENGAH",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "44",
+    "kodepos": "91464",
+    "desa_kelurahan": "Salulekbo",
+    "kecamatan": "Topoyo",
+    "kabupaten_kota": "KAB. MAMUJU TENGAH",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "45",
+    "kodepos": "91464",
+    "desa_kelurahan": "Tumbu",
+    "kecamatan": "Topoyo",
+    "kabupaten_kota": "KAB. MAMUJU TENGAH",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "46",
+    "kodepos": "91464",
+    "desa_kelurahan": "Salupangkang IV",
+    "kecamatan": "Topoyo",
+    "kabupaten_kota": "KAB. MAMUJU TENGAH",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "47",
+    "kodepos": "91464",
+    "desa_kelurahan": "Bambamanurung",
+    "kecamatan": "Topoyo",
+    "kabupaten_kota": "KAB. MAMUJU TENGAH",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "48",
+    "kodepos": "91464",
+    "desa_kelurahan": "Tabolang",
+    "kecamatan": "Topoyo",
+    "kabupaten_kota": "KAB. MAMUJU TENGAH",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "49",
+    "kodepos": "91464",
+    "desa_kelurahan": "Topoyo",
+    "kecamatan": "Topoyo",
+    "kabupaten_kota": "KAB. MAMUJU TENGAH",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "50",
+    "kodepos": "91464",
+    "desa_kelurahan": "Pangalloang",
+    "kecamatan": "Topoyo",
+    "kabupaten_kota": "KAB. MAMUJU TENGAH",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "51",
+    "kodepos": "91464",
+    "desa_kelurahan": "Budong-Budong",
+    "kecamatan": "Topoyo",
+    "kabupaten_kota": "KAB. MAMUJU TENGAH",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "52",
+    "kodepos": "91464",
+    "desa_kelurahan": "Tangkou",
+    "kecamatan": "Topoyo",
+    "kabupaten_kota": "KAB. MAMUJU TENGAH",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "53",
+    "kodepos": "91464",
+    "desa_kelurahan": "Paraili",
+    "kecamatan": "Topoyo",
+    "kabupaten_kota": "KAB. MAMUJU TENGAH",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "54",
+    "kodepos": "91464",
+    "desa_kelurahan": "Salupangkang",
+    "kecamatan": "Topoyo",
+    "kabupaten_kota": "KAB. MAMUJU TENGAH",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "55",
+    "kodepos": "91511",
+    "desa_kelurahan": "Tadui",
+    "kecamatan": "Mamuju",
+    "kabupaten_kota": "KAB. MAMUJU",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "56",
+    "kodepos": "91511",
+    "desa_kelurahan": "Binanga",
+    "kecamatan": "Mamuju",
+    "kabupaten_kota": "KAB. MAMUJU",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "57",
+    "kodepos": "91511",
+    "desa_kelurahan": "Batu Pannu",
+    "kecamatan": "Mamuju",
+    "kabupaten_kota": "KAB. MAMUJU",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "58",
+    "kodepos": "91511",
+    "desa_kelurahan": "Mamunyu",
+    "kecamatan": "Mamuju",
+    "kabupaten_kota": "KAB. MAMUJU",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "59",
+    "kodepos": "91512",
+    "desa_kelurahan": "Bala Balakang",
+    "kecamatan": "Kep. Bala Balakang",
+    "kabupaten_kota": "KAB. MAMUJU",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "60",
+    "kodepos": "91512",
+    "desa_kelurahan": "Bala-Balakang Timur",
+    "kecamatan": "Kep. Bala Balakang",
+    "kabupaten_kota": "KAB. MAMUJU",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "61",
+    "kodepos": "91512",
+    "desa_kelurahan": "Rangas",
+    "kecamatan": "Simboro dan Kepulauan",
+    "kabupaten_kota": "KAB. MAMUJU",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "62",
+    "kodepos": "91512",
+    "desa_kelurahan": "Sumare",
+    "kecamatan": "Simboro dan Kepulauan",
+    "kabupaten_kota": "KAB. MAMUJU",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "63",
+    "kodepos": "91512",
+    "desa_kelurahan": "Botteng Utara",
+    "kecamatan": "Simboro dan Kepulauan",
+    "kabupaten_kota": "KAB. MAMUJU",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "64",
+    "kodepos": "91512",
+    "desa_kelurahan": "Patidi",
+    "kecamatan": "Simboro dan Kepulauan",
+    "kabupaten_kota": "KAB. MAMUJU",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "65",
+    "kodepos": "91512",
+    "desa_kelurahan": "Saletto",
+    "kecamatan": "Simboro dan Kepulauan",
+    "kabupaten_kota": "KAB. MAMUJU",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "66",
+    "kodepos": "91512",
+    "desa_kelurahan": "Botteng",
+    "kecamatan": "Simboro dan Kepulauan",
+    "kabupaten_kota": "KAB. MAMUJU",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "67",
+    "kodepos": "91512",
+    "desa_kelurahan": "Tapandullu",
+    "kecamatan": "Simboro dan Kepulauan",
+    "kabupaten_kota": "KAB. MAMUJU",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "68",
+    "kodepos": "91512",
+    "desa_kelurahan": "Simboro",
+    "kecamatan": "Simboro dan Kepulauan",
+    "kabupaten_kota": "KAB. MAMUJU",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "69",
+    "kodepos": "91514",
+    "desa_kelurahan": "Bambu",
+    "kecamatan": "Mamuju",
+    "kabupaten_kota": "KAB. MAMUJU",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "70",
+    "kodepos": "91515",
+    "desa_kelurahan": "Karema",
+    "kecamatan": "Mamuju",
+    "kabupaten_kota": "KAB. MAMUJU",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "71",
+    "kodepos": "91515",
+    "desa_kelurahan": "Karampuang",
+    "kecamatan": "Mamuju",
+    "kabupaten_kota": "KAB. MAMUJU",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "72",
+    "kodepos": "91515",
+    "desa_kelurahan": "Rimuku",
+    "kecamatan": "Mamuju",
+    "kabupaten_kota": "KAB. MAMUJU",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "73",
+    "kodepos": "91551",
+    "desa_kelurahan": "Bela",
+    "kecamatan": "Tapalang",
+    "kabupaten_kota": "KAB. MAMUJU",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "74",
+    "kodepos": "91551",
+    "desa_kelurahan": "Kasambang",
+    "kecamatan": "Tapalang",
+    "kabupaten_kota": "KAB. MAMUJU",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "75",
+    "kodepos": "91551",
+    "desa_kelurahan": "Tampalang",
+    "kecamatan": "Tapalang",
+    "kabupaten_kota": "KAB. MAMUJU",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "76",
+    "kodepos": "91551",
+    "desa_kelurahan": "Galung",
+    "kecamatan": "Tapalang",
+    "kabupaten_kota": "KAB. MAMUJU",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "77",
+    "kodepos": "91551",
+    "desa_kelurahan": "Taan",
+    "kecamatan": "Tapalang",
+    "kabupaten_kota": "KAB. MAMUJU",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "78",
+    "kodepos": "91551",
+    "desa_kelurahan": "Rantedoda",
+    "kecamatan": "Tapalang",
+    "kabupaten_kota": "KAB. MAMUJU",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "79",
+    "kodepos": "91551",
+    "desa_kelurahan": "Kopeang",
+    "kecamatan": "Tapalang",
+    "kabupaten_kota": "KAB. MAMUJU",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "80",
+    "kodepos": "91551",
+    "desa_kelurahan": "Dayanginna",
+    "kecamatan": "Tapalang",
+    "kabupaten_kota": "KAB. MAMUJU",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "81",
+    "kodepos": "91551",
+    "desa_kelurahan": "Takandeang",
+    "kecamatan": "Tapalang",
+    "kabupaten_kota": "KAB. MAMUJU",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "82",
+    "kodepos": "91551",
+    "desa_kelurahan": "Orobatu",
+    "kecamatan": "Tapalang",
+    "kabupaten_kota": "KAB. MAMUJU",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "83",
+    "kodepos": "91552",
+    "desa_kelurahan": "Tanete Pao",
+    "kecamatan": "Tapalang Barat",
+    "kabupaten_kota": "KAB. MAMUJU",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "84",
+    "kodepos": "91552",
+    "desa_kelurahan": "Ahu",
+    "kecamatan": "Tapalang Barat",
+    "kabupaten_kota": "KAB. MAMUJU",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "85",
+    "kodepos": "91552",
+    "desa_kelurahan": "Lebani",
+    "kecamatan": "Tapalang Barat",
+    "kabupaten_kota": "KAB. MAMUJU",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "86",
+    "kodepos": "91552",
+    "desa_kelurahan": "Pangasaan",
+    "kecamatan": "Tapalang Barat",
+    "kabupaten_kota": "KAB. MAMUJU",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "87",
+    "kodepos": "91552",
+    "desa_kelurahan": "Dungkait",
+    "kecamatan": "Tapalang Barat",
+    "kabupaten_kota": "KAB. MAMUJU",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "88",
+    "kodepos": "91552",
+    "desa_kelurahan": "Labuang Rano",
+    "kecamatan": "Tapalang Barat",
+    "kabupaten_kota": "KAB. MAMUJU",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "89",
+    "kodepos": "91552",
+    "desa_kelurahan": "Pasabu",
+    "kecamatan": "Tapalang Barat",
+    "kabupaten_kota": "KAB. MAMUJU",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "90",
+    "kodepos": "91560",
+    "desa_kelurahan": "Karama",
+    "kecamatan": "Kalumpang",
+    "kabupaten_kota": "KAB. MAMUJU",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "91",
+    "kodepos": "91560",
+    "desa_kelurahan": "Kondo Bulo",
+    "kecamatan": "Kalumpang",
+    "kabupaten_kota": "KAB. MAMUJU",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "92",
+    "kodepos": "91560",
+    "desa_kelurahan": "Siraun",
+    "kecamatan": "Kalumpang",
+    "kabupaten_kota": "KAB. MAMUJU",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "93",
+    "kodepos": "91560",
+    "desa_kelurahan": "Sandapang",
+    "kecamatan": "Kalumpang",
+    "kabupaten_kota": "KAB. MAMUJU",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "94",
+    "kodepos": "91560",
+    "desa_kelurahan": "Salumakki",
+    "kecamatan": "Kalumpang",
+    "kabupaten_kota": "KAB. MAMUJU",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "95",
+    "kodepos": "91560",
+    "desa_kelurahan": "Tumoga",
+    "kecamatan": "Kalumpang",
+    "kabupaten_kota": "KAB. MAMUJU",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "96",
+    "kodepos": "91560",
+    "desa_kelurahan": "Polio",
+    "kecamatan": "Kalumpang",
+    "kabupaten_kota": "KAB. MAMUJU",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "97",
+    "kodepos": "91560",
+    "desa_kelurahan": "Makkaliki",
+    "kecamatan": "Kalumpang",
+    "kabupaten_kota": "KAB. MAMUJU",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "98",
+    "kodepos": "91560",
+    "desa_kelurahan": "Kalumpang",
+    "kecamatan": "Kalumpang",
+    "kabupaten_kota": "KAB. MAMUJU",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "99",
+    "kodepos": "91560",
+    "desa_kelurahan": "Batu Makkada",
+    "kecamatan": "Kalumpang",
+    "kabupaten_kota": "KAB. MAMUJU",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "100",
+    "kodepos": "91560",
+    "desa_kelurahan": "Lasa",
+    "kecamatan": "Kalumpang",
+    "kabupaten_kota": "KAB. MAMUJU",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "101",
+    "kodepos": "91560",
+    "desa_kelurahan": "Karataun",
+    "kecamatan": "Kalumpang",
+    "kabupaten_kota": "KAB. MAMUJU",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "102",
+    "kodepos": "91560",
+    "desa_kelurahan": "Limbong",
+    "kecamatan": "Kalumpang",
+    "kabupaten_kota": "KAB. MAMUJU",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "103",
+    "kodepos": "91561",
+    "desa_kelurahan": "Bebanga",
+    "kecamatan": "Kalukku",
+    "kabupaten_kota": "KAB. MAMUJU",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "104",
+    "kodepos": "91561",
+    "desa_kelurahan": "Kalukku",
+    "kecamatan": "Kalukku",
+    "kabupaten_kota": "KAB. MAMUJU",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "105",
+    "kodepos": "91561",
+    "desa_kelurahan": "Keang",
+    "kecamatan": "Kalukku",
+    "kabupaten_kota": "KAB. MAMUJU",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "106",
+    "kodepos": "91561",
+    "desa_kelurahan": "Uhaimate",
+    "kecamatan": "Kalukku",
+    "kabupaten_kota": "KAB. MAMUJU",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "107",
+    "kodepos": "91561",
+    "desa_kelurahan": "Pammulukang",
+    "kecamatan": "Kalukku",
+    "kabupaten_kota": "KAB. MAMUJU",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "108",
+    "kodepos": "91561",
+    "desa_kelurahan": "Guliling",
+    "kecamatan": "Kalukku",
+    "kabupaten_kota": "KAB. MAMUJU",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "109",
+    "kodepos": "91561",
+    "desa_kelurahan": "Kalukku Barat",
+    "kecamatan": "Kalukku",
+    "kabupaten_kota": "KAB. MAMUJU",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "110",
+    "kodepos": "91561",
+    "desa_kelurahan": "Sinyonyoi Selatan",
+    "kecamatan": "Kalukku",
+    "kabupaten_kota": "KAB. MAMUJU",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "111",
+    "kodepos": "91561",
+    "desa_kelurahan": "Kabuloang",
+    "kecamatan": "Kalukku",
+    "kabupaten_kota": "KAB. MAMUJU",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "112",
+    "kodepos": "91561",
+    "desa_kelurahan": "Pokkang",
+    "kecamatan": "Kalukku",
+    "kabupaten_kota": "KAB. MAMUJU",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "113",
+    "kodepos": "91561",
+    "desa_kelurahan": "Belang Belang",
+    "kecamatan": "Kalukku",
+    "kabupaten_kota": "KAB. MAMUJU",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "114",
+    "kodepos": "91561",
+    "desa_kelurahan": "Sondoang",
+    "kecamatan": "Kalukku",
+    "kabupaten_kota": "KAB. MAMUJU",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "115",
+    "kodepos": "91561",
+    "desa_kelurahan": "Beru-Beru",
+    "kecamatan": "Kalukku",
+    "kabupaten_kota": "KAB. MAMUJU",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "116",
+    "kodepos": "91561",
+    "desa_kelurahan": "Sinyonyoi",
+    "kecamatan": "Kalukku",
+    "kabupaten_kota": "KAB. MAMUJU",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "117",
+    "kodepos": "91562",
+    "desa_kelurahan": "Bonehau",
+    "kecamatan": "Bonehau",
+    "kabupaten_kota": "KAB. MAMUJU",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "118",
+    "kodepos": "91562",
+    "desa_kelurahan": "Lumika",
+    "kecamatan": "Bonehau",
+    "kabupaten_kota": "KAB. MAMUJU",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "119",
+    "kodepos": "91562",
+    "desa_kelurahan": "Salutiwo",
+    "kecamatan": "Bonehau",
+    "kabupaten_kota": "KAB. MAMUJU",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "120",
+    "kodepos": "91562",
+    "desa_kelurahan": "Tamalea",
+    "kecamatan": "Bonehau",
+    "kabupaten_kota": "KAB. MAMUJU",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "121",
+    "kodepos": "91562",
+    "desa_kelurahan": "Mappu",
+    "kecamatan": "Bonehau",
+    "kabupaten_kota": "KAB. MAMUJU",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "122",
+    "kodepos": "91562",
+    "desa_kelurahan": "Kinatang",
+    "kecamatan": "Bonehau",
+    "kabupaten_kota": "KAB. MAMUJU",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "123",
+    "kodepos": "91562",
+    "desa_kelurahan": "Hinua",
+    "kecamatan": "Bonehau",
+    "kabupaten_kota": "KAB. MAMUJU",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "124",
+    "kodepos": "91562",
+    "desa_kelurahan": "Banuada",
+    "kecamatan": "Bonehau",
+    "kabupaten_kota": "KAB. MAMUJU",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "125",
+    "kodepos": "91562",
+    "desa_kelurahan": "Buttuada",
+    "kecamatan": "Bonehau",
+    "kabupaten_kota": "KAB. MAMUJU",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "126",
+    "kodepos": "91563",
+    "desa_kelurahan": "Tarailu",
+    "kecamatan": "Sampaga",
+    "kabupaten_kota": "KAB. MAMUJU",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "127",
+    "kodepos": "91563",
+    "desa_kelurahan": "Salubarana",
+    "kecamatan": "Sampaga",
+    "kabupaten_kota": "KAB. MAMUJU",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "128",
+    "kodepos": "91563",
+    "desa_kelurahan": "Tanambuah",
+    "kecamatan": "Sampaga",
+    "kabupaten_kota": "KAB. MAMUJU",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "129",
+    "kodepos": "91563",
+    "desa_kelurahan": "Losso",
+    "kecamatan": "Sampaga",
+    "kabupaten_kota": "KAB. MAMUJU",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "130",
+    "kodepos": "91563",
+    "desa_kelurahan": "Kalonding",
+    "kecamatan": "Sampaga",
+    "kabupaten_kota": "KAB. MAMUJU",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "131",
+    "kodepos": "91563",
+    "desa_kelurahan": "Bunde",
+    "kecamatan": "Sampaga",
+    "kabupaten_kota": "KAB. MAMUJU",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "132",
+    "kodepos": "91563",
+    "desa_kelurahan": "Sampaga",
+    "kecamatan": "Sampaga",
+    "kabupaten_kota": "KAB. MAMUJU",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "133",
+    "kodepos": "91564",
+    "desa_kelurahan": "Saludengen",
+    "kecamatan": "Tommo",
+    "kabupaten_kota": "KAB. MAMUJU",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "134",
+    "kodepos": "91564",
+    "desa_kelurahan": "Tamejarra",
+    "kecamatan": "Tommo",
+    "kabupaten_kota": "KAB. MAMUJU",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "135",
+    "kodepos": "91564",
+    "desa_kelurahan": "Malino",
+    "kecamatan": "Tommo",
+    "kabupaten_kota": "KAB. MAMUJU",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "136",
+    "kodepos": "91564",
+    "desa_kelurahan": "Kakullasang",
+    "kecamatan": "Tommo",
+    "kabupaten_kota": "KAB. MAMUJU",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "137",
+    "kodepos": "91564",
+    "desa_kelurahan": "Leling Utara",
+    "kecamatan": "Tommo",
+    "kabupaten_kota": "KAB. MAMUJU",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "138",
+    "kodepos": "91564",
+    "desa_kelurahan": "Sandana",
+    "kecamatan": "Tommo",
+    "kabupaten_kota": "KAB. MAMUJU",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "139",
+    "kodepos": "91564",
+    "desa_kelurahan": "Leling",
+    "kecamatan": "Tommo",
+    "kabupaten_kota": "KAB. MAMUJU",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "140",
+    "kodepos": "91564",
+    "desa_kelurahan": "Buana Sakti",
+    "kecamatan": "Tommo",
+    "kabupaten_kota": "KAB. MAMUJU",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "141",
+    "kodepos": "91564",
+    "desa_kelurahan": "Campaloga",
+    "kecamatan": "Tommo",
+    "kabupaten_kota": "KAB. MAMUJU",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "142",
+    "kodepos": "91564",
+    "desa_kelurahan": "Tommo",
+    "kecamatan": "Tommo",
+    "kabupaten_kota": "KAB. MAMUJU",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "143",
+    "kodepos": "91564",
+    "desa_kelurahan": "Tamemongga",
+    "kecamatan": "Tommo",
+    "kabupaten_kota": "KAB. MAMUJU",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "144",
+    "kodepos": "91564",
+    "desa_kelurahan": "Kalepu",
+    "kecamatan": "Tommo",
+    "kabupaten_kota": "KAB. MAMUJU",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "145",
+    "kodepos": "91564",
+    "desa_kelurahan": "Leling Barat",
+    "kecamatan": "Tommo",
+    "kabupaten_kota": "KAB. MAMUJU",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "146",
+    "kodepos": "91564",
+    "desa_kelurahan": "Rantemario",
+    "kecamatan": "Tommo",
+    "kabupaten_kota": "KAB. MAMUJU",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "147",
+    "kodepos": "91565",
+    "desa_kelurahan": "Bonda",
+    "kecamatan": "Papalang",
+    "kabupaten_kota": "KAB. MAMUJU",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "148",
+    "kodepos": "91565",
+    "desa_kelurahan": "Topore",
+    "kecamatan": "Papalang",
+    "kabupaten_kota": "KAB. MAMUJU",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "149",
+    "kodepos": "91565",
+    "desa_kelurahan": "Papalang",
+    "kecamatan": "Papalang",
+    "kabupaten_kota": "KAB. MAMUJU",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "150",
+    "kodepos": "91565",
+    "desa_kelurahan": "Boda-Boda",
+    "kecamatan": "Papalang",
+    "kabupaten_kota": "KAB. MAMUJU",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "151",
+    "kodepos": "91565",
+    "desa_kelurahan": "Salukayu",
+    "kecamatan": "Papalang",
+    "kabupaten_kota": "KAB. MAMUJU",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "152",
+    "kodepos": "91565",
+    "desa_kelurahan": "Sukadamai",
+    "kecamatan": "Papalang",
+    "kabupaten_kota": "KAB. MAMUJU",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "153",
+    "kodepos": "91565",
+    "desa_kelurahan": "Batu Ampa",
+    "kecamatan": "Papalang",
+    "kabupaten_kota": "KAB. MAMUJU",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "154",
+    "kodepos": "91565",
+    "desa_kelurahan": "Toabo",
+    "kecamatan": "Papalang",
+    "kabupaten_kota": "KAB. MAMUJU",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "155",
+    "kodepos": "91565",
+    "desa_kelurahan": "Sisango",
+    "kecamatan": "Papalang",
+    "kabupaten_kota": "KAB. MAMUJU",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "1",
+    "kodepos": "91460",
+    "desa_kelurahan": "Tasokko",
+    "kecamatan": "Karossa",
+    "kabupaten_kota": "KAB. MAMUJU TENGAH",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "2",
+    "kodepos": "91460",
+    "desa_kelurahan": "Kayu Calla",
+    "kecamatan": "Karossa",
+    "kabupaten_kota": "KAB. MAMUJU TENGAH",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "3",
+    "kodepos": "91460",
+    "desa_kelurahan": "Suka Maju",
+    "kecamatan": "Karossa",
+    "kabupaten_kota": "KAB. MAMUJU TENGAH",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "4",
+    "kodepos": "91460",
+    "desa_kelurahan": "Lara",
+    "kecamatan": "Karossa",
+    "kabupaten_kota": "KAB. MAMUJU TENGAH",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "5",
+    "kodepos": "91460",
+    "desa_kelurahan": "Lembah Hopo",
+    "kecamatan": "Karossa",
+    "kabupaten_kota": "KAB. MAMUJU TENGAH",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "6",
+    "kodepos": "91460",
+    "desa_kelurahan": "Karossa",
+    "kecamatan": "Karossa",
+    "kabupaten_kota": "KAB. MAMUJU TENGAH",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "7",
+    "kodepos": "91460",
+    "desa_kelurahan": "Salubiro",
+    "kecamatan": "Karossa",
+    "kabupaten_kota": "KAB. MAMUJU TENGAH",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "8",
+    "kodepos": "91460",
+    "desa_kelurahan": "Kambunong",
+    "kecamatan": "Karossa",
+    "kabupaten_kota": "KAB. MAMUJU TENGAH",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "9",
+    "kodepos": "91460",
+    "desa_kelurahan": "Kadaila",
+    "kecamatan": "Karossa",
+    "kabupaten_kota": "KAB. MAMUJU TENGAH",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "10",
+    "kodepos": "91460",
+    "desa_kelurahan": "Benggaulu",
+    "kecamatan": "Karossa",
+    "kabupaten_kota": "KAB. MAMUJU TENGAH",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "11",
+    "kodepos": "91460",
+    "desa_kelurahan": "Sanjango",
+    "kecamatan": "Karossa",
+    "kabupaten_kota": "KAB. MAMUJU TENGAH",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "12",
+    "kodepos": "91461",
+    "desa_kelurahan": "Barakkang",
+    "kecamatan": "Budong-Budong",
+    "kabupaten_kota": "KAB. MAMUJU TENGAH",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "13",
+    "kodepos": "91461",
+    "desa_kelurahan": "Lumu",
+    "kecamatan": "Budong-Budong",
+    "kabupaten_kota": "KAB. MAMUJU TENGAH",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "14",
+    "kodepos": "91461",
+    "desa_kelurahan": "Salogatta",
+    "kecamatan": "Budong-Budong",
+    "kabupaten_kota": "KAB. MAMUJU TENGAH",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "15",
+    "kodepos": "91461",
+    "desa_kelurahan": "Kire",
+    "kecamatan": "Budong-Budong",
+    "kabupaten_kota": "KAB. MAMUJU TENGAH",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "16",
+    "kodepos": "91461",
+    "desa_kelurahan": "Tinali",
+    "kecamatan": "Budong-Budong",
+    "kabupaten_kota": "KAB. MAMUJU TENGAH",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "17",
+    "kodepos": "91461",
+    "desa_kelurahan": "Pasapa",
+    "kecamatan": "Budong-Budong",
+    "kabupaten_kota": "KAB. MAMUJU TENGAH",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "18",
+    "kodepos": "91461",
+    "desa_kelurahan": "Babana",
+    "kecamatan": "Budong-Budong",
+    "kabupaten_kota": "KAB. MAMUJU TENGAH",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "19",
+    "kodepos": "91461",
+    "desa_kelurahan": "Salumanurung",
+    "kecamatan": "Budong-Budong",
+    "kabupaten_kota": "KAB. MAMUJU TENGAH",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "20",
+    "kodepos": "91461",
+    "desa_kelurahan": "Bojo",
+    "kecamatan": "Budong-Budong",
+    "kabupaten_kota": "KAB. MAMUJU TENGAH",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "21",
+    "kodepos": "91461",
+    "desa_kelurahan": "Lembah Hada",
+    "kecamatan": "Budong-Budong",
+    "kabupaten_kota": "KAB. MAMUJU TENGAH",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "22",
+    "kodepos": "91461",
+    "desa_kelurahan": "Pontanakayang",
+    "kecamatan": "Budong-Budong",
+    "kabupaten_kota": "KAB. MAMUJU TENGAH",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "23",
+    "kodepos": "91462",
+    "desa_kelurahan": "Kuo",
+    "kecamatan": "Pangale",
+    "kabupaten_kota": "KAB. MAMUJU TENGAH",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "24",
+    "kodepos": "91462",
+    "desa_kelurahan": "Polo Camba",
+    "kecamatan": "Pangale",
+    "kabupaten_kota": "KAB. MAMUJU TENGAH",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "25",
+    "kodepos": "91462",
+    "desa_kelurahan": "Pangale",
+    "kecamatan": "Pangale",
+    "kabupaten_kota": "KAB. MAMUJU TENGAH",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "26",
+    "kodepos": "91462",
+    "desa_kelurahan": "Lemo-Lemo",
+    "kecamatan": "Pangale",
+    "kabupaten_kota": "KAB. MAMUJU TENGAH",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "27",
+    "kodepos": "91462",
+    "desa_kelurahan": "Kombiling",
+    "kecamatan": "Pangale",
+    "kabupaten_kota": "KAB. MAMUJU TENGAH",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "28",
+    "kodepos": "91462",
+    "desa_kelurahan": "Lamba-lamba",
+    "kecamatan": "Pangale",
+    "kabupaten_kota": "KAB. MAMUJU TENGAH",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "29",
+    "kodepos": "91462",
+    "desa_kelurahan": "Sartanamaju",
+    "kecamatan": "Pangale",
+    "kabupaten_kota": "KAB. MAMUJU TENGAH",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "30",
+    "kodepos": "91462",
+    "desa_kelurahan": "Polo Pangale",
+    "kecamatan": "Pangale",
+    "kabupaten_kota": "KAB. MAMUJU TENGAH",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "31",
+    "kodepos": "91462",
+    "desa_kelurahan": "Polo Lereng",
+    "kecamatan": "Pangale",
+    "kabupaten_kota": "KAB. MAMUJU TENGAH",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "32",
+    "kodepos": "91463",
+    "desa_kelurahan": "Batu Parigi",
+    "kecamatan": "Tobadak",
+    "kabupaten_kota": "KAB. MAMUJU TENGAH",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "33",
+    "kodepos": "91463",
+    "desa_kelurahan": "Tobadak",
+    "kecamatan": "Tobadak",
+    "kabupaten_kota": "KAB. MAMUJU TENGAH",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "34",
+    "kodepos": "91463",
+    "desa_kelurahan": "Bambadaru",
+    "kecamatan": "Tobadak",
+    "kabupaten_kota": "KAB. MAMUJU TENGAH",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "35",
+    "kodepos": "91463",
+    "desa_kelurahan": "Palongaan",
+    "kecamatan": "Tobadak",
+    "kabupaten_kota": "KAB. MAMUJU TENGAH",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "36",
+    "kodepos": "91463",
+    "desa_kelurahan": "Sejati",
+    "kecamatan": "Tobadak",
+    "kabupaten_kota": "KAB. MAMUJU TENGAH",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "37",
+    "kodepos": "91463",
+    "desa_kelurahan": "Salobaja",
+    "kecamatan": "Tobadak",
+    "kabupaten_kota": "KAB. MAMUJU TENGAH",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "38",
+    "kodepos": "91463",
+    "desa_kelurahan": "Mahahe",
+    "kecamatan": "Tobadak",
+    "kabupaten_kota": "KAB. MAMUJU TENGAH",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "39",
+    "kodepos": "91463",
+    "desa_kelurahan": "Saloadak",
+    "kecamatan": "Tobadak",
+    "kabupaten_kota": "KAB. MAMUJU TENGAH",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "40",
+    "kodepos": "91464",
+    "desa_kelurahan": "Salulekbo",
+    "kecamatan": "Topoyo",
+    "kabupaten_kota": "KAB. MAMUJU TENGAH",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "41",
+    "kodepos": "91464",
+    "desa_kelurahan": "Tangkou",
+    "kecamatan": "Topoyo",
+    "kabupaten_kota": "KAB. MAMUJU TENGAH",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "42",
+    "kodepos": "91464",
+    "desa_kelurahan": "Paraili",
+    "kecamatan": "Topoyo",
+    "kabupaten_kota": "KAB. MAMUJU TENGAH",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "43",
+    "kodepos": "91464",
+    "desa_kelurahan": "Salupangkang",
+    "kecamatan": "Topoyo",
+    "kabupaten_kota": "KAB. MAMUJU TENGAH",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "44",
+    "kodepos": "91464",
+    "desa_kelurahan": "Tumbu",
+    "kecamatan": "Topoyo",
+    "kabupaten_kota": "KAB. MAMUJU TENGAH",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "45",
+    "kodepos": "91464",
+    "desa_kelurahan": "Salupangkang IV",
+    "kecamatan": "Topoyo",
+    "kabupaten_kota": "KAB. MAMUJU TENGAH",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "46",
+    "kodepos": "91464",
+    "desa_kelurahan": "Bambamanurung",
+    "kecamatan": "Topoyo",
+    "kabupaten_kota": "KAB. MAMUJU TENGAH",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "47",
+    "kodepos": "91464",
+    "desa_kelurahan": "Topoyo",
+    "kecamatan": "Topoyo",
+    "kabupaten_kota": "KAB. MAMUJU TENGAH",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "48",
+    "kodepos": "91464",
+    "desa_kelurahan": "Tabolang",
+    "kecamatan": "Topoyo",
+    "kabupaten_kota": "KAB. MAMUJU TENGAH",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "49",
+    "kodepos": "91464",
+    "desa_kelurahan": "Budong-Budong",
+    "kecamatan": "Topoyo",
+    "kabupaten_kota": "KAB. MAMUJU TENGAH",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "50",
+    "kodepos": "91464",
+    "desa_kelurahan": "Sinabatta",
+    "kecamatan": "Topoyo",
+    "kabupaten_kota": "KAB. MAMUJU TENGAH",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "51",
+    "kodepos": "91464",
+    "desa_kelurahan": "Kabubu",
+    "kecamatan": "Topoyo",
+    "kabupaten_kota": "KAB. MAMUJU TENGAH",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "52",
+    "kodepos": "91464",
+    "desa_kelurahan": "Waeputeh",
+    "kecamatan": "Topoyo",
+    "kabupaten_kota": "KAB. MAMUJU TENGAH",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "53",
+    "kodepos": "91464",
+    "desa_kelurahan": "Tappilina",
+    "kecamatan": "Topoyo",
+    "kabupaten_kota": "KAB. MAMUJU TENGAH",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": "54",
+    "kodepos": "91464",
+    "desa_kelurahan": "Pangalloang",
+    "kecamatan": "Topoyo",
+    "kabupaten_kota": "KAB. MAMUJU TENGAH",
+    "provinsi": "SULAWESI BARAT"
+  }
+]

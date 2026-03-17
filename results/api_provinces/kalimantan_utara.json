@@ -1,0 +1,4018 @@
+[
+  {
+    "no": "1",
+    "kodepos": "71282",
+    "desa_kelurahan": "Malinau",
+    "kecamatan": "Loksado",
+    "kabupaten_kota": "KAB. HULU SUNGAI SELATAN",
+    "provinsi": "KALIMANTAN SELATAN"
+  },
+  {
+    "no": "2",
+    "kodepos": "77361",
+    "desa_kelurahan": "Punan Malinau",
+    "kecamatan": "Segah",
+    "kabupaten_kota": "KAB. BERAU",
+    "provinsi": "KALIMANTAN TIMUR"
+  },
+  {
+    "no": "3",
+    "kodepos": "77511",
+    "desa_kelurahan": "Malinau Kota",
+    "kecamatan": "Malinau Kota",
+    "kabupaten_kota": "KAB. MALINAU",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "4",
+    "kodepos": "77512",
+    "desa_kelurahan": "Malinau Hulu",
+    "kecamatan": "Malinau Kota",
+    "kabupaten_kota": "KAB. MALINAU",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "5",
+    "kodepos": "77513",
+    "desa_kelurahan": "Malinau Hilir",
+    "kecamatan": "Malinau Kota",
+    "kabupaten_kota": "KAB. MALINAU",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "6",
+    "kodepos": "77514",
+    "desa_kelurahan": "Batu Lidung",
+    "kecamatan": "Malinau Kota",
+    "kabupaten_kota": "KAB. MALINAU",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "7",
+    "kodepos": "77515",
+    "desa_kelurahan": "Pelita Kanaan",
+    "kecamatan": "Malinau Kota",
+    "kabupaten_kota": "KAB. MALINAU",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "8",
+    "kodepos": "77516",
+    "desa_kelurahan": "Tanjung Keranjang",
+    "kecamatan": "Malinau Kota",
+    "kabupaten_kota": "KAB. MALINAU",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "9",
+    "kodepos": "77551",
+    "desa_kelurahan": "Kelapis",
+    "kecamatan": "Malinau Utara",
+    "kabupaten_kota": "KAB. MALINAU",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "10",
+    "kodepos": "77551",
+    "desa_kelurahan": "Malinau Seberang",
+    "kecamatan": "Malinau Utara",
+    "kabupaten_kota": "KAB. MALINAU",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "11",
+    "kodepos": "77551",
+    "desa_kelurahan": "Seruyung",
+    "kecamatan": "Malinau Utara",
+    "kabupaten_kota": "KAB. MALINAU",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "12",
+    "kodepos": "77551",
+    "desa_kelurahan": "Respen Tubu",
+    "kecamatan": "Malinau Utara",
+    "kabupaten_kota": "KAB. MALINAU",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "13",
+    "kodepos": "77551",
+    "desa_kelurahan": "Putat",
+    "kecamatan": "Malinau Utara",
+    "kabupaten_kota": "KAB. MALINAU",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "14",
+    "kodepos": "77551",
+    "desa_kelurahan": "Lubak Manis",
+    "kecamatan": "Malinau Utara",
+    "kabupaten_kota": "KAB. MALINAU",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "15",
+    "kodepos": "77551",
+    "desa_kelurahan": "Semengaris",
+    "kecamatan": "Malinau Utara",
+    "kabupaten_kota": "KAB. MALINAU",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "16",
+    "kodepos": "77551",
+    "desa_kelurahan": "Kaliamok",
+    "kecamatan": "Malinau Utara",
+    "kabupaten_kota": "KAB. MALINAU",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "17",
+    "kodepos": "77551",
+    "desa_kelurahan": "Belayan",
+    "kecamatan": "Malinau Utara",
+    "kabupaten_kota": "KAB. MALINAU",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "18",
+    "kodepos": "77551",
+    "desa_kelurahan": "Luso",
+    "kecamatan": "Malinau Utara",
+    "kabupaten_kota": "KAB. MALINAU",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "19",
+    "kodepos": "77551",
+    "desa_kelurahan": "Salap",
+    "kecamatan": "Malinau Utara",
+    "kabupaten_kota": "KAB. MALINAU",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "20",
+    "kodepos": "77551",
+    "desa_kelurahan": "Sembuak Warod",
+    "kecamatan": "Malinau Utara",
+    "kabupaten_kota": "KAB. MALINAU",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "21",
+    "kodepos": "77552",
+    "desa_kelurahan": "Punan Bengalun",
+    "kecamatan": "Malinau Barat",
+    "kabupaten_kota": "KAB. MALINAU",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "22",
+    "kodepos": "77552",
+    "desa_kelurahan": "Kuala Lapang",
+    "kecamatan": "Malinau Barat",
+    "kabupaten_kota": "KAB. MALINAU",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "23",
+    "kodepos": "77552",
+    "desa_kelurahan": "Sentaban",
+    "kecamatan": "Malinau Barat",
+    "kabupaten_kota": "KAB. MALINAU",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "24",
+    "kodepos": "77552",
+    "desa_kelurahan": "Long Bila",
+    "kecamatan": "Malinau Barat",
+    "kabupaten_kota": "KAB. MALINAU",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "25",
+    "kodepos": "77552",
+    "desa_kelurahan": "Tanjung Lapang",
+    "kecamatan": "Malinau Barat",
+    "kabupaten_kota": "KAB. MALINAU",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "26",
+    "kodepos": "77552",
+    "desa_kelurahan": "Sempayang",
+    "kecamatan": "Malinau Barat",
+    "kabupaten_kota": "KAB. MALINAU",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "27",
+    "kodepos": "77552",
+    "desa_kelurahan": "Long Kenipe",
+    "kecamatan": "Malinau Barat",
+    "kabupaten_kota": "KAB. MALINAU",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "28",
+    "kodepos": "77552",
+    "desa_kelurahan": "Taras",
+    "kecamatan": "Malinau Barat",
+    "kabupaten_kota": "KAB. MALINAU",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "29",
+    "kodepos": "77552",
+    "desa_kelurahan": "Sesua",
+    "kecamatan": "Malinau Barat",
+    "kabupaten_kota": "KAB. MALINAU",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "30",
+    "kodepos": "77553",
+    "desa_kelurahan": "Punan Gong Solok",
+    "kecamatan": "Malinau Selatan Hilir",
+    "kabupaten_kota": "KAB. MALINAU",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "31",
+    "kodepos": "77553",
+    "desa_kelurahan": "Punan Setarap",
+    "kecamatan": "Malinau Selatan Hilir",
+    "kabupaten_kota": "KAB. MALINAU",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "32",
+    "kodepos": "77553",
+    "desa_kelurahan": "Batu Kajang",
+    "kecamatan": "Malinau Selatan Hilir",
+    "kabupaten_kota": "KAB. MALINAU",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "33",
+    "kodepos": "77553",
+    "desa_kelurahan": "Long Adiu",
+    "kecamatan": "Malinau Selatan Hilir",
+    "kabupaten_kota": "KAB. MALINAU",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "34",
+    "kodepos": "77553",
+    "desa_kelurahan": "Setulang",
+    "kecamatan": "Malinau Selatan Hilir",
+    "kabupaten_kota": "KAB. MALINAU",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "35",
+    "kodepos": "77553",
+    "desa_kelurahan": "Setarap",
+    "kecamatan": "Malinau Selatan Hilir",
+    "kabupaten_kota": "KAB. MALINAU",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "36",
+    "kodepos": "77553",
+    "desa_kelurahan": "Gong Solok",
+    "kecamatan": "Malinau Selatan Hilir",
+    "kabupaten_kota": "KAB. MALINAU",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "37",
+    "kodepos": "77553",
+    "desa_kelurahan": "Punan Long Adiu",
+    "kecamatan": "Malinau Selatan Hilir",
+    "kabupaten_kota": "KAB. MALINAU",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "38",
+    "kodepos": "77553",
+    "desa_kelurahan": "Laban Nyarit",
+    "kecamatan": "Malinau Selatan",
+    "kabupaten_kota": "KAB. MALINAU",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "39",
+    "kodepos": "77553",
+    "desa_kelurahan": "Paya Seturan",
+    "kecamatan": "Malinau Selatan",
+    "kabupaten_kota": "KAB. MALINAU",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "40",
+    "kodepos": "77553",
+    "desa_kelurahan": "Nunuk Tanah Kibang",
+    "kecamatan": "Malinau Selatan",
+    "kabupaten_kota": "KAB. MALINAU",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "41",
+    "kodepos": "77553",
+    "desa_kelurahan": "Punan Rian",
+    "kecamatan": "Malinau Selatan",
+    "kabupaten_kota": "KAB. MALINAU",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "42",
+    "kodepos": "77553",
+    "desa_kelurahan": "Sengayan",
+    "kecamatan": "Malinau Selatan",
+    "kabupaten_kota": "KAB. MALINAU",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "43",
+    "kodepos": "77553",
+    "desa_kelurahan": "Long Loreh",
+    "kecamatan": "Malinau Selatan",
+    "kabupaten_kota": "KAB. MALINAU",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "44",
+    "kodepos": "77553",
+    "desa_kelurahan": "Langap",
+    "kecamatan": "Malinau Selatan",
+    "kabupaten_kota": "KAB. MALINAU",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "45",
+    "kodepos": "77553",
+    "desa_kelurahan": "Bila Bekayuk",
+    "kecamatan": "Malinau Selatan",
+    "kabupaten_kota": "KAB. MALINAU",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "46",
+    "kodepos": "77553",
+    "desa_kelurahan": "Pelencau",
+    "kecamatan": "Malinau Selatan",
+    "kabupaten_kota": "KAB. MALINAU",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "47",
+    "kodepos": "77553",
+    "desa_kelurahan": "Long Rat",
+    "kecamatan": "Malinau Selatan Hulu",
+    "kabupaten_kota": "KAB. MALINAU",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "48",
+    "kodepos": "77553",
+    "desa_kelurahan": "Metut",
+    "kecamatan": "Malinau Selatan Hulu",
+    "kabupaten_kota": "KAB. MALINAU",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "49",
+    "kodepos": "77553",
+    "desa_kelurahan": "Long Lake",
+    "kecamatan": "Malinau Selatan Hulu",
+    "kabupaten_kota": "KAB. MALINAU",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "50",
+    "kodepos": "77553",
+    "desa_kelurahan": "Tanjung Nanga",
+    "kecamatan": "Malinau Selatan Hulu",
+    "kabupaten_kota": "KAB. MALINAU",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "51",
+    "kodepos": "77553",
+    "desa_kelurahan": "Halanga",
+    "kecamatan": "Malinau Selatan Hulu",
+    "kabupaten_kota": "KAB. MALINAU",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "52",
+    "kodepos": "77553",
+    "desa_kelurahan": "Long Jalan",
+    "kecamatan": "Malinau Selatan Hulu",
+    "kabupaten_kota": "KAB. MALINAU",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "53",
+    "kodepos": "77553",
+    "desa_kelurahan": "Punan Mirau",
+    "kecamatan": "Malinau Selatan Hulu",
+    "kabupaten_kota": "KAB. MALINAU",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "54",
+    "kodepos": "77553",
+    "desa_kelurahan": "Nahakramo",
+    "kecamatan": "Malinau Selatan Hulu",
+    "kabupaten_kota": "KAB. MALINAU",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "55",
+    "kodepos": "77555",
+    "desa_kelurahan": "Long Gafid",
+    "kecamatan": "Mentarang",
+    "kabupaten_kota": "KAB. MALINAU",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "56",
+    "kodepos": "77555",
+    "desa_kelurahan": "Long Liku",
+    "kecamatan": "Mentarang",
+    "kabupaten_kota": "KAB. MALINAU",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "57",
+    "kodepos": "77555",
+    "desa_kelurahan": "Temalang",
+    "kecamatan": "Mentarang",
+    "kabupaten_kota": "KAB. MALINAU",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "58",
+    "kodepos": "77555",
+    "desa_kelurahan": "Paking",
+    "kecamatan": "Mentarang",
+    "kabupaten_kota": "KAB. MALINAU",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "59",
+    "kodepos": "77555",
+    "desa_kelurahan": "Harapan Maju",
+    "kecamatan": "Mentarang",
+    "kabupaten_kota": "KAB. MALINAU",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "60",
+    "kodepos": "77555",
+    "desa_kelurahan": "Pulau Sapi",
+    "kecamatan": "Mentarang",
+    "kabupaten_kota": "KAB. MALINAU",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "61",
+    "kodepos": "77555",
+    "desa_kelurahan": "Lidung Kemenci",
+    "kecamatan": "Mentarang",
+    "kabupaten_kota": "KAB. MALINAU",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "62",
+    "kodepos": "77555",
+    "desa_kelurahan": "Mentarang Baru",
+    "kecamatan": "Mentarang",
+    "kabupaten_kota": "KAB. MALINAU",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "63",
+    "kodepos": "77555",
+    "desa_kelurahan": "Long Bisai",
+    "kecamatan": "Mentarang",
+    "kabupaten_kota": "KAB. MALINAU",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "64",
+    "kodepos": "77555",
+    "desa_kelurahan": "Long Pada",
+    "kecamatan": "Sungai Tubu",
+    "kabupaten_kota": "KAB. MALINAU",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "65",
+    "kodepos": "77555",
+    "desa_kelurahan": "Long Titi",
+    "kecamatan": "Sungai Tubu",
+    "kabupaten_kota": "KAB. MALINAU",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "66",
+    "kodepos": "77555",
+    "desa_kelurahan": "Long Nyau",
+    "kecamatan": "Sungai Tubu",
+    "kabupaten_kota": "KAB. MALINAU",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "67",
+    "kodepos": "77555",
+    "desa_kelurahan": "Long Ranau",
+    "kecamatan": "Sungai Tubu",
+    "kabupaten_kota": "KAB. MALINAU",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "68",
+    "kodepos": "77555",
+    "desa_kelurahan": "Rian Tubu",
+    "kecamatan": "Sungai Tubu",
+    "kabupaten_kota": "KAB. MALINAU",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "69",
+    "kodepos": "77556",
+    "desa_kelurahan": "Lung Sulit",
+    "kecamatan": "Mentarang Hulu",
+    "kabupaten_kota": "KAB. MALINAU",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "70",
+    "kodepos": "77556",
+    "desa_kelurahan": "Lung Fala",
+    "kecamatan": "Mentarang Hulu",
+    "kabupaten_kota": "KAB. MALINAU",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "71",
+    "kodepos": "77556",
+    "desa_kelurahan": "Lung Kebinu",
+    "kecamatan": "Mentarang Hulu",
+    "kabupaten_kota": "KAB. MALINAU",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "72",
+    "kodepos": "77556",
+    "desa_kelurahan": "Lung Mekatip",
+    "kecamatan": "Mentarang Hulu",
+    "kabupaten_kota": "KAB. MALINAU",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "73",
+    "kodepos": "77556",
+    "desa_kelurahan": "Lung Simau",
+    "kecamatan": "Mentarang Hulu",
+    "kabupaten_kota": "KAB. MALINAU",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "74",
+    "kodepos": "77556",
+    "desa_kelurahan": "Lung Barang",
+    "kecamatan": "Mentarang Hulu",
+    "kabupaten_kota": "KAB. MALINAU",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "75",
+    "kodepos": "77556",
+    "desa_kelurahan": "Lung Semamu",
+    "kecamatan": "Mentarang Hulu",
+    "kabupaten_kota": "KAB. MALINAU",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "76",
+    "kodepos": "77562",
+    "desa_kelurahan": "Long Lame",
+    "kecamatan": "Pujungan",
+    "kabupaten_kota": "KAB. MALINAU",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "77",
+    "kodepos": "77562",
+    "desa_kelurahan": "Long Belaka Pitau",
+    "kecamatan": "Pujungan",
+    "kabupaten_kota": "KAB. MALINAU",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "78",
+    "kodepos": "77562",
+    "desa_kelurahan": "Long Pua",
+    "kecamatan": "Pujungan",
+    "kabupaten_kota": "KAB. MALINAU",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "79",
+    "kodepos": "77562",
+    "desa_kelurahan": "Long Pujungan",
+    "kecamatan": "Pujungan",
+    "kabupaten_kota": "KAB. MALINAU",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "80",
+    "kodepos": "77562",
+    "desa_kelurahan": "Long Jelet",
+    "kecamatan": "Pujungan",
+    "kabupaten_kota": "KAB. MALINAU",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "81",
+    "kodepos": "77562",
+    "desa_kelurahan": "Long Paliran",
+    "kecamatan": "Pujungan",
+    "kabupaten_kota": "KAB. MALINAU",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "82",
+    "kodepos": "77562",
+    "desa_kelurahan": "Long Ketaman",
+    "kecamatan": "Pujungan",
+    "kabupaten_kota": "KAB. MALINAU",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "83",
+    "kodepos": "77562",
+    "desa_kelurahan": "Long Bena",
+    "kecamatan": "Pujungan",
+    "kabupaten_kota": "KAB. MALINAU",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "84",
+    "kodepos": "77562",
+    "desa_kelurahan": "Long Aran",
+    "kecamatan": "Pujungan",
+    "kabupaten_kota": "KAB. MALINAU",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "85",
+    "kodepos": "77563",
+    "desa_kelurahan": "Long Uli",
+    "kecamatan": "Bahau Hulu",
+    "kabupaten_kota": "KAB. MALINAU",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "86",
+    "kodepos": "77563",
+    "desa_kelurahan": "Long Berini",
+    "kecamatan": "Bahau Hulu",
+    "kabupaten_kota": "KAB. MALINAU",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "87",
+    "kodepos": "77563",
+    "desa_kelurahan": "Apau Ping",
+    "kecamatan": "Bahau Hulu",
+    "kabupaten_kota": "KAB. MALINAU",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "88",
+    "kodepos": "77563",
+    "desa_kelurahan": "Long Kemuat",
+    "kecamatan": "Bahau Hulu",
+    "kabupaten_kota": "KAB. MALINAU",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "89",
+    "kodepos": "77563",
+    "desa_kelurahan": "Long Alango",
+    "kecamatan": "Bahau Hulu",
+    "kabupaten_kota": "KAB. MALINAU",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "90",
+    "kodepos": "77563",
+    "desa_kelurahan": "Long Tebulo",
+    "kecamatan": "Bahau Hulu",
+    "kabupaten_kota": "KAB. MALINAU",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "91",
+    "kodepos": "77571",
+    "desa_kelurahan": "Long Metun",
+    "kecamatan": "Kayan Hilir",
+    "kabupaten_kota": "KAB. MALINAU",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "92",
+    "kodepos": "77571",
+    "desa_kelurahan": "Data Dian",
+    "kecamatan": "Kayan Hilir",
+    "kabupaten_kota": "KAB. MALINAU",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "93",
+    "kodepos": "77571",
+    "desa_kelurahan": "Sungai Anai",
+    "kecamatan": "Kayan Hilir",
+    "kabupaten_kota": "KAB. MALINAU",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "94",
+    "kodepos": "77571",
+    "desa_kelurahan": "Long Pipa",
+    "kecamatan": "Kayan Hilir",
+    "kabupaten_kota": "KAB. MALINAU",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "95",
+    "kodepos": "77571",
+    "desa_kelurahan": "Long Sule",
+    "kecamatan": "Kayan Hilir",
+    "kabupaten_kota": "KAB. MALINAU",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "96",
+    "kodepos": "77572",
+    "desa_kelurahan": "Long Nawang",
+    "kecamatan": "Kayan Hulu",
+    "kabupaten_kota": "KAB. MALINAU",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "97",
+    "kodepos": "77572",
+    "desa_kelurahan": "Long Betaoh",
+    "kecamatan": "Kayan Hulu",
+    "kabupaten_kota": "KAB. MALINAU",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "98",
+    "kodepos": "77572",
+    "desa_kelurahan": "Long Temuyat",
+    "kecamatan": "Kayan Hulu",
+    "kabupaten_kota": "KAB. MALINAU",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "99",
+    "kodepos": "77572",
+    "desa_kelurahan": "Nawang Baru",
+    "kecamatan": "Kayan Hulu",
+    "kabupaten_kota": "KAB. MALINAU",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "100",
+    "kodepos": "77572",
+    "desa_kelurahan": "Long Payau",
+    "kecamatan": "Kayan Hulu",
+    "kabupaten_kota": "KAB. MALINAU",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "101",
+    "kodepos": "77573",
+    "desa_kelurahan": "Lidung Payau",
+    "kecamatan": "Kayan Selatan",
+    "kabupaten_kota": "KAB. MALINAU",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "102",
+    "kodepos": "77573",
+    "desa_kelurahan": "Long Uro",
+    "kecamatan": "Kayan Selatan",
+    "kabupaten_kota": "KAB. MALINAU",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "103",
+    "kodepos": "77573",
+    "desa_kelurahan": "Sungai Barang",
+    "kecamatan": "Kayan Selatan",
+    "kabupaten_kota": "KAB. MALINAU",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "104",
+    "kodepos": "77573",
+    "desa_kelurahan": "Metulang",
+    "kecamatan": "Kayan Selatan",
+    "kabupaten_kota": "KAB. MALINAU",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "105",
+    "kodepos": "77573",
+    "desa_kelurahan": "Long Ampung",
+    "kecamatan": "Kayan Selatan",
+    "kabupaten_kota": "KAB. MALINAU",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "106",
+    "kodepos": "77574",
+    "desa_kelurahan": "Long Top",
+    "kecamatan": "Sungai Boh",
+    "kabupaten_kota": "KAB. MALINAU",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "107",
+    "kodepos": "77574",
+    "desa_kelurahan": "Dumu Mahak",
+    "kecamatan": "Sungai Boh",
+    "kabupaten_kota": "KAB. MALINAU",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "108",
+    "kodepos": "77574",
+    "desa_kelurahan": "Mahak Baru",
+    "kecamatan": "Sungai Boh",
+    "kabupaten_kota": "KAB. MALINAU",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "109",
+    "kodepos": "77574",
+    "desa_kelurahan": "Long Lebusan",
+    "kecamatan": "Sungai Boh",
+    "kabupaten_kota": "KAB. MALINAU",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "110",
+    "kodepos": "77574",
+    "desa_kelurahan": "Agung Baru",
+    "kecamatan": "Sungai Boh",
+    "kabupaten_kota": "KAB. MALINAU",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "111",
+    "kodepos": "77574",
+    "desa_kelurahan": "Data Baru",
+    "kecamatan": "Sungai Boh",
+    "kabupaten_kota": "KAB. MALINAU",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "1",
+    "kodepos": "59155",
+    "desa_kelurahan": "Bulungan",
+    "kecamatan": "Tayu",
+    "kabupaten_kota": "KAB. PATI",
+    "provinsi": "JAWA TENGAH"
+  },
+  {
+    "no": "2",
+    "kodepos": "59456",
+    "desa_kelurahan": "Bulungan",
+    "kecamatan": "Pakis Aji",
+    "kabupaten_kota": "KAB. JEPARA",
+    "provinsi": "JAWA TENGAH"
+  },
+  {
+    "no": "3",
+    "kodepos": "77211",
+    "desa_kelurahan": "Tanjung Selor Hulu",
+    "kecamatan": "Tanjung Selor",
+    "kabupaten_kota": "KAB. BULUNGAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "4",
+    "kodepos": "77212",
+    "desa_kelurahan": "Tanjung Selor Hilir",
+    "kecamatan": "Tanjung Selor",
+    "kabupaten_kota": "KAB. BULUNGAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "5",
+    "kodepos": "77213",
+    "desa_kelurahan": "Tanjung Selor Timur",
+    "kecamatan": "Tanjung Selor",
+    "kabupaten_kota": "KAB. BULUNGAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "6",
+    "kodepos": "77219",
+    "desa_kelurahan": "Gunung Seriang",
+    "kecamatan": "Tanjung Selor",
+    "kabupaten_kota": "KAB. BULUNGAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "7",
+    "kodepos": "77219",
+    "desa_kelurahan": "Tengkapak",
+    "kecamatan": "Tanjung Selor",
+    "kabupaten_kota": "KAB. BULUNGAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "8",
+    "kodepos": "77219",
+    "desa_kelurahan": "Apung",
+    "kecamatan": "Tanjung Selor",
+    "kabupaten_kota": "KAB. BULUNGAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "9",
+    "kodepos": "77219",
+    "desa_kelurahan": "Jelarai Selor",
+    "kecamatan": "Tanjung Selor",
+    "kabupaten_kota": "KAB. BULUNGAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "10",
+    "kodepos": "77219",
+    "desa_kelurahan": "Bumi Rahayu",
+    "kecamatan": "Tanjung Selor",
+    "kabupaten_kota": "KAB. BULUNGAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "11",
+    "kodepos": "77219",
+    "desa_kelurahan": "Gunung Sari",
+    "kecamatan": "Tanjung Selor",
+    "kabupaten_kota": "KAB. BULUNGAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "12",
+    "kodepos": "77252",
+    "desa_kelurahan": "Karang Anyar",
+    "kecamatan": "Tanjung Palas",
+    "kabupaten_kota": "KAB. BULUNGAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "13",
+    "kodepos": "77252",
+    "desa_kelurahan": "Gunung Putih",
+    "kecamatan": "Tanjung Palas",
+    "kabupaten_kota": "KAB. BULUNGAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "14",
+    "kodepos": "77252",
+    "desa_kelurahan": "Tanjung Palas Tengah",
+    "kecamatan": "Tanjung Palas",
+    "kabupaten_kota": "KAB. BULUNGAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "15",
+    "kodepos": "77252",
+    "desa_kelurahan": "Teras Nawang",
+    "kecamatan": "Tanjung Palas",
+    "kabupaten_kota": "KAB. BULUNGAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "16",
+    "kodepos": "77252",
+    "desa_kelurahan": "Pejalin",
+    "kecamatan": "Tanjung Palas",
+    "kabupaten_kota": "KAB. BULUNGAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "17",
+    "kodepos": "77252",
+    "desa_kelurahan": "Antutan",
+    "kecamatan": "Tanjung Palas",
+    "kabupaten_kota": "KAB. BULUNGAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "18",
+    "kodepos": "77252",
+    "desa_kelurahan": "Tanjung Palas Hulu",
+    "kecamatan": "Tanjung Palas",
+    "kabupaten_kota": "KAB. BULUNGAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "19",
+    "kodepos": "77252",
+    "desa_kelurahan": "Tanjung Palas Hilir",
+    "kecamatan": "Tanjung Palas",
+    "kabupaten_kota": "KAB. BULUNGAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "20",
+    "kodepos": "77252",
+    "desa_kelurahan": "Teras Baru",
+    "kecamatan": "Tanjung Palas",
+    "kabupaten_kota": "KAB. BULUNGAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "21",
+    "kodepos": "77253",
+    "desa_kelurahan": "Tanjung Buka",
+    "kecamatan": "Tanjung Palas Tengah",
+    "kabupaten_kota": "KAB. BULUNGAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "22",
+    "kodepos": "77253",
+    "desa_kelurahan": "Silva Rahayu",
+    "kecamatan": "Tanjung Palas Tengah",
+    "kabupaten_kota": "KAB. BULUNGAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "23",
+    "kodepos": "77253",
+    "desa_kelurahan": "Salimbatu",
+    "kecamatan": "Tanjung Palas Tengah",
+    "kabupaten_kota": "KAB. BULUNGAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "24",
+    "kodepos": "77254",
+    "desa_kelurahan": "Panca Agung",
+    "kecamatan": "Tanjung Palas Utara",
+    "kabupaten_kota": "KAB. BULUNGAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "25",
+    "kodepos": "77254",
+    "desa_kelurahan": "Kelubir",
+    "kecamatan": "Tanjung Palas Utara",
+    "kabupaten_kota": "KAB. BULUNGAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "26",
+    "kodepos": "77254",
+    "desa_kelurahan": "Ruhui Rahayu",
+    "kecamatan": "Tanjung Palas Utara",
+    "kabupaten_kota": "KAB. BULUNGAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "27",
+    "kodepos": "77254",
+    "desa_kelurahan": "Karang Agung",
+    "kecamatan": "Tanjung Palas Utara",
+    "kabupaten_kota": "KAB. BULUNGAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "28",
+    "kodepos": "77254",
+    "desa_kelurahan": "Pimping",
+    "kecamatan": "Tanjung Palas Utara",
+    "kabupaten_kota": "KAB. BULUNGAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "29",
+    "kodepos": "77254",
+    "desa_kelurahan": "Ardi Mulyo",
+    "kecamatan": "Tanjung Palas Utara",
+    "kabupaten_kota": "KAB. BULUNGAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "30",
+    "kodepos": "77255",
+    "desa_kelurahan": "Long Beluah",
+    "kecamatan": "Tanjung Palas Barat",
+    "kabupaten_kota": "KAB. BULUNGAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "31",
+    "kodepos": "77255",
+    "desa_kelurahan": "Mara I",
+    "kecamatan": "Tanjung Palas Barat",
+    "kabupaten_kota": "KAB. BULUNGAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "32",
+    "kodepos": "77255",
+    "desa_kelurahan": "Long Sam",
+    "kecamatan": "Tanjung Palas Barat",
+    "kabupaten_kota": "KAB. BULUNGAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "33",
+    "kodepos": "77255",
+    "desa_kelurahan": "Mara Hilir",
+    "kecamatan": "Tanjung Palas Barat",
+    "kabupaten_kota": "KAB. BULUNGAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "34",
+    "kodepos": "77255",
+    "desa_kelurahan": "Long Pari",
+    "kecamatan": "Tanjung Palas Barat",
+    "kabupaten_kota": "KAB. BULUNGAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "35",
+    "kodepos": "77256",
+    "desa_kelurahan": "Tanjung Agung",
+    "kecamatan": "Tanjung Palas Timur",
+    "kabupaten_kota": "KAB. BULUNGAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "36",
+    "kodepos": "77256",
+    "desa_kelurahan": "Mangkupadi",
+    "kecamatan": "Tanjung Palas Timur",
+    "kabupaten_kota": "KAB. BULUNGAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "37",
+    "kodepos": "77256",
+    "desa_kelurahan": "Pura Sajau",
+    "kecamatan": "Tanjung Palas Timur",
+    "kabupaten_kota": "KAB. BULUNGAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "38",
+    "kodepos": "77256",
+    "desa_kelurahan": "Wonomulyo",
+    "kecamatan": "Tanjung Palas Timur",
+    "kabupaten_kota": "KAB. BULUNGAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "39",
+    "kodepos": "77256",
+    "desa_kelurahan": "Sajau Hilir",
+    "kecamatan": "Tanjung Palas Timur",
+    "kabupaten_kota": "KAB. BULUNGAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "40",
+    "kodepos": "77256",
+    "desa_kelurahan": "Sajau",
+    "kecamatan": "Tanjung Palas Timur",
+    "kabupaten_kota": "KAB. BULUNGAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "41",
+    "kodepos": "77256",
+    "desa_kelurahan": "Tanah Kuning",
+    "kecamatan": "Tanjung Palas Timur",
+    "kabupaten_kota": "KAB. BULUNGAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "42",
+    "kodepos": "77256",
+    "desa_kelurahan": "Binai",
+    "kecamatan": "Tanjung Palas Timur",
+    "kabupaten_kota": "KAB. BULUNGAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "43",
+    "kodepos": "77261",
+    "desa_kelurahan": "Long Pelaah",
+    "kecamatan": "Peso",
+    "kabupaten_kota": "KAB. BULUNGAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "44",
+    "kodepos": "77261",
+    "desa_kelurahan": "Long Lejuh",
+    "kecamatan": "Peso",
+    "kabupaten_kota": "KAB. BULUNGAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "45",
+    "kodepos": "77261",
+    "desa_kelurahan": "Long Buang",
+    "kecamatan": "Peso",
+    "kabupaten_kota": "KAB. BULUNGAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "46",
+    "kodepos": "77261",
+    "desa_kelurahan": "Long Lasan",
+    "kecamatan": "Peso",
+    "kabupaten_kota": "KAB. BULUNGAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "47",
+    "kodepos": "77261",
+    "desa_kelurahan": "Muara Pangean",
+    "kecamatan": "Peso",
+    "kabupaten_kota": "KAB. BULUNGAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "48",
+    "kodepos": "77261",
+    "desa_kelurahan": "Long Peso",
+    "kecamatan": "Peso",
+    "kabupaten_kota": "KAB. BULUNGAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "49",
+    "kodepos": "77261",
+    "desa_kelurahan": "Lepak Aru",
+    "kecamatan": "Peso",
+    "kabupaten_kota": "KAB. BULUNGAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "50",
+    "kodepos": "77261",
+    "desa_kelurahan": "Long Lian",
+    "kecamatan": "Peso",
+    "kabupaten_kota": "KAB. BULUNGAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "51",
+    "kodepos": "77261",
+    "desa_kelurahan": "Long Pelban",
+    "kecamatan": "Peso",
+    "kabupaten_kota": "KAB. BULUNGAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "52",
+    "kodepos": "77261",
+    "desa_kelurahan": "Long Bia",
+    "kecamatan": "Peso",
+    "kabupaten_kota": "KAB. BULUNGAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "53",
+    "kodepos": "77263",
+    "desa_kelurahan": "Sekatak Bengara",
+    "kecamatan": "Sekatak",
+    "kabupaten_kota": "KAB. BULUNGAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "54",
+    "kodepos": "77263",
+    "desa_kelurahan": "Kelembunan",
+    "kecamatan": "Sekatak",
+    "kabupaten_kota": "KAB. BULUNGAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "55",
+    "kodepos": "77263",
+    "desa_kelurahan": "Bekiliu",
+    "kecamatan": "Sekatak",
+    "kabupaten_kota": "KAB. BULUNGAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "56",
+    "kodepos": "77263",
+    "desa_kelurahan": "Kendari",
+    "kecamatan": "Sekatak",
+    "kabupaten_kota": "KAB. BULUNGAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "57",
+    "kodepos": "77263",
+    "desa_kelurahan": "Ujang",
+    "kecamatan": "Sekatak",
+    "kabupaten_kota": "KAB. BULUNGAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "58",
+    "kodepos": "77263",
+    "desa_kelurahan": "Ambalat",
+    "kecamatan": "Sekatak",
+    "kabupaten_kota": "KAB. BULUNGAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "59",
+    "kodepos": "77263",
+    "desa_kelurahan": "Liagu",
+    "kecamatan": "Sekatak",
+    "kabupaten_kota": "KAB. BULUNGAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "60",
+    "kodepos": "77263",
+    "desa_kelurahan": "Bunau",
+    "kecamatan": "Sekatak",
+    "kabupaten_kota": "KAB. BULUNGAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "61",
+    "kodepos": "77263",
+    "desa_kelurahan": "Pungit",
+    "kecamatan": "Sekatak",
+    "kabupaten_kota": "KAB. BULUNGAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "62",
+    "kodepos": "77263",
+    "desa_kelurahan": "Punan Dulau",
+    "kecamatan": "Sekatak",
+    "kabupaten_kota": "KAB. BULUNGAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "63",
+    "kodepos": "77263",
+    "desa_kelurahan": "Keriting",
+    "kecamatan": "Sekatak",
+    "kabupaten_kota": "KAB. BULUNGAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "64",
+    "kodepos": "77263",
+    "desa_kelurahan": "Pentian",
+    "kecamatan": "Sekatak",
+    "kabupaten_kota": "KAB. BULUNGAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "65",
+    "kodepos": "77263",
+    "desa_kelurahan": "Kelising",
+    "kecamatan": "Sekatak",
+    "kabupaten_kota": "KAB. BULUNGAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "66",
+    "kodepos": "77263",
+    "desa_kelurahan": "Kelincauan",
+    "kecamatan": "Sekatak",
+    "kabupaten_kota": "KAB. BULUNGAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "67",
+    "kodepos": "77263",
+    "desa_kelurahan": "Tenggiling",
+    "kecamatan": "Sekatak",
+    "kabupaten_kota": "KAB. BULUNGAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "68",
+    "kodepos": "77263",
+    "desa_kelurahan": "Bambang",
+    "kecamatan": "Sekatak",
+    "kabupaten_kota": "KAB. BULUNGAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "69",
+    "kodepos": "77263",
+    "desa_kelurahan": "Turung",
+    "kecamatan": "Sekatak",
+    "kabupaten_kota": "KAB. BULUNGAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "70",
+    "kodepos": "77263",
+    "desa_kelurahan": "Terindak",
+    "kecamatan": "Sekatak",
+    "kabupaten_kota": "KAB. BULUNGAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "71",
+    "kodepos": "77263",
+    "desa_kelurahan": "Sekatak Buji",
+    "kecamatan": "Sekatak",
+    "kabupaten_kota": "KAB. BULUNGAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "72",
+    "kodepos": "77263",
+    "desa_kelurahan": "Maritam",
+    "kecamatan": "Sekatak",
+    "kabupaten_kota": "KAB. BULUNGAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "73",
+    "kodepos": "77263",
+    "desa_kelurahan": "Anjar Arip",
+    "kecamatan": "Sekatak",
+    "kabupaten_kota": "KAB. BULUNGAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "74",
+    "kodepos": "77263",
+    "desa_kelurahan": "Paru Abang",
+    "kecamatan": "Sekatak",
+    "kabupaten_kota": "KAB. BULUNGAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "75",
+    "kodepos": "77264",
+    "desa_kelurahan": "Long Bang",
+    "kecamatan": "Peso Hilir",
+    "kabupaten_kota": "KAB. BULUNGAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "76",
+    "kodepos": "77264",
+    "desa_kelurahan": "Long Telenjau",
+    "kecamatan": "Peso Hilir",
+    "kabupaten_kota": "KAB. BULUNGAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "77",
+    "kodepos": "77264",
+    "desa_kelurahan": "Naha Aya",
+    "kecamatan": "Peso Hilir",
+    "kabupaten_kota": "KAB. BULUNGAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "78",
+    "kodepos": "77264",
+    "desa_kelurahan": "Long Tungu",
+    "kecamatan": "Peso Hilir",
+    "kabupaten_kota": "KAB. BULUNGAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "79",
+    "kodepos": "77264",
+    "desa_kelurahan": "Long Bang Hulu",
+    "kecamatan": "Peso Hilir",
+    "kabupaten_kota": "KAB. BULUNGAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "80",
+    "kodepos": "77264",
+    "desa_kelurahan": "Long Lembu",
+    "kecamatan": "Peso Hilir",
+    "kabupaten_kota": "KAB. BULUNGAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "81",
+    "kodepos": "77281",
+    "desa_kelurahan": "Bunyu Timur",
+    "kecamatan": "Bunyu",
+    "kabupaten_kota": "KAB. BULUNGAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "82",
+    "kodepos": "77281",
+    "desa_kelurahan": "Bunyu Selatan",
+    "kecamatan": "Bunyu",
+    "kabupaten_kota": "KAB. BULUNGAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "83",
+    "kodepos": "77281",
+    "desa_kelurahan": "Bunyu Barat",
+    "kecamatan": "Bunyu",
+    "kabupaten_kota": "KAB. BULUNGAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "1",
+    "kodepos": "77611",
+    "desa_kelurahan": "Tideng Pale Timur",
+    "kecamatan": "Sesayap",
+    "kabupaten_kota": "KAB. TANA TIDUNG",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "2",
+    "kodepos": "77611",
+    "desa_kelurahan": "Limbu Sedulun",
+    "kecamatan": "Sesayap",
+    "kabupaten_kota": "KAB. TANA TIDUNG",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "3",
+    "kodepos": "77611",
+    "desa_kelurahan": "Sebawang",
+    "kecamatan": "Sesayap",
+    "kabupaten_kota": "KAB. TANA TIDUNG",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "4",
+    "kodepos": "77611",
+    "desa_kelurahan": "Gunawan",
+    "kecamatan": "Sesayap",
+    "kabupaten_kota": "KAB. TANA TIDUNG",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "5",
+    "kodepos": "77611",
+    "desa_kelurahan": "Tideng Pale",
+    "kecamatan": "Sesayap",
+    "kabupaten_kota": "KAB. TANA TIDUNG",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "6",
+    "kodepos": "77611",
+    "desa_kelurahan": "Sebidai",
+    "kecamatan": "Sesayap",
+    "kabupaten_kota": "KAB. TANA TIDUNG",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "7",
+    "kodepos": "77611",
+    "desa_kelurahan": "Sedulun",
+    "kecamatan": "Sesayap",
+    "kabupaten_kota": "KAB. TANA TIDUNG",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "8",
+    "kodepos": "77651",
+    "desa_kelurahan": "Rian",
+    "kecamatan": "Muruk Rian",
+    "kabupaten_kota": "KAB. TANA TIDUNG",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "9",
+    "kodepos": "77651",
+    "desa_kelurahan": "Kapuak",
+    "kecamatan": "Muruk Rian",
+    "kabupaten_kota": "KAB. TANA TIDUNG",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "10",
+    "kodepos": "77651",
+    "desa_kelurahan": "Seputuk",
+    "kecamatan": "Muruk Rian",
+    "kabupaten_kota": "KAB. TANA TIDUNG",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "11",
+    "kodepos": "77651",
+    "desa_kelurahan": "Rian Rayo",
+    "kecamatan": "Muruk Rian",
+    "kabupaten_kota": "KAB. TANA TIDUNG",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "12",
+    "kodepos": "77651",
+    "desa_kelurahan": "Sapari",
+    "kecamatan": "Muruk Rian",
+    "kabupaten_kota": "KAB. TANA TIDUNG",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "13",
+    "kodepos": "77651",
+    "desa_kelurahan": "Balayan Ari",
+    "kecamatan": "Muruk Rian",
+    "kabupaten_kota": "KAB. TANA TIDUNG",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "14",
+    "kodepos": "77652",
+    "desa_kelurahan": "Seludau",
+    "kecamatan": "Sesayap Hilir",
+    "kabupaten_kota": "KAB. TANA TIDUNG",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "15",
+    "kodepos": "77652",
+    "desa_kelurahan": "Sepala Dalung",
+    "kecamatan": "Sesayap Hilir",
+    "kabupaten_kota": "KAB. TANA TIDUNG",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "16",
+    "kodepos": "77652",
+    "desa_kelurahan": "Menjelutung",
+    "kecamatan": "Sesayap Hilir",
+    "kabupaten_kota": "KAB. TANA TIDUNG",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "17",
+    "kodepos": "77652",
+    "desa_kelurahan": "Bebatu",
+    "kecamatan": "Sesayap Hilir",
+    "kabupaten_kota": "KAB. TANA TIDUNG",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "18",
+    "kodepos": "77652",
+    "desa_kelurahan": "Sengkong",
+    "kecamatan": "Sesayap Hilir",
+    "kabupaten_kota": "KAB. TANA TIDUNG",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "19",
+    "kodepos": "77652",
+    "desa_kelurahan": "Bandan Bikis",
+    "kecamatan": "Sesayap Hilir",
+    "kabupaten_kota": "KAB. TANA TIDUNG",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "20",
+    "kodepos": "77652",
+    "desa_kelurahan": "Sesayap",
+    "kecamatan": "Sesayap Hilir",
+    "kabupaten_kota": "KAB. TANA TIDUNG",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "21",
+    "kodepos": "77652",
+    "desa_kelurahan": "Sesayap Selor",
+    "kecamatan": "Sesayap Hilir",
+    "kabupaten_kota": "KAB. TANA TIDUNG",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "22",
+    "kodepos": "77653",
+    "desa_kelurahan": "Periuk",
+    "kecamatan": "Betayau",
+    "kabupaten_kota": "KAB. TANA TIDUNG",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "23",
+    "kodepos": "77653",
+    "desa_kelurahan": "Buong Baru",
+    "kecamatan": "Betayau",
+    "kabupaten_kota": "KAB. TANA TIDUNG",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "24",
+    "kodepos": "77653",
+    "desa_kelurahan": "Mendupo",
+    "kecamatan": "Betayau",
+    "kabupaten_kota": "KAB. TANA TIDUNG",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "25",
+    "kodepos": "77653",
+    "desa_kelurahan": "Maning",
+    "kecamatan": "Betayau",
+    "kabupaten_kota": "KAB. TANA TIDUNG",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "26",
+    "kodepos": "77653",
+    "desa_kelurahan": "Bebakung",
+    "kecamatan": "Betayau",
+    "kabupaten_kota": "KAB. TANA TIDUNG",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "27",
+    "kodepos": "77653",
+    "desa_kelurahan": "Kujau",
+    "kecamatan": "Betayau",
+    "kabupaten_kota": "KAB. TANA TIDUNG",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "28",
+    "kodepos": "77661",
+    "desa_kelurahan": "Tengku Dacing",
+    "kecamatan": "Tana Lia",
+    "kabupaten_kota": "KAB. TANA TIDUNG",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "29",
+    "kodepos": "77661",
+    "desa_kelurahan": "Tanah Merah",
+    "kecamatan": "Tana Lia",
+    "kabupaten_kota": "KAB. TANA TIDUNG",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "30",
+    "kodepos": "77661",
+    "desa_kelurahan": "Sambungan Selatan",
+    "kecamatan": "Tana Lia",
+    "kabupaten_kota": "KAB. TANA TIDUNG",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "31",
+    "kodepos": "77661",
+    "desa_kelurahan": "Tanah Merah Barat",
+    "kecamatan": "Tana Lia",
+    "kabupaten_kota": "KAB. TANA TIDUNG",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "32",
+    "kodepos": "77661",
+    "desa_kelurahan": "Sambungan",
+    "kecamatan": "Tana Lia",
+    "kabupaten_kota": "KAB. TANA TIDUNG",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "1",
+    "kodepos": "22987",
+    "desa_kelurahan": "Sinunukan V",
+    "kecamatan": "Natal",
+    "kabupaten_kota": "KAB. MANDAILING NATAL",
+    "provinsi": "SUMATERA UTARA"
+  },
+  {
+    "no": "2",
+    "kodepos": "22988",
+    "desa_kelurahan": "Sinunukan I",
+    "kecamatan": "Sinunukan",
+    "kabupaten_kota": "KAB. MANDAILING NATAL",
+    "provinsi": "SUMATERA UTARA"
+  },
+  {
+    "no": "3",
+    "kodepos": "22988",
+    "desa_kelurahan": "Sinunukan II",
+    "kecamatan": "Sinunukan",
+    "kabupaten_kota": "KAB. MANDAILING NATAL",
+    "provinsi": "SUMATERA UTARA"
+  },
+  {
+    "no": "4",
+    "kodepos": "22988",
+    "desa_kelurahan": "Pasir Putih",
+    "kecamatan": "Sinunukan",
+    "kabupaten_kota": "KAB. MANDAILING NATAL",
+    "provinsi": "SUMATERA UTARA"
+  },
+  {
+    "no": "5",
+    "kodepos": "22988",
+    "desa_kelurahan": "Sinunukan IV",
+    "kecamatan": "Sinunukan",
+    "kabupaten_kota": "KAB. MANDAILING NATAL",
+    "provinsi": "SUMATERA UTARA"
+  },
+  {
+    "no": "6",
+    "kodepos": "22988",
+    "desa_kelurahan": "Airapa",
+    "kecamatan": "Sinunukan",
+    "kabupaten_kota": "KAB. MANDAILING NATAL",
+    "provinsi": "SUMATERA UTARA"
+  },
+  {
+    "no": "7",
+    "kodepos": "22988",
+    "desa_kelurahan": "Wido Daren",
+    "kecamatan": "Sinunukan",
+    "kabupaten_kota": "KAB. MANDAILING NATAL",
+    "provinsi": "SUMATERA UTARA"
+  },
+  {
+    "no": "8",
+    "kodepos": "22988",
+    "desa_kelurahan": "Suka Damai",
+    "kecamatan": "Sinunukan",
+    "kabupaten_kota": "KAB. MANDAILING NATAL",
+    "provinsi": "SUMATERA UTARA"
+  },
+  {
+    "no": "9",
+    "kodepos": "22988",
+    "desa_kelurahan": "Sinunukan III",
+    "kecamatan": "Sinunukan",
+    "kabupaten_kota": "KAB. MANDAILING NATAL",
+    "provinsi": "SUMATERA UTARA"
+  },
+  {
+    "no": "10",
+    "kodepos": "22988",
+    "desa_kelurahan": "Kampung Kapas II",
+    "kecamatan": "Sinunukan",
+    "kabupaten_kota": "KAB. MANDAILING NATAL",
+    "provinsi": "SUMATERA UTARA"
+  },
+  {
+    "no": "11",
+    "kodepos": "22988",
+    "desa_kelurahan": "Banjar Aur Utara",
+    "kecamatan": "Sinunukan",
+    "kabupaten_kota": "KAB. MANDAILING NATAL",
+    "provinsi": "SUMATERA UTARA"
+  },
+  {
+    "no": "12",
+    "kodepos": "22988",
+    "desa_kelurahan": "Sinunukan I Central",
+    "kecamatan": "Sinunukan",
+    "kabupaten_kota": "KAB. MANDAILING NATAL",
+    "provinsi": "SUMATERA UTARA"
+  },
+  {
+    "no": "13",
+    "kodepos": "22988",
+    "desa_kelurahan": "Bintungan Bejangkar Baru",
+    "kecamatan": "Sinunukan",
+    "kabupaten_kota": "KAB. MANDAILING NATAL",
+    "provinsi": "SUMATERA UTARA"
+  },
+  {
+    "no": "14",
+    "kodepos": "22988",
+    "desa_kelurahan": "Wono Sari",
+    "kecamatan": "Sinunukan",
+    "kabupaten_kota": "KAB. MANDAILING NATAL",
+    "provinsi": "SUMATERA UTARA"
+  },
+  {
+    "no": "15",
+    "kodepos": "22988",
+    "desa_kelurahan": "Sido Makmur",
+    "kecamatan": "Sinunukan",
+    "kabupaten_kota": "KAB. MANDAILING NATAL",
+    "provinsi": "SUMATERA UTARA"
+  },
+  {
+    "no": "16",
+    "kodepos": "22988",
+    "desa_kelurahan": "Sinunukan VI",
+    "kecamatan": "Batahan",
+    "kabupaten_kota": "KAB. MANDAILING NATAL",
+    "provinsi": "SUMATERA UTARA"
+  },
+  {
+    "no": "17",
+    "kodepos": "77411",
+    "desa_kelurahan": "Nunukan Selatan",
+    "kecamatan": "Nunukan Selatan",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "18",
+    "kodepos": "77412",
+    "desa_kelurahan": "Selisun",
+    "kecamatan": "Nunukan Selatan",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "19",
+    "kodepos": "77413",
+    "desa_kelurahan": "Mansapa",
+    "kecamatan": "Nunukan Selatan",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "20",
+    "kodepos": "77414",
+    "desa_kelurahan": "Tanjung Harapan",
+    "kecamatan": "Nunukan Selatan",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "21",
+    "kodepos": "77421",
+    "desa_kelurahan": "Nunukan Utara",
+    "kecamatan": "Nunukan",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "22",
+    "kodepos": "77422",
+    "desa_kelurahan": "Nunukan Barat",
+    "kecamatan": "Nunukan",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "23",
+    "kodepos": "77423",
+    "desa_kelurahan": "Nunukan Timur",
+    "kecamatan": "Nunukan",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "24",
+    "kodepos": "77424",
+    "desa_kelurahan": "Binusan",
+    "kecamatan": "Nunukan",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "25",
+    "kodepos": "77425",
+    "desa_kelurahan": "Nunukan Tengah",
+    "kecamatan": "Nunukan",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "26",
+    "kodepos": "77426",
+    "desa_kelurahan": "Tabur Lestari",
+    "kecamatan": "Sei Menggaris",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "27",
+    "kodepos": "77427",
+    "desa_kelurahan": "Srinanti",
+    "kecamatan": "Sei Menggaris",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "28",
+    "kodepos": "77428",
+    "desa_kelurahan": "Sekaduyan Taka",
+    "kecamatan": "Sei Menggaris",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "29",
+    "kodepos": "77429",
+    "desa_kelurahan": "Samaenre Semaja",
+    "kecamatan": "Sei Menggaris",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "30",
+    "kodepos": "77431",
+    "desa_kelurahan": "Tanjungkarang",
+    "kecamatan": "Sebatik",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "31",
+    "kodepos": "77431",
+    "desa_kelurahan": "Seberang",
+    "kecamatan": "Sebatik Utara",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "32",
+    "kodepos": "77432",
+    "desa_kelurahan": "Balansiku",
+    "kecamatan": "Sebatik",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "33",
+    "kodepos": "77432",
+    "desa_kelurahan": "Sungai Manurung",
+    "kecamatan": "Sebatik",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "34",
+    "kodepos": "77433",
+    "desa_kelurahan": "Tanjung Aru",
+    "kecamatan": "Sebatik Timur",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "35",
+    "kodepos": "77434",
+    "desa_kelurahan": "Padaidi",
+    "kecamatan": "Sebatik",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "36",
+    "kodepos": "77435",
+    "desa_kelurahan": "Sungai Nyamuk",
+    "kecamatan": "Sebatik Timur",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "37",
+    "kodepos": "77436",
+    "desa_kelurahan": "Bukit Aru Indah",
+    "kecamatan": "Sebatik Timur",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "38",
+    "kodepos": "77437",
+    "desa_kelurahan": "Lapri",
+    "kecamatan": "Sebatik Utara",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "39",
+    "kodepos": "77437",
+    "desa_kelurahan": "Sungai Pancang",
+    "kecamatan": "Sebatik Utara",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "40",
+    "kodepos": "77438",
+    "desa_kelurahan": "Tanjung Harapan",
+    "kecamatan": "Sebatik Timur",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "41",
+    "kodepos": "77441",
+    "desa_kelurahan": "Binalawan",
+    "kecamatan": "Sebatik Barat",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "42",
+    "kodepos": "77442",
+    "desa_kelurahan": "Liang Bunyu",
+    "kecamatan": "Sebatik Barat",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "43",
+    "kodepos": "77443",
+    "desa_kelurahan": "Bambangan",
+    "kecamatan": "Sebatik Barat",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "44",
+    "kodepos": "77444",
+    "desa_kelurahan": "Setabu",
+    "kecamatan": "Sebatik Barat",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "45",
+    "kodepos": "77445",
+    "desa_kelurahan": "Aji Kuning",
+    "kecamatan": "Sebatik Tengah",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "46",
+    "kodepos": "77445",
+    "desa_kelurahan": "Bukit Harapan",
+    "kecamatan": "Sebatik Tengah",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "47",
+    "kodepos": "77446",
+    "desa_kelurahan": "Maspul",
+    "kecamatan": "Sebatik Tengah",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "48",
+    "kodepos": "77447",
+    "desa_kelurahan": "Sungai Limau",
+    "kecamatan": "Sebatik Tengah",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "49",
+    "kodepos": "77453",
+    "desa_kelurahan": "Lubakan",
+    "kecamatan": "Sembakung",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "50",
+    "kodepos": "77453",
+    "desa_kelurahan": "Pagar",
+    "kecamatan": "Sembakung",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "51",
+    "kodepos": "77453",
+    "desa_kelurahan": "Butas Bagu",
+    "kecamatan": "Sembakung",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "52",
+    "kodepos": "77453",
+    "desa_kelurahan": "Tepian",
+    "kecamatan": "Sembakung",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "53",
+    "kodepos": "77453",
+    "desa_kelurahan": "Tujung",
+    "kecamatan": "Sembakung",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "54",
+    "kodepos": "77453",
+    "desa_kelurahan": "Atap",
+    "kecamatan": "Sembakung",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "55",
+    "kodepos": "77453",
+    "desa_kelurahan": "Manuk Bungkul",
+    "kecamatan": "Sembakung",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "56",
+    "kodepos": "77453",
+    "desa_kelurahan": "Tagul",
+    "kecamatan": "Sembakung",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "57",
+    "kodepos": "77453",
+    "desa_kelurahan": "Labuk",
+    "kecamatan": "Sembakung",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "58",
+    "kodepos": "77453",
+    "desa_kelurahan": "Pelaju",
+    "kecamatan": "Sembakung",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "59",
+    "kodepos": "77453",
+    "desa_kelurahan": "Katul",
+    "kecamatan": "Sembakung Atulai",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "60",
+    "kodepos": "77453",
+    "desa_kelurahan": "Pulau Keras",
+    "kecamatan": "Sembakung Atulai",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "61",
+    "kodepos": "77453",
+    "desa_kelurahan": "Binanun",
+    "kecamatan": "Sembakung Atulai",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "62",
+    "kodepos": "77453",
+    "desa_kelurahan": "Tulang",
+    "kecamatan": "Sembakung Atulai",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "63",
+    "kodepos": "77453",
+    "desa_kelurahan": "Mambulu",
+    "kecamatan": "Sembakung Atulai",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "64",
+    "kodepos": "77453",
+    "desa_kelurahan": "Liuk Bulu",
+    "kecamatan": "Sembakung Atulai",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "65",
+    "kodepos": "77453",
+    "desa_kelurahan": "Lubok Buat",
+    "kecamatan": "Sembakung Atulai",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "66",
+    "kodepos": "77453",
+    "desa_kelurahan": "Sabuluan",
+    "kecamatan": "Sembakung Atulai",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "67",
+    "kodepos": "77453",
+    "desa_kelurahan": "Saduman",
+    "kecamatan": "Sembakung Atulai",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "68",
+    "kodepos": "77453",
+    "desa_kelurahan": "Pagaluyon",
+    "kecamatan": "Sembakung Atulai",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "69",
+    "kodepos": "77456",
+    "desa_kelurahan": "Buduk Kinangan",
+    "kecamatan": "Krayan",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "70",
+    "kodepos": "77456",
+    "desa_kelurahan": "Long Nawang",
+    "kecamatan": "Krayan",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "71",
+    "kodepos": "77456",
+    "desa_kelurahan": "Pa Nado",
+    "kecamatan": "Krayan",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "72",
+    "kodepos": "77456",
+    "desa_kelurahan": "Wa Yanud",
+    "kecamatan": "Krayan",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "73",
+    "kodepos": "77456",
+    "desa_kelurahan": "Pa Rupai",
+    "kecamatan": "Krayan",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "74",
+    "kodepos": "77456",
+    "desa_kelurahan": "Liang Tuer",
+    "kecamatan": "Krayan",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "75",
+    "kodepos": "77456",
+    "desa_kelurahan": "Pa Terutun",
+    "kecamatan": "Krayan",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "76",
+    "kodepos": "77456",
+    "desa_kelurahan": "Pa Putuk",
+    "kecamatan": "Krayan",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "77",
+    "kodepos": "77456",
+    "desa_kelurahan": "Long Matung",
+    "kecamatan": "Krayan",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "78",
+    "kodepos": "77456",
+    "desa_kelurahan": "Liang Biadung",
+    "kecamatan": "Krayan",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "79",
+    "kodepos": "77456",
+    "desa_kelurahan": "Wa Laya",
+    "kecamatan": "Krayan",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "80",
+    "kodepos": "77456",
+    "desa_kelurahan": "Liang Butan",
+    "kecamatan": "Krayan",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "81",
+    "kodepos": "77456",
+    "desa_kelurahan": "Long Bawan",
+    "kecamatan": "Krayan",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "82",
+    "kodepos": "77456",
+    "desa_kelurahan": "Pa Matung",
+    "kecamatan": "Krayan",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "83",
+    "kodepos": "77456",
+    "desa_kelurahan": "Buduk Tumu",
+    "kecamatan": "Krayan",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "84",
+    "kodepos": "77456",
+    "desa_kelurahan": "Pa Api",
+    "kecamatan": "Krayan",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "85",
+    "kodepos": "77456",
+    "desa_kelurahan": "Pa Sire",
+    "kecamatan": "Krayan",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "86",
+    "kodepos": "77456",
+    "desa_kelurahan": "Cinglat",
+    "kecamatan": "Krayan",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "87",
+    "kodepos": "77456",
+    "desa_kelurahan": "Ba Sikor",
+    "kecamatan": "Krayan",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "88",
+    "kodepos": "77456",
+    "desa_kelurahan": "Long Berayang",
+    "kecamatan": "Krayan",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "89",
+    "kodepos": "77456",
+    "desa_kelurahan": "Pa Padi",
+    "kecamatan": "Krayan",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "90",
+    "kodepos": "77456",
+    "desa_kelurahan": "Long Rupan",
+    "kecamatan": "Krayan",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "91",
+    "kodepos": "77456",
+    "desa_kelurahan": "Long Katung",
+    "kecamatan": "Krayan",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "92",
+    "kodepos": "77456",
+    "desa_kelurahan": "Bungayan",
+    "kecamatan": "Krayan Timur",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "93",
+    "kodepos": "77456",
+    "desa_kelurahan": "Pa Rangeb",
+    "kecamatan": "Krayan Timur",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "94",
+    "kodepos": "77456",
+    "desa_kelurahan": "Pa Pala",
+    "kecamatan": "Krayan Timur",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "95",
+    "kodepos": "77456",
+    "desa_kelurahan": "Pa Raye",
+    "kecamatan": "Krayan Timur",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "96",
+    "kodepos": "77456",
+    "desa_kelurahan": "Long Umung",
+    "kecamatan": "Krayan Timur",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "97",
+    "kodepos": "77456",
+    "desa_kelurahan": "Pa Pawan",
+    "kecamatan": "Krayan Timur",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "98",
+    "kodepos": "77456",
+    "desa_kelurahan": "Pa Umung",
+    "kecamatan": "Krayan Timur",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "99",
+    "kodepos": "77456",
+    "desa_kelurahan": "Pa Betung",
+    "kecamatan": "Krayan Timur",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "100",
+    "kodepos": "77456",
+    "desa_kelurahan": "Pa Melade",
+    "kecamatan": "Krayan Timur",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "101",
+    "kodepos": "77456",
+    "desa_kelurahan": "Pa Lidung",
+    "kecamatan": "Krayan Timur",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "102",
+    "kodepos": "77456",
+    "desa_kelurahan": "Pa Kebuan",
+    "kecamatan": "Krayan Timur",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "103",
+    "kodepos": "77456",
+    "desa_kelurahan": "Kampung Baru",
+    "kecamatan": "Krayan Timur",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "104",
+    "kodepos": "77456",
+    "desa_kelurahan": "Sinar Baru",
+    "kecamatan": "Krayan Timur",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "105",
+    "kodepos": "77456",
+    "desa_kelurahan": "Wa Yagung",
+    "kecamatan": "Krayan Timur",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "106",
+    "kodepos": "77456",
+    "desa_kelurahan": "Long Sepayang",
+    "kecamatan": "Krayan Timur",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "107",
+    "kodepos": "77456",
+    "desa_kelurahan": "Long Tenem",
+    "kecamatan": "Krayan Timur",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "108",
+    "kodepos": "77456",
+    "desa_kelurahan": "Long Nuat",
+    "kecamatan": "Krayan Timur",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "109",
+    "kodepos": "77456",
+    "desa_kelurahan": "Long Tugul",
+    "kecamatan": "Krayan Barat",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "110",
+    "kodepos": "77456",
+    "desa_kelurahan": "Pa Kemut",
+    "kecamatan": "Krayan Barat",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "111",
+    "kodepos": "77456",
+    "desa_kelurahan": "Pa Pani",
+    "kecamatan": "Krayan Barat",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "112",
+    "kodepos": "77456",
+    "desa_kelurahan": "Ma Libu",
+    "kecamatan": "Krayan Barat",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "113",
+    "kodepos": "77456",
+    "desa_kelurahan": "Lembada",
+    "kecamatan": "Krayan Barat",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "114",
+    "kodepos": "77456",
+    "desa_kelurahan": "Liang Aliq",
+    "kecamatan": "Krayan Barat",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "115",
+    "kodepos": "77456",
+    "desa_kelurahan": "Pa Pirit",
+    "kecamatan": "Krayan Barat",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "116",
+    "kodepos": "77456",
+    "desa_kelurahan": "Long Kabid",
+    "kecamatan": "Krayan Barat",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "117",
+    "kodepos": "77456",
+    "desa_kelurahan": "Sembudud",
+    "kecamatan": "Krayan Barat",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "118",
+    "kodepos": "77456",
+    "desa_kelurahan": "Liang Turan",
+    "kecamatan": "Krayan Barat",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "119",
+    "kodepos": "77456",
+    "desa_kelurahan": "Pa Delung",
+    "kecamatan": "Krayan Barat",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "120",
+    "kodepos": "77456",
+    "desa_kelurahan": "Pa Urud",
+    "kecamatan": "Krayan Barat",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "121",
+    "kodepos": "77456",
+    "desa_kelurahan": "Pa Mering",
+    "kecamatan": "Krayan Barat",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "122",
+    "kodepos": "77456",
+    "desa_kelurahan": "Pa Mulak",
+    "kecamatan": "Krayan Barat",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "123",
+    "kodepos": "77456",
+    "desa_kelurahan": "Long Puak",
+    "kecamatan": "Krayan Barat",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "124",
+    "kodepos": "77456",
+    "desa_kelurahan": "Pa Inan",
+    "kecamatan": "Krayan Barat",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "125",
+    "kodepos": "77456",
+    "desa_kelurahan": "Lepatar",
+    "kecamatan": "Krayan Barat",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "126",
+    "kodepos": "77456",
+    "desa_kelurahan": "Pa Payak",
+    "kecamatan": "Krayan Barat",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "127",
+    "kodepos": "77456",
+    "desa_kelurahan": "Pa Butal",
+    "kecamatan": "Krayan Barat",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "128",
+    "kodepos": "77456",
+    "desa_kelurahan": "Pa Kidang",
+    "kecamatan": "Krayan Barat",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "129",
+    "kodepos": "77456",
+    "desa_kelurahan": "Pa Lutut",
+    "kecamatan": "Krayan Barat",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "130",
+    "kodepos": "77456",
+    "desa_kelurahan": "Long Mangan",
+    "kecamatan": "Krayan Barat",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "131",
+    "kodepos": "77456",
+    "desa_kelurahan": "Buduk Kubul",
+    "kecamatan": "Krayan Barat",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "132",
+    "kodepos": "77456",
+    "desa_kelurahan": "Lembudud",
+    "kecamatan": "Krayan Barat",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "133",
+    "kodepos": "77456",
+    "desa_kelurahan": "Liang Bua",
+    "kecamatan": "Krayan Barat",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "134",
+    "kodepos": "77457",
+    "desa_kelurahan": "Nantukidan",
+    "kecamatan": "Lumbis Pansiangan",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "135",
+    "kodepos": "77457",
+    "desa_kelurahan": "Labang",
+    "kecamatan": "Lumbis Pansiangan",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "136",
+    "kodepos": "77457",
+    "desa_kelurahan": "Sumantipal",
+    "kecamatan": "Lumbis Pansiangan",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "137",
+    "kodepos": "77457",
+    "desa_kelurahan": "Tambalang Hulu",
+    "kecamatan": "Lumbis Pansiangan",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "138",
+    "kodepos": "77457",
+    "desa_kelurahan": "Bokok",
+    "kecamatan": "Lumbis Pansiangan",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "139",
+    "kodepos": "77457",
+    "desa_kelurahan": "Tantalujuk",
+    "kecamatan": "Lumbis Pansiangan",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "140",
+    "kodepos": "77457",
+    "desa_kelurahan": "Bululaun Hilir",
+    "kecamatan": "Lumbis Pansiangan",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "141",
+    "kodepos": "77457",
+    "desa_kelurahan": "Lagas",
+    "kecamatan": "Lumbis Pansiangan",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "142",
+    "kodepos": "77457",
+    "desa_kelurahan": "Kuyo",
+    "kecamatan": "Lumbis Pansiangan",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "143",
+    "kodepos": "77457",
+    "desa_kelurahan": "Sumentobol",
+    "kecamatan": "Lumbis Pansiangan",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "144",
+    "kodepos": "77457",
+    "desa_kelurahan": "Panas",
+    "kecamatan": "Lumbis Pansiangan",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "145",
+    "kodepos": "77457",
+    "desa_kelurahan": "Langgason",
+    "kecamatan": "Lumbis Pansiangan",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "146",
+    "kodepos": "77457",
+    "desa_kelurahan": "Ngawol",
+    "kecamatan": "Lumbis Pansiangan",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "147",
+    "kodepos": "77457",
+    "desa_kelurahan": "Bulan-Bulan",
+    "kecamatan": "Lumbis",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "148",
+    "kodepos": "77457",
+    "desa_kelurahan": "Siawang",
+    "kecamatan": "Lumbis",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "149",
+    "kodepos": "77457",
+    "desa_kelurahan": "Tanjung Hilir",
+    "kecamatan": "Lumbis",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "150",
+    "kodepos": "77457",
+    "desa_kelurahan": "Mansalong",
+    "kecamatan": "Lumbis",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "151",
+    "kodepos": "77457",
+    "desa_kelurahan": "Nainsid",
+    "kecamatan": "Lumbis",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "152",
+    "kodepos": "77457",
+    "desa_kelurahan": "Sasibu",
+    "kecamatan": "Lumbis",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "153",
+    "kodepos": "77457",
+    "desa_kelurahan": "Semalat",
+    "kecamatan": "Lumbis",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "154",
+    "kodepos": "77457",
+    "desa_kelurahan": "Kalampising",
+    "kecamatan": "Lumbis",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "155",
+    "kodepos": "77457",
+    "desa_kelurahan": "Likos",
+    "kecamatan": "Lumbis",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "156",
+    "kodepos": "77457",
+    "desa_kelurahan": "Patal I",
+    "kecamatan": "Lumbis",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "157",
+    "kodepos": "77457",
+    "desa_kelurahan": "Taluan",
+    "kecamatan": "Lumbis",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "158",
+    "kodepos": "77457",
+    "desa_kelurahan": "Sapuyan",
+    "kecamatan": "Lumbis",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "159",
+    "kodepos": "77457",
+    "desa_kelurahan": "Sumalumung",
+    "kecamatan": "Lumbis",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "160",
+    "kodepos": "77457",
+    "desa_kelurahan": "Pulu Bulawan",
+    "kecamatan": "Lumbis",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "161",
+    "kodepos": "77457",
+    "desa_kelurahan": "Podong",
+    "kecamatan": "Lumbis",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "162",
+    "kodepos": "77457",
+    "desa_kelurahan": "Dabulon",
+    "kecamatan": "Lumbis",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "163",
+    "kodepos": "77457",
+    "desa_kelurahan": "Lintong",
+    "kecamatan": "Lumbis",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "164",
+    "kodepos": "77457",
+    "desa_kelurahan": "Patal II",
+    "kecamatan": "Lumbis",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "165",
+    "kodepos": "77457",
+    "desa_kelurahan": "Sangkub",
+    "kecamatan": "Lumbis",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "166",
+    "kodepos": "77457",
+    "desa_kelurahan": "Saludan",
+    "kecamatan": "Lumbis",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "167",
+    "kodepos": "77457",
+    "desa_kelurahan": "Libang",
+    "kecamatan": "Lumbis",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "168",
+    "kodepos": "77457",
+    "desa_kelurahan": "Deralon",
+    "kecamatan": "Lumbis",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "169",
+    "kodepos": "77457",
+    "desa_kelurahan": "Sedongon",
+    "kecamatan": "Lumbis",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "170",
+    "kodepos": "77457",
+    "desa_kelurahan": "Palemumut",
+    "kecamatan": "Lumbis",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "171",
+    "kodepos": "77457",
+    "desa_kelurahan": "Liang",
+    "kecamatan": "Lumbis",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "172",
+    "kodepos": "77457",
+    "desa_kelurahan": "Tanjung Hulu",
+    "kecamatan": "Lumbis",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "173",
+    "kodepos": "77457",
+    "desa_kelurahan": "Paloo",
+    "kecamatan": "Lumbis",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "174",
+    "kodepos": "77457",
+    "desa_kelurahan": "Tubus",
+    "kecamatan": "Lumbis",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "175",
+    "kodepos": "77457",
+    "desa_kelurahan": "Ubol Alung",
+    "kecamatan": "Lumbis Ogong",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "176",
+    "kodepos": "77457",
+    "desa_kelurahan": "Tambalang Hilir",
+    "kecamatan": "Lumbis Ogong",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "177",
+    "kodepos": "77457",
+    "desa_kelurahan": "Ubol Sulok",
+    "kecamatan": "Lumbis Ogong",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "178",
+    "kodepos": "77457",
+    "desa_kelurahan": "Paluan",
+    "kecamatan": "Lumbis Ogong",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "179",
+    "kodepos": "77457",
+    "desa_kelurahan": "Linsayung",
+    "kecamatan": "Lumbis Ogong",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "180",
+    "kodepos": "77457",
+    "desa_kelurahan": "Sinampila I",
+    "kecamatan": "Lumbis Ogong",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "181",
+    "kodepos": "77457",
+    "desa_kelurahan": "Sungoi",
+    "kecamatan": "Lumbis Ogong",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "182",
+    "kodepos": "77457",
+    "desa_kelurahan": "Sinampila II",
+    "kecamatan": "Lumbis Ogong",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "183",
+    "kodepos": "77457",
+    "desa_kelurahan": "Kalambuku",
+    "kecamatan": "Lumbis Ogong",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "184",
+    "kodepos": "77457",
+    "desa_kelurahan": "Tumantalas",
+    "kecamatan": "Lumbis Ogong",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "185",
+    "kodepos": "77457",
+    "desa_kelurahan": "Payang",
+    "kecamatan": "Lumbis Ogong",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "186",
+    "kodepos": "77457",
+    "desa_kelurahan": "Suyadon",
+    "kecamatan": "Lumbis Ogong",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "187",
+    "kodepos": "77457",
+    "desa_kelurahan": "Samunti",
+    "kecamatan": "Lumbis Ogong",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "188",
+    "kodepos": "77457",
+    "desa_kelurahan": "Labuk",
+    "kecamatan": "Lumbis Ogong",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "189",
+    "kodepos": "77457",
+    "desa_kelurahan": "Limpakon",
+    "kecamatan": "Lumbis Ogong",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "190",
+    "kodepos": "77457",
+    "desa_kelurahan": "Batung",
+    "kecamatan": "Lumbis Ogong",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "191",
+    "kodepos": "77457",
+    "desa_kelurahan": "Jukup",
+    "kecamatan": "Lumbis Ogong",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "192",
+    "kodepos": "77457",
+    "desa_kelurahan": "Sedalit",
+    "kecamatan": "Lumbis Ogong",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "193",
+    "kodepos": "77457",
+    "desa_kelurahan": "Bulu Mengolom",
+    "kecamatan": "Lumbis Ogong",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "194",
+    "kodepos": "77457",
+    "desa_kelurahan": "Tukulon",
+    "kecamatan": "Lumbis Ogong",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "195",
+    "kodepos": "77457",
+    "desa_kelurahan": "Nansapan",
+    "kecamatan": "Lumbis Ogong",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "196",
+    "kodepos": "77457",
+    "desa_kelurahan": "Tadungus",
+    "kecamatan": "Lumbis Ogong",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "197",
+    "kodepos": "77457",
+    "desa_kelurahan": "Semata",
+    "kecamatan": "Lumbis Ogong",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "198",
+    "kodepos": "77457",
+    "desa_kelurahan": "Sanal",
+    "kecamatan": "Lumbis Ogong",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "199",
+    "kodepos": "77457",
+    "desa_kelurahan": "Salan",
+    "kecamatan": "Lumbis Ogong",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "200",
+    "kodepos": "77457",
+    "desa_kelurahan": "Long Bulu",
+    "kecamatan": "Lumbis Ogong",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "201",
+    "kodepos": "77457",
+    "desa_kelurahan": "Mamasin",
+    "kecamatan": "Lumbis Hulu",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "202",
+    "kodepos": "77457",
+    "desa_kelurahan": "Tetagas",
+    "kecamatan": "Lumbis Hulu",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "203",
+    "kodepos": "77457",
+    "desa_kelurahan": "Kalisun",
+    "kecamatan": "Lumbis Hulu",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "204",
+    "kodepos": "77457",
+    "desa_kelurahan": "Bululaun Hulu",
+    "kecamatan": "Lumbis Hulu",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "205",
+    "kodepos": "77457",
+    "desa_kelurahan": "Tuntulibing",
+    "kecamatan": "Lumbis Hulu",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "206",
+    "kodepos": "77457",
+    "desa_kelurahan": "Duyan",
+    "kecamatan": "Lumbis Hulu",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "207",
+    "kodepos": "77457",
+    "desa_kelurahan": "Kabungolor",
+    "kecamatan": "Lumbis Hulu",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "208",
+    "kodepos": "77457",
+    "desa_kelurahan": "Tau Lumbis",
+    "kecamatan": "Lumbis Hulu",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "209",
+    "kodepos": "77457",
+    "desa_kelurahan": "Lipaga",
+    "kecamatan": "Lumbis Hulu",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "210",
+    "kodepos": "77457",
+    "desa_kelurahan": "Sibalu",
+    "kecamatan": "Lumbis Hulu",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "211",
+    "kodepos": "77458",
+    "desa_kelurahan": "Long Rungan",
+    "kecamatan": "Krayan Tengah",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "212",
+    "kodepos": "77458",
+    "desa_kelurahan": "Pa Milau",
+    "kecamatan": "Krayan Tengah",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "213",
+    "kodepos": "77458",
+    "desa_kelurahan": "Ba Liku",
+    "kecamatan": "Krayan Tengah",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "214",
+    "kodepos": "77458",
+    "desa_kelurahan": "Long Kelupan",
+    "kecamatan": "Krayan Tengah",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "215",
+    "kodepos": "77458",
+    "desa_kelurahan": "Tang Paye",
+    "kecamatan": "Krayan Tengah",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "216",
+    "kodepos": "77458",
+    "desa_kelurahan": "Tang Badui",
+    "kecamatan": "Krayan Tengah",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "217",
+    "kodepos": "77458",
+    "desa_kelurahan": "Long Rian",
+    "kecamatan": "Krayan Tengah",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "218",
+    "kodepos": "77458",
+    "desa_kelurahan": "Long Mutan",
+    "kecamatan": "Krayan Tengah",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "219",
+    "kodepos": "77458",
+    "desa_kelurahan": "Pa Yalau",
+    "kecamatan": "Krayan Tengah",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "220",
+    "kodepos": "77458",
+    "desa_kelurahan": "Long Padi",
+    "kecamatan": "Krayan Tengah",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "221",
+    "kodepos": "77458",
+    "desa_kelurahan": "Binuang",
+    "kecamatan": "Krayan Tengah",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "222",
+    "kodepos": "77458",
+    "desa_kelurahan": "Pa Amai",
+    "kecamatan": "Krayan Selatan",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "223",
+    "kodepos": "77458",
+    "desa_kelurahan": "Long Pupung",
+    "kecamatan": "Krayan Selatan",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "224",
+    "kodepos": "77458",
+    "desa_kelurahan": "Pa Tera",
+    "kecamatan": "Krayan Selatan",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "225",
+    "kodepos": "77458",
+    "desa_kelurahan": "Pa Dalan",
+    "kecamatan": "Krayan Selatan",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "226",
+    "kodepos": "77458",
+    "desa_kelurahan": "Pa Urang",
+    "kecamatan": "Krayan Selatan",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "227",
+    "kodepos": "77458",
+    "desa_kelurahan": "Pa Sing",
+    "kecamatan": "Krayan Selatan",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "228",
+    "kodepos": "77458",
+    "desa_kelurahan": "Long Pasia",
+    "kecamatan": "Krayan Selatan",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "229",
+    "kodepos": "77458",
+    "desa_kelurahan": "Long Budung",
+    "kecamatan": "Krayan Selatan",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "230",
+    "kodepos": "77458",
+    "desa_kelurahan": "Liang Lunuk",
+    "kecamatan": "Krayan Selatan",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "231",
+    "kodepos": "77458",
+    "desa_kelurahan": "Pa Kaber",
+    "kecamatan": "Krayan Selatan",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "232",
+    "kodepos": "77458",
+    "desa_kelurahan": "Pa Upan",
+    "kecamatan": "Krayan Selatan",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "233",
+    "kodepos": "77458",
+    "desa_kelurahan": "Long Birar",
+    "kecamatan": "Krayan Selatan",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "234",
+    "kodepos": "77458",
+    "desa_kelurahan": "Pa Ibang",
+    "kecamatan": "Krayan Selatan",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "235",
+    "kodepos": "77491",
+    "desa_kelurahan": "Harapan",
+    "kecamatan": "Sebuku",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "236",
+    "kodepos": "77491",
+    "desa_kelurahan": "Melasu Baru",
+    "kecamatan": "Sebuku",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "237",
+    "kodepos": "77491",
+    "desa_kelurahan": "Apas",
+    "kecamatan": "Sebuku",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "238",
+    "kodepos": "77491",
+    "desa_kelurahan": "Tetaban",
+    "kecamatan": "Sebuku",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "239",
+    "kodepos": "77491",
+    "desa_kelurahan": "Lulu",
+    "kecamatan": "Sebuku",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "240",
+    "kodepos": "77491",
+    "desa_kelurahan": "Pembeliangan",
+    "kecamatan": "Sebuku",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "241",
+    "kodepos": "77491",
+    "desa_kelurahan": "Kunyit",
+    "kecamatan": "Sebuku",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "242",
+    "kodepos": "77491",
+    "desa_kelurahan": "Bebanas",
+    "kecamatan": "Sebuku",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "243",
+    "kodepos": "77491",
+    "desa_kelurahan": "Kekayap",
+    "kecamatan": "Sebuku",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "244",
+    "kodepos": "77491",
+    "desa_kelurahan": "Sujau",
+    "kecamatan": "Sebuku",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "245",
+    "kodepos": "77491",
+    "desa_kelurahan": "Semunad",
+    "kecamatan": "Tulin Onsoi",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "246",
+    "kodepos": "77491",
+    "desa_kelurahan": "Tembalang",
+    "kecamatan": "Tulin Onsoi",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "247",
+    "kodepos": "77491",
+    "desa_kelurahan": "Makmur",
+    "kecamatan": "Tulin Onsoi",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "248",
+    "kodepos": "77491",
+    "desa_kelurahan": "Sekikilan",
+    "kecamatan": "Tulin Onsoi",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "249",
+    "kodepos": "77491",
+    "desa_kelurahan": "Kalunsayan",
+    "kecamatan": "Tulin Onsoi",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "250",
+    "kodepos": "77491",
+    "desa_kelurahan": "Salang",
+    "kecamatan": "Tulin Onsoi",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "251",
+    "kodepos": "77491",
+    "desa_kelurahan": "Tau Baru",
+    "kecamatan": "Tulin Onsoi",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "252",
+    "kodepos": "77491",
+    "desa_kelurahan": "Tinampak I",
+    "kecamatan": "Tulin Onsoi",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "253",
+    "kodepos": "77491",
+    "desa_kelurahan": "Balatikon",
+    "kecamatan": "Tulin Onsoi",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "254",
+    "kodepos": "77491",
+    "desa_kelurahan": "Sanur",
+    "kecamatan": "Tulin Onsoi",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "255",
+    "kodepos": "77491",
+    "desa_kelurahan": "Tinampak II",
+    "kecamatan": "Tulin Onsoi",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "256",
+    "kodepos": "77491",
+    "desa_kelurahan": "Naputi",
+    "kecamatan": "Tulin Onsoi",
+    "kabupaten_kota": "KAB. NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "1",
+    "kodepos": "77111",
+    "desa_kelurahan": "Karang Harapan",
+    "kecamatan": "Tarakan Barat",
+    "kabupaten_kota": "KOTA TARAKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "2",
+    "kodepos": "77111",
+    "desa_kelurahan": "Karang Anyar",
+    "kecamatan": "Tarakan Barat",
+    "kabupaten_kota": "KOTA TARAKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "3",
+    "kodepos": "77111",
+    "desa_kelurahan": "Karang Anyar Pantai",
+    "kecamatan": "Tarakan Barat",
+    "kabupaten_kota": "KOTA TARAKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "4",
+    "kodepos": "77112",
+    "desa_kelurahan": "Karang Balik",
+    "kecamatan": "Tarakan Barat",
+    "kabupaten_kota": "KOTA TARAKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "5",
+    "kodepos": "77112",
+    "desa_kelurahan": "Karang Rejo",
+    "kecamatan": "Tarakan Barat",
+    "kabupaten_kota": "KOTA TARAKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "6",
+    "kodepos": "77113",
+    "desa_kelurahan": "Selumit Pantai",
+    "kecamatan": "Tarakan Tengah",
+    "kabupaten_kota": "KOTA TARAKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "7",
+    "kodepos": "77113",
+    "desa_kelurahan": "Selumit",
+    "kecamatan": "Tarakan Tengah",
+    "kabupaten_kota": "KOTA TARAKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "8",
+    "kodepos": "77114",
+    "desa_kelurahan": "Pamusian",
+    "kecamatan": "Tarakan Tengah",
+    "kabupaten_kota": "KOTA TARAKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "9",
+    "kodepos": "77114",
+    "desa_kelurahan": "Sebengkok",
+    "kecamatan": "Tarakan Tengah",
+    "kabupaten_kota": "KOTA TARAKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "10",
+    "kodepos": "77114",
+    "desa_kelurahan": "Kampung I Skip",
+    "kecamatan": "Tarakan Tengah",
+    "kabupaten_kota": "KOTA TARAKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "11",
+    "kodepos": "77116",
+    "desa_kelurahan": "Juata Kerikil",
+    "kecamatan": "Tarakan Utara",
+    "kabupaten_kota": "KOTA TARAKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "12",
+    "kodepos": "77116",
+    "desa_kelurahan": "Juata Permai",
+    "kecamatan": "Tarakan Utara",
+    "kabupaten_kota": "KOTA TARAKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "13",
+    "kodepos": "77116",
+    "desa_kelurahan": "Juata Laut",
+    "kecamatan": "Tarakan Utara",
+    "kabupaten_kota": "KOTA TARAKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "14",
+    "kodepos": "77123",
+    "desa_kelurahan": "Kampung Enam",
+    "kecamatan": "Tarakan Timur",
+    "kabupaten_kota": "KOTA TARAKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "15",
+    "kodepos": "77123",
+    "desa_kelurahan": "Pantai Amal",
+    "kecamatan": "Tarakan Timur",
+    "kabupaten_kota": "KOTA TARAKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "16",
+    "kodepos": "77124",
+    "desa_kelurahan": "Kampung Empat",
+    "kecamatan": "Tarakan Timur",
+    "kabupaten_kota": "KOTA TARAKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "17",
+    "kodepos": "77125",
+    "desa_kelurahan": "Mamburungan",
+    "kecamatan": "Tarakan Timur",
+    "kabupaten_kota": "KOTA TARAKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "18",
+    "kodepos": "77125",
+    "desa_kelurahan": "Mamburungan Timur",
+    "kecamatan": "Tarakan Timur",
+    "kabupaten_kota": "KOTA TARAKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "19",
+    "kodepos": "77126",
+    "desa_kelurahan": "Gunung Lingkas",
+    "kecamatan": "Tarakan Timur",
+    "kabupaten_kota": "KOTA TARAKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": "20",
+    "kodepos": "77126",
+    "desa_kelurahan": "Lingkas Ujung",
+    "kecamatan": "Tarakan Timur",
+    "kabupaten_kota": "KOTA TARAKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  }
+]

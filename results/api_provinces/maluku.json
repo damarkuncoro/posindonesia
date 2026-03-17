@@ -1,0 +1,4018 @@
+[
+  {
+    "no": "1",
+    "kodepos": "97441",
+    "desa_kelurahan": "Kehli",
+    "kecamatan": "Damer",
+    "kabupaten_kota": "KAB. MALUKU BARAT DAYA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "2",
+    "kodepos": "97441",
+    "desa_kelurahan": "Batu Merah",
+    "kecamatan": "Damer",
+    "kabupaten_kota": "KAB. MALUKU BARAT DAYA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "3",
+    "kodepos": "97441",
+    "desa_kelurahan": "Ilih",
+    "kecamatan": "Damer",
+    "kabupaten_kota": "KAB. MALUKU BARAT DAYA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "4",
+    "kodepos": "97441",
+    "desa_kelurahan": "Kumur",
+    "kecamatan": "Damer",
+    "kabupaten_kota": "KAB. MALUKU BARAT DAYA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "5",
+    "kodepos": "97441",
+    "desa_kelurahan": "Wulur",
+    "kecamatan": "Damer",
+    "kabupaten_kota": "KAB. MALUKU BARAT DAYA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "6",
+    "kodepos": "97441",
+    "desa_kelurahan": "Bebar Timur",
+    "kecamatan": "Damer",
+    "kabupaten_kota": "KAB. MALUKU BARAT DAYA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "7",
+    "kodepos": "97441",
+    "desa_kelurahan": "Kuaimelu",
+    "kecamatan": "Damer",
+    "kabupaten_kota": "KAB. MALUKU BARAT DAYA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "8",
+    "kodepos": "97451",
+    "desa_kelurahan": "Nurnyaman",
+    "kecamatan": "Dawelor Dawera",
+    "kabupaten_kota": "KAB. MALUKU BARAT DAYA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "9",
+    "kodepos": "97451",
+    "desa_kelurahan": "Ilmarang",
+    "kecamatan": "Dawelor Dawera",
+    "kabupaten_kota": "KAB. MALUKU BARAT DAYA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "10",
+    "kodepos": "97451",
+    "desa_kelurahan": "Watuwei",
+    "kecamatan": "Dawelor Dawera",
+    "kabupaten_kota": "KAB. MALUKU BARAT DAYA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "11",
+    "kodepos": "97451",
+    "desa_kelurahan": "Letmasa",
+    "kecamatan": "Dawelor Dawera",
+    "kabupaten_kota": "KAB. MALUKU BARAT DAYA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "12",
+    "kodepos": "97451",
+    "desa_kelurahan": "Wiratan",
+    "kecamatan": "Dawelor Dawera",
+    "kabupaten_kota": "KAB. MALUKU BARAT DAYA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "13",
+    "kodepos": "97451",
+    "desa_kelurahan": "Welora",
+    "kecamatan": "Dawelor Dawera",
+    "kabupaten_kota": "KAB. MALUKU BARAT DAYA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "14",
+    "kodepos": "97451",
+    "desa_kelurahan": "Nura",
+    "kecamatan": "Pulau Masela",
+    "kabupaten_kota": "KAB. MALUKU BARAT DAYA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "15",
+    "kodepos": "97451",
+    "desa_kelurahan": "Lawawang",
+    "kecamatan": "Pulau Masela",
+    "kabupaten_kota": "KAB. MALUKU BARAT DAYA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "16",
+    "kodepos": "97451",
+    "desa_kelurahan": "Iblatmuntah",
+    "kecamatan": "Pulau Masela",
+    "kabupaten_kota": "KAB. MALUKU BARAT DAYA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "17",
+    "kodepos": "97451",
+    "desa_kelurahan": "Marsela",
+    "kecamatan": "Pulau Masela",
+    "kabupaten_kota": "KAB. MALUKU BARAT DAYA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "18",
+    "kodepos": "97451",
+    "desa_kelurahan": "Telalora",
+    "kecamatan": "Pulau Masela",
+    "kabupaten_kota": "KAB. MALUKU BARAT DAYA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "19",
+    "kodepos": "97451",
+    "desa_kelurahan": "Latalola Kecil",
+    "kecamatan": "Pulau Masela",
+    "kabupaten_kota": "KAB. MALUKU BARAT DAYA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "20",
+    "kodepos": "97451",
+    "desa_kelurahan": "Latalola Besar",
+    "kecamatan": "Pulau Masela",
+    "kabupaten_kota": "KAB. MALUKU BARAT DAYA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "21",
+    "kodepos": "97451",
+    "desa_kelurahan": "Ilbutung",
+    "kecamatan": "Pulau Masela",
+    "kabupaten_kota": "KAB. MALUKU BARAT DAYA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "22",
+    "kodepos": "97451",
+    "desa_kelurahan": "Serili",
+    "kecamatan": "Pulau Masela",
+    "kabupaten_kota": "KAB. MALUKU BARAT DAYA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "23",
+    "kodepos": "97451",
+    "desa_kelurahan": "Babiotang",
+    "kecamatan": "Pulau Masela",
+    "kabupaten_kota": "KAB. MALUKU BARAT DAYA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "24",
+    "kodepos": "97451",
+    "desa_kelurahan": "Bululora",
+    "kecamatan": "Pulau Masela",
+    "kabupaten_kota": "KAB. MALUKU BARAT DAYA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "25",
+    "kodepos": "97451",
+    "desa_kelurahan": "Kokwari",
+    "kecamatan": "Pulau-pulau Babar Timur",
+    "kabupaten_kota": "KAB. MALUKU BARAT DAYA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "26",
+    "kodepos": "97451",
+    "desa_kelurahan": "Nakarhamto",
+    "kecamatan": "Pulau-pulau Babar Timur",
+    "kabupaten_kota": "KAB. MALUKU BARAT DAYA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "27",
+    "kodepos": "97451",
+    "desa_kelurahan": "Ahanari",
+    "kecamatan": "Pulau-pulau Babar Timur",
+    "kabupaten_kota": "KAB. MALUKU BARAT DAYA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "28",
+    "kodepos": "97451",
+    "desa_kelurahan": "Emplawas",
+    "kecamatan": "Pulau-pulau Babar Timur",
+    "kabupaten_kota": "KAB. MALUKU BARAT DAYA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "29",
+    "kodepos": "97451",
+    "desa_kelurahan": "Analutur",
+    "kecamatan": "Pulau-pulau Babar Timur",
+    "kabupaten_kota": "KAB. MALUKU BARAT DAYA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "30",
+    "kodepos": "97451",
+    "desa_kelurahan": "Kroing",
+    "kecamatan": "Pulau-pulau Babar Timur",
+    "kabupaten_kota": "KAB. MALUKU BARAT DAYA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "31",
+    "kodepos": "97451",
+    "desa_kelurahan": "Wakpapapi",
+    "kecamatan": "Pulau-pulau Babar Timur",
+    "kabupaten_kota": "KAB. MALUKU BARAT DAYA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "32",
+    "kodepos": "97451",
+    "desa_kelurahan": "Manuweri",
+    "kecamatan": "Pulau-pulau Babar Timur",
+    "kabupaten_kota": "KAB. MALUKU BARAT DAYA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "33",
+    "kodepos": "97451",
+    "desa_kelurahan": "Yatoke",
+    "kecamatan": "Pulau-pulau Babar Timur",
+    "kabupaten_kota": "KAB. MALUKU BARAT DAYA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "34",
+    "kodepos": "97451",
+    "desa_kelurahan": "Tutuwawang",
+    "kecamatan": "Pulau-pulau Babar Timur",
+    "kabupaten_kota": "KAB. MALUKU BARAT DAYA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "35",
+    "kodepos": "97451",
+    "desa_kelurahan": "Letwurung",
+    "kecamatan": "Pulau-pulau Babar Timur",
+    "kabupaten_kota": "KAB. MALUKU BARAT DAYA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "36",
+    "kodepos": "97452",
+    "desa_kelurahan": "Pota Kecil",
+    "kecamatan": "Pulau Wetang",
+    "kabupaten_kota": "KAB. MALUKU BARAT DAYA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "37",
+    "kodepos": "97452",
+    "desa_kelurahan": "Rumahlewang Besar",
+    "kecamatan": "Pulau Wetang",
+    "kabupaten_kota": "KAB. MALUKU BARAT DAYA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "38",
+    "kodepos": "97452",
+    "desa_kelurahan": "Wanuwui",
+    "kecamatan": "Pulau-Pulau Babar",
+    "kabupaten_kota": "KAB. MALUKU BARAT DAYA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "39",
+    "kodepos": "97452",
+    "desa_kelurahan": "Hertuti",
+    "kecamatan": "Pulau-Pulau Babar",
+    "kabupaten_kota": "KAB. MALUKU BARAT DAYA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "40",
+    "kodepos": "97452",
+    "desa_kelurahan": "Tela",
+    "kecamatan": "Pulau-Pulau Babar",
+    "kabupaten_kota": "KAB. MALUKU BARAT DAYA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "41",
+    "kodepos": "97452",
+    "desa_kelurahan": "Herley",
+    "kecamatan": "Pulau Wetang",
+    "kabupaten_kota": "KAB. MALUKU BARAT DAYA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "42",
+    "kodepos": "97452",
+    "desa_kelurahan": "Nusiata",
+    "kecamatan": "Pulau Wetang",
+    "kabupaten_kota": "KAB. MALUKU BARAT DAYA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "43",
+    "kodepos": "97452",
+    "desa_kelurahan": "Yaltubung",
+    "kecamatan": "Pulau-Pulau Babar",
+    "kabupaten_kota": "KAB. MALUKU BARAT DAYA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "44",
+    "kodepos": "97452",
+    "desa_kelurahan": "Pota Besar",
+    "kecamatan": "Pulau Wetang",
+    "kabupaten_kota": "KAB. MALUKU BARAT DAYA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "45",
+    "kodepos": "97452",
+    "desa_kelurahan": "Lewah",
+    "kecamatan": "Pulau-Pulau Babar",
+    "kabupaten_kota": "KAB. MALUKU BARAT DAYA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "46",
+    "kodepos": "97452",
+    "desa_kelurahan": "Tepa",
+    "kecamatan": "Pulau-Pulau Babar",
+    "kabupaten_kota": "KAB. MALUKU BARAT DAYA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "47",
+    "kodepos": "97452",
+    "desa_kelurahan": "Imroing",
+    "kecamatan": "Pulau-Pulau Babar",
+    "kabupaten_kota": "KAB. MALUKU BARAT DAYA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "48",
+    "kodepos": "97452",
+    "desa_kelurahan": "Upuhupun",
+    "kecamatan": "Pulau Wetang",
+    "kabupaten_kota": "KAB. MALUKU BARAT DAYA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "49",
+    "kodepos": "97452",
+    "desa_kelurahan": "Rumahlewang Kecil",
+    "kecamatan": "Pulau Wetang",
+    "kabupaten_kota": "KAB. MALUKU BARAT DAYA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "50",
+    "kodepos": "97452",
+    "desa_kelurahan": "Sinairusi",
+    "kecamatan": "Pulau-Pulau Babar",
+    "kabupaten_kota": "KAB. MALUKU BARAT DAYA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "51",
+    "kodepos": "97452",
+    "desa_kelurahan": "Wasarili",
+    "kecamatan": "Pulau Wetang",
+    "kabupaten_kota": "KAB. MALUKU BARAT DAYA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "52",
+    "kodepos": "97452",
+    "desa_kelurahan": "Letsiara",
+    "kecamatan": "Pulau-Pulau Babar",
+    "kabupaten_kota": "KAB. MALUKU BARAT DAYA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "53",
+    "kodepos": "97452",
+    "desa_kelurahan": "Regoha",
+    "kecamatan": "Mndona Hiera",
+    "kabupaten_kota": "KAB. MALUKU BARAT DAYA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "54",
+    "kodepos": "97452",
+    "desa_kelurahan": "Pupliora",
+    "kecamatan": "Mndona Hiera",
+    "kabupaten_kota": "KAB. MALUKU BARAT DAYA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "55",
+    "kodepos": "97452",
+    "desa_kelurahan": "Lelang",
+    "kecamatan": "Mndona Hiera",
+    "kabupaten_kota": "KAB. MALUKU BARAT DAYA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "56",
+    "kodepos": "97452",
+    "desa_kelurahan": "Mahaleta",
+    "kecamatan": "Mndona Hiera",
+    "kabupaten_kota": "KAB. MALUKU BARAT DAYA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "57",
+    "kodepos": "97452",
+    "desa_kelurahan": "Romdara",
+    "kecamatan": "Mndona Hiera",
+    "kabupaten_kota": "KAB. MALUKU BARAT DAYA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "58",
+    "kodepos": "97452",
+    "desa_kelurahan": "Luang Timur",
+    "kecamatan": "Mndona Hiera",
+    "kabupaten_kota": "KAB. MALUKU BARAT DAYA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "59",
+    "kodepos": "97452",
+    "desa_kelurahan": "Elo",
+    "kecamatan": "Mndona Hiera",
+    "kabupaten_kota": "KAB. MALUKU BARAT DAYA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "60",
+    "kodepos": "97452",
+    "desa_kelurahan": "Rumkisar",
+    "kecamatan": "Mndona Hiera",
+    "kabupaten_kota": "KAB. MALUKU BARAT DAYA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "61",
+    "kodepos": "97452",
+    "desa_kelurahan": "Batugajah",
+    "kecamatan": "Mndona Hiera",
+    "kabupaten_kota": "KAB. MALUKU BARAT DAYA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "62",
+    "kodepos": "97452",
+    "desa_kelurahan": "Luang Barat",
+    "kecamatan": "Mndona Hiera",
+    "kabupaten_kota": "KAB. MALUKU BARAT DAYA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "63",
+    "kodepos": "97452",
+    "desa_kelurahan": "Rotnama",
+    "kecamatan": "Mndona Hiera",
+    "kabupaten_kota": "KAB. MALUKU BARAT DAYA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "64",
+    "kodepos": "97453",
+    "desa_kelurahan": "Wakarleli",
+    "kecamatan": "Moa Lakor",
+    "kabupaten_kota": "KAB. MALUKU BARAT DAYA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "65",
+    "kodepos": "97453",
+    "desa_kelurahan": "Kaiwatu",
+    "kecamatan": "Moa Lakor",
+    "kabupaten_kota": "KAB. MALUKU BARAT DAYA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "66",
+    "kodepos": "97453",
+    "desa_kelurahan": "Klis",
+    "kecamatan": "Moa Lakor",
+    "kabupaten_kota": "KAB. MALUKU BARAT DAYA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "67",
+    "kodepos": "97453",
+    "desa_kelurahan": "Patti",
+    "kecamatan": "Moa Lakor",
+    "kabupaten_kota": "KAB. MALUKU BARAT DAYA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "68",
+    "kodepos": "97453",
+    "desa_kelurahan": "Tiakur",
+    "kecamatan": "Moa Lakor",
+    "kabupaten_kota": "KAB. MALUKU BARAT DAYA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "69",
+    "kodepos": "97453",
+    "desa_kelurahan": "Tounwawan",
+    "kecamatan": "Moa Lakor",
+    "kabupaten_kota": "KAB. MALUKU BARAT DAYA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "70",
+    "kodepos": "97453",
+    "desa_kelurahan": "Werwaru",
+    "kecamatan": "Moa Lakor",
+    "kabupaten_kota": "KAB. MALUKU BARAT DAYA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "71",
+    "kodepos": "97453",
+    "desa_kelurahan": "Moain",
+    "kecamatan": "Moa Lakor",
+    "kabupaten_kota": "KAB. MALUKU BARAT DAYA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "72",
+    "kodepos": "97453",
+    "desa_kelurahan": "Batumiau",
+    "kecamatan": "Pulau Leti",
+    "kabupaten_kota": "KAB. MALUKU BARAT DAYA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "73",
+    "kodepos": "97453",
+    "desa_kelurahan": "Luhuely",
+    "kecamatan": "Pulau Leti",
+    "kabupaten_kota": "KAB. MALUKU BARAT DAYA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "74",
+    "kodepos": "97453",
+    "desa_kelurahan": "Ketty",
+    "kecamatan": "Pulau Lakor",
+    "kabupaten_kota": "KAB. MALUKU BARAT DAYA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "75",
+    "kodepos": "97453",
+    "desa_kelurahan": "Lolotuara",
+    "kecamatan": "Pulau Lakor",
+    "kabupaten_kota": "KAB. MALUKU BARAT DAYA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "76",
+    "kodepos": "97453",
+    "desa_kelurahan": "Sera",
+    "kecamatan": "Pulau Lakor",
+    "kabupaten_kota": "KAB. MALUKU BARAT DAYA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "77",
+    "kodepos": "97453",
+    "desa_kelurahan": "Tutukey",
+    "kecamatan": "Pulau Leti",
+    "kabupaten_kota": "KAB. MALUKU BARAT DAYA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "78",
+    "kodepos": "97453",
+    "desa_kelurahan": "Laitutun",
+    "kecamatan": "Pulau Leti",
+    "kabupaten_kota": "KAB. MALUKU BARAT DAYA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "79",
+    "kodepos": "97453",
+    "desa_kelurahan": "Yamluli",
+    "kecamatan": "Pulau Lakor",
+    "kabupaten_kota": "KAB. MALUKU BARAT DAYA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "80",
+    "kodepos": "97453",
+    "desa_kelurahan": "Tutuwaru",
+    "kecamatan": "Pulau Leti",
+    "kabupaten_kota": "KAB. MALUKU BARAT DAYA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "81",
+    "kodepos": "97453",
+    "desa_kelurahan": "Tomra",
+    "kecamatan": "Pulau Leti",
+    "kabupaten_kota": "KAB. MALUKU BARAT DAYA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "82",
+    "kodepos": "97453",
+    "desa_kelurahan": "Nuwewang",
+    "kecamatan": "Pulau Leti",
+    "kabupaten_kota": "KAB. MALUKU BARAT DAYA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "83",
+    "kodepos": "97453",
+    "desa_kelurahan": "Letoda",
+    "kecamatan": "Pulau Lakor",
+    "kabupaten_kota": "KAB. MALUKU BARAT DAYA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "84",
+    "kodepos": "97454",
+    "desa_kelurahan": "Oirata Barat",
+    "kecamatan": "Pulau-pulau Terselatan",
+    "kabupaten_kota": "KAB. MALUKU BARAT DAYA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "85",
+    "kodepos": "97454",
+    "desa_kelurahan": "Abusur",
+    "kecamatan": "Pulau-pulau Terselatan",
+    "kabupaten_kota": "KAB. MALUKU BARAT DAYA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "86",
+    "kodepos": "97454",
+    "desa_kelurahan": "Oirata Timur",
+    "kecamatan": "Pulau-pulau Terselatan",
+    "kabupaten_kota": "KAB. MALUKU BARAT DAYA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "87",
+    "kodepos": "97454",
+    "desa_kelurahan": "Lekloor",
+    "kecamatan": "Pulau-pulau Terselatan",
+    "kabupaten_kota": "KAB. MALUKU BARAT DAYA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "88",
+    "kodepos": "97454",
+    "desa_kelurahan": "Kota Lama",
+    "kecamatan": "Pulau-pulau Terselatan",
+    "kabupaten_kota": "KAB. MALUKU BARAT DAYA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "89",
+    "kodepos": "97454",
+    "desa_kelurahan": "Wonreli",
+    "kecamatan": "Pulau-pulau Terselatan",
+    "kabupaten_kota": "KAB. MALUKU BARAT DAYA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "90",
+    "kodepos": "97454",
+    "desa_kelurahan": "Solath",
+    "kecamatan": "Kepulauan Romang",
+    "kabupaten_kota": "KAB. MALUKU BARAT DAYA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "91",
+    "kodepos": "97454",
+    "desa_kelurahan": "Hila",
+    "kecamatan": "Kepulauan Romang",
+    "kabupaten_kota": "KAB. MALUKU BARAT DAYA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "92",
+    "kodepos": "97454",
+    "desa_kelurahan": "Jerusu",
+    "kecamatan": "Kepulauan Romang",
+    "kabupaten_kota": "KAB. MALUKU BARAT DAYA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "93",
+    "kodepos": "97454",
+    "desa_kelurahan": "Purpura",
+    "kecamatan": "Kisar Utara",
+    "kabupaten_kota": "KAB. MALUKU BARAT DAYA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "94",
+    "kodepos": "97454",
+    "desa_kelurahan": "Nomaha",
+    "kecamatan": "Kisar Utara",
+    "kabupaten_kota": "KAB. MALUKU BARAT DAYA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "95",
+    "kodepos": "97454",
+    "desa_kelurahan": "Labelau",
+    "kecamatan": "Kisar Utara",
+    "kabupaten_kota": "KAB. MALUKU BARAT DAYA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "96",
+    "kodepos": "97455",
+    "desa_kelurahan": "Ustutun",
+    "kecamatan": "Wetar Barat",
+    "kabupaten_kota": "KAB. MALUKU BARAT DAYA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "97",
+    "kodepos": "97455",
+    "desa_kelurahan": "Karbubu",
+    "kecamatan": "Wetar Barat",
+    "kabupaten_kota": "KAB. MALUKU BARAT DAYA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "98",
+    "kodepos": "97455",
+    "desa_kelurahan": "Klishatu",
+    "kecamatan": "Wetar Barat",
+    "kabupaten_kota": "KAB. MALUKU BARAT DAYA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "99",
+    "kodepos": "97455",
+    "desa_kelurahan": "Ilmamau",
+    "kecamatan": "Wetar Barat",
+    "kabupaten_kota": "KAB. MALUKU BARAT DAYA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "100",
+    "kodepos": "97455",
+    "desa_kelurahan": "Telemar",
+    "kecamatan": "Wetar Barat",
+    "kabupaten_kota": "KAB. MALUKU BARAT DAYA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "101",
+    "kodepos": "97455",
+    "desa_kelurahan": "Ilway",
+    "kecamatan": "Wetar Timur",
+    "kabupaten_kota": "KAB. MALUKU BARAT DAYA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "102",
+    "kodepos": "97455",
+    "desa_kelurahan": "Tomliapat",
+    "kecamatan": "Wetar Timur",
+    "kabupaten_kota": "KAB. MALUKU BARAT DAYA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "103",
+    "kodepos": "97455",
+    "desa_kelurahan": "Moning",
+    "kecamatan": "Wetar Timur",
+    "kabupaten_kota": "KAB. MALUKU BARAT DAYA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "104",
+    "kodepos": "97455",
+    "desa_kelurahan": "Kahilin",
+    "kecamatan": "Wetar Timur",
+    "kabupaten_kota": "KAB. MALUKU BARAT DAYA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "105",
+    "kodepos": "97455",
+    "desa_kelurahan": "Arwala",
+    "kecamatan": "Wetar Timur",
+    "kabupaten_kota": "KAB. MALUKU BARAT DAYA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "106",
+    "kodepos": "97455",
+    "desa_kelurahan": "Ilpokil",
+    "kecamatan": "Wetar Timur",
+    "kabupaten_kota": "KAB. MALUKU BARAT DAYA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "107",
+    "kodepos": "97455",
+    "desa_kelurahan": "Naumatang",
+    "kecamatan": "Wetar Utara",
+    "kabupaten_kota": "KAB. MALUKU BARAT DAYA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "108",
+    "kodepos": "97455",
+    "desa_kelurahan": "Eray",
+    "kecamatan": "Wetar Utara",
+    "kabupaten_kota": "KAB. MALUKU BARAT DAYA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "109",
+    "kodepos": "97455",
+    "desa_kelurahan": "Lurang",
+    "kecamatan": "Wetar Utara",
+    "kabupaten_kota": "KAB. MALUKU BARAT DAYA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "110",
+    "kodepos": "97455",
+    "desa_kelurahan": "Nabar",
+    "kecamatan": "Wetar Utara",
+    "kabupaten_kota": "KAB. MALUKU BARAT DAYA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "111",
+    "kodepos": "97455",
+    "desa_kelurahan": "Uhak",
+    "kecamatan": "Wetar Utara",
+    "kabupaten_kota": "KAB. MALUKU BARAT DAYA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "112",
+    "kodepos": "97455",
+    "desa_kelurahan": "Elsulith",
+    "kecamatan": "Wetar Utara",
+    "kabupaten_kota": "KAB. MALUKU BARAT DAYA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "113",
+    "kodepos": "97455",
+    "desa_kelurahan": "Ilwaki",
+    "kecamatan": "Wetar",
+    "kabupaten_kota": "KAB. MALUKU BARAT DAYA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "114",
+    "kodepos": "97455",
+    "desa_kelurahan": "Mahuan",
+    "kecamatan": "Wetar",
+    "kabupaten_kota": "KAB. MALUKU BARAT DAYA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "115",
+    "kodepos": "97455",
+    "desa_kelurahan": "Amau",
+    "kecamatan": "Wetar",
+    "kabupaten_kota": "KAB. MALUKU BARAT DAYA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "116",
+    "kodepos": "97455",
+    "desa_kelurahan": "Hiay",
+    "kecamatan": "Wetar",
+    "kabupaten_kota": "KAB. MALUKU BARAT DAYA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "117",
+    "kodepos": "97455",
+    "desa_kelurahan": "Ilputih",
+    "kecamatan": "Wetar",
+    "kabupaten_kota": "KAB. MALUKU BARAT DAYA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "118",
+    "kodepos": "97455",
+    "desa_kelurahan": "Masapun",
+    "kecamatan": "Wetar",
+    "kabupaten_kota": "KAB. MALUKU BARAT DAYA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "119",
+    "kodepos": "97511",
+    "desa_kelurahan": "Namaelo",
+    "kecamatan": "Kota Masohi",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "120",
+    "kodepos": "97512",
+    "desa_kelurahan": "Namasina",
+    "kecamatan": "Kota Masohi",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "121",
+    "kodepos": "97513",
+    "desa_kelurahan": "Ampera",
+    "kecamatan": "Kota Masohi",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "122",
+    "kodepos": "97514",
+    "desa_kelurahan": "Lesane",
+    "kecamatan": "Kota Masohi",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "123",
+    "kodepos": "97515",
+    "desa_kelurahan": "Letwaru",
+    "kecamatan": "Kota Masohi",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "124",
+    "kodepos": "97542",
+    "desa_kelurahan": "Liliboy",
+    "kecamatan": "Leihitu Barat",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "125",
+    "kodepos": "97542",
+    "desa_kelurahan": "Larike",
+    "kecamatan": "Leihitu Barat",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "126",
+    "kodepos": "97542",
+    "desa_kelurahan": "Wakasihu",
+    "kecamatan": "Leihitu Barat",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "127",
+    "kodepos": "97542",
+    "desa_kelurahan": "Allang",
+    "kecamatan": "Leihitu Barat",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "128",
+    "kodepos": "97542",
+    "desa_kelurahan": "Hatu",
+    "kecamatan": "Leihitu Barat",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "129",
+    "kodepos": "97543",
+    "desa_kelurahan": "Kaitetu",
+    "kecamatan": "Leihitu",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "130",
+    "kodepos": "97543",
+    "desa_kelurahan": "Mamala",
+    "kecamatan": "Leihitu",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "131",
+    "kodepos": "97543",
+    "desa_kelurahan": "Seith",
+    "kecamatan": "Leihitu",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "132",
+    "kodepos": "97543",
+    "desa_kelurahan": "Hitulama",
+    "kecamatan": "Leihitu",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "133",
+    "kodepos": "97543",
+    "desa_kelurahan": "Asilulu",
+    "kecamatan": "Leihitu",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "134",
+    "kodepos": "97543",
+    "desa_kelurahan": "Ureng",
+    "kecamatan": "Leihitu",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "135",
+    "kodepos": "97543",
+    "desa_kelurahan": "Hila",
+    "kecamatan": "Leihitu",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "136",
+    "kodepos": "97543",
+    "desa_kelurahan": "Negeri Lima",
+    "kecamatan": "Leihitu",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "137",
+    "kodepos": "97543",
+    "desa_kelurahan": "Wakal",
+    "kecamatan": "Leihitu",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "138",
+    "kodepos": "97543",
+    "desa_kelurahan": "Morella",
+    "kecamatan": "Leihitu",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "139",
+    "kodepos": "97543",
+    "desa_kelurahan": "Hitumessing",
+    "kecamatan": "Leihitu",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "140",
+    "kodepos": "97544",
+    "desa_kelurahan": "Tial",
+    "kecamatan": "Salahutu",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "141",
+    "kodepos": "97544",
+    "desa_kelurahan": "Liang",
+    "kecamatan": "Salahutu",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "142",
+    "kodepos": "97544",
+    "desa_kelurahan": "Tulehu",
+    "kecamatan": "Salahutu",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "143",
+    "kodepos": "97544",
+    "desa_kelurahan": "Waai",
+    "kecamatan": "Salahutu",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "144",
+    "kodepos": "97544",
+    "desa_kelurahan": "Suli",
+    "kecamatan": "Salahutu",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "145",
+    "kodepos": "97544",
+    "desa_kelurahan": "Tengah Tengah",
+    "kecamatan": "Salahutu",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "146",
+    "kodepos": "97545",
+    "desa_kelurahan": "Aboru",
+    "kecamatan": "Pulau Haruku",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "147",
+    "kodepos": "97545",
+    "desa_kelurahan": "Kailolo",
+    "kecamatan": "Pulau Haruku",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "148",
+    "kodepos": "97545",
+    "desa_kelurahan": "Oma",
+    "kecamatan": "Pulau Haruku",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "149",
+    "kodepos": "97545",
+    "desa_kelurahan": "Haruku",
+    "kecamatan": "Pulau Haruku",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "150",
+    "kodepos": "97545",
+    "desa_kelurahan": "Kabauw",
+    "kecamatan": "Pulau Haruku",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "151",
+    "kodepos": "97545",
+    "desa_kelurahan": "Wassu",
+    "kecamatan": "Pulau Haruku",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "152",
+    "kodepos": "97545",
+    "desa_kelurahan": "Pelauw",
+    "kecamatan": "Pulau Haruku",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "153",
+    "kodepos": "97545",
+    "desa_kelurahan": "Sameth",
+    "kecamatan": "Pulau Haruku",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "154",
+    "kodepos": "97545",
+    "desa_kelurahan": "Rohomoni",
+    "kecamatan": "Pulau Haruku",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "155",
+    "kodepos": "97545",
+    "desa_kelurahan": "Kariu",
+    "kecamatan": "Pulau Haruku",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "156",
+    "kodepos": "97545",
+    "desa_kelurahan": "Hulaliu",
+    "kecamatan": "Pulau Haruku",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "157",
+    "kodepos": "97546",
+    "desa_kelurahan": "Iha",
+    "kecamatan": "Saparua Timur",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "158",
+    "kodepos": "97546",
+    "desa_kelurahan": "Ouw",
+    "kecamatan": "Saparua Timur",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "159",
+    "kodepos": "97546",
+    "desa_kelurahan": "Mahu",
+    "kecamatan": "Saparua Timur",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "160",
+    "kodepos": "97546",
+    "desa_kelurahan": "Itawaka",
+    "kecamatan": "Saparua Timur",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "161",
+    "kodepos": "97546",
+    "desa_kelurahan": "Siri Sori Islam",
+    "kecamatan": "Saparua Timur",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "162",
+    "kodepos": "97546",
+    "desa_kelurahan": "Tuhaha",
+    "kecamatan": "Saparua Timur",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "163",
+    "kodepos": "97546",
+    "desa_kelurahan": "Ullath",
+    "kecamatan": "Saparua Timur",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "164",
+    "kodepos": "97546",
+    "desa_kelurahan": "Nolloth",
+    "kecamatan": "Saparua Timur",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "165",
+    "kodepos": "97546",
+    "desa_kelurahan": "Ihamahu",
+    "kecamatan": "Saparua Timur",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "166",
+    "kodepos": "97546",
+    "desa_kelurahan": "Siri Sori Amalatu",
+    "kecamatan": "Saparua Timur",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "167",
+    "kodepos": "97546",
+    "desa_kelurahan": "Haria",
+    "kecamatan": "Saparua",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "168",
+    "kodepos": "97546",
+    "desa_kelurahan": "Paperu",
+    "kecamatan": "Saparua",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "169",
+    "kodepos": "97546",
+    "desa_kelurahan": "Kulur",
+    "kecamatan": "Saparua",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "170",
+    "kodepos": "97546",
+    "desa_kelurahan": "Tiouw",
+    "kecamatan": "Saparua",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "171",
+    "kodepos": "97546",
+    "desa_kelurahan": "Booi",
+    "kecamatan": "Saparua",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "172",
+    "kodepos": "97546",
+    "desa_kelurahan": "Saparua",
+    "kecamatan": "Saparua",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "173",
+    "kodepos": "97546",
+    "desa_kelurahan": "Porto",
+    "kecamatan": "Saparua",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "174",
+    "kodepos": "97547",
+    "desa_kelurahan": "Abubu",
+    "kecamatan": "Nusa Laut",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "175",
+    "kodepos": "97547",
+    "desa_kelurahan": "Leinitu",
+    "kecamatan": "Nusa Laut",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "176",
+    "kodepos": "97547",
+    "desa_kelurahan": "Sila",
+    "kecamatan": "Nusa Laut",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "177",
+    "kodepos": "97547",
+    "desa_kelurahan": "Akoon",
+    "kecamatan": "Nusa Laut",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "178",
+    "kodepos": "97547",
+    "desa_kelurahan": "Ameth",
+    "kecamatan": "Nusa Laut",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "179",
+    "kodepos": "97547",
+    "desa_kelurahan": "Nalahia",
+    "kecamatan": "Nusa Laut",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "180",
+    "kodepos": "97547",
+    "desa_kelurahan": "Titawaai",
+    "kecamatan": "Nusa Laut",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "181",
+    "kodepos": "97548",
+    "desa_kelurahan": "Dender",
+    "kecamatan": "Banda",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "182",
+    "kodepos": "97548",
+    "desa_kelurahan": "Walling Spanciby",
+    "kecamatan": "Banda",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "183",
+    "kodepos": "97548",
+    "desa_kelurahan": "Dwiwarna",
+    "kecamatan": "Banda",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "184",
+    "kodepos": "97548",
+    "desa_kelurahan": "Kampung Baru",
+    "kecamatan": "Banda",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "185",
+    "kodepos": "97548",
+    "desa_kelurahan": "Merdeka",
+    "kecamatan": "Banda",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "186",
+    "kodepos": "97548",
+    "desa_kelurahan": "Combir Kasestoren",
+    "kecamatan": "Banda",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "187",
+    "kodepos": "97548",
+    "desa_kelurahan": "Selamon",
+    "kecamatan": "Banda",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "188",
+    "kodepos": "97548",
+    "desa_kelurahan": "Rajawali",
+    "kecamatan": "Banda",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "189",
+    "kodepos": "97548",
+    "desa_kelurahan": "Pulau Rhun",
+    "kecamatan": "Banda",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "190",
+    "kodepos": "97548",
+    "desa_kelurahan": "Waer",
+    "kecamatan": "Banda",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "191",
+    "kodepos": "97548",
+    "desa_kelurahan": "Lautang",
+    "kecamatan": "Banda",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "192",
+    "kodepos": "97548",
+    "desa_kelurahan": "Lonthoir",
+    "kecamatan": "Banda",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "193",
+    "kodepos": "97548",
+    "desa_kelurahan": "Boiyauw",
+    "kecamatan": "Banda",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "194",
+    "kodepos": "97548",
+    "desa_kelurahan": "Tanah Rata",
+    "kecamatan": "Banda",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "195",
+    "kodepos": "97548",
+    "desa_kelurahan": "Pulau Hatta",
+    "kecamatan": "Banda",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "196",
+    "kodepos": "97548",
+    "desa_kelurahan": "Pulau Ay",
+    "kecamatan": "Banda",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "197",
+    "kodepos": "97548",
+    "desa_kelurahan": "Nusantara",
+    "kecamatan": "Banda",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "198",
+    "kodepos": "97548",
+    "desa_kelurahan": "Uring Tutra",
+    "kecamatan": "Banda",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "199",
+    "kodepos": "97551",
+    "desa_kelurahan": "Tananahu",
+    "kecamatan": "Teluk Elpaputih",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "200",
+    "kodepos": "97551",
+    "desa_kelurahan": "Liang",
+    "kecamatan": "Teluk Elpaputih",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "201",
+    "kodepos": "97551",
+    "desa_kelurahan": "Sahulauw",
+    "kecamatan": "Teluk Elpaputih",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "202",
+    "kodepos": "97551",
+    "desa_kelurahan": "Waraka",
+    "kecamatan": "Teluk Elpaputih",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "203",
+    "kodepos": "97552",
+    "desa_kelurahan": "Sehati",
+    "kecamatan": "Amahai",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "204",
+    "kodepos": "97552",
+    "desa_kelurahan": "Banda Baru",
+    "kecamatan": "Amahai",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "205",
+    "kodepos": "97552",
+    "desa_kelurahan": "Yainuelo",
+    "kecamatan": "Amahai",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "206",
+    "kodepos": "97552",
+    "desa_kelurahan": "Makariki",
+    "kecamatan": "Amahai",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "207",
+    "kodepos": "97552",
+    "desa_kelurahan": "Sepa",
+    "kecamatan": "Amahai",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "208",
+    "kodepos": "97552",
+    "desa_kelurahan": "Rutah",
+    "kecamatan": "Amahai",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "209",
+    "kodepos": "97552",
+    "desa_kelurahan": "Tamilouw",
+    "kecamatan": "Amahai",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "210",
+    "kodepos": "97552",
+    "desa_kelurahan": "Yafila",
+    "kecamatan": "Amahai",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "211",
+    "kodepos": "97552",
+    "desa_kelurahan": "Hollo",
+    "kecamatan": "Amahai",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "212",
+    "kodepos": "97552",
+    "desa_kelurahan": "Soahuku",
+    "kecamatan": "Amahai",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "213",
+    "kodepos": "97552",
+    "desa_kelurahan": "Haruru",
+    "kecamatan": "Amahai",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "214",
+    "kodepos": "97552",
+    "desa_kelurahan": "Hatuhenu",
+    "kecamatan": "Amahai",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "215",
+    "kodepos": "97552",
+    "desa_kelurahan": "Nuweletetu",
+    "kecamatan": "Amahai",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "216",
+    "kodepos": "97552",
+    "desa_kelurahan": "Nua Nea",
+    "kecamatan": "Amahai",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "217",
+    "kodepos": "97552",
+    "desa_kelurahan": "Amahai",
+    "kecamatan": "Amahai",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "218",
+    "kodepos": "97553",
+    "desa_kelurahan": "Hatu",
+    "kecamatan": "Tehoru",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "219",
+    "kodepos": "97553",
+    "desa_kelurahan": "Telutih Baru",
+    "kecamatan": "Tehoru",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "220",
+    "kodepos": "97553",
+    "desa_kelurahan": "Tehoru",
+    "kecamatan": "Tehoru",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "221",
+    "kodepos": "97553",
+    "desa_kelurahan": "Hatumete",
+    "kecamatan": "Tehoru",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "222",
+    "kodepos": "97553",
+    "desa_kelurahan": "Salamahu",
+    "kecamatan": "Tehoru",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "223",
+    "kodepos": "97553",
+    "desa_kelurahan": "Saunulu",
+    "kecamatan": "Tehoru",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "224",
+    "kodepos": "97553",
+    "desa_kelurahan": "Mosso",
+    "kecamatan": "Tehoru",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "225",
+    "kodepos": "97553",
+    "desa_kelurahan": "Haya",
+    "kecamatan": "Tehoru",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "226",
+    "kodepos": "97553",
+    "desa_kelurahan": "Yaputih",
+    "kecamatan": "Tehoru",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "227",
+    "kodepos": "97553",
+    "desa_kelurahan": "Piliana",
+    "kecamatan": "Tehoru",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "228",
+    "kodepos": "97554",
+    "desa_kelurahan": "Laha",
+    "kecamatan": "Telutih",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "229",
+    "kodepos": "97554",
+    "desa_kelurahan": "Lafa",
+    "kecamatan": "Telutih",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "230",
+    "kodepos": "97554",
+    "desa_kelurahan": "Yamalatu",
+    "kecamatan": "Telutih",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "231",
+    "kodepos": "97554",
+    "desa_kelurahan": "Hunisi",
+    "kecamatan": "Telutih",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "232",
+    "kodepos": "97554",
+    "desa_kelurahan": "Tehua",
+    "kecamatan": "Telutih",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "233",
+    "kodepos": "97554",
+    "desa_kelurahan": "Maneoratu",
+    "kecamatan": "Telutih",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "234",
+    "kodepos": "97554",
+    "desa_kelurahan": "Wolu",
+    "kecamatan": "Telutih",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "235",
+    "kodepos": "97554",
+    "desa_kelurahan": "Laimu",
+    "kecamatan": "Telutih",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "236",
+    "kodepos": "97554",
+    "desa_kelurahan": "Ulahahan",
+    "kecamatan": "Telutih",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "237",
+    "kodepos": "97554",
+    "desa_kelurahan": "Laha Kaba",
+    "kecamatan": "Telutih",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "238",
+    "kodepos": "97555",
+    "desa_kelurahan": "Way Asih",
+    "kecamatan": "Seram Utara Timur Kobi",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "239",
+    "kodepos": "97555",
+    "desa_kelurahan": "Waitonipa",
+    "kecamatan": "Seram Utara Timur Kobi",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "240",
+    "kodepos": "97555",
+    "desa_kelurahan": "Waimusi",
+    "kecamatan": "Seram Utara Timur Kobi",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "241",
+    "kodepos": "97555",
+    "desa_kelurahan": "Kabauhari",
+    "kecamatan": "Seram Utara Timur Kobi",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "242",
+    "kodepos": "97555",
+    "desa_kelurahan": "Kobi",
+    "kecamatan": "Seram Utara Timur Kobi",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "243",
+    "kodepos": "97555",
+    "desa_kelurahan": "Sariputih",
+    "kecamatan": "Seram Utara Timur Kobi",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "244",
+    "kodepos": "97555",
+    "desa_kelurahan": "Maneo Rendah",
+    "kecamatan": "Seram Utara Timur Kobi",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "245",
+    "kodepos": "97555",
+    "desa_kelurahan": "Kobimukti",
+    "kecamatan": "Seram Utara Timur Kobi",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "246",
+    "kodepos": "97555",
+    "desa_kelurahan": "Morokai",
+    "kecamatan": "Seram Utara Timur Kobi",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "247",
+    "kodepos": "97555",
+    "desa_kelurahan": "Marasahua",
+    "kecamatan": "Seram Utara Timur Kobi",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "248",
+    "kodepos": "97555",
+    "desa_kelurahan": "Leaway",
+    "kecamatan": "Seram Utara Timur Kobi",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "249",
+    "kodepos": "97555",
+    "desa_kelurahan": "Samal",
+    "kecamatan": "Seram Utara Timur Kobi",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "250",
+    "kodepos": "97556",
+    "desa_kelurahan": "Seti",
+    "kecamatan": "Seram Utara Timur Seti",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "251",
+    "kodepos": "97556",
+    "desa_kelurahan": "Waimusal",
+    "kecamatan": "Seram Utara Timur Seti",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "252",
+    "kodepos": "97556",
+    "desa_kelurahan": "Wonosari",
+    "kecamatan": "Seram Utara Timur Seti",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "253",
+    "kodepos": "97556",
+    "desa_kelurahan": "Kobisonta",
+    "kecamatan": "Seram Utara Timur Seti",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "254",
+    "kodepos": "97556",
+    "desa_kelurahan": "Tanah Merah",
+    "kecamatan": "Seram Utara Timur Seti",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "255",
+    "kodepos": "97556",
+    "desa_kelurahan": "Wailoping",
+    "kecamatan": "Seram Utara Timur Seti",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "256",
+    "kodepos": "97556",
+    "desa_kelurahan": "Tihuana",
+    "kecamatan": "Seram Utara Timur Seti",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "257",
+    "kodepos": "97556",
+    "desa_kelurahan": "Loping Mulyo",
+    "kecamatan": "Seram Utara Timur Seti",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "258",
+    "kodepos": "97556",
+    "desa_kelurahan": "Aketernate",
+    "kecamatan": "Seram Utara Timur Seti",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "259",
+    "kodepos": "97556",
+    "desa_kelurahan": "Namto",
+    "kecamatan": "Seram Utara Timur Seti",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "260",
+    "kodepos": "97556",
+    "desa_kelurahan": "Waitila",
+    "kecamatan": "Seram Utara Timur Seti",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "261",
+    "kodepos": "97556",
+    "desa_kelurahan": "Waiputih",
+    "kecamatan": "Seram Utara Timur Seti",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "262",
+    "kodepos": "97557",
+    "desa_kelurahan": "Siatele",
+    "kecamatan": "Seram Utara",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "263",
+    "kodepos": "97557",
+    "desa_kelurahan": "Huaulu",
+    "kecamatan": "Seram Utara",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "264",
+    "kodepos": "97557",
+    "desa_kelurahan": "Besi",
+    "kecamatan": "Seram Utara",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "265",
+    "kodepos": "97557",
+    "desa_kelurahan": "Solea",
+    "kecamatan": "Seram Utara",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "266",
+    "kodepos": "97557",
+    "desa_kelurahan": "Air Besar",
+    "kecamatan": "Seram Utara",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "267",
+    "kodepos": "97557",
+    "desa_kelurahan": "Sawai",
+    "kecamatan": "Seram Utara",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "268",
+    "kodepos": "97557",
+    "desa_kelurahan": "Maraina",
+    "kecamatan": "Seram Utara",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "269",
+    "kodepos": "97557",
+    "desa_kelurahan": "Elemata",
+    "kecamatan": "Seram Utara",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "270",
+    "kodepos": "97557",
+    "desa_kelurahan": "Masihulan",
+    "kecamatan": "Seram Utara",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "271",
+    "kodepos": "97557",
+    "desa_kelurahan": "Rumahsokat",
+    "kecamatan": "Seram Utara",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "272",
+    "kodepos": "97557",
+    "desa_kelurahan": "Hatuolo",
+    "kecamatan": "Seram Utara",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "273",
+    "kodepos": "97557",
+    "desa_kelurahan": "Oping",
+    "kecamatan": "Seram Utara",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "274",
+    "kodepos": "97557",
+    "desa_kelurahan": "Manusela",
+    "kecamatan": "Seram Utara",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "275",
+    "kodepos": "97557",
+    "desa_kelurahan": "Kanikeh",
+    "kecamatan": "Seram Utara",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "276",
+    "kodepos": "97557",
+    "desa_kelurahan": "Kaloa",
+    "kecamatan": "Seram Utara",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "277",
+    "kodepos": "97557",
+    "desa_kelurahan": "Roho",
+    "kecamatan": "Seram Utara",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "278",
+    "kodepos": "97557",
+    "desa_kelurahan": "Pasahari",
+    "kecamatan": "Seram Utara",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "279",
+    "kodepos": "97557",
+    "desa_kelurahan": "Wahai",
+    "kecamatan": "Seram Utara",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "280",
+    "kodepos": "97557",
+    "desa_kelurahan": "Malaku",
+    "kecamatan": "Seram Utara",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "281",
+    "kodepos": "97557",
+    "desa_kelurahan": "Olong",
+    "kecamatan": "Seram Utara",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "282",
+    "kodepos": "97558",
+    "desa_kelurahan": "Usliapan",
+    "kecamatan": "Teon Nila Serua",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "283",
+    "kodepos": "97558",
+    "desa_kelurahan": "Issu",
+    "kecamatan": "Teon Nila Serua",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "284",
+    "kodepos": "97558",
+    "desa_kelurahan": "Wotay",
+    "kecamatan": "Teon Nila Serua",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "285",
+    "kodepos": "97558",
+    "desa_kelurahan": "Jerili",
+    "kecamatan": "Teon Nila Serua",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "286",
+    "kodepos": "97558",
+    "desa_kelurahan": "Messa",
+    "kecamatan": "Teon Nila Serua",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "287",
+    "kodepos": "97558",
+    "desa_kelurahan": "Bumey",
+    "kecamatan": "Teon Nila Serua",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "288",
+    "kodepos": "97558",
+    "desa_kelurahan": "Sifluru",
+    "kecamatan": "Teon Nila Serua",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "289",
+    "kodepos": "97558",
+    "desa_kelurahan": "Nakupia",
+    "kecamatan": "Teon Nila Serua",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "290",
+    "kodepos": "97558",
+    "desa_kelurahan": "Ameth",
+    "kecamatan": "Teon Nila Serua",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "291",
+    "kodepos": "97558",
+    "desa_kelurahan": "Watludan",
+    "kecamatan": "Teon Nila Serua",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "292",
+    "kodepos": "97558",
+    "desa_kelurahan": "Trana",
+    "kecamatan": "Teon Nila Serua",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "293",
+    "kodepos": "97558",
+    "desa_kelurahan": "Waru",
+    "kecamatan": "Teon Nila Serua",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "294",
+    "kodepos": "97558",
+    "desa_kelurahan": "Layeni",
+    "kecamatan": "Teon Nila Serua",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "295",
+    "kodepos": "97558",
+    "desa_kelurahan": "Kuralele",
+    "kecamatan": "Teon Nila Serua",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "296",
+    "kodepos": "97558",
+    "desa_kelurahan": "Kokroman",
+    "kecamatan": "Teon Nila Serua",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "297",
+    "kodepos": "97558",
+    "desa_kelurahan": "Lesluru",
+    "kecamatan": "Teon Nila Serua",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "298",
+    "kodepos": "97559",
+    "desa_kelurahan": "Paa",
+    "kecamatan": "Seram Utara Barat",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "299",
+    "kodepos": "97559",
+    "desa_kelurahan": "Latea",
+    "kecamatan": "Seram Utara Barat",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "300",
+    "kodepos": "97559",
+    "desa_kelurahan": "Herlau Pauni",
+    "kecamatan": "Seram Utara Barat",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "301",
+    "kodepos": "97559",
+    "desa_kelurahan": "Wailulu",
+    "kecamatan": "Seram Utara Barat",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "302",
+    "kodepos": "97559",
+    "desa_kelurahan": "Gale-gale",
+    "kecamatan": "Seram Utara Barat",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "303",
+    "kodepos": "97559",
+    "desa_kelurahan": "Horale",
+    "kecamatan": "Seram Utara Barat",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "304",
+    "kodepos": "97559",
+    "desa_kelurahan": "Saleman",
+    "kecamatan": "Seram Utara Barat",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "305",
+    "kodepos": "97559",
+    "desa_kelurahan": "Labuan",
+    "kecamatan": "Seram Utara Barat",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "306",
+    "kodepos": "97559",
+    "desa_kelurahan": "Lisabata Timur",
+    "kecamatan": "Seram Utara Barat",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "307",
+    "kodepos": "97559",
+    "desa_kelurahan": "Karlutu Kara",
+    "kecamatan": "Seram Utara Barat",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "308",
+    "kodepos": "97559",
+    "desa_kelurahan": "Pasanea",
+    "kecamatan": "Seram Utara Barat",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "309",
+    "kodepos": "97559",
+    "desa_kelurahan": "Rumahwey",
+    "kecamatan": "Seram Utara Barat",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "310",
+    "kodepos": "97559",
+    "desa_kelurahan": "Warasiwa",
+    "kecamatan": "Seram Utara Barat",
+    "kabupaten_kota": "KAB. MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "311",
+    "kodepos": "97641",
+    "desa_kelurahan": "Reyamru",
+    "kecamatan": "Kei Besar",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "312",
+    "kodepos": "97641",
+    "desa_kelurahan": "Fangamas",
+    "kecamatan": "Kei Besar",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "313",
+    "kodepos": "97641",
+    "desa_kelurahan": "Wermaf",
+    "kecamatan": "Kei Besar",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "314",
+    "kodepos": "97641",
+    "desa_kelurahan": "Depur",
+    "kecamatan": "Kei Besar",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "315",
+    "kodepos": "97641",
+    "desa_kelurahan": "Waur Tahit",
+    "kecamatan": "Kei Besar",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "316",
+    "kodepos": "97641",
+    "desa_kelurahan": "Ngat",
+    "kecamatan": "Kei Besar",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "317",
+    "kodepos": "97641",
+    "desa_kelurahan": "Rahareng",
+    "kecamatan": "Kei Besar",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "318",
+    "kodepos": "97641",
+    "desa_kelurahan": "Wulurat",
+    "kecamatan": "Kei Besar",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "319",
+    "kodepos": "97641",
+    "desa_kelurahan": "Ngurdu",
+    "kecamatan": "Kei Besar",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "320",
+    "kodepos": "97641",
+    "desa_kelurahan": "Nabaheng",
+    "kecamatan": "Kei Besar",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "321",
+    "kodepos": "97641",
+    "desa_kelurahan": "Wakol",
+    "kecamatan": "Kei Besar",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "322",
+    "kodepos": "97641",
+    "desa_kelurahan": "Ohoiel",
+    "kecamatan": "Kei Besar",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "323",
+    "kodepos": "97641",
+    "desa_kelurahan": "Ohoiwang",
+    "kecamatan": "Kei Besar",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "324",
+    "kodepos": "97641",
+    "desa_kelurahan": "Rahareng Atas",
+    "kecamatan": "Kei Besar",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "325",
+    "kodepos": "97641",
+    "desa_kelurahan": "Watsin",
+    "kecamatan": "Kei Besar",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "326",
+    "kodepos": "97641",
+    "desa_kelurahan": "Ohoinangan",
+    "kecamatan": "Kei Besar",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "327",
+    "kodepos": "97641",
+    "desa_kelurahan": "Yamtel",
+    "kecamatan": "Kei Besar",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "328",
+    "kodepos": "97641",
+    "desa_kelurahan": "Sirbante",
+    "kecamatan": "Kei Besar",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "329",
+    "kodepos": "97641",
+    "desa_kelurahan": "Waur",
+    "kecamatan": "Kei Besar",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "330",
+    "kodepos": "97641",
+    "desa_kelurahan": "El Ralang",
+    "kecamatan": "Kei Besar",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "331",
+    "kodepos": "97641",
+    "desa_kelurahan": "Ohoiwait",
+    "kecamatan": "Kei Besar",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "332",
+    "kodepos": "97641",
+    "desa_kelurahan": "Karkarit",
+    "kecamatan": "Kei Besar",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "333",
+    "kodepos": "97641",
+    "desa_kelurahan": "Udar",
+    "kecamatan": "Kei Besar",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "334",
+    "kodepos": "97641",
+    "desa_kelurahan": "Bombay",
+    "kecamatan": "Kei Besar",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "335",
+    "kodepos": "97641",
+    "desa_kelurahan": "Elat",
+    "kecamatan": "Kei Besar",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "336",
+    "kodepos": "97641",
+    "desa_kelurahan": "Fako",
+    "kecamatan": "Kei Besar",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "337",
+    "kodepos": "97641",
+    "desa_kelurahan": "Soinrat",
+    "kecamatan": "Kei Besar",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "338",
+    "kodepos": "97641",
+    "desa_kelurahan": "Ohoilim",
+    "kecamatan": "Kei Besar",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "339",
+    "kodepos": "97641",
+    "desa_kelurahan": "Ohoinangan Atas",
+    "kecamatan": "Kei Besar",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "340",
+    "kodepos": "97641",
+    "desa_kelurahan": "Werka",
+    "kecamatan": "Kei Besar",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "341",
+    "kodepos": "97641",
+    "desa_kelurahan": "Harangur",
+    "kecamatan": "Kei Besar",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "342",
+    "kodepos": "97641",
+    "desa_kelurahan": "Ler Ohoilim",
+    "kecamatan": "Kei Besar",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "343",
+    "kodepos": "97641",
+    "desa_kelurahan": "Ngefuit",
+    "kecamatan": "Kei Besar",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "344",
+    "kodepos": "97641",
+    "desa_kelurahan": "Daftel",
+    "kecamatan": "Kei Besar",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "345",
+    "kodepos": "97641",
+    "desa_kelurahan": "Ngefuit Atas",
+    "kecamatan": "Kei Besar",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "346",
+    "kodepos": "97641",
+    "desa_kelurahan": "Waerat",
+    "kecamatan": "Kei Besar Utara Barat",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "347",
+    "kodepos": "97641",
+    "desa_kelurahan": "Ngurwalek",
+    "kecamatan": "Kei Besar Utara Barat",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "348",
+    "kodepos": "97641",
+    "desa_kelurahan": "Ad Wear Aur",
+    "kecamatan": "Kei Besar Utara Barat",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "349",
+    "kodepos": "97641",
+    "desa_kelurahan": "Weer Ohoiker",
+    "kecamatan": "Kei Besar Utara Barat",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "350",
+    "kodepos": "97641",
+    "desa_kelurahan": "Hoor Islam",
+    "kecamatan": "Kei Besar Utara Barat",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "351",
+    "kodepos": "97641",
+    "desa_kelurahan": "Weer Ohoinam",
+    "kecamatan": "Kei Besar Utara Barat",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "352",
+    "kodepos": "97641",
+    "desa_kelurahan": "Uwat Wear",
+    "kecamatan": "Kei Besar Utara Barat",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "353",
+    "kodepos": "97641",
+    "desa_kelurahan": "Waer",
+    "kecamatan": "Kei Besar Utara Barat",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "354",
+    "kodepos": "97641",
+    "desa_kelurahan": "Mun Ohoiir",
+    "kecamatan": "Kei Besar Utara Barat",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "355",
+    "kodepos": "97641",
+    "desa_kelurahan": "Mun Ohoitadiun",
+    "kecamatan": "Kei Besar Utara Barat",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "356",
+    "kodepos": "97641",
+    "desa_kelurahan": "Mun Kahar",
+    "kecamatan": "Kei Besar Utara Barat",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "357",
+    "kodepos": "97641",
+    "desa_kelurahan": "Mun Werfan",
+    "kecamatan": "Kei Besar Utara Barat",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "358",
+    "kodepos": "97641",
+    "desa_kelurahan": "Ad Ngurwul",
+    "kecamatan": "Kei Besar Utara Barat",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "359",
+    "kodepos": "97641",
+    "desa_kelurahan": "Mun Essoy",
+    "kecamatan": "Kei Besar Utara Barat",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "360",
+    "kodepos": "97641",
+    "desa_kelurahan": "Weer Frawaf",
+    "kecamatan": "Kei Besar Utara Barat",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "361",
+    "kodepos": "97641",
+    "desa_kelurahan": "Hangur",
+    "kecamatan": "Kei Besar Utara Barat",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "362",
+    "kodepos": "97641",
+    "desa_kelurahan": "Ad Ohoiwaf",
+    "kecamatan": "Kei Besar Utara Barat",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "363",
+    "kodepos": "97641",
+    "desa_kelurahan": "Ohoituf",
+    "kecamatan": "Kei Besar Utara Barat",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "364",
+    "kodepos": "97641",
+    "desa_kelurahan": "Mun Ngurditwain",
+    "kecamatan": "Kei Besar Utara Barat",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "365",
+    "kodepos": "97641",
+    "desa_kelurahan": "Dangarat",
+    "kecamatan": "Kei Besar Utara Barat",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "366",
+    "kodepos": "97641",
+    "desa_kelurahan": "Laar",
+    "kecamatan": "Kei Besar Utara Barat",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "367",
+    "kodepos": "97641",
+    "desa_kelurahan": "Uwat",
+    "kecamatan": "Kei Besar Utara Barat",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "368",
+    "kodepos": "97641",
+    "desa_kelurahan": "Hoor Kristen",
+    "kecamatan": "Kei Besar Utara Barat",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "369",
+    "kodepos": "97641",
+    "desa_kelurahan": "Faa",
+    "kecamatan": "Kei Besar Utara Barat",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "370",
+    "kodepos": "97641",
+    "desa_kelurahan": "Uwat Reyaan",
+    "kecamatan": "Kei Besar Utara Barat",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "371",
+    "kodepos": "97642",
+    "desa_kelurahan": "Tamangil Nuhuyanat",
+    "kecamatan": "Kei Besar Selatan",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "372",
+    "kodepos": "97642",
+    "desa_kelurahan": "Weduar",
+    "kecamatan": "Kei Besar Selatan",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "373",
+    "kodepos": "97642",
+    "desa_kelurahan": "Nerong",
+    "kecamatan": "Kei Besar Selatan",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "374",
+    "kodepos": "97642",
+    "desa_kelurahan": "Ohoirenan",
+    "kecamatan": "Kei Besar Selatan",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "375",
+    "kodepos": "97642",
+    "desa_kelurahan": "Larat",
+    "kecamatan": "Kei Besar Selatan",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "376",
+    "kodepos": "97642",
+    "desa_kelurahan": "Tamangil Nuhuten",
+    "kecamatan": "Kei Besar Selatan",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "377",
+    "kodepos": "97642",
+    "desa_kelurahan": "Sather",
+    "kecamatan": "Kei Besar Selatan",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "378",
+    "kodepos": "97642",
+    "desa_kelurahan": "Soindat",
+    "kecamatan": "Kei Besar Selatan",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "379",
+    "kodepos": "97642",
+    "desa_kelurahan": "Tutrean",
+    "kecamatan": "Kei Besar Selatan",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "380",
+    "kodepos": "97642",
+    "desa_kelurahan": "Kilwat",
+    "kecamatan": "Kei Besar Selatan",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "381",
+    "kodepos": "97642",
+    "desa_kelurahan": "Ohoilean",
+    "kecamatan": "Kei Besar Selatan Barat",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "382",
+    "kodepos": "97642",
+    "desa_kelurahan": "Rerean",
+    "kecamatan": "Kei Besar Selatan Barat",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "383",
+    "kodepos": "97642",
+    "desa_kelurahan": "Rahangiar",
+    "kecamatan": "Kei Besar Selatan Barat",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "384",
+    "kodepos": "97642",
+    "desa_kelurahan": "Ngurko",
+    "kecamatan": "Kei Besar Selatan Barat",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "385",
+    "kodepos": "97642",
+    "desa_kelurahan": "Hoat",
+    "kecamatan": "Kei Besar Selatan Barat",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "386",
+    "kodepos": "97642",
+    "desa_kelurahan": "Weduar Fer",
+    "kecamatan": "Kei Besar Selatan Barat",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "387",
+    "kodepos": "97642",
+    "desa_kelurahan": "Watkidat",
+    "kecamatan": "Kei Besar Selatan Barat",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "388",
+    "kodepos": "97642",
+    "desa_kelurahan": "Feer",
+    "kecamatan": "Kei Besar Selatan Barat",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "389",
+    "kodepos": "97642",
+    "desa_kelurahan": "Uat",
+    "kecamatan": "Kei Besar Selatan Barat",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "390",
+    "kodepos": "97642",
+    "desa_kelurahan": "Ngan",
+    "kecamatan": "Kei Besar Selatan Barat",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "391",
+    "kodepos": "97642",
+    "desa_kelurahan": "Hoko",
+    "kecamatan": "Kei Besar Selatan Barat",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "392",
+    "kodepos": "97642",
+    "desa_kelurahan": "Wafol",
+    "kecamatan": "Kei Besar Selatan Barat",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "393",
+    "kodepos": "97642",
+    "desa_kelurahan": "Ngafan",
+    "kecamatan": "Kei Besar Selatan Barat",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "394",
+    "kodepos": "97643",
+    "desa_kelurahan": "Mataholat",
+    "kecamatan": "Kei Besar",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "395",
+    "kodepos": "97643",
+    "desa_kelurahan": "Watuar",
+    "kecamatan": "Kei Besar",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "396",
+    "kodepos": "97643",
+    "desa_kelurahan": "Ohoiraut",
+    "kecamatan": "Kei Besar Utara Timur",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "397",
+    "kodepos": "97643",
+    "desa_kelurahan": "Banda Eli",
+    "kecamatan": "Kei Besar Utara Timur",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "398",
+    "kodepos": "97643",
+    "desa_kelurahan": "Haar Ohoimel",
+    "kecamatan": "Kei Besar Utara Timur",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "399",
+    "kodepos": "97643",
+    "desa_kelurahan": "Hollat Solair",
+    "kecamatan": "Kei Besar Utara Timur",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "400",
+    "kodepos": "97643",
+    "desa_kelurahan": "Haar Renrahantel",
+    "kecamatan": "Kei Besar Utara Timur",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "401",
+    "kodepos": "97643",
+    "desa_kelurahan": "Renfaan GPM",
+    "kecamatan": "Kei Besar Utara Timur",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "402",
+    "kodepos": "97643",
+    "desa_kelurahan": "Hoko",
+    "kecamatan": "Kei Besar Utara Timur",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "403",
+    "kodepos": "97643",
+    "desa_kelurahan": "Kilwair",
+    "kecamatan": "Kei Besar Utara Timur",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "404",
+    "kodepos": "97643",
+    "desa_kelurahan": "Renfan",
+    "kecamatan": "Kei Besar Utara Timur",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "405",
+    "kodepos": "97643",
+    "desa_kelurahan": "Soin",
+    "kecamatan": "Kei Besar Utara Timur",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "406",
+    "kodepos": "97643",
+    "desa_kelurahan": "Haar Ohoiwait",
+    "kecamatan": "Kei Besar Utara Timur",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "407",
+    "kodepos": "97643",
+    "desa_kelurahan": "Banda Efruan",
+    "kecamatan": "Kei Besar Utara Timur",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "408",
+    "kodepos": "97643",
+    "desa_kelurahan": "Hollay",
+    "kecamatan": "Kei Besar Utara Timur",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "409",
+    "kodepos": "97643",
+    "desa_kelurahan": "Haar Ohoimur RK",
+    "kecamatan": "Kei Besar Utara Timur",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "410",
+    "kodepos": "97643",
+    "desa_kelurahan": "Tuburlay",
+    "kecamatan": "Kei Besar Utara Timur",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "411",
+    "kodepos": "97643",
+    "desa_kelurahan": "Tuburngil",
+    "kecamatan": "Kei Besar Utara Timur",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "412",
+    "kodepos": "97643",
+    "desa_kelurahan": "Langgiar Haar",
+    "kecamatan": "Kei Besar Utara Timur",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "413",
+    "kodepos": "97643",
+    "desa_kelurahan": "Ohoifau",
+    "kecamatan": "Kei Besar Utara Timur",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "414",
+    "kodepos": "97643",
+    "desa_kelurahan": "Hollat",
+    "kecamatan": "Kei Besar Utara Timur",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "415",
+    "kodepos": "97643",
+    "desa_kelurahan": "Ur",
+    "kecamatan": "Kei Besar Utara Timur",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "416",
+    "kodepos": "97643",
+    "desa_kelurahan": "Ohoifaruan",
+    "kecamatan": "Kei Besar Utara Timur",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "417",
+    "kodepos": "97643",
+    "desa_kelurahan": "Yamtimur",
+    "kecamatan": "Kei Besar Utara Timur",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "418",
+    "kodepos": "97643",
+    "desa_kelurahan": "Fanwav",
+    "kecamatan": "Kei Besar Utara Timur",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "419",
+    "kodepos": "97643",
+    "desa_kelurahan": "Haar Ohoimur GPM",
+    "kecamatan": "Kei Besar Utara Timur",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "420",
+    "kodepos": "97643",
+    "desa_kelurahan": "Haar Wassar",
+    "kecamatan": "Kei Besar Utara Timur",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "421",
+    "kodepos": "97643",
+    "desa_kelurahan": "Banda Suku Tigapuluh",
+    "kecamatan": "Kei Besar Utara Timur",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "422",
+    "kodepos": "97643",
+    "desa_kelurahan": "Ohoiwirin",
+    "kecamatan": "Kei Besar Utara Timur",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "423",
+    "kodepos": "97643",
+    "desa_kelurahan": "Watlaar",
+    "kecamatan": "Kei Besar Utara Timur",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "424",
+    "kodepos": "97643",
+    "desa_kelurahan": "Ohoimajang",
+    "kecamatan": "Kei Besar Utara Timur",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "425",
+    "kodepos": "97643",
+    "desa_kelurahan": "Renfaan Islam",
+    "kecamatan": "Kei Besar Utara Timur",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "426",
+    "kodepos": "97651",
+    "desa_kelurahan": "Sathean",
+    "kecamatan": "Kei Kecil",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "427",
+    "kodepos": "97651",
+    "desa_kelurahan": "Wearlilir",
+    "kecamatan": "Kei Kecil",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "428",
+    "kodepos": "97651",
+    "desa_kelurahan": "Dudunwahan",
+    "kecamatan": "Kei Kecil",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "429",
+    "kodepos": "97651",
+    "desa_kelurahan": "Ohoider Atas",
+    "kecamatan": "Kei Kecil",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "430",
+    "kodepos": "97651",
+    "desa_kelurahan": "Kolser",
+    "kecamatan": "Kei Kecil",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "431",
+    "kodepos": "97651",
+    "desa_kelurahan": "Loon",
+    "kecamatan": "Kei Kecil",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "432",
+    "kodepos": "97651",
+    "desa_kelurahan": "Ohoijang Watdek",
+    "kecamatan": "Kei Kecil",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "433",
+    "kodepos": "97651",
+    "desa_kelurahan": "Ngabub",
+    "kecamatan": "Kei Kecil",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "434",
+    "kodepos": "97651",
+    "desa_kelurahan": "Ohoidertawun",
+    "kecamatan": "Kei Kecil",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "435",
+    "kodepos": "97651",
+    "desa_kelurahan": "Faan",
+    "kecamatan": "Kei Kecil",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "436",
+    "kodepos": "97651",
+    "desa_kelurahan": "Letman",
+    "kecamatan": "Kei Kecil",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "437",
+    "kodepos": "97651",
+    "desa_kelurahan": "Kelanit",
+    "kecamatan": "Kei Kecil",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "438",
+    "kodepos": "97651",
+    "desa_kelurahan": "Sitniohoi",
+    "kecamatan": "Kei Kecil",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "439",
+    "kodepos": "97651",
+    "desa_kelurahan": "Langgur",
+    "kecamatan": "Kei Kecil",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "440",
+    "kodepos": "97651",
+    "desa_kelurahan": "Ibra",
+    "kecamatan": "Kei Kecil",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "441",
+    "kodepos": "97651",
+    "desa_kelurahan": "Madwat",
+    "kecamatan": "Hoat Sorbay",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "442",
+    "kodepos": "97651",
+    "desa_kelurahan": "Tetoat",
+    "kecamatan": "Hoat Sorbay",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "443",
+    "kodepos": "97651",
+    "desa_kelurahan": "Wirin",
+    "kecamatan": "Hoat Sorbay",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "444",
+    "kodepos": "97651",
+    "desa_kelurahan": "Warwut",
+    "kecamatan": "Hoat Sorbay",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "445",
+    "kodepos": "97651",
+    "desa_kelurahan": "Arso",
+    "kecamatan": "Hoat Sorbay",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "446",
+    "kodepos": "97651",
+    "desa_kelurahan": "Dian Darat",
+    "kecamatan": "Hoat Sorbay",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "447",
+    "kodepos": "97651",
+    "desa_kelurahan": "Watngil",
+    "kecamatan": "Hoat Sorbay",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "448",
+    "kodepos": "97651",
+    "desa_kelurahan": "Dian Pulau",
+    "kecamatan": "Hoat Sorbay",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "449",
+    "kodepos": "97651",
+    "desa_kelurahan": "Ngursit",
+    "kecamatan": "Hoat Sorbay",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "450",
+    "kodepos": "97651",
+    "desa_kelurahan": "Ohoibadar",
+    "kecamatan": "Hoat Sorbay",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "451",
+    "kodepos": "97651",
+    "desa_kelurahan": "Letwuan",
+    "kecamatan": "Hoat Sorbay",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "452",
+    "kodepos": "97651",
+    "desa_kelurahan": "Evu",
+    "kecamatan": "Hoat Sorbay",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "453",
+    "kodepos": "97651",
+    "desa_kelurahan": "Wab",
+    "kecamatan": "Hoat Sorbay",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "454",
+    "kodepos": "97651",
+    "desa_kelurahan": "Selayar",
+    "kecamatan": "Manyeuw",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "455",
+    "kodepos": "97651",
+    "desa_kelurahan": "Ngayub",
+    "kecamatan": "Manyeuw",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "456",
+    "kodepos": "97651",
+    "desa_kelurahan": "Rumadian",
+    "kecamatan": "Manyeuw",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "457",
+    "kodepos": "97651",
+    "desa_kelurahan": "Lairngangas",
+    "kecamatan": "Manyeuw",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "458",
+    "kodepos": "97651",
+    "desa_kelurahan": "Ohoililir",
+    "kecamatan": "Manyeuw",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "459",
+    "kodepos": "97651",
+    "desa_kelurahan": "Namar",
+    "kecamatan": "Manyeuw",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "460",
+    "kodepos": "97651",
+    "desa_kelurahan": "Ngilngof",
+    "kecamatan": "Manyeuw",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "461",
+    "kodepos": "97651",
+    "desa_kelurahan": "Ohoiluk",
+    "kecamatan": "Manyeuw",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "462",
+    "kodepos": "97651",
+    "desa_kelurahan": "Debut",
+    "kecamatan": "Manyeuw",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "463",
+    "kodepos": "97655",
+    "desa_kelurahan": "Ohoidertom",
+    "kecamatan": "Kei Kecil Barat",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "464",
+    "kodepos": "97655",
+    "desa_kelurahan": "Somlain",
+    "kecamatan": "Kei Kecil Barat",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "465",
+    "kodepos": "97655",
+    "desa_kelurahan": "Yatwav",
+    "kecamatan": "Kei Kecil Barat",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "466",
+    "kodepos": "97655",
+    "desa_kelurahan": "Warbal",
+    "kecamatan": "Kei Kecil Barat",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "467",
+    "kodepos": "97655",
+    "desa_kelurahan": "Ohoiren",
+    "kecamatan": "Kei Kecil Barat",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "468",
+    "kodepos": "97655",
+    "desa_kelurahan": "Ohoira",
+    "kecamatan": "Kei Kecil Barat",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "469",
+    "kodepos": "97655",
+    "desa_kelurahan": "Ohoidertutu",
+    "kecamatan": "Kei Kecil Barat",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "470",
+    "kodepos": "97655",
+    "desa_kelurahan": "Matwair",
+    "kecamatan": "Kei Kecil Barat",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "471",
+    "kodepos": "97655",
+    "desa_kelurahan": "Tanimbar Kei",
+    "kecamatan": "Kei Kecil Barat",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "472",
+    "kodepos": "97655",
+    "desa_kelurahan": "Ur Pulau",
+    "kecamatan": "Kei Kecil Barat",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "473",
+    "kodepos": "97656",
+    "desa_kelurahan": "Danar Lumefar",
+    "kecamatan": "Kei Kecil Timur Selatan",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "474",
+    "kodepos": "97656",
+    "desa_kelurahan": "Ngurwul",
+    "kecamatan": "Kei Kecil Timur Selatan",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "475",
+    "kodepos": "97656",
+    "desa_kelurahan": "Uf",
+    "kecamatan": "Kei Kecil Timur Selatan",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "476",
+    "kodepos": "97656",
+    "desa_kelurahan": "Danar Ohoiseb",
+    "kecamatan": "Kei Kecil Timur Selatan",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "477",
+    "kodepos": "97656",
+    "desa_kelurahan": "Elaar Lamagorang",
+    "kecamatan": "Kei Kecil Timur Selatan",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "478",
+    "kodepos": "97656",
+    "desa_kelurahan": "Danar Ternate",
+    "kecamatan": "Kei Kecil Timur Selatan",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "479",
+    "kodepos": "97656",
+    "desa_kelurahan": "Maar",
+    "kecamatan": "Kei Kecil Timur Selatan",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "480",
+    "kodepos": "97656",
+    "desa_kelurahan": "Elaar Ngursoin",
+    "kecamatan": "Kei Kecil Timur Selatan",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "481",
+    "kodepos": "97656",
+    "desa_kelurahan": "Sare",
+    "kecamatan": "Kei Kecil Timur Selatan",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "482",
+    "kodepos": "97656",
+    "desa_kelurahan": "Elaar Let",
+    "kecamatan": "Kei Kecil Timur Selatan",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "483",
+    "kodepos": "97656",
+    "desa_kelurahan": "Garara",
+    "kecamatan": "Kei Kecil Timur Selatan",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "484",
+    "kodepos": "97656",
+    "desa_kelurahan": "Abean",
+    "kecamatan": "Kei Kecil Timur",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "485",
+    "kodepos": "97656",
+    "desa_kelurahan": "Mastur",
+    "kecamatan": "Kei Kecil Timur",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "486",
+    "kodepos": "97656",
+    "desa_kelurahan": "Iso",
+    "kecamatan": "Kei Kecil Timur",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "487",
+    "kodepos": "97656",
+    "desa_kelurahan": "Wain",
+    "kecamatan": "Kei Kecil Timur",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "488",
+    "kodepos": "97656",
+    "desa_kelurahan": "Yafavun",
+    "kecamatan": "Kei Kecil Timur",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "489",
+    "kodepos": "97656",
+    "desa_kelurahan": "Tenbuk",
+    "kecamatan": "Kei Kecil Timur",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "490",
+    "kodepos": "97656",
+    "desa_kelurahan": "Wain Baru",
+    "kecamatan": "Kei Kecil Timur",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "491",
+    "kodepos": "97656",
+    "desa_kelurahan": "Ohoinol",
+    "kecamatan": "Kei Kecil Timur",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "492",
+    "kodepos": "97656",
+    "desa_kelurahan": "Rewav",
+    "kecamatan": "Kei Kecil Timur",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "493",
+    "kodepos": "97656",
+    "desa_kelurahan": "Rat",
+    "kecamatan": "Kei Kecil Timur",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "494",
+    "kodepos": "97656",
+    "desa_kelurahan": "Disuk",
+    "kecamatan": "Kei Kecil Timur",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "495",
+    "kodepos": "97656",
+    "desa_kelurahan": "Watngon",
+    "kecamatan": "Kei Kecil Timur",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "496",
+    "kodepos": "97656",
+    "desa_kelurahan": "Semawi",
+    "kecamatan": "Kei Kecil Timur",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "497",
+    "kodepos": "97656",
+    "desa_kelurahan": "Mastur Baru",
+    "kecamatan": "Kei Kecil Timur",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "498",
+    "kodepos": "97656",
+    "desa_kelurahan": "Denwet",
+    "kecamatan": "Kei Kecil Timur",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "499",
+    "kodepos": "97656",
+    "desa_kelurahan": "Marfun",
+    "kecamatan": "Kei Kecil Timur",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "500",
+    "kodepos": "97656",
+    "desa_kelurahan": "Ohoilus",
+    "kecamatan": "Kei Kecil Timur",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "501",
+    "kodepos": "97656",
+    "desa_kelurahan": "Rumaat",
+    "kecamatan": "Kei Kecil Timur",
+    "kabupaten_kota": "KAB. MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "502",
+    "kodepos": "97775",
+    "desa_kelurahan": "Gosoma Maluku",
+    "kecamatan": "Morotai Timur",
+    "kabupaten_kota": "KAB. PULAU MOROTAI",
+    "provinsi": "MALUKU UTARA"
+  }
+]

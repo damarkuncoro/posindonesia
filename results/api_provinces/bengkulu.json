@@ -1,0 +1,4754 @@
+[
+  {
+    "no": "1",
+    "kodepos": "31894",
+    "desa_kelurahan": "Talang Bengkulu",
+    "kecamatan": "Ulu Musi",
+    "kabupaten_kota": "KAB. EMPAT LAWANG",
+    "provinsi": "SUMATERA SELATAN"
+  },
+  {
+    "no": "2",
+    "kodepos": "34767",
+    "desa_kelurahan": "Bengkulu",
+    "kecamatan": "Gunung Labuhan",
+    "kabupaten_kota": "KAB. WAY KANAN",
+    "provinsi": "LAMPUNG"
+  },
+  {
+    "no": "3",
+    "kodepos": "34767",
+    "desa_kelurahan": "Bengkulu Raman",
+    "kecamatan": "Gunung Labuhan",
+    "kabupaten_kota": "KAB. WAY KANAN",
+    "provinsi": "LAMPUNG"
+  },
+  {
+    "no": "4",
+    "kodepos": "34767",
+    "desa_kelurahan": "Bengkulu Tengah",
+    "kecamatan": "Gunung Labuhan",
+    "kabupaten_kota": "KAB. WAY KANAN",
+    "provinsi": "LAMPUNG"
+  },
+  {
+    "no": "5",
+    "kodepos": "34767",
+    "desa_kelurahan": "Bengkulu Jaya",
+    "kecamatan": "Gunung Labuhan",
+    "kabupaten_kota": "KAB. WAY KANAN",
+    "provinsi": "LAMPUNG"
+  },
+  {
+    "no": "6",
+    "kodepos": "34767",
+    "desa_kelurahan": "Bengkulu Rejo",
+    "kecamatan": "Gunung Labuhan",
+    "kabupaten_kota": "KAB. WAY KANAN",
+    "provinsi": "LAMPUNG"
+  },
+  {
+    "no": "7",
+    "kodepos": "38113",
+    "desa_kelurahan": "Sumur Meleleh",
+    "kecamatan": "Teluk Segara",
+    "kabupaten_kota": "KOTA BENGKULU",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "8",
+    "kodepos": "38113",
+    "desa_kelurahan": "Malabero",
+    "kecamatan": "Teluk Segara",
+    "kabupaten_kota": "KOTA BENGKULU",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "9",
+    "kodepos": "38114",
+    "desa_kelurahan": "Berkas",
+    "kecamatan": "Teluk Segara",
+    "kabupaten_kota": "KOTA BENGKULU",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "10",
+    "kodepos": "38114",
+    "desa_kelurahan": "Pasar Baru",
+    "kecamatan": "Teluk Segara",
+    "kabupaten_kota": "KOTA BENGKULU",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "11",
+    "kodepos": "38115",
+    "desa_kelurahan": "Pintu Batu",
+    "kecamatan": "Teluk Segara",
+    "kabupaten_kota": "KOTA BENGKULU",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "12",
+    "kodepos": "38115",
+    "desa_kelurahan": "Pasar Melintang",
+    "kecamatan": "Teluk Segara",
+    "kabupaten_kota": "KOTA BENGKULU",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "13",
+    "kodepos": "38115",
+    "desa_kelurahan": "Jitra",
+    "kecamatan": "Teluk Segara",
+    "kabupaten_kota": "KOTA BENGKULU",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "14",
+    "kodepos": "38116",
+    "desa_kelurahan": "Kebun Keling",
+    "kecamatan": "Teluk Segara",
+    "kabupaten_kota": "KOTA BENGKULU",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "15",
+    "kodepos": "38117",
+    "desa_kelurahan": "Pondok Besi",
+    "kecamatan": "Teluk Segara",
+    "kabupaten_kota": "KOTA BENGKULU",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "16",
+    "kodepos": "38117",
+    "desa_kelurahan": "Kebun Roos",
+    "kecamatan": "Teluk Segara",
+    "kabupaten_kota": "KOTA BENGKULU",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "17",
+    "kodepos": "38118",
+    "desa_kelurahan": "Tengah Padang",
+    "kecamatan": "Teluk Segara",
+    "kabupaten_kota": "KOTA BENGKULU",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "18",
+    "kodepos": "38118",
+    "desa_kelurahan": "Bajak",
+    "kecamatan": "Teluk Segara",
+    "kabupaten_kota": "KOTA BENGKULU",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "19",
+    "kodepos": "38119",
+    "desa_kelurahan": "Kampung Bali",
+    "kecamatan": "Teluk Segara",
+    "kabupaten_kota": "KOTA BENGKULU",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "20",
+    "kodepos": "38121",
+    "desa_kelurahan": "Rawa Makmur",
+    "kecamatan": "Muara Bangka Hulu",
+    "kabupaten_kota": "KOTA BENGKULU",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "21",
+    "kodepos": "38121",
+    "desa_kelurahan": "Rawa Makmur Permai",
+    "kecamatan": "Muara Bangka Hulu",
+    "kabupaten_kota": "KOTA BENGKULU",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "22",
+    "kodepos": "38121",
+    "desa_kelurahan": "Beringin Raya",
+    "kecamatan": "Muara Bangka Hulu",
+    "kabupaten_kota": "KOTA BENGKULU",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "23",
+    "kodepos": "38122",
+    "desa_kelurahan": "Kandang Limun",
+    "kecamatan": "Muara Bangka Hulu",
+    "kabupaten_kota": "KOTA BENGKULU",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "24",
+    "kodepos": "38125",
+    "desa_kelurahan": "Pematang Gubernur",
+    "kecamatan": "Muara Bangka Hulu",
+    "kabupaten_kota": "KOTA BENGKULU",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "25",
+    "kodepos": "38126",
+    "desa_kelurahan": "Bentiring",
+    "kecamatan": "Muara Bangka Hulu",
+    "kabupaten_kota": "KOTA BENGKULU",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "26",
+    "kodepos": "38126",
+    "desa_kelurahan": "Bentiring Permai",
+    "kecamatan": "Muara Bangka Hulu",
+    "kabupaten_kota": "KOTA BENGKULU",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "27",
+    "kodepos": "38131",
+    "desa_kelurahan": "Pasar Bengkulu",
+    "kecamatan": "Sungai Serut",
+    "kabupaten_kota": "KOTA BENGKULU",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "28",
+    "kodepos": "38132",
+    "desa_kelurahan": "Kampung Kelawi",
+    "kecamatan": "Sungai Serut",
+    "kabupaten_kota": "KOTA BENGKULU",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "29",
+    "kodepos": "38133",
+    "desa_kelurahan": "Sukamerindu",
+    "kecamatan": "Sungai Serut",
+    "kabupaten_kota": "KOTA BENGKULU",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "30",
+    "kodepos": "38134",
+    "desa_kelurahan": "Tanjung Agung",
+    "kecamatan": "Sungai Serut",
+    "kabupaten_kota": "KOTA BENGKULU",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "31",
+    "kodepos": "38135",
+    "desa_kelurahan": "Tanjung Jaya",
+    "kecamatan": "Sungai Serut",
+    "kabupaten_kota": "KOTA BENGKULU",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "32",
+    "kodepos": "38136",
+    "desa_kelurahan": "Semarang",
+    "kecamatan": "Sungai Serut",
+    "kabupaten_kota": "KOTA BENGKULU",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "33",
+    "kodepos": "38137",
+    "desa_kelurahan": "Surabaya",
+    "kecamatan": "Sungai Serut",
+    "kabupaten_kota": "KOTA BENGKULU",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "34",
+    "kodepos": "38211",
+    "desa_kelurahan": "Pagar Dewa",
+    "kecamatan": "Selebar",
+    "kabupaten_kota": "KOTA BENGKULU",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "35",
+    "kodepos": "38212",
+    "desa_kelurahan": "Sukarami",
+    "kecamatan": "Selebar",
+    "kabupaten_kota": "KOTA BENGKULU",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "36",
+    "kodepos": "38213",
+    "desa_kelurahan": "Pekan Sabtu",
+    "kecamatan": "Selebar",
+    "kabupaten_kota": "KOTA BENGKULU",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "37",
+    "kodepos": "38214",
+    "desa_kelurahan": "Betungan",
+    "kecamatan": "Selebar",
+    "kabupaten_kota": "KOTA BENGKULU",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "38",
+    "kodepos": "38217",
+    "desa_kelurahan": "Bumu Ayu",
+    "kecamatan": "Selebar",
+    "kabupaten_kota": "KOTA BENGKULU",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "39",
+    "kodepos": "38218",
+    "desa_kelurahan": "Sumur Dewa",
+    "kecamatan": "Selebar",
+    "kabupaten_kota": "KOTA BENGKULU",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "40",
+    "kodepos": "38225",
+    "desa_kelurahan": "Jalan Gedang",
+    "kecamatan": "Gading Cempaka",
+    "kabupaten_kota": "KOTA BENGKULU",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "41",
+    "kodepos": "38225",
+    "desa_kelurahan": "Padang Harapan",
+    "kecamatan": "Gading Cempaka",
+    "kabupaten_kota": "KOTA BENGKULU",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "42",
+    "kodepos": "38229",
+    "desa_kelurahan": "Lingkar Barat",
+    "kecamatan": "Gading Cempaka",
+    "kabupaten_kota": "KOTA BENGKULU",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "43",
+    "kodepos": "38229",
+    "desa_kelurahan": "Sidomulyo",
+    "kecamatan": "Gading Cempaka",
+    "kabupaten_kota": "KOTA BENGKULU",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "44",
+    "kodepos": "38229",
+    "desa_kelurahan": "Cempaka Permai",
+    "kecamatan": "Gading Cempaka",
+    "kabupaten_kota": "KOTA BENGKULU",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "45",
+    "kodepos": "38231",
+    "desa_kelurahan": "Kebun Dahri",
+    "kecamatan": "Ratu Samban",
+    "kabupaten_kota": "KOTA BENGKULU",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "46",
+    "kodepos": "38232",
+    "desa_kelurahan": "Belakang Pondok",
+    "kecamatan": "Ratu Samban",
+    "kabupaten_kota": "KOTA BENGKULU",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "47",
+    "kodepos": "38233",
+    "desa_kelurahan": "Pengantungan",
+    "kecamatan": "Ratu Samban",
+    "kabupaten_kota": "KOTA BENGKULU",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "48",
+    "kodepos": "38234",
+    "desa_kelurahan": "Padang Jati",
+    "kecamatan": "Ratu Samban",
+    "kabupaten_kota": "KOTA BENGKULU",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "49",
+    "kodepos": "38235",
+    "desa_kelurahan": "Kebun Geran",
+    "kecamatan": "Ratu Samban",
+    "kabupaten_kota": "KOTA BENGKULU",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "50",
+    "kodepos": "38236",
+    "desa_kelurahan": "Anggut Atas",
+    "kecamatan": "Ratu Samban",
+    "kabupaten_kota": "KOTA BENGKULU",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "51",
+    "kodepos": "38237",
+    "desa_kelurahan": "Anggut Dalam",
+    "kecamatan": "Ratu Samban",
+    "kabupaten_kota": "KOTA BENGKULU",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "52",
+    "kodepos": "38238",
+    "desa_kelurahan": "Anggut Bawah",
+    "kecamatan": "Ratu Samban",
+    "kabupaten_kota": "KOTA BENGKULU",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "53",
+    "kodepos": "38239",
+    "desa_kelurahan": "Penurunan",
+    "kecamatan": "Ratu Samban",
+    "kabupaten_kota": "KOTA BENGKULU",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "54",
+    "kodepos": "38241",
+    "desa_kelurahan": "Tanah Patah",
+    "kecamatan": "Ratu Agung",
+    "kabupaten_kota": "KOTA BENGKULU",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "55",
+    "kodepos": "38242",
+    "desa_kelurahan": "Nusa Indah",
+    "kecamatan": "Ratu Agung",
+    "kabupaten_kota": "KOTA BENGKULU",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "56",
+    "kodepos": "38243",
+    "desa_kelurahan": "Lempuing",
+    "kecamatan": "Ratu Agung",
+    "kabupaten_kota": "KOTA BENGKULU",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "57",
+    "kodepos": "38244",
+    "desa_kelurahan": "Kebun Kenanga",
+    "kecamatan": "Ratu Agung",
+    "kabupaten_kota": "KOTA BENGKULU",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "58",
+    "kodepos": "38245",
+    "desa_kelurahan": "Kebun Beler",
+    "kecamatan": "Ratu Agung",
+    "kabupaten_kota": "KOTA BENGKULU",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "59",
+    "kodepos": "38246",
+    "desa_kelurahan": "Sawah Lebar Baru",
+    "kecamatan": "Ratu Agung",
+    "kabupaten_kota": "KOTA BENGKULU",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "60",
+    "kodepos": "38247",
+    "desa_kelurahan": "Sawah Lebar",
+    "kecamatan": "Ratu Agung",
+    "kabupaten_kota": "KOTA BENGKULU",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "61",
+    "kodepos": "38248",
+    "desa_kelurahan": "Kebun Tebeng",
+    "kecamatan": "Ratu Agung",
+    "kabupaten_kota": "KOTA BENGKULU",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "62",
+    "kodepos": "38251",
+    "desa_kelurahan": "Jembatan Kecil",
+    "kecamatan": "Singaran Pati",
+    "kabupaten_kota": "KOTA BENGKULU",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "63",
+    "kodepos": "38252",
+    "desa_kelurahan": "Panorama",
+    "kecamatan": "Singaran Pati",
+    "kabupaten_kota": "KOTA BENGKULU",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "64",
+    "kodepos": "38253",
+    "desa_kelurahan": "Padang Nangka",
+    "kecamatan": "Singaran Pati",
+    "kabupaten_kota": "KOTA BENGKULU",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "65",
+    "kodepos": "38254",
+    "desa_kelurahan": "Lingkar Timur",
+    "kecamatan": "Singaran Pati",
+    "kabupaten_kota": "KOTA BENGKULU",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "66",
+    "kodepos": "38255",
+    "desa_kelurahan": "Dusun Besar",
+    "kecamatan": "Singaran Pati",
+    "kabupaten_kota": "KOTA BENGKULU",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "67",
+    "kodepos": "38256",
+    "desa_kelurahan": "Timur Indah",
+    "kecamatan": "Singaran Pati",
+    "kabupaten_kota": "KOTA BENGKULU",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "68",
+    "kodepos": "38261",
+    "desa_kelurahan": "Muara Dua",
+    "kecamatan": "Kampung Melayu",
+    "kabupaten_kota": "KOTA BENGKULU",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "69",
+    "kodepos": "38262",
+    "desa_kelurahan": "Kandang",
+    "kecamatan": "Kampung Melayu",
+    "kabupaten_kota": "KOTA BENGKULU",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "70",
+    "kodepos": "38263",
+    "desa_kelurahan": "Kandang Mas",
+    "kecamatan": "Kampung Melayu",
+    "kabupaten_kota": "KOTA BENGKULU",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "71",
+    "kodepos": "38264",
+    "desa_kelurahan": "Sumber Jaya",
+    "kecamatan": "Kampung Melayu",
+    "kabupaten_kota": "KOTA BENGKULU",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "72",
+    "kodepos": "38265",
+    "desa_kelurahan": "Padang Serai",
+    "kecamatan": "Kampung Melayu",
+    "kabupaten_kota": "KOTA BENGKULU",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "73",
+    "kodepos": "38266",
+    "desa_kelurahan": "Teluk Sepang",
+    "kecamatan": "Kampung Melayu",
+    "kabupaten_kota": "KOTA BENGKULU",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "74",
+    "kodepos": "38311",
+    "desa_kelurahan": "Karang Tinggi",
+    "kecamatan": "Karang Tinggi",
+    "kabupaten_kota": "KAB. BENGKULU TENGAH",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "75",
+    "kodepos": "38312",
+    "desa_kelurahan": "Taba Terunjam",
+    "kecamatan": "Karang Tinggi",
+    "kabupaten_kota": "KAB. BENGKULU TENGAH",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "76",
+    "kodepos": "38313",
+    "desa_kelurahan": "Talang Empat",
+    "kecamatan": "Karang Tinggi",
+    "kabupaten_kota": "KAB. BENGKULU TENGAH",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "77",
+    "kodepos": "38314",
+    "desa_kelurahan": "Ujung Karang",
+    "kecamatan": "Karang Tinggi",
+    "kabupaten_kota": "KAB. BENGKULU TENGAH",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "78",
+    "kodepos": "38315",
+    "desa_kelurahan": "Kancing",
+    "kecamatan": "Karang Tinggi",
+    "kabupaten_kota": "KAB. BENGKULU TENGAH",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "79",
+    "kodepos": "38316",
+    "desa_kelurahan": "Taba Mutung",
+    "kecamatan": "Karang Tinggi",
+    "kabupaten_kota": "KAB. BENGKULU TENGAH",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "80",
+    "kodepos": "38317",
+    "desa_kelurahan": "Dusun Baru II",
+    "kecamatan": "Karang Tinggi",
+    "kabupaten_kota": "KAB. BENGKULU TENGAH",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "81",
+    "kodepos": "38318",
+    "desa_kelurahan": "Durian Demang",
+    "kecamatan": "Karang Tinggi",
+    "kabupaten_kota": "KAB. BENGKULU TENGAH",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "82",
+    "kodepos": "38319",
+    "desa_kelurahan": "Padang Tambak",
+    "kecamatan": "Karang Tinggi",
+    "kabupaten_kota": "KAB. BENGKULU TENGAH",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "83",
+    "kodepos": "38319",
+    "desa_kelurahan": "Renah Lebar",
+    "kecamatan": "Karang Tinggi",
+    "kabupaten_kota": "KAB. BENGKULU TENGAH",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "84",
+    "kodepos": "38319",
+    "desa_kelurahan": "Penanding",
+    "kecamatan": "Karang Tinggi",
+    "kabupaten_kota": "KAB. BENGKULU TENGAH",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "85",
+    "kodepos": "38319",
+    "desa_kelurahan": "Pelajau",
+    "kecamatan": "Karang Tinggi",
+    "kabupaten_kota": "KAB. BENGKULU TENGAH",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "86",
+    "kodepos": "38319",
+    "desa_kelurahan": "Padang Siring",
+    "kecamatan": "Semidang Lagan",
+    "kabupaten_kota": "KAB. BENGKULU TENGAH",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "87",
+    "kodepos": "38319",
+    "desa_kelurahan": "Pagar Gunung",
+    "kecamatan": "Semidang Lagan",
+    "kabupaten_kota": "KAB. BENGKULU TENGAH",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "88",
+    "kodepos": "38319",
+    "desa_kelurahan": "Gajah Mati",
+    "kecamatan": "Semidang Lagan",
+    "kabupaten_kota": "KAB. BENGKULU TENGAH",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "89",
+    "kodepos": "38319",
+    "desa_kelurahan": "Karang Nanding",
+    "kecamatan": "Semidang Lagan",
+    "kabupaten_kota": "KAB. BENGKULU TENGAH",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "90",
+    "kodepos": "38319",
+    "desa_kelurahan": "Semidang",
+    "kecamatan": "Semidang Lagan",
+    "kabupaten_kota": "KAB. BENGKULU TENGAH",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "91",
+    "kodepos": "38325",
+    "desa_kelurahan": "Suka Negara",
+    "kecamatan": "Marga Sakti Sebelat",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "92",
+    "kodepos": "38325",
+    "desa_kelurahan": "Karya Pelita",
+    "kecamatan": "Marga Sakti Sebelat",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "93",
+    "kodepos": "38325",
+    "desa_kelurahan": "Suka Maju",
+    "kecamatan": "Marga Sakti Sebelat",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "94",
+    "kodepos": "38325",
+    "desa_kelurahan": "Suka Medan",
+    "kecamatan": "Marga Sakti Sebelat",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "95",
+    "kodepos": "38325",
+    "desa_kelurahan": "Suka Merindu",
+    "kecamatan": "Marga Sakti Sebelat",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "96",
+    "kodepos": "38325",
+    "desa_kelurahan": "Karya Jaya",
+    "kecamatan": "Marga Sakti Sebelat",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "97",
+    "kodepos": "38325",
+    "desa_kelurahan": "Air Putih",
+    "kecamatan": "Marga Sakti Sebelat",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "98",
+    "kodepos": "38325",
+    "desa_kelurahan": "Suka Baru",
+    "kecamatan": "Marga Sakti Sebelat",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "99",
+    "kodepos": "38325",
+    "desa_kelurahan": "Karya Bakti",
+    "kecamatan": "Marga Sakti Sebelat",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "100",
+    "kodepos": "38325",
+    "desa_kelurahan": "Suka Makmur",
+    "kecamatan": "Marga Sakti Sebelat",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "101",
+    "kodepos": "38362",
+    "desa_kelurahan": "Sumber Mulya",
+    "kecamatan": "Pinang Raya",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "102",
+    "kodepos": "38362",
+    "desa_kelurahan": "Gunung Payung",
+    "kecamatan": "Pinang Raya",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "103",
+    "kodepos": "38362",
+    "desa_kelurahan": "Air Sekamanak",
+    "kecamatan": "Pinang Raya",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "104",
+    "kodepos": "38362",
+    "desa_kelurahan": "Bukit Harapan",
+    "kecamatan": "Pinang Raya",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "105",
+    "kodepos": "38362",
+    "desa_kelurahan": "Bumi Harjo",
+    "kecamatan": "Pinang Raya",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "106",
+    "kodepos": "38362",
+    "desa_kelurahan": "Air Sebayur",
+    "kecamatan": "Pinang Raya",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "107",
+    "kodepos": "38362",
+    "desa_kelurahan": "Bukit Makmur",
+    "kecamatan": "Pinang Raya",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "108",
+    "kodepos": "38362",
+    "desa_kelurahan": "Air Simpang",
+    "kecamatan": "Pinang Raya",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "109",
+    "kodepos": "38362",
+    "desa_kelurahan": "Tanjung Muara",
+    "kecamatan": "Pinang Raya",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "110",
+    "kodepos": "38362",
+    "desa_kelurahan": "Marga Bhakti",
+    "kecamatan": "Pinang Raya",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "111",
+    "kodepos": "38364",
+    "desa_kelurahan": "Talang Berantai",
+    "kecamatan": "Ulok Kupai",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "112",
+    "kodepos": "38364",
+    "desa_kelurahan": "Tanjung Harapan",
+    "kecamatan": "Ulok Kupai",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "113",
+    "kodepos": "38364",
+    "desa_kelurahan": "Pagardin",
+    "kecamatan": "Ulok Kupai",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "114",
+    "kodepos": "38364",
+    "desa_kelurahan": "Pondok Bakil",
+    "kecamatan": "Ulok Kupai",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "115",
+    "kodepos": "38364",
+    "desa_kelurahan": "Tanjung Dalam",
+    "kecamatan": "Ulok Kupai",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "116",
+    "kodepos": "38364",
+    "desa_kelurahan": "Bukit Berlian",
+    "kecamatan": "Ulok Kupai",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "117",
+    "kodepos": "38364",
+    "desa_kelurahan": "Bukit Sari",
+    "kecamatan": "Ulok Kupai",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "118",
+    "kodepos": "38364",
+    "desa_kelurahan": "Air Lelangi",
+    "kecamatan": "Ulok Kupai",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "119",
+    "kodepos": "38364",
+    "desa_kelurahan": "Tanjung Sari",
+    "kecamatan": "Ulok Kupai",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "120",
+    "kodepos": "38364",
+    "desa_kelurahan": "Bangun Karya",
+    "kecamatan": "Ulok Kupai",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "121",
+    "kodepos": "38371",
+    "desa_kelurahan": "Talang Boseng",
+    "kecamatan": "Pondok Kelapa",
+    "kabupaten_kota": "KAB. BENGKULU TENGAH",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "122",
+    "kodepos": "38371",
+    "desa_kelurahan": "Pasar Pedati",
+    "kecamatan": "Pondok Kelapa",
+    "kabupaten_kota": "KAB. BENGKULU TENGAH",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "123",
+    "kodepos": "38371",
+    "desa_kelurahan": "Srikaton",
+    "kecamatan": "Pondok Kelapa",
+    "kabupaten_kota": "KAB. BENGKULU TENGAH",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "124",
+    "kodepos": "38371",
+    "desa_kelurahan": "Pondok Kelapa",
+    "kecamatan": "Pondok Kelapa",
+    "kabupaten_kota": "KAB. BENGKULU TENGAH",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "125",
+    "kodepos": "38371",
+    "desa_kelurahan": "Sidodadi",
+    "kecamatan": "Pondok Kelapa",
+    "kabupaten_kota": "KAB. BENGKULU TENGAH",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "126",
+    "kodepos": "38371",
+    "desa_kelurahan": "Sri Kuncoro",
+    "kecamatan": "Pondok Kelapa",
+    "kabupaten_kota": "KAB. BENGKULU TENGAH",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "127",
+    "kodepos": "38371",
+    "desa_kelurahan": "Sidorejo",
+    "kecamatan": "Pondok Kelapa",
+    "kabupaten_kota": "KAB. BENGKULU TENGAH",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "128",
+    "kodepos": "38371",
+    "desa_kelurahan": "Pagar Dewa",
+    "kecamatan": "Pondok Kelapa",
+    "kabupaten_kota": "KAB. BENGKULU TENGAH",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "129",
+    "kodepos": "38371",
+    "desa_kelurahan": "Padang Betuah",
+    "kecamatan": "Pondok Kelapa",
+    "kabupaten_kota": "KAB. BENGKULU TENGAH",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "130",
+    "kodepos": "38371",
+    "desa_kelurahan": "Kembang Ayun",
+    "kecamatan": "Pondok Kelapa",
+    "kabupaten_kota": "KAB. BENGKULU TENGAH",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "131",
+    "kodepos": "38371",
+    "desa_kelurahan": "Abu Sakim",
+    "kecamatan": "Pondok Kelapa",
+    "kabupaten_kota": "KAB. BENGKULU TENGAH",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "132",
+    "kodepos": "38371",
+    "desa_kelurahan": "Talang Pauh",
+    "kecamatan": "Pondok Kelapa",
+    "kabupaten_kota": "KAB. BENGKULU TENGAH",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "133",
+    "kodepos": "38371",
+    "desa_kelurahan": "Panca Mukti",
+    "kecamatan": "Pondok Kelapa",
+    "kabupaten_kota": "KAB. BENGKULU TENGAH",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "134",
+    "kodepos": "38371",
+    "desa_kelurahan": "Bintang Selatan",
+    "kecamatan": "Pondok Kelapa",
+    "kabupaten_kota": "KAB. BENGKULU TENGAH",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "135",
+    "kodepos": "38371",
+    "desa_kelurahan": "Harapan",
+    "kecamatan": "Pondok Kelapa",
+    "kabupaten_kota": "KAB. BENGKULU TENGAH",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "136",
+    "kodepos": "38371",
+    "desa_kelurahan": "Pekik Nyaring",
+    "kecamatan": "Pondok Kelapa",
+    "kabupaten_kota": "KAB. BENGKULU TENGAH",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "137",
+    "kodepos": "38371",
+    "desa_kelurahan": "Sunda Kelapa",
+    "kecamatan": "Pondok Kelapa",
+    "kabupaten_kota": "KAB. BENGKULU TENGAH",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "138",
+    "kodepos": "38372",
+    "desa_kelurahan": "Aturan Mumpo II",
+    "kecamatan": "Pematang Tiga",
+    "kabupaten_kota": "KAB. BENGKULU TENGAH",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "139",
+    "kodepos": "38372",
+    "desa_kelurahan": "Tiambang",
+    "kecamatan": "Pematang Tiga",
+    "kabupaten_kota": "KAB. BENGKULU TENGAH",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "140",
+    "kodepos": "38372",
+    "desa_kelurahan": "Tanjung Kepahyang",
+    "kecamatan": "Pematang Tiga",
+    "kabupaten_kota": "KAB. BENGKULU TENGAH",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "141",
+    "kodepos": "38372",
+    "desa_kelurahan": "Air Kotok",
+    "kecamatan": "Pematang Tiga",
+    "kabupaten_kota": "KAB. BENGKULU TENGAH",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "142",
+    "kodepos": "38372",
+    "desa_kelurahan": "Pematang Tiga Lama",
+    "kecamatan": "Pematang Tiga",
+    "kabupaten_kota": "KAB. BENGKULU TENGAH",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "143",
+    "kodepos": "38372",
+    "desa_kelurahan": "Pematang Tiga",
+    "kecamatan": "Pematang Tiga",
+    "kabupaten_kota": "KAB. BENGKULU TENGAH",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "144",
+    "kodepos": "38372",
+    "desa_kelurahan": "Genting Dabuk",
+    "kecamatan": "Pematang Tiga",
+    "kabupaten_kota": "KAB. BENGKULU TENGAH",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "145",
+    "kodepos": "38372",
+    "desa_kelurahan": "Senabah",
+    "kecamatan": "Pematang Tiga",
+    "kabupaten_kota": "KAB. BENGKULU TENGAH",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "146",
+    "kodepos": "38372",
+    "desa_kelurahan": "Aturan Mumpo",
+    "kecamatan": "Pematang Tiga",
+    "kabupaten_kota": "KAB. BENGKULU TENGAH",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "147",
+    "kodepos": "38372",
+    "desa_kelurahan": "Batu Beriang",
+    "kecamatan": "Pematang Tiga",
+    "kabupaten_kota": "KAB. BENGKULU TENGAH",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "148",
+    "kodepos": "38372",
+    "desa_kelurahan": "Kota Titik",
+    "kecamatan": "Pematang Tiga",
+    "kabupaten_kota": "KAB. BENGKULU TENGAH",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "149",
+    "kodepos": "38372",
+    "desa_kelurahan": "Kebun Lebar",
+    "kecamatan": "Pematang Tiga",
+    "kabupaten_kota": "KAB. BENGKULU TENGAH",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "150",
+    "kodepos": "38372",
+    "desa_kelurahan": "Talang Tengah II",
+    "kecamatan": "Pematang Tiga",
+    "kabupaten_kota": "KAB. BENGKULU TENGAH",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "151",
+    "kodepos": "38382",
+    "desa_kelurahan": "Renah Semanek",
+    "kecamatan": "Karang Tinggi",
+    "kabupaten_kota": "KAB. BENGKULU TENGAH",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "152",
+    "kodepos": "38383",
+    "desa_kelurahan": "Temiang",
+    "kecamatan": "Pagar Jati",
+    "kabupaten_kota": "KAB. BENGKULU TENGAH",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "153",
+    "kodepos": "38383",
+    "desa_kelurahan": "Pagar Jati",
+    "kecamatan": "Pagar Jati",
+    "kabupaten_kota": "KAB. BENGKULU TENGAH",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "154",
+    "kodepos": "38383",
+    "desa_kelurahan": "Karang Are",
+    "kecamatan": "Pagar Jati",
+    "kabupaten_kota": "KAB. BENGKULU TENGAH",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "155",
+    "kodepos": "38383",
+    "desa_kelurahan": "Kertapati Mudik",
+    "kecamatan": "Pagar Jati",
+    "kabupaten_kota": "KAB. BENGKULU TENGAH",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "156",
+    "kodepos": "38383",
+    "desa_kelurahan": "Datar Penokat",
+    "kecamatan": "Pagar Jati",
+    "kabupaten_kota": "KAB. BENGKULU TENGAH",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "157",
+    "kodepos": "38383",
+    "desa_kelurahan": "Talang Curup",
+    "kecamatan": "Pagar Jati",
+    "kabupaten_kota": "KAB. BENGKULU TENGAH",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "158",
+    "kodepos": "38383",
+    "desa_kelurahan": "Rena Jaya",
+    "kecamatan": "Pagar Jati",
+    "kabupaten_kota": "KAB. BENGKULU TENGAH",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "159",
+    "kodepos": "38383",
+    "desa_kelurahan": "Tumbuk",
+    "kecamatan": "Pagar Jati",
+    "kabupaten_kota": "KAB. BENGKULU TENGAH",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "160",
+    "kodepos": "38383",
+    "desa_kelurahan": "Keroya",
+    "kecamatan": "Pagar Jati",
+    "kabupaten_kota": "KAB. BENGKULU TENGAH",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "161",
+    "kodepos": "38383",
+    "desa_kelurahan": "Rena Kandis",
+    "kecamatan": "Pagar Jati",
+    "kabupaten_kota": "KAB. BENGKULU TENGAH",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "162",
+    "kodepos": "38383",
+    "desa_kelurahan": "Kerta Pati",
+    "kecamatan": "Pagar Jati",
+    "kabupaten_kota": "KAB. BENGKULU TENGAH",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "163",
+    "kodepos": "38383",
+    "desa_kelurahan": "Arga Indah I",
+    "kecamatan": "Pagar Jati",
+    "kabupaten_kota": "KAB. BENGKULU TENGAH",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "164",
+    "kodepos": "38383",
+    "desa_kelurahan": "Layang Lekat",
+    "kecamatan": "Pagar Jati",
+    "kabupaten_kota": "KAB. BENGKULU TENGAH",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "165",
+    "kodepos": "38383",
+    "desa_kelurahan": "Taba Renah",
+    "kecamatan": "Pagar Jati",
+    "kabupaten_kota": "KAB. BENGKULU TENGAH",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "166",
+    "kodepos": "38385",
+    "desa_kelurahan": "Lagan",
+    "kecamatan": "Semidang Lagan",
+    "kabupaten_kota": "KAB. BENGKULU TENGAH",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "167",
+    "kodepos": "38385",
+    "desa_kelurahan": "Bukit",
+    "kecamatan": "Semidang Lagan",
+    "kabupaten_kota": "KAB. BENGKULU TENGAH",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "168",
+    "kodepos": "38385",
+    "desa_kelurahan": "Lagan Bungin",
+    "kecamatan": "Semidang Lagan",
+    "kabupaten_kota": "KAB. BENGKULU TENGAH",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "169",
+    "kodepos": "38385",
+    "desa_kelurahan": "Taba Lagan",
+    "kecamatan": "Semidang Lagan",
+    "kabupaten_kota": "KAB. BENGKULU TENGAH",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "170",
+    "kodepos": "38385",
+    "desa_kelurahan": "Pagar Jati",
+    "kecamatan": "Semidang Lagan",
+    "kabupaten_kota": "KAB. BENGKULU TENGAH",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "171",
+    "kodepos": "38385",
+    "desa_kelurahan": "Pulau Panggung",
+    "kecamatan": "Talang Empat",
+    "kabupaten_kota": "KAB. BENGKULU TENGAH",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "172",
+    "kodepos": "38385",
+    "desa_kelurahan": "Jumat",
+    "kecamatan": "Talang Empat",
+    "kabupaten_kota": "KAB. BENGKULU TENGAH",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "173",
+    "kodepos": "38385",
+    "desa_kelurahan": "Kembang Seri",
+    "kecamatan": "Talang Empat",
+    "kabupaten_kota": "KAB. BENGKULU TENGAH",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "174",
+    "kodepos": "38385",
+    "desa_kelurahan": "Tengah Padang",
+    "kecamatan": "Talang Empat",
+    "kabupaten_kota": "KAB. BENGKULU TENGAH",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "175",
+    "kodepos": "38385",
+    "desa_kelurahan": "Nakau",
+    "kecamatan": "Talang Empat",
+    "kabupaten_kota": "KAB. BENGKULU TENGAH",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "176",
+    "kodepos": "38385",
+    "desa_kelurahan": "Air Putih",
+    "kecamatan": "Talang Empat",
+    "kabupaten_kota": "KAB. BENGKULU TENGAH",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "177",
+    "kodepos": "38385",
+    "desa_kelurahan": "Jayakarta",
+    "kecamatan": "Talang Empat",
+    "kabupaten_kota": "KAB. BENGKULU TENGAH",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "178",
+    "kodepos": "38385",
+    "desa_kelurahan": "Air Sebakul",
+    "kecamatan": "Talang Empat",
+    "kabupaten_kota": "KAB. BENGKULU TENGAH",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "179",
+    "kodepos": "38385",
+    "desa_kelurahan": "Taba Pasmah",
+    "kecamatan": "Talang Empat",
+    "kabupaten_kota": "KAB. BENGKULU TENGAH",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "180",
+    "kodepos": "38385",
+    "desa_kelurahan": "Padang Ulak Tanjung",
+    "kecamatan": "Talang Empat",
+    "kabupaten_kota": "KAB. BENGKULU TENGAH",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "181",
+    "kodepos": "38386",
+    "desa_kelurahan": "Kota Niur",
+    "kecamatan": "Semidang Lagan",
+    "kabupaten_kota": "KAB. BENGKULU TENGAH",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "182",
+    "kodepos": "38386",
+    "desa_kelurahan": "Sukarami",
+    "kecamatan": "Taba Penanjung",
+    "kabupaten_kota": "KAB. BENGKULU TENGAH",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "183",
+    "kodepos": "38386",
+    "desa_kelurahan": "Taba Penanjung",
+    "kecamatan": "Taba Penanjung",
+    "kabupaten_kota": "KAB. BENGKULU TENGAH",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "184",
+    "kodepos": "38386",
+    "desa_kelurahan": "Tanjung Raman",
+    "kecamatan": "Taba Penanjung",
+    "kabupaten_kota": "KAB. BENGKULU TENGAH",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "185",
+    "kodepos": "38386",
+    "desa_kelurahan": "Surau",
+    "kecamatan": "Taba Penanjung",
+    "kabupaten_kota": "KAB. BENGKULU TENGAH",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "186",
+    "kodepos": "38386",
+    "desa_kelurahan": "Lubuk Sini",
+    "kecamatan": "Taba Penanjung",
+    "kabupaten_kota": "KAB. BENGKULU TENGAH",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "187",
+    "kodepos": "38386",
+    "desa_kelurahan": "Bajak I",
+    "kecamatan": "Taba Penanjung",
+    "kabupaten_kota": "KAB. BENGKULU TENGAH",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "188",
+    "kodepos": "38386",
+    "desa_kelurahan": "Taba Teret",
+    "kecamatan": "Taba Penanjung",
+    "kabupaten_kota": "KAB. BENGKULU TENGAH",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "189",
+    "kodepos": "38386",
+    "desa_kelurahan": "Penum",
+    "kecamatan": "Taba Penanjung",
+    "kabupaten_kota": "KAB. BENGKULU TENGAH",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "190",
+    "kodepos": "38386",
+    "desa_kelurahan": "Karang Tengah",
+    "kecamatan": "Taba Penanjung",
+    "kabupaten_kota": "KAB. BENGKULU TENGAH",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "191",
+    "kodepos": "38386",
+    "desa_kelurahan": "Rindu Hati",
+    "kecamatan": "Taba Penanjung",
+    "kabupaten_kota": "KAB. BENGKULU TENGAH",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "192",
+    "kodepos": "38386",
+    "desa_kelurahan": "Taba Baru",
+    "kecamatan": "Taba Penanjung",
+    "kabupaten_kota": "KAB. BENGKULU TENGAH",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "193",
+    "kodepos": "38386",
+    "desa_kelurahan": "Tanjung Heran",
+    "kecamatan": "Taba Penanjung",
+    "kabupaten_kota": "KAB. BENGKULU TENGAH",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "194",
+    "kodepos": "38386",
+    "desa_kelurahan": "Datar Lebar",
+    "kecamatan": "Taba Penanjung",
+    "kabupaten_kota": "KAB. BENGKULU TENGAH",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "195",
+    "kodepos": "38391",
+    "desa_kelurahan": "Ulak Lebar",
+    "kecamatan": "Merigi Kelindang",
+    "kabupaten_kota": "KAB. BENGKULU TENGAH",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "196",
+    "kodepos": "38391",
+    "desa_kelurahan": "Lubuk Unen Baru",
+    "kecamatan": "Merigi Kelindang",
+    "kabupaten_kota": "KAB. BENGKULU TENGAH",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "197",
+    "kodepos": "38391",
+    "desa_kelurahan": "Penembang",
+    "kecamatan": "Merigi Kelindang",
+    "kabupaten_kota": "KAB. BENGKULU TENGAH",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "198",
+    "kodepos": "38391",
+    "desa_kelurahan": "Taba Durian Sebakul",
+    "kecamatan": "Merigi Kelindang",
+    "kabupaten_kota": "KAB. BENGKULU TENGAH",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "199",
+    "kodepos": "38391",
+    "desa_kelurahan": "Lubuk Unen",
+    "kecamatan": "Merigi Kelindang",
+    "kabupaten_kota": "KAB. BENGKULU TENGAH",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "200",
+    "kodepos": "38391",
+    "desa_kelurahan": "Jambu",
+    "kecamatan": "Merigi Kelindang",
+    "kabupaten_kota": "KAB. BENGKULU TENGAH",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "201",
+    "kodepos": "38391",
+    "desa_kelurahan": "Pungguk Ketupak",
+    "kecamatan": "Merigi Kelindang",
+    "kabupaten_kota": "KAB. BENGKULU TENGAH",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "202",
+    "kodepos": "38391",
+    "desa_kelurahan": "Pungguk Beringin",
+    "kecamatan": "Merigi Kelindang",
+    "kabupaten_kota": "KAB. BENGKULU TENGAH",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "203",
+    "kodepos": "38391",
+    "desa_kelurahan": "Kelindang",
+    "kecamatan": "Merigi Kelindang",
+    "kabupaten_kota": "KAB. BENGKULU TENGAH",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "204",
+    "kodepos": "38391",
+    "desa_kelurahan": "Padang Kedeper",
+    "kecamatan": "Merigi Kelindang",
+    "kabupaten_kota": "KAB. BENGKULU TENGAH",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "205",
+    "kodepos": "38391",
+    "desa_kelurahan": "Talang Ambung",
+    "kecamatan": "Merigi Kelindang",
+    "kabupaten_kota": "KAB. BENGKULU TENGAH",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "206",
+    "kodepos": "38391",
+    "desa_kelurahan": "Bajak II",
+    "kecamatan": "Merigi Kelindang",
+    "kabupaten_kota": "KAB. BENGKULU TENGAH",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "207",
+    "kodepos": "38391",
+    "desa_kelurahan": "Kelindang Atas",
+    "kecamatan": "Merigi Kelindang",
+    "kabupaten_kota": "KAB. BENGKULU TENGAH",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "208",
+    "kodepos": "38392",
+    "desa_kelurahan": "Bajak Tiga",
+    "kecamatan": "Merigi Sakti",
+    "kabupaten_kota": "KAB. BENGKULU TENGAH",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "209",
+    "kodepos": "38392",
+    "desa_kelurahan": "Komering",
+    "kecamatan": "Merigi Sakti",
+    "kabupaten_kota": "KAB. BENGKULU TENGAH",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "210",
+    "kodepos": "38392",
+    "desa_kelurahan": "Rajak Besi",
+    "kecamatan": "Merigi Sakti",
+    "kabupaten_kota": "KAB. BENGKULU TENGAH",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "211",
+    "kodepos": "38392",
+    "desa_kelurahan": "Punjung",
+    "kecamatan": "Merigi Sakti",
+    "kabupaten_kota": "KAB. BENGKULU TENGAH",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "212",
+    "kodepos": "38392",
+    "desa_kelurahan": "Lubuk Pendam",
+    "kecamatan": "Merigi Sakti",
+    "kabupaten_kota": "KAB. BENGKULU TENGAH",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "213",
+    "kodepos": "38392",
+    "desa_kelurahan": "Pagar Agung",
+    "kecamatan": "Merigi Sakti",
+    "kabupaten_kota": "KAB. BENGKULU TENGAH",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "214",
+    "kodepos": "38392",
+    "desa_kelurahan": "Durian Lebar",
+    "kecamatan": "Merigi Sakti",
+    "kabupaten_kota": "KAB. BENGKULU TENGAH",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "215",
+    "kodepos": "38392",
+    "desa_kelurahan": "Arga Indah II",
+    "kecamatan": "Merigi Sakti",
+    "kabupaten_kota": "KAB. BENGKULU TENGAH",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "216",
+    "kodepos": "38392",
+    "desa_kelurahan": "Susup",
+    "kecamatan": "Merigi Sakti",
+    "kabupaten_kota": "KAB. BENGKULU TENGAH",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "217",
+    "kodepos": "38392",
+    "desa_kelurahan": "Karang Panggung",
+    "kecamatan": "Merigi Sakti",
+    "kabupaten_kota": "KAB. BENGKULU TENGAH",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "218",
+    "kodepos": "38392",
+    "desa_kelurahan": "Lubuk Puar",
+    "kecamatan": "Merigi Sakti",
+    "kabupaten_kota": "KAB. BENGKULU TENGAH",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "219",
+    "kodepos": "38392",
+    "desa_kelurahan": "Taba Gemantung",
+    "kecamatan": "Merigi Sakti",
+    "kabupaten_kota": "KAB. BENGKULU TENGAH",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "220",
+    "kodepos": "38392",
+    "desa_kelurahan": "Pagar Besi",
+    "kecamatan": "Merigi Sakti",
+    "kabupaten_kota": "KAB. BENGKULU TENGAH",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "221",
+    "kodepos": "38392",
+    "desa_kelurahan": "Curup",
+    "kecamatan": "Merigi Sakti",
+    "kabupaten_kota": "KAB. BENGKULU TENGAH",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "222",
+    "kodepos": "38392",
+    "desa_kelurahan": "Pungguk Jaya",
+    "kecamatan": "Merigi Sakti",
+    "kabupaten_kota": "KAB. BENGKULU TENGAH",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "223",
+    "kodepos": "38393",
+    "desa_kelurahan": "Padang Berunai",
+    "kecamatan": "Bang Haji",
+    "kabupaten_kota": "KAB. BENGKULU TENGAH",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "224",
+    "kodepos": "38393",
+    "desa_kelurahan": "Lubuk Langkap",
+    "kecamatan": "Bang Haji",
+    "kabupaten_kota": "KAB. BENGKULU TENGAH",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "225",
+    "kodepos": "38393",
+    "desa_kelurahan": "Sekayun Hilir",
+    "kecamatan": "Bang Haji",
+    "kabupaten_kota": "KAB. BENGKULU TENGAH",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "226",
+    "kodepos": "38393",
+    "desa_kelurahan": "Genting",
+    "kecamatan": "Bang Haji",
+    "kabupaten_kota": "KAB. BENGKULU TENGAH",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "227",
+    "kodepos": "38393",
+    "desa_kelurahan": "Sekayun",
+    "kecamatan": "Bang Haji",
+    "kabupaten_kota": "KAB. BENGKULU TENGAH",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "228",
+    "kodepos": "38393",
+    "desa_kelurahan": "Talang Donok",
+    "kecamatan": "Bang Haji",
+    "kabupaten_kota": "KAB. BENGKULU TENGAH",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "229",
+    "kodepos": "38393",
+    "desa_kelurahan": "Bang Haji",
+    "kecamatan": "Bang Haji",
+    "kabupaten_kota": "KAB. BENGKULU TENGAH",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "230",
+    "kodepos": "38393",
+    "desa_kelurahan": "Talang Panjang",
+    "kecamatan": "Bang Haji",
+    "kabupaten_kota": "KAB. BENGKULU TENGAH",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "231",
+    "kodepos": "38393",
+    "desa_kelurahan": "Sekayun Mudik",
+    "kecamatan": "Bang Haji",
+    "kabupaten_kota": "KAB. BENGKULU TENGAH",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "232",
+    "kodepos": "38393",
+    "desa_kelurahan": "Taba Tengah",
+    "kecamatan": "Bang Haji",
+    "kabupaten_kota": "KAB. BENGKULU TENGAH",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "233",
+    "kodepos": "38393",
+    "desa_kelurahan": "Sungkai Berayun",
+    "kecamatan": "Bang Haji",
+    "kabupaten_kota": "KAB. BENGKULU TENGAH",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "234",
+    "kodepos": "38393",
+    "desa_kelurahan": "Air Napal",
+    "kecamatan": "Bang Haji",
+    "kabupaten_kota": "KAB. BENGKULU TENGAH",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "235",
+    "kodepos": "38394",
+    "desa_kelurahan": "Batu Raja",
+    "kecamatan": "Pondok Kubang",
+    "kabupaten_kota": "KAB. BENGKULU TENGAH",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "236",
+    "kodepos": "38394",
+    "desa_kelurahan": "Dusun Baru I",
+    "kecamatan": "Pondok Kubang",
+    "kabupaten_kota": "KAB. BENGKULU TENGAH",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "237",
+    "kodepos": "38394",
+    "desa_kelurahan": "Talang Tengah I",
+    "kecamatan": "Pondok Kubang",
+    "kabupaten_kota": "KAB. BENGKULU TENGAH",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "238",
+    "kodepos": "38394",
+    "desa_kelurahan": "Paku Haji",
+    "kecamatan": "Pondok Kubang",
+    "kabupaten_kota": "KAB. BENGKULU TENGAH",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "239",
+    "kodepos": "38394",
+    "desa_kelurahan": "Taba Jambu",
+    "kecamatan": "Pondok Kubang",
+    "kabupaten_kota": "KAB. BENGKULU TENGAH",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "240",
+    "kodepos": "38394",
+    "desa_kelurahan": "Margo Mulyo",
+    "kecamatan": "Pondok Kubang",
+    "kabupaten_kota": "KAB. BENGKULU TENGAH",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "241",
+    "kodepos": "38394",
+    "desa_kelurahan": "Harapan Makmur",
+    "kecamatan": "Pondok Kubang",
+    "kabupaten_kota": "KAB. BENGKULU TENGAH",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "242",
+    "kodepos": "38394",
+    "desa_kelurahan": "Tanjung Dalam",
+    "kecamatan": "Pondok Kubang",
+    "kabupaten_kota": "KAB. BENGKULU TENGAH",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "243",
+    "kodepos": "38394",
+    "desa_kelurahan": "Tanjung Terdana",
+    "kecamatan": "Pondok Kubang",
+    "kabupaten_kota": "KAB. BENGKULU TENGAH",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "244",
+    "kodepos": "38394",
+    "desa_kelurahan": "Pondok Kubang",
+    "kecamatan": "Pondok Kubang",
+    "kabupaten_kota": "KAB. BENGKULU TENGAH",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "245",
+    "kodepos": "38394",
+    "desa_kelurahan": "Linggar Galing",
+    "kecamatan": "Pondok Kubang",
+    "kabupaten_kota": "KAB. BENGKULU TENGAH",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "246",
+    "kodepos": "38394",
+    "desa_kelurahan": "Dusun Anyar",
+    "kecamatan": "Pondok Kubang",
+    "kabupaten_kota": "KAB. BENGKULU TENGAH",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "247",
+    "kodepos": "38511",
+    "desa_kelurahan": "Kampung Baru",
+    "kecamatan": "Kota Manna",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "248",
+    "kodepos": "38512",
+    "desa_kelurahan": "Pasar Baru",
+    "kecamatan": "Kota Manna",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "249",
+    "kodepos": "38513",
+    "desa_kelurahan": "Kota Medan",
+    "kecamatan": "Kota Manna",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "250",
+    "kodepos": "38513",
+    "desa_kelurahan": "Gunung Ayu",
+    "kecamatan": "Kota Manna",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "251",
+    "kodepos": "38514",
+    "desa_kelurahan": "Ibul",
+    "kecamatan": "Kota Manna",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "252",
+    "kodepos": "38515",
+    "desa_kelurahan": "Padang Kapuk",
+    "kecamatan": "Kota Manna",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "253",
+    "kodepos": "38516",
+    "desa_kelurahan": "Padang Niur",
+    "kecamatan": "Kota Manna",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "254",
+    "kodepos": "38517",
+    "desa_kelurahan": "Tebat Kubu",
+    "kecamatan": "Kota Manna",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "255",
+    "kodepos": "38518",
+    "desa_kelurahan": "Pagar Dewa",
+    "kecamatan": "Kota Manna",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "256",
+    "kodepos": "38519",
+    "desa_kelurahan": "Padang Berangin",
+    "kecamatan": "Kota Manna",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "257",
+    "kodepos": "38519",
+    "desa_kelurahan": "Gelumbang",
+    "kecamatan": "Kota Manna",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "258",
+    "kodepos": "38521",
+    "desa_kelurahan": "Gunung Mesir",
+    "kecamatan": "Pasar Manna",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "259",
+    "kodepos": "38522",
+    "desa_kelurahan": "Batu Lambang",
+    "kecamatan": "Pasar Manna",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "260",
+    "kodepos": "38523",
+    "desa_kelurahan": "Tanjung Mulia",
+    "kecamatan": "Pasar Manna",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "261",
+    "kodepos": "38524",
+    "desa_kelurahan": "Belakang Gedung",
+    "kecamatan": "Pasar Manna",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "262",
+    "kodepos": "38525",
+    "desa_kelurahan": "Pasar Bawah",
+    "kecamatan": "Pasar Manna",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "263",
+    "kodepos": "38526",
+    "desa_kelurahan": "Ketapang Besar",
+    "kecamatan": "Pasar Manna",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "264",
+    "kodepos": "38527",
+    "desa_kelurahan": "Padang Sialang",
+    "kecamatan": "Pasar Manna",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "265",
+    "kodepos": "38528",
+    "desa_kelurahan": "Pasar Mulia",
+    "kecamatan": "Pasar Manna",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "266",
+    "kodepos": "38529",
+    "desa_kelurahan": "Batu Kuning",
+    "kecamatan": "Pasar Manna",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "267",
+    "kodepos": "38551",
+    "desa_kelurahan": "Tanjung Raman",
+    "kecamatan": "Manna",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "268",
+    "kodepos": "38551",
+    "desa_kelurahan": "Ketaping",
+    "kecamatan": "Manna",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "269",
+    "kodepos": "38551",
+    "desa_kelurahan": "Gunung Kembang",
+    "kecamatan": "Manna",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "270",
+    "kodepos": "38551",
+    "desa_kelurahan": "Manggul",
+    "kecamatan": "Manna",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "271",
+    "kodepos": "38551",
+    "desa_kelurahan": "Terulung",
+    "kecamatan": "Manna",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "272",
+    "kodepos": "38551",
+    "desa_kelurahan": "Jeranglah Rendah",
+    "kecamatan": "Manna",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "273",
+    "kodepos": "38551",
+    "desa_kelurahan": "Kota Padang",
+    "kecamatan": "Manna",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "274",
+    "kodepos": "38551",
+    "desa_kelurahan": "Lubuk Sirih Ilir",
+    "kecamatan": "Manna",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "275",
+    "kodepos": "38551",
+    "desa_kelurahan": "Melao",
+    "kecamatan": "Manna",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "276",
+    "kodepos": "38551",
+    "desa_kelurahan": "Padang Pandan",
+    "kecamatan": "Manna",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "277",
+    "kodepos": "38551",
+    "desa_kelurahan": "Lubuk Sirih Ulu",
+    "kecamatan": "Manna",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "278",
+    "kodepos": "38551",
+    "desa_kelurahan": "Jeranglah Tinggi",
+    "kecamatan": "Manna",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "279",
+    "kodepos": "38551",
+    "desa_kelurahan": "Kembang Ayun",
+    "kecamatan": "Manna",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "280",
+    "kodepos": "38551",
+    "desa_kelurahan": "Tanjung Besar",
+    "kecamatan": "Manna",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "281",
+    "kodepos": "38551",
+    "desa_kelurahan": "Kayu Kunyit",
+    "kecamatan": "Manna",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "282",
+    "kodepos": "38551",
+    "desa_kelurahan": "Padang Manis",
+    "kecamatan": "Manna",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "283",
+    "kodepos": "38551",
+    "desa_kelurahan": "Gunung Sakti",
+    "kecamatan": "Manna",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "284",
+    "kodepos": "38551",
+    "desa_kelurahan": "Tambangan",
+    "kecamatan": "Manna",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "285",
+    "kodepos": "38552",
+    "desa_kelurahan": "Sukaraja",
+    "kecamatan": "Seginim",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "286",
+    "kodepos": "38552",
+    "desa_kelurahan": "Muara Pulutan",
+    "kecamatan": "Seginim",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "287",
+    "kodepos": "38552",
+    "desa_kelurahan": "Pasar Baru",
+    "kecamatan": "Seginim",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "288",
+    "kodepos": "38552",
+    "desa_kelurahan": "Dusun Tengah",
+    "kecamatan": "Seginim",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "289",
+    "kodepos": "38552",
+    "desa_kelurahan": "Padang Lebar",
+    "kecamatan": "Seginim",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "290",
+    "kodepos": "38552",
+    "desa_kelurahan": "Sindang Bulan",
+    "kecamatan": "Seginim",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "291",
+    "kodepos": "38552",
+    "desa_kelurahan": "Gunung Ayu",
+    "kecamatan": "Seginim",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "292",
+    "kodepos": "38552",
+    "desa_kelurahan": "Kota Agung",
+    "kecamatan": "Seginim",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "293",
+    "kodepos": "38552",
+    "desa_kelurahan": "Padang Siring",
+    "kecamatan": "Seginim",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "294",
+    "kodepos": "38552",
+    "desa_kelurahan": "Muara Danau",
+    "kecamatan": "Seginim",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "295",
+    "kodepos": "38552",
+    "desa_kelurahan": "Muara Payang",
+    "kecamatan": "Seginim",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "296",
+    "kodepos": "38552",
+    "desa_kelurahan": "Dusun Baru",
+    "kecamatan": "Seginim",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "297",
+    "kodepos": "38552",
+    "desa_kelurahan": "Darat Sawah",
+    "kecamatan": "Seginim",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "298",
+    "kodepos": "38552",
+    "desa_kelurahan": "Babatan Ulu",
+    "kecamatan": "Seginim",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "299",
+    "kodepos": "38552",
+    "desa_kelurahan": "Babatan Ilir",
+    "kecamatan": "Seginim",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "300",
+    "kodepos": "38552",
+    "desa_kelurahan": "Pajar Bulan",
+    "kecamatan": "Seginim",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "301",
+    "kodepos": "38552",
+    "desa_kelurahan": "Tanjung Menang",
+    "kecamatan": "Seginim",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "302",
+    "kodepos": "38552",
+    "desa_kelurahan": "Banding Agung",
+    "kecamatan": "Seginim",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "303",
+    "kodepos": "38552",
+    "desa_kelurahan": "Kota Bumi Baru",
+    "kecamatan": "Seginim",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "304",
+    "kodepos": "38552",
+    "desa_kelurahan": "Durian Seginim",
+    "kecamatan": "Seginim",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "305",
+    "kodepos": "38552",
+    "desa_kelurahan": "Darat Sawah Ulu",
+    "kecamatan": "Seginim",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "306",
+    "kodepos": "38552",
+    "desa_kelurahan": "Tanjung Agung",
+    "kecamatan": "Seginim",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "307",
+    "kodepos": "38553",
+    "desa_kelurahan": "Karang Agung",
+    "kecamatan": "Kedurang",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "308",
+    "kodepos": "38553",
+    "desa_kelurahan": "Muara Tiga Ilir",
+    "kecamatan": "Kedurang",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "309",
+    "kodepos": "38553",
+    "desa_kelurahan": "Lawang Agung",
+    "kecamatan": "Kedurang",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "310",
+    "kodepos": "38553",
+    "desa_kelurahan": "Batu Ampar",
+    "kecamatan": "Kedurang",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "311",
+    "kodepos": "38553",
+    "desa_kelurahan": "Durian Sebatang",
+    "kecamatan": "Kedurang",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "312",
+    "kodepos": "38553",
+    "desa_kelurahan": "Tanjung Alam",
+    "kecamatan": "Kedurang",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "313",
+    "kodepos": "38553",
+    "desa_kelurahan": "Rantau Sialang",
+    "kecamatan": "Kedurang",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "314",
+    "kodepos": "38553",
+    "desa_kelurahan": "Keban Agung II",
+    "kecamatan": "Kedurang",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "315",
+    "kodepos": "38553",
+    "desa_kelurahan": "Keban Agung III",
+    "kecamatan": "Kedurang",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "316",
+    "kodepos": "38553",
+    "desa_kelurahan": "Suka Nanti",
+    "kecamatan": "Kedurang",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "317",
+    "kodepos": "38553",
+    "desa_kelurahan": "Pajar Bulan",
+    "kecamatan": "Kedurang",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "318",
+    "kodepos": "38553",
+    "desa_kelurahan": "Keban Agung I",
+    "kecamatan": "Kedurang",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "319",
+    "kodepos": "38553",
+    "desa_kelurahan": "Muara Tiga",
+    "kecamatan": "Kedurang",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "320",
+    "kodepos": "38553",
+    "desa_kelurahan": "Lubuk Resam",
+    "kecamatan": "Kedurang",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "321",
+    "kodepos": "38553",
+    "desa_kelurahan": "Palak Siring",
+    "kecamatan": "Kedurang",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "322",
+    "kodepos": "38553",
+    "desa_kelurahan": "Nanti Agung",
+    "kecamatan": "Kedurang",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "323",
+    "kodepos": "38553",
+    "desa_kelurahan": "Bumi Agung",
+    "kecamatan": "Kedurang",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "324",
+    "kodepos": "38553",
+    "desa_kelurahan": "Tanjung Besar",
+    "kecamatan": "Kedurang",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "325",
+    "kodepos": "38553",
+    "desa_kelurahan": "Tanjung Negara",
+    "kecamatan": "Kedurang",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "326",
+    "kodepos": "38556",
+    "desa_kelurahan": "Karang Caya",
+    "kecamatan": "Kedurang Ilir",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "327",
+    "kodepos": "38556",
+    "desa_kelurahan": "Padang Bindu",
+    "kecamatan": "Kedurang Ilir",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "328",
+    "kodepos": "38556",
+    "desa_kelurahan": "Air Sulau",
+    "kecamatan": "Kedurang Ilir",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "329",
+    "kodepos": "38556",
+    "desa_kelurahan": "Suka Jaya",
+    "kecamatan": "Kedurang Ilir",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "330",
+    "kodepos": "38556",
+    "desa_kelurahan": "Sukaraja",
+    "kecamatan": "Kedurang Ilir",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "331",
+    "kodepos": "38556",
+    "desa_kelurahan": "Suka Rami",
+    "kecamatan": "Kedurang Ilir",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "332",
+    "kodepos": "38556",
+    "desa_kelurahan": "Limus",
+    "kecamatan": "Kedurang Ilir",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "333",
+    "kodepos": "38556",
+    "desa_kelurahan": "Penindaian",
+    "kecamatan": "Kedurang Ilir",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "334",
+    "kodepos": "38556",
+    "desa_kelurahan": "Lubuk Ladung",
+    "kecamatan": "Kedurang Ilir",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "335",
+    "kodepos": "38556",
+    "desa_kelurahan": "Betungan",
+    "kecamatan": "Kedurang Ilir",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "336",
+    "kodepos": "38556",
+    "desa_kelurahan": "Pagar Banyu",
+    "kecamatan": "Kedurang Ilir",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "337",
+    "kodepos": "38556",
+    "desa_kelurahan": "Nanjungan",
+    "kecamatan": "Kedurang Ilir",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "338",
+    "kodepos": "38557",
+    "desa_kelurahan": "Padang Nibung",
+    "kecamatan": "Bunga Mas",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "339",
+    "kodepos": "38557",
+    "desa_kelurahan": "Tumbak Tebing",
+    "kecamatan": "Bunga Mas",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "340",
+    "kodepos": "38557",
+    "desa_kelurahan": "Padang Jawi",
+    "kecamatan": "Bunga Mas",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "341",
+    "kodepos": "38557",
+    "desa_kelurahan": "Tanjung Aur",
+    "kecamatan": "Bunga Mas",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "342",
+    "kodepos": "38557",
+    "desa_kelurahan": "Gunung Kayo",
+    "kecamatan": "Bunga Mas",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "343",
+    "kodepos": "38557",
+    "desa_kelurahan": "Talang Indah",
+    "kecamatan": "Bunga Mas",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "344",
+    "kodepos": "38557",
+    "desa_kelurahan": "Gindo Suli",
+    "kecamatan": "Bunga Mas",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "345",
+    "kodepos": "38557",
+    "desa_kelurahan": "Tanjung Tebat",
+    "kecamatan": "Bunga Mas",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "346",
+    "kodepos": "38557",
+    "desa_kelurahan": "Padang Burnai",
+    "kecamatan": "Bunga Mas",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "347",
+    "kodepos": "38557",
+    "desa_kelurahan": "Kuripan",
+    "kecamatan": "Bunga Mas",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "348",
+    "kodepos": "38558",
+    "desa_kelurahan": "Sukamaju",
+    "kecamatan": "Air Nipis",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "349",
+    "kodepos": "38558",
+    "desa_kelurahan": "Keban Jati",
+    "kecamatan": "Air Nipis",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "350",
+    "kodepos": "38558",
+    "desa_kelurahan": "Pino Baru",
+    "kecamatan": "Air Nipis",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "351",
+    "kodepos": "38558",
+    "desa_kelurahan": "Maras",
+    "kecamatan": "Air Nipis",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "352",
+    "kodepos": "38558",
+    "desa_kelurahan": "Tanjung Beringin",
+    "kecamatan": "Air Nipis",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "353",
+    "kodepos": "38558",
+    "desa_kelurahan": "Suka Negeri",
+    "kecamatan": "Air Nipis",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "354",
+    "kodepos": "38558",
+    "desa_kelurahan": "Sukarami",
+    "kecamatan": "Air Nipis",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "355",
+    "kodepos": "38558",
+    "desa_kelurahan": "Suka Bandung",
+    "kecamatan": "Air Nipis",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "356",
+    "kodepos": "38558",
+    "desa_kelurahan": "Palak Bengkerung",
+    "kecamatan": "Air Nipis",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "357",
+    "kodepos": "38558",
+    "desa_kelurahan": "Penandingan",
+    "kecamatan": "Air Nipis",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "358",
+    "kodepos": "38571",
+    "desa_kelurahan": "Anggut",
+    "kecamatan": "Pino",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "359",
+    "kodepos": "38571",
+    "desa_kelurahan": "Tanjung Aur I",
+    "kecamatan": "Pino",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "360",
+    "kodepos": "38571",
+    "desa_kelurahan": "Batu Bandung",
+    "kecamatan": "Pino",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "361",
+    "kodepos": "38571",
+    "desa_kelurahan": "Sebilo",
+    "kecamatan": "Pino",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "362",
+    "kodepos": "38571",
+    "desa_kelurahan": "Puding",
+    "kecamatan": "Pino",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "363",
+    "kodepos": "38571",
+    "desa_kelurahan": "Gedung Agung",
+    "kecamatan": "Pino",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "364",
+    "kodepos": "38571",
+    "desa_kelurahan": "Tanjung Eran",
+    "kecamatan": "Pino",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "365",
+    "kodepos": "38571",
+    "desa_kelurahan": "Ulak Lebar",
+    "kecamatan": "Pino",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "366",
+    "kodepos": "38571",
+    "desa_kelurahan": "Air Umban",
+    "kecamatan": "Pino",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "367",
+    "kodepos": "38571",
+    "desa_kelurahan": "Padang Mumpo",
+    "kecamatan": "Pino",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "368",
+    "kodepos": "38571",
+    "desa_kelurahan": "Padang Lebar",
+    "kecamatan": "Pino",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "369",
+    "kodepos": "38571",
+    "desa_kelurahan": "Beringin Datar",
+    "kecamatan": "Pino",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "370",
+    "kodepos": "38571",
+    "desa_kelurahan": "Kota Bumi",
+    "kecamatan": "Pino",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "371",
+    "kodepos": "38571",
+    "desa_kelurahan": "Padang Tambak",
+    "kecamatan": "Pino",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "372",
+    "kodepos": "38571",
+    "desa_kelurahan": "Masat",
+    "kecamatan": "Pino",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "373",
+    "kodepos": "38571",
+    "desa_kelurahan": "Ganjuh",
+    "kecamatan": "Pino",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "374",
+    "kodepos": "38572",
+    "desa_kelurahan": "Selali",
+    "kecamatan": "Pino Raya",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "375",
+    "kodepos": "38572",
+    "desa_kelurahan": "Bandung Ayu",
+    "kecamatan": "Pino Raya",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "376",
+    "kodepos": "38572",
+    "desa_kelurahan": "Cinto Mandi",
+    "kecamatan": "Pino Raya",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "377",
+    "kodepos": "38572",
+    "desa_kelurahan": "Telaga Dalam",
+    "kecamatan": "Pino Raya",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "378",
+    "kodepos": "38572",
+    "desa_kelurahan": "Tungkal II",
+    "kecamatan": "Pino Raya",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "379",
+    "kodepos": "38572",
+    "desa_kelurahan": "Tanggo Raso",
+    "kecamatan": "Pino Raya",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "380",
+    "kodepos": "38572",
+    "desa_kelurahan": "Air Kemang",
+    "kecamatan": "Pino Raya",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "381",
+    "kodepos": "38572",
+    "desa_kelurahan": "Pasar Pino",
+    "kecamatan": "Pino Raya",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "382",
+    "kodepos": "38572",
+    "desa_kelurahan": "Napal Melintang",
+    "kecamatan": "Pino Raya",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "383",
+    "kodepos": "38572",
+    "desa_kelurahan": "Kembang Seri",
+    "kecamatan": "Pino Raya",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "384",
+    "kodepos": "38572",
+    "desa_kelurahan": "Nanjungan",
+    "kecamatan": "Pino Raya",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "385",
+    "kodepos": "38572",
+    "desa_kelurahan": "Karang Cayo",
+    "kecamatan": "Pino Raya",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "386",
+    "kodepos": "38572",
+    "desa_kelurahan": "Padang Serasan",
+    "kecamatan": "Pino Raya",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "387",
+    "kodepos": "38572",
+    "desa_kelurahan": "Pagar Gading",
+    "kecamatan": "Pino Raya",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "388",
+    "kodepos": "38572",
+    "desa_kelurahan": "Padang Beriang",
+    "kecamatan": "Pino Raya",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "389",
+    "kodepos": "38572",
+    "desa_kelurahan": "Talang Padang",
+    "kecamatan": "Pino Raya",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "390",
+    "kodepos": "38572",
+    "desa_kelurahan": "Tanjung Aur II",
+    "kecamatan": "Pino Raya",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "391",
+    "kodepos": "38572",
+    "desa_kelurahan": "Suka Bandung",
+    "kecamatan": "Pino Raya",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "392",
+    "kodepos": "38572",
+    "desa_kelurahan": "Kemang Manis",
+    "kecamatan": "Pino Raya",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "393",
+    "kodepos": "38572",
+    "desa_kelurahan": "Tungkal I",
+    "kecamatan": "Pino Raya",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "394",
+    "kodepos": "38572",
+    "desa_kelurahan": "Serang Bulan",
+    "kecamatan": "Pino Raya",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "395",
+    "kodepos": "38576",
+    "desa_kelurahan": "Sengkuang",
+    "kecamatan": "Tanjung Agung Palik",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "396",
+    "kodepos": "38576",
+    "desa_kelurahan": "Lubuk Pendam",
+    "kecamatan": "Tanjung Agung Palik",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "397",
+    "kodepos": "38579",
+    "desa_kelurahan": "Merambung",
+    "kecamatan": "Ulu Manna",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "398",
+    "kodepos": "38579",
+    "desa_kelurahan": "Simpang Pino",
+    "kecamatan": "Ulu Manna",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "399",
+    "kodepos": "38579",
+    "desa_kelurahan": "Air Tenam Dalam",
+    "kecamatan": "Ulu Manna",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "400",
+    "kodepos": "38579",
+    "desa_kelurahan": "Batu Panco",
+    "kecamatan": "Ulu Manna",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "401",
+    "kodepos": "38579",
+    "desa_kelurahan": "Batu Kuning",
+    "kecamatan": "Ulu Manna",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "402",
+    "kodepos": "38579",
+    "desa_kelurahan": "Bandar Agung",
+    "kecamatan": "Ulu Manna",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "403",
+    "kodepos": "38579",
+    "desa_kelurahan": "Talang Tinggi",
+    "kecamatan": "Ulu Manna",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "404",
+    "kodepos": "38579",
+    "desa_kelurahan": "Kayu Ajaran",
+    "kecamatan": "Ulu Manna",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "405",
+    "kodepos": "38579",
+    "desa_kelurahan": "Lubuk Tapi",
+    "kecamatan": "Ulu Manna",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "406",
+    "kodepos": "38579",
+    "desa_kelurahan": "Keban Jati",
+    "kecamatan": "Ulu Manna",
+    "kabupaten_kota": "KAB. BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "407",
+    "kodepos": "38611",
+    "desa_kelurahan": "Tebing Kaning",
+    "kecamatan": "Arma Jaya",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "408",
+    "kodepos": "38611",
+    "desa_kelurahan": "Pematang Sapang",
+    "kecamatan": "Arma Jaya",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "409",
+    "kodepos": "38611",
+    "desa_kelurahan": "Kali",
+    "kecamatan": "Arma Jaya",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "410",
+    "kodepos": "38611",
+    "desa_kelurahan": "Air Merah",
+    "kecamatan": "Arma Jaya",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "411",
+    "kodepos": "38611",
+    "desa_kelurahan": "Pagar Banyu",
+    "kecamatan": "Arma Jaya",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "412",
+    "kodepos": "38611",
+    "desa_kelurahan": "Kalai Duai",
+    "kecamatan": "Arma Jaya",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "413",
+    "kodepos": "38611",
+    "desa_kelurahan": "Sidodadi",
+    "kecamatan": "Arma Jaya",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "414",
+    "kodepos": "38611",
+    "desa_kelurahan": "Pagar Ruyung",
+    "kecamatan": "Arma Jaya",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "415",
+    "kodepos": "38611",
+    "desa_kelurahan": "Gunung Besar",
+    "kecamatan": "Arma Jaya",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "416",
+    "kodepos": "38611",
+    "desa_kelurahan": "Sumber Agung",
+    "kecamatan": "Arma Jaya",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "417",
+    "kodepos": "38611",
+    "desa_kelurahan": "Gardu",
+    "kecamatan": "Arma Jaya",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "418",
+    "kodepos": "38611",
+    "desa_kelurahan": "Kemumu",
+    "kecamatan": "Arma Jaya",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "419",
+    "kodepos": "38611",
+    "desa_kelurahan": "Gunung Alam",
+    "kecamatan": "Kota Arga Makmur",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "420",
+    "kodepos": "38611",
+    "desa_kelurahan": "Senali",
+    "kecamatan": "Kota Arga Makmur",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "421",
+    "kodepos": "38611",
+    "desa_kelurahan": "Sido Urip",
+    "kecamatan": "Kota Arga Makmur",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "422",
+    "kodepos": "38611",
+    "desa_kelurahan": "Karang Anyar II",
+    "kecamatan": "Kota Arga Makmur",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "423",
+    "kodepos": "38611",
+    "desa_kelurahan": "Karang Anyar I",
+    "kecamatan": "Kota Arga Makmur",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "424",
+    "kodepos": "38611",
+    "desa_kelurahan": "Kuro Tidur",
+    "kecamatan": "Kota Arga Makmur",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "425",
+    "kodepos": "38611",
+    "desa_kelurahan": "Gunung Agung",
+    "kecamatan": "Kota Arga Makmur",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "426",
+    "kodepos": "38611",
+    "desa_kelurahan": "Gunung Selan",
+    "kecamatan": "Kota Arga Makmur",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "427",
+    "kodepos": "38611",
+    "desa_kelurahan": "Taba Tembilang",
+    "kecamatan": "Kota Arga Makmur",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "428",
+    "kodepos": "38611",
+    "desa_kelurahan": "Talang Denau",
+    "kecamatan": "Kota Arga Makmur",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "429",
+    "kodepos": "38612",
+    "desa_kelurahan": "Purwodadi",
+    "kecamatan": "Kota Arga Makmur",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "430",
+    "kodepos": "38614",
+    "desa_kelurahan": "Rama Agung",
+    "kecamatan": "Kota Arga Makmur",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "431",
+    "kodepos": "38617",
+    "desa_kelurahan": "Tanjung Raman",
+    "kecamatan": "Kota Arga Makmur",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "432",
+    "kodepos": "38617",
+    "desa_kelurahan": "Datar Ruyung",
+    "kecamatan": "Kota Arga Makmur",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "433",
+    "kodepos": "38618",
+    "desa_kelurahan": "Lubuk Sahung",
+    "kecamatan": "Kota Arga Makmur",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "434",
+    "kodepos": "38619",
+    "desa_kelurahan": "Karang Suci",
+    "kecamatan": "Kota Arga Makmur",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "435",
+    "kodepos": "38652",
+    "desa_kelurahan": "Tanjung Aur",
+    "kecamatan": "Air Padang",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "436",
+    "kodepos": "38652",
+    "desa_kelurahan": "Balam",
+    "kecamatan": "Air Padang",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "437",
+    "kodepos": "38652",
+    "desa_kelurahan": "Teluk Ajang",
+    "kecamatan": "Air Padang",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "438",
+    "kodepos": "38652",
+    "desa_kelurahan": "Kembang Manis",
+    "kecamatan": "Air Padang",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "439",
+    "kodepos": "38652",
+    "desa_kelurahan": "Talang Ulu",
+    "kecamatan": "Air Padang",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "440",
+    "kodepos": "38652",
+    "desa_kelurahan": "Padang Kala",
+    "kecamatan": "Air Padang",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "441",
+    "kodepos": "38652",
+    "desa_kelurahan": "Retes",
+    "kecamatan": "Air Padang",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "442",
+    "kodepos": "38652",
+    "desa_kelurahan": "Suka Rami",
+    "kecamatan": "Air Padang",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "443",
+    "kodepos": "38652",
+    "desa_kelurahan": "Mesigit",
+    "kecamatan": "Air Padang",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "444",
+    "kodepos": "38652",
+    "desa_kelurahan": "Lubuk Mumpo",
+    "kecamatan": "Air Padang",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "445",
+    "kodepos": "38653",
+    "desa_kelurahan": "Durian Daun",
+    "kecamatan": "Lais",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "446",
+    "kodepos": "38653",
+    "desa_kelurahan": "Dusun Raja",
+    "kecamatan": "Lais",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "447",
+    "kodepos": "38653",
+    "desa_kelurahan": "Lubuk Lesung",
+    "kecamatan": "Lais",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "448",
+    "kodepos": "38653",
+    "desa_kelurahan": "Pal 30",
+    "kecamatan": "Lais",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "449",
+    "kodepos": "38653",
+    "desa_kelurahan": "Talang Rasau",
+    "kecamatan": "Lais",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "450",
+    "kodepos": "38653",
+    "desa_kelurahan": "Datar Lebar",
+    "kecamatan": "Lais",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "451",
+    "kodepos": "38653",
+    "desa_kelurahan": "Lubuk Gedang",
+    "kecamatan": "Lais",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "452",
+    "kodepos": "38653",
+    "desa_kelurahan": "Suka Langu",
+    "kecamatan": "Lais",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "453",
+    "kodepos": "38653",
+    "desa_kelurahan": "Taba Baru",
+    "kecamatan": "Lais",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "454",
+    "kodepos": "38653",
+    "desa_kelurahan": "Air Padang",
+    "kecamatan": "Lais",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "455",
+    "kodepos": "38653",
+    "desa_kelurahan": "Kalbang",
+    "kecamatan": "Lais",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "456",
+    "kodepos": "38653",
+    "desa_kelurahan": "Pasar Lais",
+    "kecamatan": "Lais",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "457",
+    "kodepos": "38653",
+    "desa_kelurahan": "Jagobayo",
+    "kecamatan": "Lais",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "458",
+    "kodepos": "38655",
+    "desa_kelurahan": "Suka Mulya",
+    "kecamatan": "Giri Mulya",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "459",
+    "kodepos": "38655",
+    "desa_kelurahan": "Giri Mulya",
+    "kecamatan": "Giri Mulya",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "460",
+    "kodepos": "38655",
+    "desa_kelurahan": "Wono Harjo",
+    "kecamatan": "Giri Mulya",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "461",
+    "kodepos": "38655",
+    "desa_kelurahan": "Tanjung Anom",
+    "kecamatan": "Giri Mulya",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "462",
+    "kodepos": "38655",
+    "desa_kelurahan": "Suka Makmur",
+    "kecamatan": "Giri Mulya",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "463",
+    "kodepos": "38655",
+    "desa_kelurahan": "Rena Jaya",
+    "kecamatan": "Giri Mulya",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "464",
+    "kodepos": "38656",
+    "desa_kelurahan": "Serangai",
+    "kecamatan": "Batik Nau",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "465",
+    "kodepos": "38656",
+    "desa_kelurahan": "Durian Amparan",
+    "kecamatan": "Batik Nau",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "466",
+    "kodepos": "38656",
+    "desa_kelurahan": "Seberang Tunggal",
+    "kecamatan": "Batik Nau",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "467",
+    "kodepos": "38656",
+    "desa_kelurahan": "Sekiau",
+    "kecamatan": "Batik Nau",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "468",
+    "kodepos": "38656",
+    "desa_kelurahan": "Air Mangayau",
+    "kecamatan": "Batik Nau",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "469",
+    "kodepos": "38656",
+    "desa_kelurahan": "Ulak Tanding",
+    "kecamatan": "Batik Nau",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "470",
+    "kodepos": "38656",
+    "desa_kelurahan": "Peninjau",
+    "kecamatan": "Batik Nau",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "471",
+    "kodepos": "38656",
+    "desa_kelurahan": "Pagar Ruyung",
+    "kecamatan": "Batik Nau",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "472",
+    "kodepos": "38656",
+    "desa_kelurahan": "Taba Kulintang",
+    "kecamatan": "Batik Nau",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "473",
+    "kodepos": "38656",
+    "desa_kelurahan": "Samban Jaya",
+    "kecamatan": "Batik Nau",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "474",
+    "kodepos": "38656",
+    "desa_kelurahan": "Suka Marga",
+    "kecamatan": "Batik Nau",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "475",
+    "kodepos": "38656",
+    "desa_kelurahan": "Selolong",
+    "kecamatan": "Batik Nau",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "476",
+    "kodepos": "38656",
+    "desa_kelurahan": "Bintunan",
+    "kecamatan": "Batik Nau",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "477",
+    "kodepos": "38656",
+    "desa_kelurahan": "Air Lakok",
+    "kecamatan": "Batik Nau",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "478",
+    "kodepos": "38656",
+    "desa_kelurahan": "Batik Nau",
+    "kecamatan": "Batik Nau",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "479",
+    "kodepos": "38657",
+    "desa_kelurahan": "Tambak Rejo",
+    "kecamatan": "Padang Jaya",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "480",
+    "kodepos": "38657",
+    "desa_kelurahan": "Tanah Tinggi",
+    "kecamatan": "Padang Jaya",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "481",
+    "kodepos": "38657",
+    "desa_kelurahan": "Tanah Hitam",
+    "kecamatan": "Padang Jaya",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "482",
+    "kodepos": "38657",
+    "desa_kelurahan": "Padang Jaya",
+    "kecamatan": "Padang Jaya",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "483",
+    "kodepos": "38657",
+    "desa_kelurahan": "Marga Jaya",
+    "kecamatan": "Padang Jaya",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "484",
+    "kodepos": "38657",
+    "desa_kelurahan": "Marga Sakti",
+    "kecamatan": "Padang Jaya",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "485",
+    "kodepos": "38657",
+    "desa_kelurahan": "Talang Tua",
+    "kecamatan": "Padang Jaya",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "486",
+    "kodepos": "38657",
+    "desa_kelurahan": "Tanjung Harapan",
+    "kecamatan": "Padang Jaya",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "487",
+    "kodepos": "38657",
+    "desa_kelurahan": "Lubuk Banyau",
+    "kecamatan": "Padang Jaya",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "488",
+    "kodepos": "38657",
+    "desa_kelurahan": "Sido Mukti",
+    "kecamatan": "Padang Jaya",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "489",
+    "kodepos": "38657",
+    "desa_kelurahan": "Arga Mulya",
+    "kecamatan": "Padang Jaya",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "490",
+    "kodepos": "38657",
+    "desa_kelurahan": "Sido Luhur",
+    "kecamatan": "Padang Jaya",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "491",
+    "kodepos": "38661",
+    "desa_kelurahan": "Giri Kencana",
+    "kecamatan": "Ketahun",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "492",
+    "kodepos": "38661",
+    "desa_kelurahan": "Kualalangi",
+    "kecamatan": "Ketahun",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "493",
+    "kodepos": "38661",
+    "desa_kelurahan": "Urai",
+    "kecamatan": "Ketahun",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "494",
+    "kodepos": "38661",
+    "desa_kelurahan": "Fajar Baru",
+    "kecamatan": "Ketahun",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "495",
+    "kodepos": "38661",
+    "desa_kelurahan": "Talang Baru",
+    "kecamatan": "Ketahun",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "496",
+    "kodepos": "38661",
+    "desa_kelurahan": "Lubuk Mindai",
+    "kecamatan": "Ketahun",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "497",
+    "kodepos": "38661",
+    "desa_kelurahan": "Bukit Indah",
+    "kecamatan": "Ketahun",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "498",
+    "kodepos": "38661",
+    "desa_kelurahan": "Dusun Raja",
+    "kecamatan": "Ketahun",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "499",
+    "kodepos": "38661",
+    "desa_kelurahan": "Bukit Tinggi",
+    "kecamatan": "Ketahun",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "500",
+    "kodepos": "38661",
+    "desa_kelurahan": "Pasar Ketahun",
+    "kecamatan": "Ketahun",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "501",
+    "kodepos": "38661",
+    "desa_kelurahan": "Melati Harjo",
+    "kecamatan": "Ketahun",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "502",
+    "kodepos": "38662",
+    "desa_kelurahan": "Air Pandan",
+    "kecamatan": "Putri Hijau",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "503",
+    "kodepos": "38662",
+    "desa_kelurahan": "Talang Arah",
+    "kecamatan": "Putri Hijau",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "504",
+    "kodepos": "38662",
+    "desa_kelurahan": "Air Petai",
+    "kecamatan": "Putri Hijau",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "505",
+    "kodepos": "38662",
+    "desa_kelurahan": "Pasar Sebelat",
+    "kecamatan": "Putri Hijau",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "506",
+    "kodepos": "38662",
+    "desa_kelurahan": "Kota Bani",
+    "kecamatan": "Putri Hijau",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "507",
+    "kodepos": "38662",
+    "desa_kelurahan": "Air Muring",
+    "kecamatan": "Putri Hijau",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "508",
+    "kodepos": "38662",
+    "desa_kelurahan": "Cipta Mulya",
+    "kecamatan": "Putri Hijau",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "509",
+    "kodepos": "38662",
+    "desa_kelurahan": "Karang Pulau",
+    "kecamatan": "Putri Hijau",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "510",
+    "kodepos": "38662",
+    "desa_kelurahan": "Karang Tengah",
+    "kecamatan": "Putri Hijau",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "511",
+    "kodepos": "38663",
+    "desa_kelurahan": "Kinal Jaya",
+    "kecamatan": "Napal Putih",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "512",
+    "kodepos": "38663",
+    "desa_kelurahan": "Napal Putih",
+    "kecamatan": "Napal Putih",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "513",
+    "kodepos": "38663",
+    "desa_kelurahan": "Teluk Anggung",
+    "kecamatan": "Napal Putih",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "514",
+    "kodepos": "38663",
+    "desa_kelurahan": "Tanjungalai",
+    "kecamatan": "Napal Putih",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "515",
+    "kodepos": "38663",
+    "desa_kelurahan": "Gembung Raya",
+    "kecamatan": "Napal Putih",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "516",
+    "kodepos": "38663",
+    "desa_kelurahan": "Jabi",
+    "kecamatan": "Napal Putih",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "517",
+    "kodepos": "38663",
+    "desa_kelurahan": "Tanjung Kemenyan",
+    "kecamatan": "Napal Putih",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "518",
+    "kodepos": "38663",
+    "desa_kelurahan": "Muara Santan",
+    "kecamatan": "Napal Putih",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "519",
+    "kodepos": "38663",
+    "desa_kelurahan": "Air Tenang",
+    "kecamatan": "Napal Putih",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "520",
+    "kodepos": "38663",
+    "desa_kelurahan": "Lebong Tandai",
+    "kecamatan": "Napal Putih",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "521",
+    "kodepos": "38673",
+    "desa_kelurahan": "Lubuk Semantung",
+    "kecamatan": "Tanjung Agung Palik",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "522",
+    "kodepos": "38673",
+    "desa_kelurahan": "Sawang Lebar Ilir",
+    "kecamatan": "Tanjung Agung Palik",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "523",
+    "kodepos": "38673",
+    "desa_kelurahan": "Ketapi",
+    "kecamatan": "Tanjung Agung Palik",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "524",
+    "kodepos": "38673",
+    "desa_kelurahan": "Sawang Lebar",
+    "kecamatan": "Tanjung Agung Palik",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "525",
+    "kodepos": "38673",
+    "desa_kelurahan": "Lubuk Gading",
+    "kecamatan": "Tanjung Agung Palik",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "526",
+    "kodepos": "38673",
+    "desa_kelurahan": "Talang Jarang",
+    "kecamatan": "Air Napal",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "527",
+    "kodepos": "38673",
+    "desa_kelurahan": "Talang Kering",
+    "kecamatan": "Air Napal",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "528",
+    "kodepos": "38673",
+    "desa_kelurahan": "Pasar Tebat",
+    "kecamatan": "Air Napal",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "529",
+    "kodepos": "38673",
+    "desa_kelurahan": "Pasar Bembah",
+    "kecamatan": "Air Napal",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "530",
+    "kodepos": "38673",
+    "desa_kelurahan": "Pasar Kerkap",
+    "kecamatan": "Air Napal",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "531",
+    "kodepos": "38673",
+    "desa_kelurahan": "Tepi Laut",
+    "kecamatan": "Air Napal",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "532",
+    "kodepos": "38673",
+    "desa_kelurahan": "Pukur",
+    "kecamatan": "Air Napal",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "533",
+    "kodepos": "38673",
+    "desa_kelurahan": "Selubuk",
+    "kecamatan": "Air Napal",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "534",
+    "kodepos": "38673",
+    "desa_kelurahan": "Lubuk Tanjung",
+    "kecamatan": "Air Napal",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "535",
+    "kodepos": "38673",
+    "desa_kelurahan": "Air Napal",
+    "kecamatan": "Air Napal",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "536",
+    "kodepos": "38673",
+    "desa_kelurahan": "Pasar Palik",
+    "kecamatan": "Air Napal",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "537",
+    "kodepos": "38673",
+    "desa_kelurahan": "Tebing Kandang",
+    "kecamatan": "Air Napal",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "538",
+    "kodepos": "38674",
+    "desa_kelurahan": "Alun Dua",
+    "kecamatan": "Tanjung Agung Palik",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "539",
+    "kodepos": "38674",
+    "desa_kelurahan": "Simpang Ketenong",
+    "kecamatan": "Kerkap",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "540",
+    "kodepos": "38674",
+    "desa_kelurahan": "Serumbung",
+    "kecamatan": "Kerkap",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "541",
+    "kodepos": "38674",
+    "desa_kelurahan": "Talang Pasak",
+    "kecamatan": "Kerkap",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "542",
+    "kodepos": "38674",
+    "desa_kelurahan": "Lubuk Jale",
+    "kecamatan": "Kerkap",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "543",
+    "kodepos": "38674",
+    "desa_kelurahan": "Kedu Baru",
+    "kecamatan": "Kerkap",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "544",
+    "kodepos": "38674",
+    "desa_kelurahan": "Banyumas",
+    "kecamatan": "Kerkap",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "545",
+    "kodepos": "38674",
+    "desa_kelurahan": "Tanjung Putus",
+    "kecamatan": "Kerkap",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "546",
+    "kodepos": "38674",
+    "desa_kelurahan": "Aur Gading",
+    "kecamatan": "Kerkap",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "547",
+    "kodepos": "38674",
+    "desa_kelurahan": "Talang Curup",
+    "kecamatan": "Kerkap",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "548",
+    "kodepos": "38674",
+    "desa_kelurahan": "Yogja Baru",
+    "kecamatan": "Kerkap",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "549",
+    "kodepos": "38674",
+    "desa_kelurahan": "Tebat Pacur",
+    "kecamatan": "Kerkap",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "550",
+    "kodepos": "38674",
+    "desa_kelurahan": "Salam Harjo",
+    "kecamatan": "Kerkap",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "551",
+    "kodepos": "38674",
+    "desa_kelurahan": "Banyumas Baru",
+    "kecamatan": "Kerkap",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "552",
+    "kodepos": "38674",
+    "desa_kelurahan": "Magelang",
+    "kecamatan": "Kerkap",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "553",
+    "kodepos": "38674",
+    "desa_kelurahan": "Lubuk Durian",
+    "kecamatan": "Kerkap",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "554",
+    "kodepos": "38674",
+    "desa_kelurahan": "Talang Jambu",
+    "kecamatan": "Kerkap",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "555",
+    "kodepos": "38674",
+    "desa_kelurahan": "Perbo",
+    "kecamatan": "Kerkap",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "556",
+    "kodepos": "38674",
+    "desa_kelurahan": "Penyangkak",
+    "kecamatan": "Kerkap",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "557",
+    "kodepos": "38675",
+    "desa_kelurahan": "Tanjung Karet",
+    "kecamatan": "Air Besi",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "558",
+    "kodepos": "38675",
+    "desa_kelurahan": "Genting Perangkap",
+    "kecamatan": "Air Besi",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "559",
+    "kodepos": "38675",
+    "desa_kelurahan": "Tanjung Genting",
+    "kecamatan": "Air Besi",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "560",
+    "kodepos": "38675",
+    "desa_kelurahan": "Talang Lembak",
+    "kecamatan": "Air Besi",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "561",
+    "kodepos": "38675",
+    "desa_kelurahan": "Dusun Curup",
+    "kecamatan": "Air Besi",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "562",
+    "kodepos": "38675",
+    "desa_kelurahan": "Datar Mancang",
+    "kecamatan": "Air Besi",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "563",
+    "kodepos": "38675",
+    "desa_kelurahan": "Kota Agung",
+    "kecamatan": "Air Besi",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "564",
+    "kodepos": "38675",
+    "desa_kelurahan": "Teluk Baru Ginting",
+    "kecamatan": "Air Besi",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "565",
+    "kodepos": "38675",
+    "desa_kelurahan": "Sungai Pura",
+    "kecamatan": "Air Besi",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "566",
+    "kodepos": "38675",
+    "desa_kelurahan": "Kertapati",
+    "kecamatan": "Air Besi",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "567",
+    "kodepos": "38675",
+    "desa_kelurahan": "Lubuk Balam",
+    "kecamatan": "Air Besi",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "568",
+    "kodepos": "38675",
+    "desa_kelurahan": "Talang Renah",
+    "kecamatan": "Air Besi",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "569",
+    "kodepos": "38675",
+    "desa_kelurahan": "Talang Pungguk",
+    "kecamatan": "Air Besi",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "570",
+    "kodepos": "38675",
+    "desa_kelurahan": "Talang Ginting",
+    "kecamatan": "Air Besi",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "571",
+    "kodepos": "38675",
+    "desa_kelurahan": "Penyangkak",
+    "kecamatan": "Air Besi",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "572",
+    "kodepos": "38675",
+    "desa_kelurahan": "Tanjung Agung",
+    "kecamatan": "Tanjung Agung Palik",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "573",
+    "kodepos": "38675",
+    "desa_kelurahan": "Padang Sepan",
+    "kecamatan": "Tanjung Agung Palik",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "574",
+    "kodepos": "38676",
+    "desa_kelurahan": "Taba Padang R",
+    "kecamatan": "Hulu Palik",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "575",
+    "kodepos": "38676",
+    "desa_kelurahan": "Padang Bendar",
+    "kecamatan": "Hulu Palik",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "576",
+    "kodepos": "38676",
+    "desa_kelurahan": "Air Baus I",
+    "kecamatan": "Hulu Palik",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "577",
+    "kodepos": "38676",
+    "desa_kelurahan": "Pematang Balam",
+    "kecamatan": "Hulu Palik",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "578",
+    "kodepos": "38676",
+    "desa_kelurahan": "Taba Padang Kol",
+    "kecamatan": "Hulu Palik",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "579",
+    "kodepos": "38676",
+    "desa_kelurahan": "Sumber Rejo",
+    "kecamatan": "Hulu Palik",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "580",
+    "kodepos": "38676",
+    "desa_kelurahan": "Batu Roto",
+    "kecamatan": "Hulu Palik",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "581",
+    "kodepos": "38676",
+    "desa_kelurahan": "Kota Lekat",
+    "kecamatan": "Hulu Palik",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "582",
+    "kodepos": "38676",
+    "desa_kelurahan": "Air Banai",
+    "kecamatan": "Hulu Palik",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "583",
+    "kodepos": "38676",
+    "desa_kelurahan": "Air Baus II",
+    "kecamatan": "Hulu Palik",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "584",
+    "kodepos": "38676",
+    "desa_kelurahan": "Kota Lekat Mudik",
+    "kecamatan": "Hulu Palik",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "585",
+    "kodepos": "38676",
+    "desa_kelurahan": "Batu Raja Kol",
+    "kecamatan": "Hulu Palik",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "586",
+    "kodepos": "38676",
+    "desa_kelurahan": "Talang Rendah",
+    "kecamatan": "Hulu Palik",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "587",
+    "kodepos": "38676",
+    "desa_kelurahan": "Batu Raja R",
+    "kecamatan": "Hulu Palik",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "588",
+    "kodepos": "38676",
+    "desa_kelurahan": "Batu Layang",
+    "kecamatan": "Hulu Palik",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "589",
+    "kodepos": "38687",
+    "desa_kelurahan": "Kaana",
+    "kecamatan": "Enggano",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "590",
+    "kodepos": "38687",
+    "desa_kelurahan": "Malakoni",
+    "kecamatan": "Enggano",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "591",
+    "kodepos": "38687",
+    "desa_kelurahan": "Apoho",
+    "kecamatan": "Enggano",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "592",
+    "kodepos": "38687",
+    "desa_kelurahan": "Meok",
+    "kecamatan": "Enggano",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "593",
+    "kodepos": "38687",
+    "desa_kelurahan": "Banjar Sari",
+    "kecamatan": "Enggano",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "594",
+    "kodepos": "38687",
+    "desa_kelurahan": "Kahyapu",
+    "kecamatan": "Enggano",
+    "kabupaten_kota": "KAB. BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  }
+]

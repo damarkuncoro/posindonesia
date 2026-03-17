@@ -1,0 +1,1994 @@
+[
+  {
+    "no": "1",
+    "kodepos": "21181",
+    "desa_kelurahan": "Bah Jambi II",
+    "kecamatan": "Tanah Jawa",
+    "kabupaten_kota": "KAB. SIMALUNGUN",
+    "provinsi": "SUMATERA UTARA"
+  },
+  {
+    "no": "2",
+    "kodepos": "21181",
+    "desa_kelurahan": "Bah Jambi III",
+    "kecamatan": "Tanah Jawa",
+    "kabupaten_kota": "KAB. SIMALUNGUN",
+    "provinsi": "SUMATERA UTARA"
+  },
+  {
+    "no": "3",
+    "kodepos": "21181",
+    "desa_kelurahan": "Pagar Jambi",
+    "kecamatan": "Tanah Jawa",
+    "kabupaten_kota": "KAB. SIMALUNGUN",
+    "provinsi": "SUMATERA UTARA"
+  },
+  {
+    "no": "4",
+    "kodepos": "21192",
+    "desa_kelurahan": "Bah Jambi",
+    "kecamatan": "Jawa Maraja Bah Jambi",
+    "kabupaten_kota": "KAB. SIMALUNGUN",
+    "provinsi": "SUMATERA UTARA"
+  },
+  {
+    "no": "5",
+    "kodepos": "21192",
+    "desa_kelurahan": "Mariah Jambi",
+    "kecamatan": "Jawa Maraja Bah Jambi",
+    "kabupaten_kota": "KAB. SIMALUNGUN",
+    "provinsi": "SUMATERA UTARA"
+  },
+  {
+    "no": "6",
+    "kodepos": "21192",
+    "desa_kelurahan": "Mekar Bahalat",
+    "kecamatan": "Jawa Maraja Bah Jambi",
+    "kabupaten_kota": "KAB. SIMALUNGUN",
+    "provinsi": "SUMATERA UTARA"
+  },
+  {
+    "no": "7",
+    "kodepos": "21192",
+    "desa_kelurahan": "Jawa Maraja",
+    "kecamatan": "Jawa Maraja Bah Jambi",
+    "kabupaten_kota": "KAB. SIMALUNGUN",
+    "provinsi": "SUMATERA UTARA"
+  },
+  {
+    "no": "8",
+    "kodepos": "21192",
+    "desa_kelurahan": "Moho",
+    "kecamatan": "Jawa Maraja Bah Jambi",
+    "kabupaten_kota": "KAB. SIMALUNGUN",
+    "provinsi": "SUMATERA UTARA"
+  },
+  {
+    "no": "9",
+    "kodepos": "21192",
+    "desa_kelurahan": "Tanjung Maraja",
+    "kecamatan": "Jawa Maraja Bah Jambi",
+    "kabupaten_kota": "KAB. SIMALUNGUN",
+    "provinsi": "SUMATERA UTARA"
+  },
+  {
+    "no": "10",
+    "kodepos": "21192",
+    "desa_kelurahan": "Bahalat Bayu",
+    "kecamatan": "Jawa Maraja Bah Jambi",
+    "kabupaten_kota": "KAB. SIMALUNGUN",
+    "provinsi": "SUMATERA UTARA"
+  },
+  {
+    "no": "11",
+    "kodepos": "21192",
+    "desa_kelurahan": "Bah Joga",
+    "kecamatan": "Jawa Maraja Bah Jambi",
+    "kabupaten_kota": "KAB. SIMALUNGUN",
+    "provinsi": "SUMATERA UTARA"
+  },
+  {
+    "no": "12",
+    "kodepos": "21361",
+    "desa_kelurahan": "Sijambi",
+    "kecamatan": "Datuk Bandar",
+    "kabupaten_kota": "KOTA TANJUNG BALAI",
+    "provinsi": "SUMATERA UTARA"
+  },
+  {
+    "no": "13",
+    "kodepos": "24883",
+    "desa_kelurahan": "Jambi Baru",
+    "kecamatan": "Sultan Daulat",
+    "kabupaten_kota": "KOTA SUBULUSSALAM",
+    "provinsi": "ACEH"
+  },
+  {
+    "no": "14",
+    "kodepos": "28761",
+    "desa_kelurahan": "Pangkalan Jambi",
+    "kecamatan": "Bukit Batu",
+    "kabupaten_kota": "KAB. BENGKALIS",
+    "provinsi": "RIAU"
+  },
+  {
+    "no": "15",
+    "kodepos": "29564",
+    "desa_kelurahan": "Pasar Lubuk Jambi",
+    "kecamatan": "Kuantan Mudik",
+    "kabupaten_kota": "KAB. KUANTAN SINGINGI",
+    "provinsi": "RIAU"
+  },
+  {
+    "no": "16",
+    "kodepos": "29564",
+    "desa_kelurahan": "Koto Lubuk Jambi",
+    "kecamatan": "Kuantan Mudik",
+    "kabupaten_kota": "KAB. KUANTAN SINGINGI",
+    "provinsi": "RIAU"
+  },
+  {
+    "no": "17",
+    "kodepos": "36111",
+    "desa_kelurahan": "Orang Kayo Hitam",
+    "kecamatan": "Pasar Jambi",
+    "kabupaten_kota": "KOTA JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "18",
+    "kodepos": "36112",
+    "desa_kelurahan": "Beringin",
+    "kecamatan": "Pasar Jambi",
+    "kabupaten_kota": "KOTA JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "19",
+    "kodepos": "36113",
+    "desa_kelurahan": "Pasar Jambi",
+    "kecamatan": "Pasar Jambi",
+    "kabupaten_kota": "KOTA JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "20",
+    "kodepos": "36114",
+    "desa_kelurahan": "Sungai Asam",
+    "kecamatan": "Pasar Jambi",
+    "kabupaten_kota": "KOTA JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "21",
+    "kodepos": "36121",
+    "desa_kelurahan": "Murni",
+    "kecamatan": "Danau Sipin",
+    "kabupaten_kota": "KOTA JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "22",
+    "kodepos": "36121",
+    "desa_kelurahan": "Solok Sipin",
+    "kecamatan": "Danau Sipin",
+    "kabupaten_kota": "KOTA JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "23",
+    "kodepos": "36121",
+    "desa_kelurahan": "Legok",
+    "kecamatan": "Danau Sipin",
+    "kabupaten_kota": "KOTA JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "24",
+    "kodepos": "36122",
+    "desa_kelurahan": "Sungai Putri",
+    "kecamatan": "Danau Sipin",
+    "kabupaten_kota": "KOTA JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "25",
+    "kodepos": "36122",
+    "desa_kelurahan": "Telanaipura",
+    "kecamatan": "Telanaipura",
+    "kabupaten_kota": "KOTA JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "26",
+    "kodepos": "36122",
+    "desa_kelurahan": "Pematang Sulur",
+    "kecamatan": "Telanaipura",
+    "kabupaten_kota": "KOTA JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "27",
+    "kodepos": "36122",
+    "desa_kelurahan": "Aur Kenali",
+    "kecamatan": "Telanaipura",
+    "kabupaten_kota": "KOTA JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "28",
+    "kodepos": "36123",
+    "desa_kelurahan": "Teluk Kenali",
+    "kecamatan": "Telanaipura",
+    "kabupaten_kota": "KOTA JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "29",
+    "kodepos": "36123",
+    "desa_kelurahan": "Buluran Kenali",
+    "kecamatan": "Telanaipura",
+    "kabupaten_kota": "KOTA JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "30",
+    "kodepos": "36124",
+    "desa_kelurahan": "Penyengat Rendah",
+    "kecamatan": "Telanaipura",
+    "kabupaten_kota": "KOTA JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "31",
+    "kodepos": "36124",
+    "desa_kelurahan": "Simpang IV Sipin",
+    "kecamatan": "Telanaipura",
+    "kabupaten_kota": "KOTA JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "32",
+    "kodepos": "36124",
+    "desa_kelurahan": "Selamat",
+    "kecamatan": "Danau Sipin",
+    "kabupaten_kota": "KOTA JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "33",
+    "kodepos": "36125",
+    "desa_kelurahan": "Rawa Sari",
+    "kecamatan": "Alam Barajo",
+    "kabupaten_kota": "KOTA JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "34",
+    "kodepos": "36126",
+    "desa_kelurahan": "Mayang Mangurai",
+    "kecamatan": "Alam Barajo",
+    "kabupaten_kota": "KOTA JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "35",
+    "kodepos": "36126",
+    "desa_kelurahan": "Simpang III Sipin",
+    "kecamatan": "Kota Baru",
+    "kabupaten_kota": "KOTA JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "36",
+    "kodepos": "36127",
+    "desa_kelurahan": "Suka Karya",
+    "kecamatan": "Kota Baru",
+    "kabupaten_kota": "KOTA JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "37",
+    "kodepos": "36128",
+    "desa_kelurahan": "Kenali Asam",
+    "kecamatan": "Kota Baru",
+    "kabupaten_kota": "KOTA JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "38",
+    "kodepos": "36128",
+    "desa_kelurahan": "Kenali Asam Atas",
+    "kecamatan": "Kota Baru",
+    "kabupaten_kota": "KOTA JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "39",
+    "kodepos": "36128",
+    "desa_kelurahan": "Talang Gulo",
+    "kecamatan": "Kota Baru",
+    "kabupaten_kota": "KOTA JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "40",
+    "kodepos": "36128",
+    "desa_kelurahan": "Paal Lima",
+    "kecamatan": "Kota Baru",
+    "kabupaten_kota": "KOTA JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "41",
+    "kodepos": "36128",
+    "desa_kelurahan": "Kenali Asam Bawah",
+    "kecamatan": "Kota Baru",
+    "kabupaten_kota": "KOTA JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "42",
+    "kodepos": "36129",
+    "desa_kelurahan": "Simpang Rimbo",
+    "kecamatan": "Alam Barajo",
+    "kabupaten_kota": "KOTA JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "43",
+    "kodepos": "36129",
+    "desa_kelurahan": "Bagan Pete",
+    "kecamatan": "Alam Barajo",
+    "kabupaten_kota": "KOTA JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "44",
+    "kodepos": "36129",
+    "desa_kelurahan": "Pinang Merah",
+    "kecamatan": "Alam Barajo",
+    "kabupaten_kota": "KOTA JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "45",
+    "kodepos": "36129",
+    "desa_kelurahan": "Beliung",
+    "kecamatan": "Alam Barajo",
+    "kabupaten_kota": "KOTA JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "46",
+    "kodepos": "36129",
+    "desa_kelurahan": "Kenali Besar",
+    "kecamatan": "Alam Barajo",
+    "kabupaten_kota": "KOTA JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "47",
+    "kodepos": "36133",
+    "desa_kelurahan": "Talang Jauh",
+    "kecamatan": "Jelutung",
+    "kabupaten_kota": "KOTA JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "48",
+    "kodepos": "36134",
+    "desa_kelurahan": "Cempaka Putih",
+    "kecamatan": "Jelutung",
+    "kabupaten_kota": "KOTA JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "49",
+    "kodepos": "36135",
+    "desa_kelurahan": "Lebak Bandung",
+    "kecamatan": "Jelutung",
+    "kabupaten_kota": "KOTA JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "50",
+    "kodepos": "36135",
+    "desa_kelurahan": "Payo Lebar",
+    "kecamatan": "Jelutung",
+    "kabupaten_kota": "KOTA JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "51",
+    "kodepos": "36136",
+    "desa_kelurahan": "Jelutung",
+    "kecamatan": "Jelutung",
+    "kabupaten_kota": "KOTA JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "52",
+    "kodepos": "36137",
+    "desa_kelurahan": "Handil Jaya",
+    "kecamatan": "Jelutung",
+    "kabupaten_kota": "KOTA JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "53",
+    "kodepos": "36137",
+    "desa_kelurahan": "Kebun Handil",
+    "kecamatan": "Jelutung",
+    "kabupaten_kota": "KOTA JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "54",
+    "kodepos": "36141",
+    "desa_kelurahan": "Tanjung Sari",
+    "kecamatan": "Jambi Timur",
+    "kabupaten_kota": "KOTA JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "55",
+    "kodepos": "36141",
+    "desa_kelurahan": "Kasang Jaya",
+    "kecamatan": "Jambi Timur",
+    "kabupaten_kota": "KOTA JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "56",
+    "kodepos": "36141",
+    "desa_kelurahan": "Kasang",
+    "kecamatan": "Jambi Timur",
+    "kabupaten_kota": "KOTA JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "57",
+    "kodepos": "36142",
+    "desa_kelurahan": "Talang Banjar",
+    "kecamatan": "Jambi Timur",
+    "kabupaten_kota": "KOTA JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "58",
+    "kodepos": "36143",
+    "desa_kelurahan": "Rajawali",
+    "kecamatan": "Jambi Timur",
+    "kabupaten_kota": "KOTA JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "59",
+    "kodepos": "36144",
+    "desa_kelurahan": "Sulanjana",
+    "kecamatan": "Jambi Timur",
+    "kabupaten_kota": "KOTA JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "60",
+    "kodepos": "36145",
+    "desa_kelurahan": "Budiman",
+    "kecamatan": "Jambi Timur",
+    "kabupaten_kota": "KOTA JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "61",
+    "kodepos": "36146",
+    "desa_kelurahan": "Tanjung Pinang",
+    "kecamatan": "Jambi Timur",
+    "kabupaten_kota": "KOTA JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "62",
+    "kodepos": "36148",
+    "desa_kelurahan": "Payo Selincah",
+    "kecamatan": "Paal Merah",
+    "kabupaten_kota": "KOTA JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "63",
+    "kodepos": "36149",
+    "desa_kelurahan": "Sijenjang",
+    "kecamatan": "Jambi Timur",
+    "kabupaten_kota": "KOTA JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "64",
+    "kodepos": "36151",
+    "desa_kelurahan": "Wijaya Pura",
+    "kecamatan": "Jambi Selatan",
+    "kabupaten_kota": "KOTA JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "65",
+    "kodepos": "36152",
+    "desa_kelurahan": "Pakuan Baru",
+    "kecamatan": "Jambi Selatan",
+    "kabupaten_kota": "KOTA JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "66",
+    "kodepos": "36153",
+    "desa_kelurahan": "Lingkar Selatan",
+    "kecamatan": "Paal Merah",
+    "kabupaten_kota": "KOTA JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "67",
+    "kodepos": "36154",
+    "desa_kelurahan": "Eka Jaya",
+    "kecamatan": "Paal Merah",
+    "kabupaten_kota": "KOTA JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "68",
+    "kodepos": "36155",
+    "desa_kelurahan": "Talang Bakung",
+    "kecamatan": "Paal Merah",
+    "kabupaten_kota": "KOTA JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "69",
+    "kodepos": "36156",
+    "desa_kelurahan": "Thehok",
+    "kecamatan": "Jambi Selatan",
+    "kabupaten_kota": "KOTA JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "70",
+    "kodepos": "36157",
+    "desa_kelurahan": "Pasir Putih",
+    "kecamatan": "Jambi Selatan",
+    "kabupaten_kota": "KOTA JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "71",
+    "kodepos": "36158",
+    "desa_kelurahan": "Tambak Sari",
+    "kecamatan": "Jambi Selatan",
+    "kabupaten_kota": "KOTA JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "72",
+    "kodepos": "36159",
+    "desa_kelurahan": "Paal Merah",
+    "kecamatan": "Paal Merah",
+    "kabupaten_kota": "KOTA JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "73",
+    "kodepos": "36159",
+    "desa_kelurahan": "Bakung Jaya",
+    "kecamatan": "Paal Merah",
+    "kabupaten_kota": "KOTA JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "74",
+    "kodepos": "36251",
+    "desa_kelurahan": "Arab Melayu",
+    "kecamatan": "Pelayangan",
+    "kabupaten_kota": "KOTA JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "75",
+    "kodepos": "36252",
+    "desa_kelurahan": "Mudung Laut",
+    "kecamatan": "Pelayangan",
+    "kabupaten_kota": "KOTA JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "76",
+    "kodepos": "36253",
+    "desa_kelurahan": "Jelmu",
+    "kecamatan": "Pelayangan",
+    "kabupaten_kota": "KOTA JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "77",
+    "kodepos": "36254",
+    "desa_kelurahan": "Tengah",
+    "kecamatan": "Pelayangan",
+    "kabupaten_kota": "KOTA JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "78",
+    "kodepos": "36255",
+    "desa_kelurahan": "Tahtul Yaman",
+    "kecamatan": "Pelayangan",
+    "kabupaten_kota": "KOTA JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "79",
+    "kodepos": "36256",
+    "desa_kelurahan": "Tanjung Johor",
+    "kecamatan": "Pelayangan",
+    "kabupaten_kota": "KOTA JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "80",
+    "kodepos": "36261",
+    "desa_kelurahan": "Ulu Gedong",
+    "kecamatan": "Danau Teluk",
+    "kabupaten_kota": "KOTA JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "81",
+    "kodepos": "36262",
+    "desa_kelurahan": "Olak Kemang",
+    "kecamatan": "Danau Teluk",
+    "kabupaten_kota": "KOTA JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "82",
+    "kodepos": "36263",
+    "desa_kelurahan": "Tanjung Pasir",
+    "kecamatan": "Danau Teluk",
+    "kabupaten_kota": "KOTA JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "83",
+    "kodepos": "36264",
+    "desa_kelurahan": "Tanjung Raden",
+    "kecamatan": "Danau Teluk",
+    "kabupaten_kota": "KOTA JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "84",
+    "kodepos": "36265",
+    "desa_kelurahan": "Pasir Panjang",
+    "kecamatan": "Danau Teluk",
+    "kabupaten_kota": "KOTA JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "85",
+    "kodepos": "36311",
+    "desa_kelurahan": "Pematang Pulai",
+    "kecamatan": "Sekernan",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "86",
+    "kodepos": "36311",
+    "desa_kelurahan": "Sengeti",
+    "kecamatan": "Sekernan",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "87",
+    "kodepos": "36312",
+    "desa_kelurahan": "Berembang",
+    "kecamatan": "Sekernan",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "88",
+    "kodepos": "36312",
+    "desa_kelurahan": "Pulau Kayu Aro",
+    "kecamatan": "Sekernan",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "89",
+    "kodepos": "36313",
+    "desa_kelurahan": "Tunas Mudo",
+    "kecamatan": "Sekernan",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "90",
+    "kodepos": "36313",
+    "desa_kelurahan": "Tunas Baru",
+    "kecamatan": "Sekernan",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "91",
+    "kodepos": "36314",
+    "desa_kelurahan": "Sekernan",
+    "kecamatan": "Sekernan",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "92",
+    "kodepos": "36315",
+    "desa_kelurahan": "Suak Putat",
+    "kecamatan": "Sekernan",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "93",
+    "kodepos": "36316",
+    "desa_kelurahan": "Bukit Baling",
+    "kecamatan": "Sekernan",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "94",
+    "kodepos": "36317",
+    "desa_kelurahan": "Tanjung Lanjut",
+    "kecamatan": "Sekernan",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "95",
+    "kodepos": "36317",
+    "desa_kelurahan": "Gerunggung",
+    "kecamatan": "Sekernan",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "96",
+    "kodepos": "36318",
+    "desa_kelurahan": "Suko Awin Jaya",
+    "kecamatan": "Sekernan",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "97",
+    "kodepos": "36319",
+    "desa_kelurahan": "Tan Tan",
+    "kecamatan": "Sekernan",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "98",
+    "kodepos": "36319",
+    "desa_kelurahan": "Keranggan",
+    "kecamatan": "Sekernan",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "99",
+    "kodepos": "36319",
+    "desa_kelurahan": "Rantau Majo",
+    "kecamatan": "Sekernan",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "100",
+    "kodepos": "36319",
+    "desa_kelurahan": "Kedotan",
+    "kecamatan": "Sekernan",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "101",
+    "kodepos": "36361",
+    "desa_kelurahan": "Mendalo Darat",
+    "kecamatan": "Jambi Luar Kota",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "102",
+    "kodepos": "36361",
+    "desa_kelurahan": "Danau Sarang Elang",
+    "kecamatan": "Jambi Luar Kota",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "103",
+    "kodepos": "36361",
+    "desa_kelurahan": "Mendalo Indah",
+    "kecamatan": "Jambi Luar Kota",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "104",
+    "kodepos": "36361",
+    "desa_kelurahan": "Pematang Jering",
+    "kecamatan": "Jambi Luar Kota",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "105",
+    "kodepos": "36361",
+    "desa_kelurahan": "Muaro Pijoan",
+    "kecamatan": "Jambi Luar Kota",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "106",
+    "kodepos": "36361",
+    "desa_kelurahan": "Sembubuk",
+    "kecamatan": "Jambi Luar Kota",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "107",
+    "kodepos": "36361",
+    "desa_kelurahan": "Penyengat Olak",
+    "kecamatan": "Jambi Luar Kota",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "108",
+    "kodepos": "36361",
+    "desa_kelurahan": "Sungai Duren",
+    "kecamatan": "Jambi Luar Kota",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "109",
+    "kodepos": "36361",
+    "desa_kelurahan": "Simpang Limo",
+    "kecamatan": "Jambi Luar Kota",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "110",
+    "kodepos": "36361",
+    "desa_kelurahan": "Senaung",
+    "kecamatan": "Jambi Luar Kota",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "111",
+    "kodepos": "36361",
+    "desa_kelurahan": "Muhajirin",
+    "kecamatan": "Jambi Luar Kota",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "112",
+    "kodepos": "36361",
+    "desa_kelurahan": "Maro Sebo",
+    "kecamatan": "Jambi Luar Kota",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "113",
+    "kodepos": "36361",
+    "desa_kelurahan": "Pijoan",
+    "kecamatan": "Jambi Luar Kota",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "114",
+    "kodepos": "36361",
+    "desa_kelurahan": "Kedemangan",
+    "kecamatan": "Jambi Luar Kota",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "115",
+    "kodepos": "36361",
+    "desa_kelurahan": "Rengas Bandung",
+    "kecamatan": "Jambi Luar Kota",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "116",
+    "kodepos": "36361",
+    "desa_kelurahan": "Sarang Burung",
+    "kecamatan": "Jambi Luar Kota",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "117",
+    "kodepos": "36361",
+    "desa_kelurahan": "Pematang Gajah",
+    "kecamatan": "Jambi Luar Kota",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "118",
+    "kodepos": "36361",
+    "desa_kelurahan": "Mendalo Laut",
+    "kecamatan": "Jambi Luar Kota",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "119",
+    "kodepos": "36361",
+    "desa_kelurahan": "Simpang Sungai Duren",
+    "kecamatan": "Jambi Luar Kota",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "120",
+    "kodepos": "36364",
+    "desa_kelurahan": "Sungai Bertam",
+    "kecamatan": "Jambi Luar Kota",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "121",
+    "kodepos": "36364",
+    "desa_kelurahan": "Sebapo",
+    "kecamatan": "Mestong",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "122",
+    "kodepos": "36364",
+    "desa_kelurahan": "Tanjung Pauh Km. 39",
+    "kecamatan": "Mestong",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "123",
+    "kodepos": "36364",
+    "desa_kelurahan": "Baru",
+    "kecamatan": "Mestong",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "124",
+    "kodepos": "36364",
+    "desa_kelurahan": "Suka Damai",
+    "kecamatan": "Mestong",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "125",
+    "kodepos": "36364",
+    "desa_kelurahan": "Ibru",
+    "kecamatan": "Mestong",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "126",
+    "kodepos": "36364",
+    "desa_kelurahan": "Tempino",
+    "kecamatan": "Mestong",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "127",
+    "kodepos": "36364",
+    "desa_kelurahan": "Suka Maju",
+    "kecamatan": "Mestong",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "128",
+    "kodepos": "36364",
+    "desa_kelurahan": "Nagasari",
+    "kecamatan": "Mestong",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "129",
+    "kodepos": "36364",
+    "desa_kelurahan": "Pelempang",
+    "kecamatan": "Mestong",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "130",
+    "kodepos": "36364",
+    "desa_kelurahan": "Muaro Sebapo",
+    "kecamatan": "Mestong",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "131",
+    "kodepos": "36364",
+    "desa_kelurahan": "Sungai Landai",
+    "kecamatan": "Mestong",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "132",
+    "kodepos": "36364",
+    "desa_kelurahan": "Nyogan",
+    "kecamatan": "Mestong",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "133",
+    "kodepos": "36364",
+    "desa_kelurahan": "Pondok Meja",
+    "kecamatan": "Mestong",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "134",
+    "kodepos": "36364",
+    "desa_kelurahan": "Tanjung Pauh Km. 32",
+    "kecamatan": "Mestong",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "135",
+    "kodepos": "36364",
+    "desa_kelurahan": "Tanjung Pauh Talang Pelita",
+    "kecamatan": "Mestong",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "136",
+    "kodepos": "36365",
+    "desa_kelurahan": "Tanjung Harapan",
+    "kecamatan": "Sungai Bahar",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "137",
+    "kodepos": "36365",
+    "desa_kelurahan": "Marga Manunggal Jaya",
+    "kecamatan": "Sungai Bahar",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "138",
+    "kodepos": "36365",
+    "desa_kelurahan": "Marga Mulya",
+    "kecamatan": "Sungai Bahar",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "139",
+    "kodepos": "36365",
+    "desa_kelurahan": "Bakti Mulya",
+    "kecamatan": "Sungai Bahar",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "140",
+    "kodepos": "36365",
+    "desa_kelurahan": "Bukit Mas",
+    "kecamatan": "Sungai Bahar",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "141",
+    "kodepos": "36365",
+    "desa_kelurahan": "Berkah",
+    "kecamatan": "Sungai Bahar",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "142",
+    "kodepos": "36365",
+    "desa_kelurahan": "Panca Bakti",
+    "kecamatan": "Sungai Bahar",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "143",
+    "kodepos": "36365",
+    "desa_kelurahan": "Panca Mulya",
+    "kecamatan": "Sungai Bahar",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "144",
+    "kodepos": "36365",
+    "desa_kelurahan": "Bukit Makmur",
+    "kecamatan": "Sungai Bahar",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "145",
+    "kodepos": "36365",
+    "desa_kelurahan": "Suka Makmur",
+    "kecamatan": "Sungai Bahar",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "146",
+    "kodepos": "36365",
+    "desa_kelurahan": "Mekar Sari Makmur",
+    "kecamatan": "Sungai Bahar",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "147",
+    "kodepos": "36366",
+    "desa_kelurahan": "Matra Manunggal",
+    "kecamatan": "Bahar Utara",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "148",
+    "kodepos": "36366",
+    "desa_kelurahan": "Pinang Tinggi",
+    "kecamatan": "Bahar Utara",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "149",
+    "kodepos": "36366",
+    "desa_kelurahan": "Markanding",
+    "kecamatan": "Bahar Utara",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "150",
+    "kodepos": "36366",
+    "desa_kelurahan": "Mulya Jaya",
+    "kecamatan": "Bahar Utara",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "151",
+    "kodepos": "36366",
+    "desa_kelurahan": "Sumber Jaya",
+    "kecamatan": "Bahar Utara",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "152",
+    "kodepos": "36366",
+    "desa_kelurahan": "Talang Datar",
+    "kecamatan": "Bahar Utara",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "153",
+    "kodepos": "36366",
+    "desa_kelurahan": "Sumber Mulya",
+    "kecamatan": "Bahar Utara",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "154",
+    "kodepos": "36366",
+    "desa_kelurahan": "Bukit Mulya",
+    "kecamatan": "Bahar Utara",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "155",
+    "kodepos": "36366",
+    "desa_kelurahan": "Talang Bukit",
+    "kecamatan": "Bahar Utara",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "156",
+    "kodepos": "36366",
+    "desa_kelurahan": "Sungai Dayo",
+    "kecamatan": "Bahar Utara",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "157",
+    "kodepos": "36366",
+    "desa_kelurahan": "Bahar Mulya",
+    "kecamatan": "Bahar Utara",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "158",
+    "kodepos": "36367",
+    "desa_kelurahan": "Mekar Jaya",
+    "kecamatan": "Bahar Selatan",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "159",
+    "kodepos": "36367",
+    "desa_kelurahan": "Tanjung Sari",
+    "kecamatan": "Bahar Selatan",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "160",
+    "kodepos": "36367",
+    "desa_kelurahan": "Tanjung Lebar",
+    "kecamatan": "Bahar Selatan",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "161",
+    "kodepos": "36367",
+    "desa_kelurahan": "Tri Jaya",
+    "kecamatan": "Bahar Selatan",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "162",
+    "kodepos": "36367",
+    "desa_kelurahan": "Ujung Tanjung",
+    "kecamatan": "Bahar Selatan",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "163",
+    "kodepos": "36367",
+    "desa_kelurahan": "Tanjung Baru",
+    "kecamatan": "Bahar Selatan",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "164",
+    "kodepos": "36367",
+    "desa_kelurahan": "Adipura Kencana",
+    "kecamatan": "Bahar Selatan",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "165",
+    "kodepos": "36367",
+    "desa_kelurahan": "Tanjung Mulia",
+    "kecamatan": "Bahar Selatan",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "166",
+    "kodepos": "36367",
+    "desa_kelurahan": "Bukit Jaya",
+    "kecamatan": "Bahar Selatan",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "167",
+    "kodepos": "36367",
+    "desa_kelurahan": "Bukit Subur",
+    "kecamatan": "Bahar Selatan",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "168",
+    "kodepos": "36371",
+    "desa_kelurahan": "Rukam",
+    "kecamatan": "Taman Rajo",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "169",
+    "kodepos": "36371",
+    "desa_kelurahan": "Manis Mato",
+    "kecamatan": "Taman Rajo",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "170",
+    "kodepos": "36371",
+    "desa_kelurahan": "Betung",
+    "kecamatan": "Kumpeh",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "171",
+    "kodepos": "36371",
+    "desa_kelurahan": "Pematang Raman",
+    "kecamatan": "Kumpeh",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "172",
+    "kodepos": "36371",
+    "desa_kelurahan": "Rondang",
+    "kecamatan": "Kumpeh",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "173",
+    "kodepos": "36371",
+    "desa_kelurahan": "Sogo",
+    "kecamatan": "Kumpeh",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "174",
+    "kodepos": "36371",
+    "desa_kelurahan": "Tanjung",
+    "kecamatan": "Kumpeh",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "175",
+    "kodepos": "36371",
+    "desa_kelurahan": "Puding",
+    "kecamatan": "Kumpeh",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "176",
+    "kodepos": "36371",
+    "desa_kelurahan": "Sungai Bungur",
+    "kecamatan": "Kumpeh",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "177",
+    "kodepos": "36371",
+    "desa_kelurahan": "Rantau Panjang",
+    "kecamatan": "Kumpeh",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "178",
+    "kodepos": "36371",
+    "desa_kelurahan": "Petanang",
+    "kecamatan": "Kumpeh",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "179",
+    "kodepos": "36371",
+    "desa_kelurahan": "Gedong Karya",
+    "kecamatan": "Kumpeh",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "180",
+    "kodepos": "36371",
+    "desa_kelurahan": "Seponjen",
+    "kecamatan": "Kumpeh",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "181",
+    "kodepos": "36371",
+    "desa_kelurahan": "Mekar Sari",
+    "kecamatan": "Kumpeh",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "182",
+    "kodepos": "36371",
+    "desa_kelurahan": "Pulau Mentaro",
+    "kecamatan": "Kumpeh",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "183",
+    "kodepos": "36371",
+    "desa_kelurahan": "Sungai Aur",
+    "kecamatan": "Kumpeh",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "184",
+    "kodepos": "36371",
+    "desa_kelurahan": "Londerang",
+    "kecamatan": "Kumpeh",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "185",
+    "kodepos": "36371",
+    "desa_kelurahan": "Jebus",
+    "kecamatan": "Kumpeh",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "186",
+    "kodepos": "36371",
+    "desa_kelurahan": "Maju Jaya",
+    "kecamatan": "Kumpeh",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "187",
+    "kodepos": "36373",
+    "desa_kelurahan": "Arang Arang",
+    "kecamatan": "Kumpeh Ulu",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "188",
+    "kodepos": "36373",
+    "desa_kelurahan": "Teluk Raya",
+    "kecamatan": "Kumpeh Ulu",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "189",
+    "kodepos": "36373",
+    "desa_kelurahan": "Kasang Kota Karang",
+    "kecamatan": "Kumpeh Ulu",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "190",
+    "kodepos": "36373",
+    "desa_kelurahan": "Tarikan",
+    "kecamatan": "Kumpeh Ulu",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "191",
+    "kodepos": "36373",
+    "desa_kelurahan": "Muara Kumpeh",
+    "kecamatan": "Kumpeh Ulu",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "192",
+    "kodepos": "36373",
+    "desa_kelurahan": "Kasang Pudak",
+    "kecamatan": "Kumpeh Ulu",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "193",
+    "kodepos": "36373",
+    "desa_kelurahan": "Solok",
+    "kecamatan": "Kumpeh Ulu",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "194",
+    "kodepos": "36373",
+    "desa_kelurahan": "Kota Karang",
+    "kecamatan": "Kumpeh Ulu",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "195",
+    "kodepos": "36373",
+    "desa_kelurahan": "Sipin Teluk Duren",
+    "kecamatan": "Kumpeh Ulu",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "196",
+    "kodepos": "36373",
+    "desa_kelurahan": "Sungai Terap",
+    "kecamatan": "Kumpeh Ulu",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "197",
+    "kodepos": "36373",
+    "desa_kelurahan": "Sakean",
+    "kecamatan": "Kumpeh Ulu",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "198",
+    "kodepos": "36373",
+    "desa_kelurahan": "Ramin",
+    "kecamatan": "Kumpeh Ulu",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "199",
+    "kodepos": "36373",
+    "desa_kelurahan": "Kasang Lopak Alai",
+    "kecamatan": "Kumpeh Ulu",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "200",
+    "kodepos": "36373",
+    "desa_kelurahan": "Kasang Kumpeh",
+    "kecamatan": "Kumpeh Ulu",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "201",
+    "kodepos": "36373",
+    "desa_kelurahan": "Pudak",
+    "kecamatan": "Kumpeh Ulu",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "202",
+    "kodepos": "36373",
+    "desa_kelurahan": "Lopak Alai",
+    "kecamatan": "Kumpeh Ulu",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "203",
+    "kodepos": "36373",
+    "desa_kelurahan": "Pemunduran",
+    "kecamatan": "Kumpeh Ulu",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "204",
+    "kodepos": "36373",
+    "desa_kelurahan": "Sumber Jaya",
+    "kecamatan": "Kumpeh Ulu",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "205",
+    "kodepos": "36374",
+    "desa_kelurahan": "Kebon IX",
+    "kecamatan": "Sungai Gelam",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "206",
+    "kodepos": "36374",
+    "desa_kelurahan": "Sungai Gelam",
+    "kecamatan": "Sungai Gelam",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "207",
+    "kodepos": "36374",
+    "desa_kelurahan": "Talang Kerinci",
+    "kecamatan": "Sungai Gelam",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "208",
+    "kodepos": "36374",
+    "desa_kelurahan": "Tangkit Baru",
+    "kecamatan": "Sungai Gelam",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "209",
+    "kodepos": "36374",
+    "desa_kelurahan": "Petaling Jaya",
+    "kecamatan": "Sungai Gelam",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "210",
+    "kodepos": "36374",
+    "desa_kelurahan": "Sumber Agung",
+    "kecamatan": "Sungai Gelam",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "211",
+    "kodepos": "36374",
+    "desa_kelurahan": "Mingkung Jaya",
+    "kecamatan": "Sungai Gelam",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "212",
+    "kodepos": "36374",
+    "desa_kelurahan": "Trimulya Jaya",
+    "kecamatan": "Sungai Gelam",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "213",
+    "kodepos": "36374",
+    "desa_kelurahan": "Talang Belido",
+    "kecamatan": "Sungai Gelam",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "214",
+    "kodepos": "36374",
+    "desa_kelurahan": "Parit",
+    "kecamatan": "Sungai Gelam",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "215",
+    "kodepos": "36374",
+    "desa_kelurahan": "Ladang Panjang",
+    "kecamatan": "Sungai Gelam",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "216",
+    "kodepos": "36374",
+    "desa_kelurahan": "Tangkit",
+    "kecamatan": "Sungai Gelam",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "217",
+    "kodepos": "36374",
+    "desa_kelurahan": "Sido Mukti",
+    "kecamatan": "Sungai Gelam",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "218",
+    "kodepos": "36374",
+    "desa_kelurahan": "Gambut Jaya",
+    "kecamatan": "Sungai Gelam",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "219",
+    "kodepos": "36374",
+    "desa_kelurahan": "Mekar Jaya",
+    "kecamatan": "Sungai Gelam",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "220",
+    "kodepos": "36382",
+    "desa_kelurahan": "Lubuk Raman",
+    "kecamatan": "Maro Sebo",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "221",
+    "kodepos": "36382",
+    "desa_kelurahan": "Tebat Patah",
+    "kecamatan": "Taman Rajo",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "222",
+    "kodepos": "36382",
+    "desa_kelurahan": "Tanjung Katung",
+    "kecamatan": "Maro Sebo",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "223",
+    "kodepos": "36382",
+    "desa_kelurahan": "Danau Lamo",
+    "kecamatan": "Maro Sebo",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "224",
+    "kodepos": "36382",
+    "desa_kelurahan": "Setiris",
+    "kecamatan": "Maro Sebo",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "225",
+    "kodepos": "36382",
+    "desa_kelurahan": "Baru",
+    "kecamatan": "Maro Sebo",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "226",
+    "kodepos": "36382",
+    "desa_kelurahan": "Kemingking Dalam",
+    "kecamatan": "Taman Rajo",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "227",
+    "kodepos": "36382",
+    "desa_kelurahan": "Jambi Kecil",
+    "kecamatan": "Maro Sebo",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "228",
+    "kodepos": "36382",
+    "desa_kelurahan": "Danau Kedap",
+    "kecamatan": "Maro Sebo",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "229",
+    "kodepos": "36382",
+    "desa_kelurahan": "Muaro Jambi",
+    "kecamatan": "Maro Sebo",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "230",
+    "kodepos": "36382",
+    "desa_kelurahan": "Talang Duku",
+    "kecamatan": "Taman Rajo",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "231",
+    "kodepos": "36382",
+    "desa_kelurahan": "Mudung Darat",
+    "kecamatan": "Maro Sebo",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "232",
+    "kodepos": "36382",
+    "desa_kelurahan": "Kemingking Luar",
+    "kecamatan": "Taman Rajo",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "233",
+    "kodepos": "36382",
+    "desa_kelurahan": "Jambi Tulo",
+    "kecamatan": "Maro Sebo",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "234",
+    "kodepos": "36382",
+    "desa_kelurahan": "Teluk Jambu",
+    "kecamatan": "Taman Rajo",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "235",
+    "kodepos": "36382",
+    "desa_kelurahan": "Bakung",
+    "kecamatan": "Maro Sebo",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "236",
+    "kodepos": "36382",
+    "desa_kelurahan": "Kunangan",
+    "kecamatan": "Taman Rajo",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "237",
+    "kodepos": "36382",
+    "desa_kelurahan": "Niaso",
+    "kecamatan": "Maro Sebo",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "238",
+    "kodepos": "36382",
+    "desa_kelurahan": "Sekumbung",
+    "kecamatan": "Taman Rajo",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "239",
+    "kodepos": "36382",
+    "desa_kelurahan": "Dusun Mudo",
+    "kecamatan": "Taman Rajo",
+    "kabupaten_kota": "KAB. MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "240",
+    "kodepos": "36761",
+    "desa_kelurahan": "Kampung Laut",
+    "kecamatan": "Kuala Jambi",
+    "kabupaten_kota": "KAB. TANJUNG JABUNG TIMUR",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "241",
+    "kodepos": "36761",
+    "desa_kelurahan": "Kuala Lagan",
+    "kecamatan": "Kuala Jambi",
+    "kabupaten_kota": "KAB. TANJUNG JABUNG TIMUR",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "242",
+    "kodepos": "36761",
+    "desa_kelurahan": "Manunggal Makmur",
+    "kecamatan": "Kuala Jambi",
+    "kabupaten_kota": "KAB. TANJUNG JABUNG TIMUR",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "243",
+    "kodepos": "36761",
+    "desa_kelurahan": "Teluk Majelis",
+    "kecamatan": "Kuala Jambi",
+    "kabupaten_kota": "KAB. TANJUNG JABUNG TIMUR",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "244",
+    "kodepos": "36761",
+    "desa_kelurahan": "Tanjungsolok",
+    "kecamatan": "Kuala Jambi",
+    "kabupaten_kota": "KAB. TANJUNG JABUNG TIMUR",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "245",
+    "kodepos": "36761",
+    "desa_kelurahan": "Majelis Hidayah",
+    "kecamatan": "Kuala Jambi",
+    "kabupaten_kota": "KAB. TANJUNG JABUNG TIMUR",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "246",
+    "kodepos": "37559",
+    "desa_kelurahan": "Tanjung Pucuk Jambi",
+    "kecamatan": "VII Koto",
+    "kabupaten_kota": "KAB. TEBO",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "247",
+    "kodepos": "55195",
+    "desa_kelurahan": "Jambidan",
+    "kecamatan": "Banguntapan",
+    "kabupaten_kota": "KAB. BANTUL",
+    "provinsi": "DAERAH ISTIMEWA YOGYAKARTA"
+  },
+  {
+    "no": "248",
+    "kodepos": "64494",
+    "desa_kelurahan": "Jambi",
+    "kecamatan": "Baron",
+    "kabupaten_kota": "KAB. NGANJUK",
+    "provinsi": "JAWA TIMUR"
+  },
+  {
+    "no": "249",
+    "kodepos": "78864",
+    "desa_kelurahan": "Jambi",
+    "kecamatan": "Manis Mata",
+    "kabupaten_kota": "KAB. KETAPANG",
+    "provinsi": "KALIMANTAN BARAT"
+  }
+]

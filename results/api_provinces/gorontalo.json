@@ -1,0 +1,3042 @@
+[
+  {
+    "no": "1",
+    "kodepos": "86763",
+    "desa_kelurahan": "Gorontalo",
+    "kecamatan": "Komodo",
+    "kabupaten_kota": "KAB. MANGGARAI BARAT",
+    "provinsi": "NUSA TENGGARA TIMUR"
+  },
+  {
+    "no": "2",
+    "kodepos": "94773",
+    "desa_kelurahan": "Gorontalo",
+    "kecamatan": "Balantak Selatan",
+    "kabupaten_kota": "KAB. BANGGAI",
+    "provinsi": "SULAWESI TENGAH"
+  },
+  {
+    "no": "3",
+    "kodepos": "96100",
+    "desa_kelurahan": "Heledulaa Selatan",
+    "kecamatan": "Kota Timur",
+    "kabupaten_kota": "KOTA GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "4",
+    "kodepos": "96100",
+    "desa_kelurahan": "Heledulaa Utara",
+    "kecamatan": "Kota Timur",
+    "kabupaten_kota": "KOTA GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "5",
+    "kodepos": "96100",
+    "desa_kelurahan": "Ipilo",
+    "kecamatan": "Kota Timur",
+    "kabupaten_kota": "KOTA GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "6",
+    "kodepos": "96100",
+    "desa_kelurahan": "Padebuolo",
+    "kecamatan": "Kota Timur",
+    "kabupaten_kota": "KOTA GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "7",
+    "kodepos": "96100",
+    "desa_kelurahan": "Tamalate",
+    "kecamatan": "Kota Timur",
+    "kabupaten_kota": "KOTA GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "8",
+    "kodepos": "96100",
+    "desa_kelurahan": "Moodu",
+    "kecamatan": "Kota Timur",
+    "kabupaten_kota": "KOTA GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "9",
+    "kodepos": "96100",
+    "desa_kelurahan": "Wumialo",
+    "kecamatan": "Kota Tengah",
+    "kabupaten_kota": "KOTA GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "10",
+    "kodepos": "96100",
+    "desa_kelurahan": "Paguyaman",
+    "kecamatan": "Kota Tengah",
+    "kabupaten_kota": "KOTA GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "11",
+    "kodepos": "96100",
+    "desa_kelurahan": "Bulotadaa Timur",
+    "kecamatan": "Sipatana",
+    "kabupaten_kota": "KOTA GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "12",
+    "kodepos": "96100",
+    "desa_kelurahan": "Tapa",
+    "kecamatan": "Sipatana",
+    "kabupaten_kota": "KOTA GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "13",
+    "kodepos": "96100",
+    "desa_kelurahan": "Bulotadaa Barat",
+    "kecamatan": "Sipatana",
+    "kabupaten_kota": "KOTA GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "14",
+    "kodepos": "96100",
+    "desa_kelurahan": "Pulubala",
+    "kecamatan": "Kota Tengah",
+    "kabupaten_kota": "KOTA GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "15",
+    "kodepos": "96100",
+    "desa_kelurahan": "Molosifat U",
+    "kecamatan": "Sipatana",
+    "kabupaten_kota": "KOTA GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "16",
+    "kodepos": "96100",
+    "desa_kelurahan": "Dulalowo",
+    "kecamatan": "Kota Tengah",
+    "kabupaten_kota": "KOTA GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "17",
+    "kodepos": "96100",
+    "desa_kelurahan": "Dulalowo Timur",
+    "kecamatan": "Kota Tengah",
+    "kabupaten_kota": "KOTA GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "18",
+    "kodepos": "96100",
+    "desa_kelurahan": "Liluwo",
+    "kecamatan": "Kota Tengah",
+    "kabupaten_kota": "KOTA GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "19",
+    "kodepos": "96100",
+    "desa_kelurahan": "Tanggikiki",
+    "kecamatan": "Sipatana",
+    "kabupaten_kota": "KOTA GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "20",
+    "kodepos": "96100",
+    "desa_kelurahan": "Buladu",
+    "kecamatan": "Kota Barat",
+    "kabupaten_kota": "KOTA GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "21",
+    "kodepos": "96100",
+    "desa_kelurahan": "Tenilo",
+    "kecamatan": "Kota Barat",
+    "kabupaten_kota": "KOTA GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "22",
+    "kodepos": "96100",
+    "desa_kelurahan": "Botu",
+    "kecamatan": "Dumbo Raya",
+    "kabupaten_kota": "KOTA GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "23",
+    "kodepos": "96100",
+    "desa_kelurahan": "Leato Selatan",
+    "kecamatan": "Dumbo Raya",
+    "kabupaten_kota": "KOTA GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "24",
+    "kodepos": "96100",
+    "desa_kelurahan": "Lekobalo",
+    "kecamatan": "Kota Barat",
+    "kabupaten_kota": "KOTA GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "25",
+    "kodepos": "96100",
+    "desa_kelurahan": "Dembe I",
+    "kecamatan": "Kota Barat",
+    "kabupaten_kota": "KOTA GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "26",
+    "kodepos": "96100",
+    "desa_kelurahan": "Bugis",
+    "kecamatan": "Dumbo Raya",
+    "kabupaten_kota": "KOTA GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "27",
+    "kodepos": "96100",
+    "desa_kelurahan": "Molosipat W",
+    "kecamatan": "Kota Barat",
+    "kabupaten_kota": "KOTA GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "28",
+    "kodepos": "96100",
+    "desa_kelurahan": "Talumolo",
+    "kecamatan": "Dumbo Raya",
+    "kabupaten_kota": "KOTA GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "29",
+    "kodepos": "96100",
+    "desa_kelurahan": "Leato Utara",
+    "kecamatan": "Dumbo Raya",
+    "kabupaten_kota": "KOTA GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "30",
+    "kodepos": "96100",
+    "desa_kelurahan": "Pilolodaa",
+    "kecamatan": "Kota Barat",
+    "kabupaten_kota": "KOTA GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "31",
+    "kodepos": "96100",
+    "desa_kelurahan": "Buliide",
+    "kecamatan": "Kota Barat",
+    "kabupaten_kota": "KOTA GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "32",
+    "kodepos": "96100",
+    "desa_kelurahan": "Limba U I",
+    "kecamatan": "Kota Selatan",
+    "kabupaten_kota": "KOTA GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "33",
+    "kodepos": "96100",
+    "desa_kelurahan": "Pohe",
+    "kecamatan": "Hulonthalangi",
+    "kabupaten_kota": "KOTA GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "34",
+    "kodepos": "96100",
+    "desa_kelurahan": "Tenda",
+    "kecamatan": "Hulonthalangi",
+    "kabupaten_kota": "KOTA GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "35",
+    "kodepos": "96100",
+    "desa_kelurahan": "Limba B",
+    "kecamatan": "Kota Selatan",
+    "kabupaten_kota": "KOTA GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "36",
+    "kodepos": "96100",
+    "desa_kelurahan": "Siendeng",
+    "kecamatan": "Hulonthalangi",
+    "kabupaten_kota": "KOTA GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "37",
+    "kodepos": "96100",
+    "desa_kelurahan": "Biawu",
+    "kecamatan": "Kota Selatan",
+    "kabupaten_kota": "KOTA GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "38",
+    "kodepos": "96100",
+    "desa_kelurahan": "Tanjung Kramat",
+    "kecamatan": "Hulonthalangi",
+    "kabupaten_kota": "KOTA GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "39",
+    "kodepos": "96100",
+    "desa_kelurahan": "Donggala",
+    "kecamatan": "Hulonthalangi",
+    "kabupaten_kota": "KOTA GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "40",
+    "kodepos": "96100",
+    "desa_kelurahan": "Limba U II",
+    "kecamatan": "Kota Selatan",
+    "kabupaten_kota": "KOTA GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "41",
+    "kodepos": "96100",
+    "desa_kelurahan": "Biawao",
+    "kecamatan": "Kota Selatan",
+    "kabupaten_kota": "KOTA GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "42",
+    "kodepos": "96100",
+    "desa_kelurahan": "Dembe II",
+    "kecamatan": "Kota Utara",
+    "kabupaten_kota": "KOTA GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "43",
+    "kodepos": "96100",
+    "desa_kelurahan": "Wongkaditi Barat",
+    "kecamatan": "Kota Utara",
+    "kabupaten_kota": "KOTA GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "44",
+    "kodepos": "96100",
+    "desa_kelurahan": "Dulomo Selatan",
+    "kecamatan": "Kota Utara",
+    "kabupaten_kota": "KOTA GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "45",
+    "kodepos": "96100",
+    "desa_kelurahan": "Dembe Jaya",
+    "kecamatan": "Kota Utara",
+    "kabupaten_kota": "KOTA GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "46",
+    "kodepos": "96100",
+    "desa_kelurahan": "Wongkaditi Timur",
+    "kecamatan": "Kota Utara",
+    "kabupaten_kota": "KOTA GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "47",
+    "kodepos": "96100",
+    "desa_kelurahan": "Dulomo Utara",
+    "kecamatan": "Kota Utara",
+    "kabupaten_kota": "KOTA GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "48",
+    "kodepos": "96100",
+    "desa_kelurahan": "Huangobotu",
+    "kecamatan": "Dungingi",
+    "kabupaten_kota": "KOTA GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "49",
+    "kodepos": "96100",
+    "desa_kelurahan": "Tomulabutao Selatan",
+    "kecamatan": "Dungingi",
+    "kabupaten_kota": "KOTA GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "50",
+    "kodepos": "96100",
+    "desa_kelurahan": "Tomulabutao",
+    "kecamatan": "Dungingi",
+    "kabupaten_kota": "KOTA GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "51",
+    "kodepos": "96100",
+    "desa_kelurahan": "Tuladengi",
+    "kecamatan": "Dungingi",
+    "kabupaten_kota": "KOTA GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "52",
+    "kodepos": "96100",
+    "desa_kelurahan": "Libuo",
+    "kecamatan": "Dungingi",
+    "kabupaten_kota": "KOTA GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "53",
+    "kodepos": "96211",
+    "desa_kelurahan": "Kayubulan",
+    "kecamatan": "Limboto",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "54",
+    "kodepos": "96212",
+    "desa_kelurahan": "Biyonga",
+    "kecamatan": "Limboto",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "55",
+    "kodepos": "96212",
+    "desa_kelurahan": "Hepuhulawa",
+    "kecamatan": "Limboto",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "56",
+    "kodepos": "96213",
+    "desa_kelurahan": "Bulota",
+    "kecamatan": "Limboto",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "57",
+    "kodepos": "96213",
+    "desa_kelurahan": "Dutulanaa",
+    "kecamatan": "Limboto",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "58",
+    "kodepos": "96213",
+    "desa_kelurahan": "Hutuo",
+    "kecamatan": "Limboto",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "59",
+    "kodepos": "96214",
+    "desa_kelurahan": "Bongohulawa",
+    "kecamatan": "Limboto",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "60",
+    "kodepos": "96214",
+    "desa_kelurahan": "Kayumerah",
+    "kecamatan": "Limboto",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "61",
+    "kodepos": "96218",
+    "desa_kelurahan": "Tenilo",
+    "kecamatan": "Limboto",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "62",
+    "kodepos": "96218",
+    "desa_kelurahan": "Bolihuangga",
+    "kecamatan": "Limboto",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "63",
+    "kodepos": "96219",
+    "desa_kelurahan": "Tilihuwa",
+    "kecamatan": "Limboto",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "64",
+    "kodepos": "96219",
+    "desa_kelurahan": "Polohungo",
+    "kecamatan": "Limboto",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "65",
+    "kodepos": "96219",
+    "desa_kelurahan": "Hunggaluwa",
+    "kecamatan": "Limboto",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "66",
+    "kodepos": "96219",
+    "desa_kelurahan": "Malahu",
+    "kecamatan": "Limboto",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "67",
+    "kodepos": "96225",
+    "desa_kelurahan": "Tunggulo",
+    "kecamatan": "Limboto Barat",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "68",
+    "kodepos": "96225",
+    "desa_kelurahan": "Hutabohu",
+    "kecamatan": "Limboto Barat",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "69",
+    "kodepos": "96225",
+    "desa_kelurahan": "Pone",
+    "kecamatan": "Limboto Barat",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "70",
+    "kodepos": "96225",
+    "desa_kelurahan": "Yosonegoro",
+    "kecamatan": "Limboto Barat",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "71",
+    "kodepos": "96225",
+    "desa_kelurahan": "Daenaa",
+    "kecamatan": "Limboto Barat",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "72",
+    "kodepos": "96225",
+    "desa_kelurahan": "Huidu Utara",
+    "kecamatan": "Limboto Barat",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "73",
+    "kodepos": "96225",
+    "desa_kelurahan": "Padengo",
+    "kecamatan": "Limboto Barat",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "74",
+    "kodepos": "96225",
+    "desa_kelurahan": "Huidu",
+    "kecamatan": "Limboto Barat",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "75",
+    "kodepos": "96225",
+    "desa_kelurahan": "Haya-Haya",
+    "kecamatan": "Limboto Barat",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "76",
+    "kodepos": "96225",
+    "desa_kelurahan": "Ombulo",
+    "kecamatan": "Limboto Barat",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "77",
+    "kodepos": "96251",
+    "desa_kelurahan": "Puncak",
+    "kecamatan": "Pulubala",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "78",
+    "kodepos": "96251",
+    "desa_kelurahan": "Bukit Aren",
+    "kecamatan": "Pulubala",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "79",
+    "kodepos": "96251",
+    "desa_kelurahan": "Pulubala",
+    "kecamatan": "Pulubala",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "80",
+    "kodepos": "96251",
+    "desa_kelurahan": "Pongongaila",
+    "kecamatan": "Pulubala",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "81",
+    "kodepos": "96251",
+    "desa_kelurahan": "Mulyonegoro",
+    "kecamatan": "Pulubala",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "82",
+    "kodepos": "96251",
+    "desa_kelurahan": "Molamahu",
+    "kecamatan": "Pulubala",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "83",
+    "kodepos": "96251",
+    "desa_kelurahan": "Toyidito",
+    "kecamatan": "Pulubala",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "84",
+    "kodepos": "96251",
+    "desa_kelurahan": "Bakti",
+    "kecamatan": "Pulubala",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "85",
+    "kodepos": "96251",
+    "desa_kelurahan": "Tridharma",
+    "kecamatan": "Pulubala",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "86",
+    "kodepos": "96251",
+    "desa_kelurahan": "Ayumolingo",
+    "kecamatan": "Pulubala",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "87",
+    "kodepos": "96251",
+    "desa_kelurahan": "Molalahu",
+    "kecamatan": "Pulubala",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "88",
+    "kodepos": "96251",
+    "desa_kelurahan": "Datahu",
+    "kecamatan": "Tibawa",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "89",
+    "kodepos": "96251",
+    "desa_kelurahan": "Isimu Utara",
+    "kecamatan": "Tibawa",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "90",
+    "kodepos": "96251",
+    "desa_kelurahan": "Tolotio",
+    "kecamatan": "Tibawa",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "91",
+    "kodepos": "96251",
+    "desa_kelurahan": "Labanu",
+    "kecamatan": "Tibawa",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "92",
+    "kodepos": "96251",
+    "desa_kelurahan": "Buhu",
+    "kecamatan": "Tibawa",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "93",
+    "kodepos": "96251",
+    "desa_kelurahan": "Isimu Selatan",
+    "kecamatan": "Tibawa",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "94",
+    "kodepos": "96251",
+    "desa_kelurahan": "Ulobua",
+    "kecamatan": "Tibawa",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "95",
+    "kodepos": "96251",
+    "desa_kelurahan": "Dunggala",
+    "kecamatan": "Tibawa",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "96",
+    "kodepos": "96251",
+    "desa_kelurahan": "Isimu Raya",
+    "kecamatan": "Tibawa",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "97",
+    "kodepos": "96251",
+    "desa_kelurahan": "Iloponu",
+    "kecamatan": "Tibawa",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "98",
+    "kodepos": "96251",
+    "desa_kelurahan": "Reksonegoro",
+    "kecamatan": "Tibawa",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "99",
+    "kodepos": "96251",
+    "desa_kelurahan": "Ilomata",
+    "kecamatan": "Tibawa",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "100",
+    "kodepos": "96251",
+    "desa_kelurahan": "Balahu",
+    "kecamatan": "Tibawa",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "101",
+    "kodepos": "96251",
+    "desa_kelurahan": "Molowahu",
+    "kecamatan": "Tibawa",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "102",
+    "kodepos": "96251",
+    "desa_kelurahan": "Motilango",
+    "kecamatan": "Tibawa",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "103",
+    "kodepos": "96251",
+    "desa_kelurahan": "Botumoputi",
+    "kecamatan": "Tibawa",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "104",
+    "kodepos": "96252",
+    "desa_kelurahan": "Dunu",
+    "kecamatan": "Monano",
+    "kabupaten_kota": "KAB. GORONTALO UTARA",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "105",
+    "kodepos": "96252",
+    "desa_kelurahan": "Tolitehuyu",
+    "kecamatan": "Monano",
+    "kabupaten_kota": "KAB. GORONTALO UTARA",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "106",
+    "kodepos": "96252",
+    "desa_kelurahan": "Garapia",
+    "kecamatan": "Monano",
+    "kabupaten_kota": "KAB. GORONTALO UTARA",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "107",
+    "kodepos": "96252",
+    "desa_kelurahan": "Mokonowu",
+    "kecamatan": "Monano",
+    "kabupaten_kota": "KAB. GORONTALO UTARA",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "108",
+    "kodepos": "96252",
+    "desa_kelurahan": "Monas",
+    "kecamatan": "Monano",
+    "kabupaten_kota": "KAB. GORONTALO UTARA",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "109",
+    "kodepos": "96252",
+    "desa_kelurahan": "Sogu",
+    "kecamatan": "Monano",
+    "kabupaten_kota": "KAB. GORONTALO UTARA",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "110",
+    "kodepos": "96252",
+    "desa_kelurahan": "Tudi",
+    "kecamatan": "Monano",
+    "kabupaten_kota": "KAB. GORONTALO UTARA",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "111",
+    "kodepos": "96252",
+    "desa_kelurahan": "Zuriyati",
+    "kecamatan": "Monano",
+    "kabupaten_kota": "KAB. GORONTALO UTARA",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "112",
+    "kodepos": "96252",
+    "desa_kelurahan": "Pilohulata",
+    "kecamatan": "Monano",
+    "kabupaten_kota": "KAB. GORONTALO UTARA",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "113",
+    "kodepos": "96252",
+    "desa_kelurahan": "Monano",
+    "kecamatan": "Monano",
+    "kabupaten_kota": "KAB. GORONTALO UTARA",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "114",
+    "kodepos": "96252",
+    "desa_kelurahan": "Tumba",
+    "kecamatan": "Sumalata",
+    "kabupaten_kota": "KAB. GORONTALO UTARA",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "115",
+    "kodepos": "96252",
+    "desa_kelurahan": "Puncak Mandiri",
+    "kecamatan": "Sumalata",
+    "kabupaten_kota": "KAB. GORONTALO UTARA",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "116",
+    "kodepos": "96252",
+    "desa_kelurahan": "Bulontiyo Timur",
+    "kecamatan": "Sumalata",
+    "kabupaten_kota": "KAB. GORONTALO UTARA",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "117",
+    "kodepos": "96252",
+    "desa_kelurahan": "Hutakalo",
+    "kecamatan": "Sumalata",
+    "kabupaten_kota": "KAB. GORONTALO UTARA",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "118",
+    "kodepos": "96252",
+    "desa_kelurahan": "Otiola",
+    "kecamatan": "Ponelo Kepulauan",
+    "kabupaten_kota": "KAB. GORONTALO UTARA",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "119",
+    "kodepos": "96252",
+    "desa_kelurahan": "Kikia",
+    "kecamatan": "Sumalata",
+    "kabupaten_kota": "KAB. GORONTALO UTARA",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "120",
+    "kodepos": "96252",
+    "desa_kelurahan": "Ponelo",
+    "kecamatan": "Ponelo Kepulauan",
+    "kabupaten_kota": "KAB. GORONTALO UTARA",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "121",
+    "kodepos": "96252",
+    "desa_kelurahan": "Tihengo",
+    "kecamatan": "Ponelo Kepulauan",
+    "kabupaten_kota": "KAB. GORONTALO UTARA",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "122",
+    "kodepos": "96252",
+    "desa_kelurahan": "Pulohenti",
+    "kecamatan": "Sumalata",
+    "kabupaten_kota": "KAB. GORONTALO UTARA",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "123",
+    "kodepos": "96252",
+    "desa_kelurahan": "Mebongo",
+    "kecamatan": "Sumalata",
+    "kabupaten_kota": "KAB. GORONTALO UTARA",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "124",
+    "kodepos": "96252",
+    "desa_kelurahan": "Malambe",
+    "kecamatan": "Ponelo Kepulauan",
+    "kabupaten_kota": "KAB. GORONTALO UTARA",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "125",
+    "kodepos": "96252",
+    "desa_kelurahan": "Bulontiyo Barat",
+    "kecamatan": "Sumalata",
+    "kabupaten_kota": "KAB. GORONTALO UTARA",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "126",
+    "kodepos": "96252",
+    "desa_kelurahan": "Kasia",
+    "kecamatan": "Sumalata",
+    "kabupaten_kota": "KAB. GORONTALO UTARA",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "127",
+    "kodepos": "96252",
+    "desa_kelurahan": "Lelato",
+    "kecamatan": "Sumalata",
+    "kabupaten_kota": "KAB. GORONTALO UTARA",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "128",
+    "kodepos": "96252",
+    "desa_kelurahan": "Buloila",
+    "kecamatan": "Sumalata",
+    "kabupaten_kota": "KAB. GORONTALO UTARA",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "129",
+    "kodepos": "96252",
+    "desa_kelurahan": "Luhuto",
+    "kecamatan": "Biau",
+    "kabupaten_kota": "KAB. GORONTALO UTARA",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "130",
+    "kodepos": "96252",
+    "desa_kelurahan": "Limbato",
+    "kecamatan": "Tolinggula",
+    "kabupaten_kota": "KAB. GORONTALO UTARA",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "131",
+    "kodepos": "96252",
+    "desa_kelurahan": "Sembihinga",
+    "kecamatan": "Biau",
+    "kabupaten_kota": "KAB. GORONTALO UTARA",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "132",
+    "kodepos": "96252",
+    "desa_kelurahan": "Tolinggula Pantai",
+    "kecamatan": "Tolinggula",
+    "kabupaten_kota": "KAB. GORONTALO UTARA",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "133",
+    "kodepos": "96252",
+    "desa_kelurahan": "Didingga",
+    "kecamatan": "Biau",
+    "kabupaten_kota": "KAB. GORONTALO UTARA",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "134",
+    "kodepos": "96252",
+    "desa_kelurahan": "Bohulo",
+    "kecamatan": "Biau",
+    "kabupaten_kota": "KAB. GORONTALO UTARA",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "135",
+    "kodepos": "96252",
+    "desa_kelurahan": "Tolinggula Ulu",
+    "kecamatan": "Tolinggula",
+    "kabupaten_kota": "KAB. GORONTALO UTARA",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "136",
+    "kodepos": "96252",
+    "desa_kelurahan": "Ilomangga",
+    "kecamatan": "Tolinggula",
+    "kabupaten_kota": "KAB. GORONTALO UTARA",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "137",
+    "kodepos": "96252",
+    "desa_kelurahan": "Tolinggula Tengah",
+    "kecamatan": "Tolinggula",
+    "kabupaten_kota": "KAB. GORONTALO UTARA",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "138",
+    "kodepos": "96252",
+    "desa_kelurahan": "Ilotunggulo",
+    "kecamatan": "Tolinggula",
+    "kabupaten_kota": "KAB. GORONTALO UTARA",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "139",
+    "kodepos": "96252",
+    "desa_kelurahan": "Omuto",
+    "kecamatan": "Biau",
+    "kabupaten_kota": "KAB. GORONTALO UTARA",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "140",
+    "kodepos": "96252",
+    "desa_kelurahan": "Potanga",
+    "kecamatan": "Biau",
+    "kabupaten_kota": "KAB. GORONTALO UTARA",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "141",
+    "kodepos": "96252",
+    "desa_kelurahan": "Papulangi",
+    "kecamatan": "Tolinggula",
+    "kabupaten_kota": "KAB. GORONTALO UTARA",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "142",
+    "kodepos": "96252",
+    "desa_kelurahan": "Molangga",
+    "kecamatan": "Tolinggula",
+    "kabupaten_kota": "KAB. GORONTALO UTARA",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "143",
+    "kodepos": "96252",
+    "desa_kelurahan": "Topi",
+    "kecamatan": "Biau",
+    "kabupaten_kota": "KAB. GORONTALO UTARA",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "144",
+    "kodepos": "96252",
+    "desa_kelurahan": "Tolite Jaya",
+    "kecamatan": "Tolinggula",
+    "kabupaten_kota": "KAB. GORONTALO UTARA",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "145",
+    "kodepos": "96252",
+    "desa_kelurahan": "Biau",
+    "kecamatan": "Biau",
+    "kabupaten_kota": "KAB. GORONTALO UTARA",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "146",
+    "kodepos": "96252",
+    "desa_kelurahan": "Bualo",
+    "kecamatan": "Biau",
+    "kabupaten_kota": "KAB. GORONTALO UTARA",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "147",
+    "kodepos": "96252",
+    "desa_kelurahan": "Cempaka Putih",
+    "kecamatan": "Tolinggula",
+    "kabupaten_kota": "KAB. GORONTALO UTARA",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "148",
+    "kodepos": "96252",
+    "desa_kelurahan": "Windu",
+    "kecamatan": "Biau",
+    "kabupaten_kota": "KAB. GORONTALO UTARA",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "149",
+    "kodepos": "96252",
+    "desa_kelurahan": "Titidu",
+    "kecamatan": "Kwandang",
+    "kabupaten_kota": "KAB. GORONTALO UTARA",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "150",
+    "kodepos": "96252",
+    "desa_kelurahan": "Masuru",
+    "kecamatan": "Kwandang",
+    "kabupaten_kota": "KAB. GORONTALO UTARA",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "151",
+    "kodepos": "96252",
+    "desa_kelurahan": "Bualemo",
+    "kecamatan": "Kwandang",
+    "kabupaten_kota": "KAB. GORONTALO UTARA",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "152",
+    "kodepos": "96252",
+    "desa_kelurahan": "Pontolo",
+    "kecamatan": "Kwandang",
+    "kabupaten_kota": "KAB. GORONTALO UTARA",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "153",
+    "kodepos": "96252",
+    "desa_kelurahan": "Pontolo Atas",
+    "kecamatan": "Kwandang",
+    "kabupaten_kota": "KAB. GORONTALO UTARA",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "154",
+    "kodepos": "96252",
+    "desa_kelurahan": "Bulalo",
+    "kecamatan": "Kwandang",
+    "kabupaten_kota": "KAB. GORONTALO UTARA",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "155",
+    "kodepos": "96252",
+    "desa_kelurahan": "Botuwombata",
+    "kecamatan": "Kwandang",
+    "kabupaten_kota": "KAB. GORONTALO UTARA",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "156",
+    "kodepos": "96252",
+    "desa_kelurahan": "Ombulodata",
+    "kecamatan": "Kwandang",
+    "kabupaten_kota": "KAB. GORONTALO UTARA",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "157",
+    "kodepos": "96252",
+    "desa_kelurahan": "Molingkapoto",
+    "kecamatan": "Kwandang",
+    "kabupaten_kota": "KAB. GORONTALO UTARA",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "158",
+    "kodepos": "96252",
+    "desa_kelurahan": "Botungobungo",
+    "kecamatan": "Kwandang",
+    "kabupaten_kota": "KAB. GORONTALO UTARA",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "159",
+    "kodepos": "96252",
+    "desa_kelurahan": "Leboto",
+    "kecamatan": "Kwandang",
+    "kabupaten_kota": "KAB. GORONTALO UTARA",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "160",
+    "kodepos": "96252",
+    "desa_kelurahan": "Moluo",
+    "kecamatan": "Kwandang",
+    "kabupaten_kota": "KAB. GORONTALO UTARA",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "161",
+    "kodepos": "96252",
+    "desa_kelurahan": "Alata Karya",
+    "kecamatan": "Kwandang",
+    "kabupaten_kota": "KAB. GORONTALO UTARA",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "162",
+    "kodepos": "96252",
+    "desa_kelurahan": "Posso",
+    "kecamatan": "Kwandang",
+    "kabupaten_kota": "KAB. GORONTALO UTARA",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "163",
+    "kodepos": "96252",
+    "desa_kelurahan": "Mootinelo",
+    "kecamatan": "Kwandang",
+    "kabupaten_kota": "KAB. GORONTALO UTARA",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "164",
+    "kodepos": "96252",
+    "desa_kelurahan": "Cisadane",
+    "kecamatan": "Kwandang",
+    "kabupaten_kota": "KAB. GORONTALO UTARA",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "165",
+    "kodepos": "96252",
+    "desa_kelurahan": "Molingkapoto Selatan",
+    "kecamatan": "Kwandang",
+    "kabupaten_kota": "KAB. GORONTALO UTARA",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "166",
+    "kodepos": "96252",
+    "desa_kelurahan": "Katialada",
+    "kecamatan": "Kwandang",
+    "kabupaten_kota": "KAB. GORONTALO UTARA",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "167",
+    "kodepos": "96252",
+    "desa_kelurahan": "Buluwatu",
+    "kecamatan": "Sumalata Timur",
+    "kabupaten_kota": "KAB. GORONTALO UTARA",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "168",
+    "kodepos": "96252",
+    "desa_kelurahan": "Motiheluma",
+    "kecamatan": "Sumalata Timur",
+    "kabupaten_kota": "KAB. GORONTALO UTARA",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "169",
+    "kodepos": "96252",
+    "desa_kelurahan": "Hulawa",
+    "kecamatan": "Sumalata Timur",
+    "kabupaten_kota": "KAB. GORONTALO UTARA",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "170",
+    "kodepos": "96252",
+    "desa_kelurahan": "Deme Satu",
+    "kecamatan": "Sumalata Timur",
+    "kabupaten_kota": "KAB. GORONTALO UTARA",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "171",
+    "kodepos": "96252",
+    "desa_kelurahan": "Buladu",
+    "kecamatan": "Sumalata Timur",
+    "kabupaten_kota": "KAB. GORONTALO UTARA",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "172",
+    "kodepos": "96252",
+    "desa_kelurahan": "Bubalango",
+    "kecamatan": "Sumalata Timur",
+    "kabupaten_kota": "KAB. GORONTALO UTARA",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "173",
+    "kodepos": "96252",
+    "desa_kelurahan": "Dulukapa",
+    "kecamatan": "Sumalata Timur",
+    "kabupaten_kota": "KAB. GORONTALO UTARA",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "174",
+    "kodepos": "96252",
+    "desa_kelurahan": "Koluwoka",
+    "kecamatan": "Sumalata Timur",
+    "kabupaten_kota": "KAB. GORONTALO UTARA",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "175",
+    "kodepos": "96252",
+    "desa_kelurahan": "Deme Dua",
+    "kecamatan": "Sumalata Timur",
+    "kabupaten_kota": "KAB. GORONTALO UTARA",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "176",
+    "kodepos": "96252",
+    "desa_kelurahan": "Wubudu",
+    "kecamatan": "Sumalata Timur",
+    "kabupaten_kota": "KAB. GORONTALO UTARA",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "177",
+    "kodepos": "96252",
+    "desa_kelurahan": "Datahu",
+    "kecamatan": "Anggrek",
+    "kabupaten_kota": "KAB. GORONTALO UTARA",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "178",
+    "kodepos": "96252",
+    "desa_kelurahan": "Iloheluma",
+    "kecamatan": "Anggrek",
+    "kabupaten_kota": "KAB. GORONTALO UTARA",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "179",
+    "kodepos": "96252",
+    "desa_kelurahan": "Ilodulunga",
+    "kecamatan": "Anggrek",
+    "kabupaten_kota": "KAB. GORONTALO UTARA",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "180",
+    "kodepos": "96252",
+    "desa_kelurahan": "Putiana",
+    "kecamatan": "Anggrek",
+    "kabupaten_kota": "KAB. GORONTALO UTARA",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "181",
+    "kodepos": "96252",
+    "desa_kelurahan": "Tolango",
+    "kecamatan": "Anggrek",
+    "kabupaten_kota": "KAB. GORONTALO UTARA",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "182",
+    "kodepos": "96252",
+    "desa_kelurahan": "Heluma",
+    "kecamatan": "Anggrek",
+    "kabupaten_kota": "KAB. GORONTALO UTARA",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "183",
+    "kodepos": "96252",
+    "desa_kelurahan": "Tolongio",
+    "kecamatan": "Anggrek",
+    "kabupaten_kota": "KAB. GORONTALO UTARA",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "184",
+    "kodepos": "96252",
+    "desa_kelurahan": "Tutuwoto",
+    "kecamatan": "Anggrek",
+    "kabupaten_kota": "KAB. GORONTALO UTARA",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "185",
+    "kodepos": "96252",
+    "desa_kelurahan": "Ibarat",
+    "kecamatan": "Anggrek",
+    "kabupaten_kota": "KAB. GORONTALO UTARA",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "186",
+    "kodepos": "96252",
+    "desa_kelurahan": "Mootilango",
+    "kecamatan": "Anggrek",
+    "kabupaten_kota": "KAB. GORONTALO UTARA",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "187",
+    "kodepos": "96252",
+    "desa_kelurahan": "Langge",
+    "kecamatan": "Anggrek",
+    "kabupaten_kota": "KAB. GORONTALO UTARA",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "188",
+    "kodepos": "96252",
+    "desa_kelurahan": "Hiyalooile",
+    "kecamatan": "Anggrek",
+    "kabupaten_kota": "KAB. GORONTALO UTARA",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "189",
+    "kodepos": "96252",
+    "desa_kelurahan": "Popalo",
+    "kecamatan": "Anggrek",
+    "kabupaten_kota": "KAB. GORONTALO UTARA",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "190",
+    "kodepos": "96252",
+    "desa_kelurahan": "Dudepo",
+    "kecamatan": "Anggrek",
+    "kabupaten_kota": "KAB. GORONTALO UTARA",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "191",
+    "kodepos": "96252",
+    "desa_kelurahan": "Ilangata",
+    "kecamatan": "Anggrek",
+    "kabupaten_kota": "KAB. GORONTALO UTARA",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "192",
+    "kodepos": "96253",
+    "desa_kelurahan": "Dambalo",
+    "kecamatan": "Tomolito",
+    "kabupaten_kota": "KAB. GORONTALO UTARA",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "193",
+    "kodepos": "96253",
+    "desa_kelurahan": "Huidu Melito",
+    "kecamatan": "Tomolito",
+    "kabupaten_kota": "KAB. GORONTALO UTARA",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "194",
+    "kodepos": "96253",
+    "desa_kelurahan": "Bubode",
+    "kecamatan": "Tomolito",
+    "kabupaten_kota": "KAB. GORONTALO UTARA",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "195",
+    "kodepos": "96253",
+    "desa_kelurahan": "Jembatan Merah",
+    "kecamatan": "Tomolito",
+    "kabupaten_kota": "KAB. GORONTALO UTARA",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "196",
+    "kodepos": "96253",
+    "desa_kelurahan": "Molantadu",
+    "kecamatan": "Tomolito",
+    "kabupaten_kota": "KAB. GORONTALO UTARA",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "197",
+    "kodepos": "96253",
+    "desa_kelurahan": "Tanjung Karang",
+    "kecamatan": "Tomolito",
+    "kabupaten_kota": "KAB. GORONTALO UTARA",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "198",
+    "kodepos": "96253",
+    "desa_kelurahan": "Bulango Raya",
+    "kecamatan": "Tomolito",
+    "kabupaten_kota": "KAB. GORONTALO UTARA",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "199",
+    "kodepos": "96253",
+    "desa_kelurahan": "Milango",
+    "kecamatan": "Tomolito",
+    "kabupaten_kota": "KAB. GORONTALO UTARA",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "200",
+    "kodepos": "96253",
+    "desa_kelurahan": "Mutiara Laut",
+    "kecamatan": "Tomolito",
+    "kabupaten_kota": "KAB. GORONTALO UTARA",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "201",
+    "kodepos": "96253",
+    "desa_kelurahan": "Leyao",
+    "kecamatan": "Tomolito",
+    "kabupaten_kota": "KAB. GORONTALO UTARA",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "202",
+    "kodepos": "96253",
+    "desa_kelurahan": "Nanati Jaya",
+    "kecamatan": "Gentuma Raya",
+    "kabupaten_kota": "KAB. GORONTALO UTARA",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "203",
+    "kodepos": "96253",
+    "desa_kelurahan": "Langke",
+    "kecamatan": "Gentuma Raya",
+    "kabupaten_kota": "KAB. GORONTALO UTARA",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "204",
+    "kodepos": "96253",
+    "desa_kelurahan": "Durian",
+    "kecamatan": "Gentuma Raya",
+    "kabupaten_kota": "KAB. GORONTALO UTARA",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "205",
+    "kodepos": "96253",
+    "desa_kelurahan": "Gentuma",
+    "kecamatan": "Gentuma Raya",
+    "kabupaten_kota": "KAB. GORONTALO UTARA",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "206",
+    "kodepos": "96253",
+    "desa_kelurahan": "Ipilo",
+    "kecamatan": "Gentuma Raya",
+    "kabupaten_kota": "KAB. GORONTALO UTARA",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "207",
+    "kodepos": "96253",
+    "desa_kelurahan": "Dumolodo",
+    "kecamatan": "Gentuma Raya",
+    "kabupaten_kota": "KAB. GORONTALO UTARA",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "208",
+    "kodepos": "96253",
+    "desa_kelurahan": "Motomingo",
+    "kecamatan": "Gentuma Raya",
+    "kabupaten_kota": "KAB. GORONTALO UTARA",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "209",
+    "kodepos": "96253",
+    "desa_kelurahan": "Bohusami",
+    "kecamatan": "Gentuma Raya",
+    "kabupaten_kota": "KAB. GORONTALO UTARA",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "210",
+    "kodepos": "96253",
+    "desa_kelurahan": "Ketapang",
+    "kecamatan": "Gentuma Raya",
+    "kabupaten_kota": "KAB. GORONTALO UTARA",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "211",
+    "kodepos": "96253",
+    "desa_kelurahan": "Molonggota",
+    "kecamatan": "Gentuma Raya",
+    "kabupaten_kota": "KAB. GORONTALO UTARA",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "212",
+    "kodepos": "96253",
+    "desa_kelurahan": "Pasalae",
+    "kecamatan": "Gentuma Raya",
+    "kabupaten_kota": "KAB. GORONTALO UTARA",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "213",
+    "kodepos": "96253",
+    "desa_kelurahan": "Posono",
+    "kecamatan": "Atinggola",
+    "kabupaten_kota": "KAB. GORONTALO UTARA",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "214",
+    "kodepos": "96253",
+    "desa_kelurahan": "Pinontoyonga",
+    "kecamatan": "Atinggola",
+    "kabupaten_kota": "KAB. GORONTALO UTARA",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "215",
+    "kodepos": "96253",
+    "desa_kelurahan": "Kotajin",
+    "kecamatan": "Atinggola",
+    "kabupaten_kota": "KAB. GORONTALO UTARA",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "216",
+    "kodepos": "96253",
+    "desa_kelurahan": "Buata",
+    "kecamatan": "Atinggola",
+    "kabupaten_kota": "KAB. GORONTALO UTARA",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "217",
+    "kodepos": "96253",
+    "desa_kelurahan": "Tombulilato",
+    "kecamatan": "Atinggola",
+    "kabupaten_kota": "KAB. GORONTALO UTARA",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "218",
+    "kodepos": "96253",
+    "desa_kelurahan": "Imana",
+    "kecamatan": "Atinggola",
+    "kabupaten_kota": "KAB. GORONTALO UTARA",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "219",
+    "kodepos": "96253",
+    "desa_kelurahan": "Iloheluma",
+    "kecamatan": "Atinggola",
+    "kabupaten_kota": "KAB. GORONTALO UTARA",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "220",
+    "kodepos": "96253",
+    "desa_kelurahan": "Monggupo",
+    "kecamatan": "Atinggola",
+    "kabupaten_kota": "KAB. GORONTALO UTARA",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "221",
+    "kodepos": "96253",
+    "desa_kelurahan": "Sigaso",
+    "kecamatan": "Atinggola",
+    "kabupaten_kota": "KAB. GORONTALO UTARA",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "222",
+    "kodepos": "96253",
+    "desa_kelurahan": "Oluhuta",
+    "kecamatan": "Atinggola",
+    "kabupaten_kota": "KAB. GORONTALO UTARA",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "223",
+    "kodepos": "96253",
+    "desa_kelurahan": "Bintana",
+    "kecamatan": "Atinggola",
+    "kabupaten_kota": "KAB. GORONTALO UTARA",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "224",
+    "kodepos": "96253",
+    "desa_kelurahan": "Kotajin Utara",
+    "kecamatan": "Atinggola",
+    "kabupaten_kota": "KAB. GORONTALO UTARA",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "225",
+    "kodepos": "96253",
+    "desa_kelurahan": "Ilomata",
+    "kecamatan": "Atinggola",
+    "kabupaten_kota": "KAB. GORONTALO UTARA",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "226",
+    "kodepos": "96253",
+    "desa_kelurahan": "Wapalo",
+    "kecamatan": "Atinggola",
+    "kabupaten_kota": "KAB. GORONTALO UTARA",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "227",
+    "kodepos": "96261",
+    "desa_kelurahan": "Lakeya",
+    "kecamatan": "Tolangohula",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "228",
+    "kodepos": "96261",
+    "desa_kelurahan": "Tamaila",
+    "kecamatan": "Tolangohula",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "229",
+    "kodepos": "96261",
+    "desa_kelurahan": "Tamalia Utara",
+    "kecamatan": "Tolangohula",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "230",
+    "kodepos": "96261",
+    "desa_kelurahan": "Prima",
+    "kecamatan": "Asparaga",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "231",
+    "kodepos": "96261",
+    "desa_kelurahan": "Karya Baru",
+    "kecamatan": "Asparaga",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "232",
+    "kodepos": "96261",
+    "desa_kelurahan": "Molohu",
+    "kecamatan": "Tolangohula",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "233",
+    "kodepos": "96261",
+    "desa_kelurahan": "Polohungo",
+    "kecamatan": "Tolangohula",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "234",
+    "kodepos": "96261",
+    "desa_kelurahan": "Pangahu",
+    "kecamatan": "Asparaga",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "235",
+    "kodepos": "96261",
+    "desa_kelurahan": "Sukamakmur Utara",
+    "kecamatan": "Tolangohula",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "236",
+    "kodepos": "96261",
+    "desa_kelurahan": "Gandaria",
+    "kecamatan": "Tolangohula",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "237",
+    "kodepos": "96261",
+    "desa_kelurahan": "Himalaya",
+    "kecamatan": "Tolangohula",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "238",
+    "kodepos": "96261",
+    "desa_kelurahan": "Sukamakmur",
+    "kecamatan": "Tolangohula",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "239",
+    "kodepos": "96261",
+    "desa_kelurahan": "Makmur Abadi",
+    "kecamatan": "Tolangohula",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "240",
+    "kodepos": "96261",
+    "desa_kelurahan": "Tiohu",
+    "kecamatan": "Asparaga",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "241",
+    "kodepos": "96261",
+    "desa_kelurahan": "Bina Jaya",
+    "kecamatan": "Tolangohula",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "242",
+    "kodepos": "96261",
+    "desa_kelurahan": "Bululi",
+    "kecamatan": "Asparaga",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "243",
+    "kodepos": "96261",
+    "desa_kelurahan": "Bihe",
+    "kecamatan": "Asparaga",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "244",
+    "kodepos": "96261",
+    "desa_kelurahan": "Gandasari",
+    "kecamatan": "Tolangohula",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "245",
+    "kodepos": "96261",
+    "desa_kelurahan": "Margomulya",
+    "kecamatan": "Tolangohula",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "246",
+    "kodepos": "96261",
+    "desa_kelurahan": "Ombulo Tango",
+    "kecamatan": "Tolangohula",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "247",
+    "kodepos": "96261",
+    "desa_kelurahan": "Mohiyolo",
+    "kecamatan": "Asparaga",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "248",
+    "kodepos": "96261",
+    "desa_kelurahan": "Bontula",
+    "kecamatan": "Asparaga",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "249",
+    "kodepos": "96261",
+    "desa_kelurahan": "Sidoarjo",
+    "kecamatan": "Tolangohula",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "250",
+    "kodepos": "96261",
+    "desa_kelurahan": "Karya Indah",
+    "kecamatan": "Asparaga",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "251",
+    "kodepos": "96261",
+    "desa_kelurahan": "Olimohulo",
+    "kecamatan": "Asparaga",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "252",
+    "kodepos": "96261",
+    "desa_kelurahan": "Diloniyohu",
+    "kecamatan": "Boliyohuto",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "253",
+    "kodepos": "96261",
+    "desa_kelurahan": "Potanga",
+    "kecamatan": "Boliyohuto",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "254",
+    "kodepos": "96261",
+    "desa_kelurahan": "Sidodadi",
+    "kecamatan": "Boliyohuto",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "255",
+    "kodepos": "96261",
+    "desa_kelurahan": "Monggolito",
+    "kecamatan": "Boliyohuto",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "256",
+    "kodepos": "96261",
+    "desa_kelurahan": "Tolite",
+    "kecamatan": "Boliyohuto",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "257",
+    "kodepos": "96261",
+    "desa_kelurahan": "Iloheluma",
+    "kecamatan": "Boliyohuto",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "258",
+    "kodepos": "96261",
+    "desa_kelurahan": "Sidomulya Selatan",
+    "kecamatan": "Boliyohuto",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "259",
+    "kodepos": "96261",
+    "desa_kelurahan": "Bongongoayu",
+    "kecamatan": "Boliyohuto",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "260",
+    "kodepos": "96261",
+    "desa_kelurahan": "Motoduto",
+    "kecamatan": "Boliyohuto",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "261",
+    "kodepos": "96261",
+    "desa_kelurahan": "Bandung Rejo",
+    "kecamatan": "Boliyohuto",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "262",
+    "kodepos": "96261",
+    "desa_kelurahan": "Dulohupa",
+    "kecamatan": "Boliyohuto",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "263",
+    "kodepos": "96261",
+    "desa_kelurahan": "Parungi",
+    "kecamatan": "Boliyohuto",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "264",
+    "kodepos": "96261",
+    "desa_kelurahan": "Sidomulyo",
+    "kecamatan": "Boliyohuto",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "265",
+    "kodepos": "96261",
+    "desa_kelurahan": "Pilomonu",
+    "kecamatan": "Mootilango",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "266",
+    "kodepos": "96261",
+    "desa_kelurahan": "Payu",
+    "kecamatan": "Mootilango",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "267",
+    "kodepos": "96261",
+    "desa_kelurahan": "Sukamaju",
+    "kecamatan": "Mootilango",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "268",
+    "kodepos": "96261",
+    "desa_kelurahan": "Paris",
+    "kecamatan": "Mootilango",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "269",
+    "kodepos": "96261",
+    "desa_kelurahan": "Huyula",
+    "kecamatan": "Mootilango",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "270",
+    "kodepos": "96261",
+    "desa_kelurahan": "Karyamukti",
+    "kecamatan": "Mootilango",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "271",
+    "kodepos": "96261",
+    "desa_kelurahan": "Helumo",
+    "kecamatan": "Mootilango",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "272",
+    "kodepos": "96261",
+    "desa_kelurahan": "Satria",
+    "kecamatan": "Mootilango",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "273",
+    "kodepos": "96261",
+    "desa_kelurahan": "Sidomukti",
+    "kecamatan": "Mootilango",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "274",
+    "kodepos": "96261",
+    "desa_kelurahan": "Talumopatu",
+    "kecamatan": "Mootilango",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "275",
+    "kodepos": "96261",
+    "desa_kelurahan": "Pelehu",
+    "kecamatan": "Bilato",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "276",
+    "kodepos": "96261",
+    "desa_kelurahan": "Totopo",
+    "kecamatan": "Bilato",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "277",
+    "kodepos": "96261",
+    "desa_kelurahan": "Juriya",
+    "kecamatan": "Bilato",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "278",
+    "kodepos": "96261",
+    "desa_kelurahan": "Bumela",
+    "kecamatan": "Bilato",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "279",
+    "kodepos": "96261",
+    "desa_kelurahan": "Ilomata",
+    "kecamatan": "Bilato",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "280",
+    "kodepos": "96261",
+    "desa_kelurahan": "Bilato",
+    "kecamatan": "Bilato",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "281",
+    "kodepos": "96261",
+    "desa_kelurahan": "Lamahu",
+    "kecamatan": "Bilato",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "282",
+    "kodepos": "96261",
+    "desa_kelurahan": "Taulaa",
+    "kecamatan": "Bilato",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "283",
+    "kodepos": "96261",
+    "desa_kelurahan": "Suka Damai",
+    "kecamatan": "Bilato",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "284",
+    "kodepos": "96261",
+    "desa_kelurahan": "Musyawarah",
+    "kecamatan": "Bilato",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "285",
+    "kodepos": "96271",
+    "desa_kelurahan": "Olimooo",
+    "kecamatan": "Batudaa Pantai",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "286",
+    "kodepos": "96271",
+    "desa_kelurahan": "Lopo",
+    "kecamatan": "Batudaa Pantai",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "287",
+    "kodepos": "96271",
+    "desa_kelurahan": "Buhudaa",
+    "kecamatan": "Batudaa Pantai",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "288",
+    "kodepos": "96271",
+    "desa_kelurahan": "Biluhu Timur",
+    "kecamatan": "Batudaa Pantai",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "289",
+    "kodepos": "96271",
+    "desa_kelurahan": "Tontayuo",
+    "kecamatan": "Batudaa Pantai",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "290",
+    "kodepos": "96271",
+    "desa_kelurahan": "Bongo",
+    "kecamatan": "Batudaa Pantai",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "291",
+    "kodepos": "96271",
+    "desa_kelurahan": "Langgula",
+    "kecamatan": "Batudaa Pantai",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "292",
+    "kodepos": "96271",
+    "desa_kelurahan": "Lamu",
+    "kecamatan": "Batudaa Pantai",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "293",
+    "kodepos": "96271",
+    "desa_kelurahan": "Kayubulan",
+    "kecamatan": "Batudaa Pantai",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "294",
+    "kodepos": "96271",
+    "desa_kelurahan": "Payunga",
+    "kecamatan": "Batudaa",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "295",
+    "kodepos": "96271",
+    "desa_kelurahan": "Pilobuhuta",
+    "kecamatan": "Batudaa",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "296",
+    "kodepos": "96271",
+    "desa_kelurahan": "Barakati",
+    "kecamatan": "Batudaa",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "297",
+    "kodepos": "96271",
+    "desa_kelurahan": "Huntu",
+    "kecamatan": "Batudaa",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "298",
+    "kodepos": "96271",
+    "desa_kelurahan": "Ilohungayo",
+    "kecamatan": "Batudaa",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "299",
+    "kodepos": "96271",
+    "desa_kelurahan": "Bua",
+    "kecamatan": "Batudaa",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "300",
+    "kodepos": "96271",
+    "desa_kelurahan": "Iluta",
+    "kecamatan": "Batudaa",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "301",
+    "kodepos": "96271",
+    "desa_kelurahan": "Dunggala",
+    "kecamatan": "Batudaa",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "302",
+    "kodepos": "96271",
+    "desa_kelurahan": "Lobuto Timur",
+    "kecamatan": "Biluhu",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "303",
+    "kodepos": "96271",
+    "desa_kelurahan": "Olimeyala",
+    "kecamatan": "Biluhu",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "304",
+    "kodepos": "96271",
+    "desa_kelurahan": "Huwongo",
+    "kecamatan": "Biluhu",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "305",
+    "kodepos": "96271",
+    "desa_kelurahan": "Luluo",
+    "kecamatan": "Biluhu",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "306",
+    "kodepos": "96271",
+    "desa_kelurahan": "Biluhu Tengah",
+    "kecamatan": "Biluhu",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "307",
+    "kodepos": "96271",
+    "desa_kelurahan": "Lobuto",
+    "kecamatan": "Biluhu",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "308",
+    "kodepos": "96271",
+    "desa_kelurahan": "Botu Boluo",
+    "kecamatan": "Biluhu",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "309",
+    "kodepos": "96271",
+    "desa_kelurahan": "Biluhu Barat",
+    "kecamatan": "Biluhu",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "310",
+    "kodepos": "96271",
+    "desa_kelurahan": "Limehe Timur",
+    "kecamatan": "Tabongo",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "311",
+    "kodepos": "96271",
+    "desa_kelurahan": "Ilomangga",
+    "kecamatan": "Tabongo",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "312",
+    "kodepos": "96271",
+    "desa_kelurahan": "Motinelo",
+    "kecamatan": "Tabongo",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "313",
+    "kodepos": "96271",
+    "desa_kelurahan": "Limehu",
+    "kecamatan": "Tabongo",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "314",
+    "kodepos": "96271",
+    "desa_kelurahan": "Moahudu",
+    "kecamatan": "Tabongo",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "315",
+    "kodepos": "96271",
+    "desa_kelurahan": "Teratai",
+    "kecamatan": "Tabongo",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "316",
+    "kodepos": "96271",
+    "desa_kelurahan": "Limehe Barat",
+    "kecamatan": "Tabongo",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "317",
+    "kodepos": "96271",
+    "desa_kelurahan": "Tabongo Timur",
+    "kecamatan": "Tabongo",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "318",
+    "kodepos": "96271",
+    "desa_kelurahan": "Tabongo Barat",
+    "kecamatan": "Tabongo",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "319",
+    "kodepos": "96271",
+    "desa_kelurahan": "Kayumerah",
+    "kecamatan": "Bongomeme",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "320",
+    "kodepos": "96271",
+    "desa_kelurahan": "Dungaliyo",
+    "kecamatan": "Dungaliyo",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "321",
+    "kodepos": "96271",
+    "desa_kelurahan": "Tohupo",
+    "kecamatan": "Bongomeme",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "322",
+    "kodepos": "96271",
+    "desa_kelurahan": "Bongomeme",
+    "kecamatan": "Dungaliyo",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "323",
+    "kodepos": "96271",
+    "desa_kelurahan": "Bongohulawa",
+    "kecamatan": "Bongomeme",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "324",
+    "kodepos": "96271",
+    "desa_kelurahan": "Huntulo Hulawa",
+    "kecamatan": "Bongomeme",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "325",
+    "kodepos": "96271",
+    "desa_kelurahan": "Pilolalenga",
+    "kecamatan": "Dungaliyo",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "326",
+    "kodepos": "96271",
+    "desa_kelurahan": "Pangadaa",
+    "kecamatan": "Dungaliyo",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "327",
+    "kodepos": "96271",
+    "desa_kelurahan": "Momala",
+    "kecamatan": "Dungaliyo",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "328",
+    "kodepos": "96271",
+    "desa_kelurahan": "Dulamayo",
+    "kecamatan": "Bongomeme",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "329",
+    "kodepos": "96271",
+    "desa_kelurahan": "Ambara",
+    "kecamatan": "Dungaliyo",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "330",
+    "kodepos": "96271",
+    "desa_kelurahan": "Ayuhula",
+    "kecamatan": "Dungaliyo",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "331",
+    "kodepos": "96271",
+    "desa_kelurahan": "Liyodu",
+    "kecamatan": "Bongomeme",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "332",
+    "kodepos": "96271",
+    "desa_kelurahan": "Molopatodu",
+    "kecamatan": "Bongomeme",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "333",
+    "kodepos": "96271",
+    "desa_kelurahan": "Batuloreng",
+    "kecamatan": "Bongomeme",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "334",
+    "kodepos": "96271",
+    "desa_kelurahan": "Kaliyoso",
+    "kecamatan": "Dungaliyo",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "335",
+    "kodepos": "96271",
+    "desa_kelurahan": "Owalanga",
+    "kecamatan": "Bongomeme",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "336",
+    "kodepos": "96271",
+    "desa_kelurahan": "Batulayar",
+    "kecamatan": "Bongomeme",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "337",
+    "kodepos": "96271",
+    "desa_kelurahan": "Botubulowe",
+    "kecamatan": "Dungaliyo",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "338",
+    "kodepos": "96271",
+    "desa_kelurahan": "Upomela",
+    "kecamatan": "Bongomeme",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "339",
+    "kodepos": "96271",
+    "desa_kelurahan": "Otopade",
+    "kecamatan": "Bongomeme",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "340",
+    "kodepos": "96271",
+    "desa_kelurahan": "Molanihu",
+    "kecamatan": "Bongomeme",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "341",
+    "kodepos": "96271",
+    "desa_kelurahan": "Molas",
+    "kecamatan": "Bongomeme",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "342",
+    "kodepos": "96271",
+    "desa_kelurahan": "Liyoto",
+    "kecamatan": "Bongomeme",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "343",
+    "kodepos": "96271",
+    "desa_kelurahan": "Duwanga",
+    "kecamatan": "Dungaliyo",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "344",
+    "kodepos": "96281",
+    "desa_kelurahan": "Dulamayo Selatan",
+    "kecamatan": "Telaga",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "345",
+    "kodepos": "96281",
+    "desa_kelurahan": "Dulamayo Barat",
+    "kecamatan": "Telaga",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "346",
+    "kodepos": "96281",
+    "desa_kelurahan": "Pilohayanga Barat",
+    "kecamatan": "Telaga",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "347",
+    "kodepos": "96281",
+    "desa_kelurahan": "Hulawa",
+    "kecamatan": "Telaga",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "348",
+    "kodepos": "96281",
+    "desa_kelurahan": "Pilohayanga",
+    "kecamatan": "Telaga",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "349",
+    "kodepos": "96281",
+    "desa_kelurahan": "Bulila",
+    "kecamatan": "Telaga",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "350",
+    "kodepos": "96281",
+    "desa_kelurahan": "Mongolato",
+    "kecamatan": "Telaga",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "351",
+    "kodepos": "96281",
+    "desa_kelurahan": "Dulohupa",
+    "kecamatan": "Telaga",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "352",
+    "kodepos": "96281",
+    "desa_kelurahan": "Luhu",
+    "kecamatan": "Telaga",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "353",
+    "kodepos": "96282",
+    "desa_kelurahan": "Tilote",
+    "kecamatan": "Tilango",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "354",
+    "kodepos": "96282",
+    "desa_kelurahan": "Tenggela",
+    "kecamatan": "Tilango",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "355",
+    "kodepos": "96282",
+    "desa_kelurahan": "Tabumela",
+    "kecamatan": "Tilango",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "356",
+    "kodepos": "96282",
+    "desa_kelurahan": "Ilotidea",
+    "kecamatan": "Tilango",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "357",
+    "kodepos": "96282",
+    "desa_kelurahan": "Tinelo",
+    "kecamatan": "Tilango",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "358",
+    "kodepos": "96282",
+    "desa_kelurahan": "Tualango",
+    "kecamatan": "Tilango",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "359",
+    "kodepos": "96282",
+    "desa_kelurahan": "Dulomo",
+    "kecamatan": "Tilango",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "360",
+    "kodepos": "96282",
+    "desa_kelurahan": "Lauwonu",
+    "kecamatan": "Tilango",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "361",
+    "kodepos": "96283",
+    "desa_kelurahan": "Luwoo",
+    "kecamatan": "Talaga Jaya",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "362",
+    "kodepos": "96283",
+    "desa_kelurahan": "Buhu",
+    "kecamatan": "Talaga Jaya",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "363",
+    "kodepos": "96283",
+    "desa_kelurahan": "Bulota",
+    "kecamatan": "Talaga Jaya",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "364",
+    "kodepos": "96283",
+    "desa_kelurahan": "Bunggalo",
+    "kecamatan": "Talaga Jaya",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "365",
+    "kodepos": "96283",
+    "desa_kelurahan": "Hutadaa",
+    "kecamatan": "Talaga Jaya",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "366",
+    "kodepos": "96284",
+    "desa_kelurahan": "Ulapato B",
+    "kecamatan": "Telaga Biru",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "367",
+    "kodepos": "96284",
+    "desa_kelurahan": "Talumelito",
+    "kecamatan": "Telaga Biru",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "368",
+    "kodepos": "96284",
+    "desa_kelurahan": "Tonala",
+    "kecamatan": "Telaga Biru",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "369",
+    "kodepos": "96284",
+    "desa_kelurahan": "Modelidu",
+    "kecamatan": "Telaga Biru",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "370",
+    "kodepos": "96284",
+    "desa_kelurahan": "Tinelo",
+    "kecamatan": "Telaga Biru",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "371",
+    "kodepos": "96284",
+    "desa_kelurahan": "Timuato",
+    "kecamatan": "Telaga Biru",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "372",
+    "kodepos": "96284",
+    "desa_kelurahan": "Pantungo",
+    "kecamatan": "Telaga Biru",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "373",
+    "kodepos": "96284",
+    "desa_kelurahan": "Pentadio Barat",
+    "kecamatan": "Telaga Biru",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "374",
+    "kodepos": "96284",
+    "desa_kelurahan": "Dulamayo Utara",
+    "kecamatan": "Telaga Biru",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "375",
+    "kodepos": "96284",
+    "desa_kelurahan": "Lupoyo",
+    "kecamatan": "Telaga Biru",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "376",
+    "kodepos": "96284",
+    "desa_kelurahan": "Tapaluluo",
+    "kecamatan": "Telaga Biru",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "377",
+    "kodepos": "96284",
+    "desa_kelurahan": "Ulapato A",
+    "kecamatan": "Telaga Biru",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "378",
+    "kodepos": "96284",
+    "desa_kelurahan": "Pentadio Timur",
+    "kecamatan": "Telaga Biru",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "379",
+    "kodepos": "96284",
+    "desa_kelurahan": "Dumati",
+    "kecamatan": "Telaga Biru",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "380",
+    "kodepos": "96284",
+    "desa_kelurahan": "Tuladenggi",
+    "kecamatan": "Telaga Biru",
+    "kabupaten_kota": "KAB. GORONTALO",
+    "provinsi": "GORONTALO"
+  }
+]
