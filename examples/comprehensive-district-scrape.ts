@@ -11,11 +11,11 @@ import * as path from 'path';
 const BASE_DATA_DIR = "/Users/damarkuncoro/SATU RAYA INTEGRASI/@damarkuncoro/data-wilayah-indonesia/csv";
 const USER_COOKIE = 'ci_session=siodf5sn3081n9fb1h3pfh7k8r92sjvt; TS011d97f9=01dc40192af9d2c68e0588cf6826f2541733c6f742d0e6382757bb95d8a2f8d27f6da94b22391892939703ae744a8f47fe7d578583';
 
-// Daftar ID Provinsi yang ingin difokuskan (Jawa Tengah Batch 4)
+// Daftar ID Provinsi yang ingin difokuskan (Jawa Tengah Batch 5)
 const TARGET_FOCUS_IDS = ["33"];
 
 async function main() {
-    console.log('--- Melengkapi Database Kodepos (Fokus: Jawa Tengah Batch 4) ---');
+    console.log('--- Melengkapi Database Kodepos (Fokus: Jawa Tengah Batch 5) ---');
     
     const outputDir = path.join(__dirname, '../results/api_provinces');
     if (!fs.existsSync(outputDir)) fs.mkdirSync(outputDir, { recursive: true });
@@ -41,11 +41,11 @@ async function main() {
 
         console.log(`\n📦 Memproses Provinsi: ${provinceName} (ID: ${provinceId})...`);
         
-        // Ambil kecamatan 211 s/d 310
+        // Ambil kecamatan 311 s/d 410
         const provinceDistricts = districtsRaw
             .filter(line => line.startsWith(provinceId))
             .map(line => line.split(',')[2].trim())
-            .slice(210, 310); 
+            .slice(310, 410); 
 
         let provinceData: any[] = [];
 

@@ -11,7 +11,7 @@ const BASE_DATA_DIR = "/Users/damarkuncoro/SATU RAYA INTEGRASI/@damarkuncoro/dat
 const USER_COOKIE = 'ci_session=siodf5sn3081n9fb1h3pfh7k8r92sjvt; TS011d97f9=01dc40192af9d2c68e0588cf6826f2541733c6f742d0e6382757bb95d8a2f8d27f6da94b22391892939703ae744a8f47fe7d578583';
 
 // Daftar ID Provinsi kecil yang ingin dilengkapi secara total
-const SMALL_PROVINCE_IDS = ["14", "15", "65", "75"]; // Riau, Jambi, Kaltara, Gorontalo batch berikutnya
+const SMALL_PROVINCE_IDS = ["76", "81"]; // Sulawesi Barat & Maluku
 
 async function main() {
     console.log('--- Melengkapi Database Kodepos (Provinsi Kecil - Total) ---');
