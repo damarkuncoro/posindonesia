@@ -18,20 +18,19 @@
       "import": "./lib/esm/main.js",
       "require": "./lib/cjs/main.js",
       "types": "./lib/cjs/main.d.ts"
+    },
+    "./data": {
+      "import": "./lib/esm/data/index.js",
+      "require": "./lib/cjs/data/index.js",
+      "types": "./lib/cjs/data/index.d.ts"
     }
   },
-  "bin": {
-    "kodepos": "lib/cjs/interfaces/cli/scrape.js",
-    "pos-cli": "lib/cjs/interfaces/cli/search.js"
-  },
   "scripts": {
-    "start": "ts-node src/index.ts",
     "build:cjs": "tsc -p tsconfig.cjs.json",
     "build:esm": "tsc -p tsconfig.esm.json",
     "build": "rm -rf lib && npm run build:cjs && npm run build:esm",
     "prepublishOnly": "npm run build && npm test",
     "docs": "typedoc",
-    "scrape": "ts-node src/index.ts",
     "test": "jest"
   },
   "keywords": [
@@ -53,16 +52,16 @@
     "access": "public"
   },
   "dependencies": {
+    "fuse.js": "^7.1.0"
+  },
+  "devDependencies": {
     "axios": "^1.13.6",
     "chalk": "^4.1.2",
     "cheerio": "^1.2.0",
     "cli-progress": "^3.12.0",
     "commander": "^14.0.3",
-    "fuse.js": "^7.1.0",
     "qs": "^6.15.0",
-    "winston": "^3.19.0"
-  },
-  "devDependencies": {
+    "winston": "^3.19.0",
     "@types/axios": "^0.9.36",
     "@types/chalk": "^0.4.31",
     "@types/cheerio": "^0.22.35",
