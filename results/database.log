@@ -1,5 +1,5 @@
 === RINGKASAN DATABASE KODEPOS INDONESIA ===
-Tanggal Konsolidasi: 2026-03-17T07:29:15.330Z
+Tanggal Konsolidasi: 2026-03-17T07:42:25.467Z
 
 | No | Provinsi | Jumlah Data |
 |---|---|---|
@@ -27,7 +27,7 @@ Tanggal Konsolidasi: 2026-03-17T07:29:15.330Z
 | 22 | MALUKU UTARA | 1194 |
 | 23 | NUSA TENGGARA BARAT | 1490 |
 | 24 | NUSA TENGGARA TIMUR | 4597 |
-| 25 | PAPUA | 2354 |
+| 25 | PAPUA | 14867 |
 | 26 | PAPUA BARAT | 4483 |
 | 27 | PAPUA BARAT DAYA | 2027 |
 | 28 | PAPUA PEGUNUNGAN | 2649 |
@@ -45,5 +45,5 @@ Tanggal Konsolidasi: 2026-03-17T07:29:15.330Z
 | 40 | SUMATERA UTARA | 7268 |
 
 =============================================
-TOTAL KESELURUHAN DATA: 129473 records
+TOTAL KESELURUHAN DATA: 141986 records
 =============================================
