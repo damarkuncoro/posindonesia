@@ -2,6 +2,7 @@ import * as fs from 'fs';
 import { fetchPostalCodeHtml } from './api';
 import { parsePostalCodeTable } from './parser';
 import { formatCode, findBestMatch } from './utils';
+import logger from './logger';
 
 export interface ScraperOptions {
     input: string;
@@ -48,11 +49,23 @@ export async function runScraper(
 
     for (let i = 0; i < totalToProcess; i++) {
         const values = rows[i].split(',');
-        const code = values[0];
-        const name = values[1];
-        const prov = values[2];
-        const kab = values[3];
-        const kec = values[4];
+        
+        // Validate CSV row structure
+        if (values.length < 5) {
+            console.warn(`⚠️ Skip baris invalid (kurang kolom): ${rows[i]}`);
+            continue;
+        }
+        
+        const code = values[0]?.trim();
+        const name = values[1]?.trim();
+        const prov = values[2]?.trim();
+        const kab = values[3]?.trim();
+        const kec = values[4]?.trim();
+
+        if (!code || !name) {
+            console.warn(`⚠️ Skip baris invalid (kode atau nama kosong): ${rows[i]}`);
+            continue;
+        }
 
         onProgress(i, totalToProcess, name);
 
@@ -71,8 +84,10 @@ export async function runScraper(
                 districtName: kec,
                 postalCode: bestMatch ? bestMatch.kodepos : ""
             });
-        } catch (error: any) {
-            console.error(`\n⚠️ Failed to scrape ${name}: ${error.message}`);
+        } catch (error: unknown) {
+            const errorMessage = error instanceof Error ? error.message : String(error);
+            console.error(`\n⚠️ Failed to scrape ${name}: ${errorMessage}`);
+            logger.error(`Failed to scrape ${name}`, { village: name, error: errorMessage });
         }
 
         if (i < totalToProcess - 1) {
