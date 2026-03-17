@@ -1,89 +1,79 @@
-# @damarkuncoro/posindonesia
+# Pos Indonesia Postal Codes
 
-[![NPM Version](https://img.shields.io/npm/v/@damarkuncoro/posindonesia.svg)](https://www.npmjs.com/package/@damarkuncoro/posindonesia)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+Library TypeScript yang menyediakan database kodepos Indonesia terlengkap, akurat, dan siap pakai. Data diambil langsung dari sumber resmi dan dilengkapi dengan kode wilayah administratif (Provinsi, Kota/Kabupaten, Kecamatan, Desa/Kelurahan).
 
-**Layanan Integrasi Data Kode Pos Indonesia**
+## Fitur Utama
 
-Pustaka Node.js profesional yang menyediakan akses programatik ke database kode pos resmi Indonesia. Dirancang untuk keandalan tinggi, akurasi data, dan kemudahan integrasi ke dalam sistem skala perusahaan (*enterprise*).
-
-## Ikhtisar Layanan
-
-Paket ini memungkinkan pengembang untuk melakukan sinkronisasi data wilayah administrasi Indonesia (Provinsi, Kabupaten/Kota, Kecamatan, Desa/Kelurahan) dengan database kode pos terbaru melalui jalur integrasi yang dioptimalkan.
-
-### Fitur Utama
-
-- **Akurasi Data Terjamin**: Mengambil informasi langsung dari sumber data primer integrasi wilayah.
-- **Smart Validation Engine**: Algoritma pencocokan cerdas yang mengoreksi variasi penulisan nama daerah untuk memastikan kode pos yang tepat.
-- **Efisiensi Batch**: Kemampuan pemrosesan data masal (*bulk processing*) dengan manajemen beban kerja (*rate limiting*) otomatis.
-- **Arsitektur Modular**: Mendukung penggunaan sebagai Command Line Interface (CLI) maupun sebagai Library (SDK) dalam aplikasi Node.js/TypeScript.
+- 📦 **Database Lengkap**: Mencakup 38 provinsi (termasuk 4 provinsi baru di Papua) dengan total >120.000 data.
+- 🚀 **Cepat & Ringan**: Data tersimpan lokal dalam format TypeScript yang teroptimasi dan *tree-shakable*.
+- 🔍 **Pencarian Fleksibel**: Mendukung pencarian berdasarkan kata kunci (Desa, Kecamatan, Kota, dll).
+- 🆔 **Kode Wilayah**: Dilengkapi dengan kode wilayah administratif (Kemendagri) untuk integrasi sistem.
+- 🛡️ **Type-Safe**: Sepenuhnya ditulis dalam TypeScript dengan definisi tipe yang jelas.
 
 ## Instalasi
 
-Gunakan pengelola paket npm untuk menginstal SDK ini ke dalam proyek Anda:
-
 ```bash
 npm install @damarkuncoro/posindonesia
+# atau
+yarn add @damarkuncoro/posindonesia
 ```
 
-## Panduan Penggunaan
+## Cara Penggunaan
 
-### Integrasi SDK (Library Mode)
+### 1. Menggunakan Repository (Rekomendasi)
 
-SDK ini dirancang dengan dukungan TypeScript penuh untuk pengalaman pengembangan yang maksimal.
+Gunakan `TsPostalCodeRepository` untuk melakukan pencarian data dengan mudah.
 
 ```typescript
-import { runScraper } from '@damarkuncoro/posindonesia';
+import { TsPostalCodeRepository } from '@damarkuncoro/posindonesia';
 
-async function syncPostalData() {
-  const results = await runScraper({
-    input: './data/villages.csv',
-    limit: 100,
-    delay: 1000
-  }, (current, total, village) => {
-    console.log(`Sinkronisasi: ${village} (${current}/${total})`);
+async function main() {
+  const repo = new TsPostalCodeRepository();
+
+  // Cari berdasarkan kata kunci (misal: nama desa dan kota)
+  const results = await repo.findByKeywords(['Gambir', 'Jakarta Pusat']);
+
+  results.forEach(data => {
+    console.log(`${data.village} - ${data.postalCode}`);
+    console.log(`Kecamatan: ${data.district}, Kota: ${data.city}`);
+    console.log(`Kode Wilayah: ${data.provinceCode}.${data.cityCode}.${data.districtCode}.${data.villageCode}`);
   });
 }
+
+main();
 ```
 
-### Antarmuka Baris Perintah (CLI Mode)
+### 2. Import Data Langsung (Tree-Shaking)
 
-Gunakan perintah `scrape-pos` untuk menjalankan sinkronisasi data secara langsung melalui terminal:
+Jika Anda hanya membutuhkan data provinsi tertentu untuk menghemat ukuran bundle.
 
-```bash
-# Menjalankan sinkronisasi default
-npm start
+```typescript
+import { ACEH, JAWA_BARAT, DKI_JAKARTA } from '@damarkuncoro/posindonesia/data';
 
-# Menjalankan dengan konfigurasi kustom
-npm start -- --input ./data_input.csv --output ./hasil_sinkronisasi.json --limit 500 --delay 2000
+console.log(`Total data Jawa Barat: ${JAWA_BARAT.length}`);
+
+// Filter manual
+const bandungCodes = JAWA_BARAT.filter(item => item.city.includes('BANDUNG'));
 ```
 
-## Spesifikasi Data Output
+## Struktur Data
 
-Hasil integrasi akan disajikan dalam format JSON standar industri:
+Setiap entri data memiliki format berikut:
 
-```json
-{
-  "code": "11.01.01.2001",
-  "name": "Keude Bakongan",
-  "districtCode": "11.01.01",
-  "type": "DESA",
-  "provinceName": "Aceh",
-  "regencyName": "Kab. Aceh Selatan",
-  "districtName": "Bakongan",
-  "postalCode": "23773"
+```typescript
+interface PostalCode {
+  province: string;       // Nama Provinsi
+  provinceCode: string;   // Kode Provinsi (misal: 31)
+  city: string;           // Nama Kabupaten/Kota
+  cityCode: string;       // Kode Kab/Kota (misal: 3171)
+  district: string;       // Nama Kecamatan
+  districtCode: string;   // Kode Kecamatan (misal: 3171010)
+  village: string;        // Nama Desa/Kelurahan
+  villageCode: string;    // Kode Desa (misal: 3171010001)
+  postalCode: string;     // Kode Pos (5 digit)
 }
 ```
-
-## Keamanan & Kepatuhan
-
-Kami sangat menghargai integritas data dan keberlangsungan layanan. Pengguna diharapkan untuk:
-1. Mematuhi kebijakan penggunaan data wilayah yang berlaku.
-2. Menggunakan jeda waktu (`delay`) yang wajar dalam pemrosesan masal untuk menjaga stabilitas layanan.
 
 ## Lisensi
 
-Didistribusikan di bawah lisensi [MIT](LICENSE).
-
----
-*Dikembangkan secara profesional untuk mendukung digitalisasi data wilayah Indonesia.*
+MIT
