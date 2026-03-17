@@ -10,11 +10,11 @@ import * as path from 'path';
 const BASE_DATA_DIR = "/Users/damarkuncoro/SATU RAYA INTEGRASI/@damarkuncoro/data-wilayah-indonesia/csv";
 const USER_COOKIE = 'ci_session=siodf5sn3081n9fb1h3pfh7k8r92sjvt; TS011d97f9=01dc40192af9d2c68e0588cf6826f2541733c6f742d0e6382757bb95d8a2f8d27f6da94b22391892939703ae744a8f47fe7d578583';
 
-// Daftar ID Provinsi kecil yang ingin dilengkapi secara total
-const SMALL_PROVINCE_IDS = ["76", "81"]; // Sulawesi Barat & Maluku
+// Daftar ID Provinsi yang ingin dilengkapi secara total
+const SMALL_PROVINCE_IDS = ["94"]; // Papua (567 districts)
 
 async function main() {
-    console.log('--- Melengkapi Database Kodepos (Provinsi Kecil - Total) ---');
+    console.log('--- Melengkapi Database Kodepos (Papua Full) ---');
     
     const outputDir = path.join(__dirname, '../results/api_provinces');
     if (!fs.existsSync(outputDir)) fs.mkdirSync(outputDir, { recursive: true });
@@ -43,7 +43,8 @@ async function main() {
         // Filter SEMUA kecamatan untuk provinsi ini
         const provinceDistricts = districtsRaw
             .filter(line => line.startsWith(provinceId))
-            .map(line => line.split(',')[2].trim());
+            .map(line => line.split(',')[2].trim())
+            .slice(0, 150); // Ambil 150 dulu untuk batch ini agar tidak terlalu lama
 
         let provinceData: any[] = [];
 
