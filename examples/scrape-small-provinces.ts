@@ -14,7 +14,7 @@ const USER_COOKIE = 'ci_session=siodf5sn3081n9fb1h3pfh7k8r92sjvt; TS011d97f9=01d
 const SMALL_PROVINCE_IDS = ["94"]; // Papua (567 districts)
 
 async function main() {
-    console.log('--- Melengkapi Database Kodepos (Papua Full) ---');
+    console.log('--- Melengkapi Database Kodepos (Papua Full - Batch 2) ---');
     
     const outputDir = path.join(__dirname, '../results/api_provinces');
     if (!fs.existsSync(outputDir)) fs.mkdirSync(outputDir, { recursive: true });
@@ -44,7 +44,7 @@ async function main() {
         const provinceDistricts = districtsRaw
             .filter(line => line.startsWith(provinceId))
             .map(line => line.split(',')[2].trim())
-            .slice(0, 150); // Ambil 150 dulu untuk batch ini agar tidak terlalu lama
+            .slice(150, 300); // Ambil 150 berikutnya
 
         let provinceData: any[] = [];
 

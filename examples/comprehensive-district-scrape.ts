@@ -11,11 +11,11 @@ import * as path from 'path';
 const BASE_DATA_DIR = "/Users/damarkuncoro/SATU RAYA INTEGRASI/@damarkuncoro/data-wilayah-indonesia/csv";
 const USER_COOKIE = 'ci_session=siodf5sn3081n9fb1h3pfh7k8r92sjvt; TS011d97f9=01dc40192af9d2c68e0588cf6826f2541733c6f742d0e6382757bb95d8a2f8d27f6da94b22391892939703ae744a8f47fe7d578583';
 
-// Daftar ID Provinsi yang ingin difokuskan (Jawa Tengah Sisa & DKI Full)
-const TARGET_FOCUS_IDS = ["33", "31"];
+// Daftar ID Provinsi yang ingin difokuskan (Jawa Tengah Final)
+const TARGET_FOCUS_IDS = ["33"];
 
 async function main() {
-    console.log('--- Melengkapi Database Kodepos (Fokus: Jawa Tengah & DKI Akhir) ---');
+    console.log('--- Melengkapi Database Kodepos (Fokus: Jawa Tengah Final) ---');
     
     const outputDir = path.join(__dirname, '../results/api_provinces');
     if (!fs.existsSync(outputDir)) fs.mkdirSync(outputDir, { recursive: true });
@@ -41,19 +41,11 @@ async function main() {
 
         console.log(`\n📦 Memproses Provinsi: ${provinceName} (ID: ${provinceId})...`);
         
-        let provinceDistricts = [];
-        if (provinceId === "33") {
-            // Sisa Jawa Tengah (411 - 573)
-            provinceDistricts = districtsRaw
-                .filter(line => line.startsWith(provinceId))
-                .map(line => line.split(',')[2].trim())
-                .slice(410);
-        } else {
-            // Full DKI Jakarta
-            provinceDistricts = districtsRaw
-                .filter(line => line.startsWith(provinceId))
-                .map(line => line.split(',')[2].trim());
-        }
+        // Ambil sisa kecamatan (411 s/d 573)
+        const provinceDistricts = districtsRaw
+            .filter(line => line.startsWith(provinceId))
+            .map(line => line.split(',')[2].trim())
+            .slice(410); 
 
         let provinceData: any[] = [];
 
