@@ -1,0 +1,12 @@
+{
+  "entryPoints": ["src/main.ts"],
+  "out": "docs",
+  "name": "Pos Indonesia Postal Codes",
+  "readme": "README.md",
+  "includeVersion": true,
+  "excludePrivate": true,
+  "excludeProtected": true,
+  "excludeExternals": true,
+  "theme": "default",
+  "gitRevision": "main"
+}

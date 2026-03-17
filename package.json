@@ -30,6 +30,7 @@
     "build:esm": "tsc -p tsconfig.esm.json",
     "build": "rm -rf lib && npm run build:cjs && npm run build:esm",
     "prepublishOnly": "npm run build && npm test",
+    "docs": "typedoc",
     "scrape": "ts-node src/index.ts",
     "test": "jest"
   },
@@ -72,6 +73,7 @@
     "jest": "^30.3.0",
     "ts-jest": "^29.4.6",
     "ts-node": "^10.9.2",
+    "typedoc": "^0.28.17",
     "typescript": "^5.9.3"
   }
 }
