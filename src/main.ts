@@ -8,9 +8,7 @@ export * from './domain/services/Logger.js';
 export * from './application/use-cases/SearchPostalCode.js';
 
 // Infrastructure Layer
-export * from './infrastructure/repositories/TsPostalCodeRepository.js';
-export * from './infrastructure/external/PosIndonesiaApi.js';
-export * from './infrastructure/parsers/HtmlParser.js';
+export { TsPostalCodeRepository, type TsRepoConfig } from './infrastructure/repositories/TsPostalCodeRepository.js';
 
 // Errors
 export * from './domain/errors/PostalCodeError.js';

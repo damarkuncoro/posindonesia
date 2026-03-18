@@ -49,6 +49,7 @@
     "README.md",
     "LICENSE"
   ],
+  "sideEffects": false,
   "license": "MIT",
   "publishConfig": {
     "access": "public"
