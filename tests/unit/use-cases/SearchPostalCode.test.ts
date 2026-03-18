@@ -1,7 +1,7 @@
-import { SearchPostalCode } from './SearchPostalCode.js';
-import { PostalCodeRepository } from '../../domain/repositories/PostalCodeRepository.js';
-import { ValidationError } from '../../domain/errors/PostalCodeError.js';
-import { PostalCode } from '../../domain/models/PostalCode.js';
+import { SearchPostalCode } from '../../../src/application/use-cases/SearchPostalCode.js';
+import { PostalCodeRepository } from '../../../src/domain/repositories/PostalCodeRepository.js';
+import { ValidationError } from '../../../src/domain/errors/PostalCodeError.js';
+import { PostalCode } from '../../../src/domain/models/PostalCode.js';
 
 describe('SearchPostalCode Use Case', () => {
   let mockRepository: jest.Mocked<PostalCodeRepository>;
