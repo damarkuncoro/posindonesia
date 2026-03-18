@@ -1,7 +1,7 @@
 {
   "name": "@damarkuncoro/posindonesia",
-  "version": "1.0.1",
-  "description": "Indonesian Postal Code Scraper from Pos Indonesia Official Website",
+  "version": "1.0.2",
+  "description": "Library untuk mencari Kodepos Indonesia berdasarkan data statis TypeScript.",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/damarkuncoro/posindonesia.git"

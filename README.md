@@ -18,42 +18,46 @@ npm install @damarkuncoro/posindonesia
 yarn add @damarkuncoro/posindonesia
 ```
 
-## Cara Penggunaan
+## Penggunaan
 
-### 1. Menggunakan Repository (Rekomendasi)
+### **1. Pencarian Cepat (Rekomendasi)**
 
-Gunakan `TsPostalCodeRepository` untuk melakukan pencarian data dengan mudah.
+Cara termudah untuk mencari kodepos adalah menggunakan fungsi `search` global yang sudah dioptimalkan dengan cache dan *lazy loading*.
 
 ```typescript
-import { TsPostalCodeRepository } from '@damarkuncoro/posindonesia';
+import { search, searchByCode } from '@damarkuncoro/posindonesia';
 
-async function main() {
-  const repo = new TsPostalCodeRepository();
+// Pencarian berbasis kata kunci (Provinsi, Kota, Kecamatan, Desa, atau Kodepos)
+const results = await search(['Gambir', 'Jakarta Pusat']);
 
-  // Cari berdasarkan kata kunci (misal: nama desa dan kota)
-  const results = await repo.findByKeywords(['Gambir', 'Jakarta Pusat']);
+// Pencarian dengan mode Fuzzy (Lebih cerdas dalam menangani typo)
+const fuzzyResults = await search('Gmbir', { useFuzzy: true });
 
-  results.forEach(data => {
-    console.log(`${data.village} - ${data.postalCode}`);
-    console.log(`Kecamatan: ${data.district}, Kota: ${data.city}`);
-    console.log(`Kode Wilayah: ${data.provinceCode}.${data.cityCode}.${data.districtCode}.${data.villageCode}`);
-  });
-}
+// Pencarian cepat hanya di satu provinsi tertentu (Hemat memori & CPU)
+// Gunakan kode provinsi Kemendagri (misal: '31' untuk DKI Jakarta)
+const dkiResults = await search('Gambir', { provinceCode: '31' });
 
-main();
+// Pencarian berdasarkan kode spesifik (Kodepos atau Kode Wilayah)
+const byCode = await searchByCode('10110');
 ```
 
-### 2. Import Data Langsung (Tree-Shaking)
+### **2. Penggunaan Advanced (Repository)**
 
-Jika Anda hanya membutuhkan data provinsi tertentu untuk menghemat ukuran bundle.
+Jika Anda memerlukan kontrol lebih dalam, Anda bisa menggunakan `TsPostalCodeRepository`.
 
 ```typescript
-import { ACEH, JAWA_BARAT, DKI_JAKARTA } from '@damarkuncoro/posindonesia/data';
+import { TsPostalCodeRepository, SearchPostalCode } from '@damarkuncoro/posindonesia';
 
-console.log(`Total data Jawa Barat: ${JAWA_BARAT.length}`);
+const repo = new TsPostalCodeRepository({ 
+  useFuzzy: true, 
+  fuzzyThreshold: 0.3 
+});
 
-// Filter manual
-const bandungCodes = JAWA_BARAT.filter(item => item.city.includes('BANDUNG'));
+const searchUseCase = new SearchPostalCode(repo);
+const results = await searchUseCase.execute(['Bandung']);
+
+// Bebaskan memori jika tidak digunakan lagi
+repo.clearMemory();
 ```
 
 ## Struktur Data
