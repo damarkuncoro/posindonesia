@@ -1,7 +1,8 @@
 import { TsPostalCodeRepository, TsRepoConfig } from './infrastructure/repositories/TsPostalCodeRepository.js';
+import { RemotePostalCodeRepository } from './infrastructure/repositories/RemotePostalCodeRepository.js';
 import { SearchPostalCode } from './application/use-cases/SearchPostalCode.js';
 import { PostalCode } from './domain/models/PostalCode.js';
-import { PostalCodeFilter } from './domain/repositories/PostalCodeRepository.js';
+import { PostalCodeFilter, SearchableRepository } from './domain/repositories/PostalCodeRepository.js';
 
 // Re-export core components
 export * from './domain/models/PostalCode.js';
@@ -16,6 +17,7 @@ export * from './domain/services/Logger.js';
 export * from './domain/errors/PostalCodeError.js';
 export * from './application/use-cases/SearchPostalCode.js';
 export { TsPostalCodeRepository, type TsRepoConfig };
+export { RemotePostalCodeRepository };
 export { TsDataProvider } from './infrastructure/data-providers/TsDataProvider.js';
 export * from './types.js';
 
@@ -27,11 +29,19 @@ import { PROVINCE_ALIAS_MAP } from './data/index.js';
  */
 let globalStandardRepo: TsPostalCodeRepository | null = null;
 let globalFuzzyRepo: TsPostalCodeRepository | null = null;
+let globalRemoteRepo: RemotePostalCodeRepository | null = null;
 
 export interface SearchOptions {
   province?: string;
   provinceCode?: string;
   useFuzzy?: boolean;
+  /**
+   * Data source to use for searching.
+   * - 'local': Fast, offline search using static data (Default).
+   * - 'remote': Real-time search by scraping Pos Indonesia website (Requires internet).
+   * @default 'local'
+   */
+  source?: 'local' | 'remote';
 }
 
 /**
@@ -39,8 +49,12 @@ export interface SearchOptions {
  * This is the primary, recommended function for all search operations.
  * 
  * @example
- * // Search by keywords
+ * // Search by keywords (Local)
  * await search(['Gambir', 'Jakarta Pusat']);
+ * 
+ * @example
+ * // Real-time search from Pos Indonesia (Remote)
+ * await search('Gambir', { source: 'remote' });
  * 
  * @example
  * // Fuzzy search for a typo
@@ -55,26 +69,34 @@ export interface SearchOptions {
  * await search('Bandung', { province: 'Jawa Barat' });
  *
  * @param keywords - A search term, an array of terms, or a structured filter object.
- * @param options - Configuration for the search, such as province filter or fuzzy mode.
+ * @param options - Configuration for the search, such as province filter, fuzzy mode, or source.
  * @returns A promise that resolves to an array of `PostalCode` instances.
  */
 export async function search(
   keywords: string | string[] | PostalCodeFilter, 
   options: SearchOptions = {}
 ): Promise<PostalCode[]> {
-  const isFuzzy = !!options.useFuzzy;
-  let repo: TsPostalCodeRepository;
+  const source = options.source ?? 'local';
+  let repo: SearchableRepository;
 
-  if (isFuzzy) {
-    if (!globalFuzzyRepo) {
-      globalFuzzyRepo = new TsPostalCodeRepository({ useFuzzy: true });
+  if (source === 'remote') {
+    if (!globalRemoteRepo) {
+      globalRemoteRepo = new RemotePostalCodeRepository();
     }
-    repo = globalFuzzyRepo;
+    repo = globalRemoteRepo;
   } else {
-    if (!globalStandardRepo) {
-      globalStandardRepo = new TsPostalCodeRepository({ useFuzzy: false });
+    const isFuzzy = !!options.useFuzzy;
+    if (isFuzzy) {
+      if (!globalFuzzyRepo) {
+        globalFuzzyRepo = new TsPostalCodeRepository({ useFuzzy: true });
+      }
+      repo = globalFuzzyRepo;
+    } else {
+      if (!globalStandardRepo) {
+        globalStandardRepo = new TsPostalCodeRepository({ useFuzzy: false });
+      }
+      repo = globalStandardRepo;
     }
-    repo = globalStandardRepo;
   }
   
   const useCase = new SearchPostalCode(repo);
@@ -100,26 +122,41 @@ export async function search(
  * This is optimized for searching by a 5-digit postal code or administrative codes.
  * 
  * @example
- * // Find by postal code
+ * // Find by postal code (Local)
  * await searchByCode('10110');
+ * 
+ * @example
+ * // Find by postal code (Remote)
+ * await searchByCode('10110', { source: 'remote' });
  * 
  * @example
  * // Find by village code within a specific province
  * await searchByCode('3171010001', { province: 'DKI Jakarta' });
  *
  * @param code - The code to search for (e.g., '10110').
- * @param options - Optional configuration to narrow down the search by province.
+ * @param options - Optional configuration to narrow down the search by province or specify source.
  * @returns A promise that resolves to an array of `PostalCode` instances.
  */
 export async function searchByCode(
   code: string, 
-  options: { province?: string; provinceCode?: string } = {}
+  options: { province?: string; provinceCode?: string; source?: 'local' | 'remote' } = {}
 ): Promise<PostalCode[]> {
-  if (!globalStandardRepo) {
-    globalStandardRepo = new TsPostalCodeRepository();
+  const source = options.source ?? 'local';
+  let repo: SearchableRepository;
+
+  if (source === 'remote') {
+    if (!globalRemoteRepo) {
+      globalRemoteRepo = new RemotePostalCodeRepository();
+    }
+    repo = globalRemoteRepo;
+  } else {
+    if (!globalStandardRepo) {
+      globalStandardRepo = new TsPostalCodeRepository();
+    }
+    repo = globalStandardRepo;
   }
   
-  const useCase = new SearchPostalCode(globalStandardRepo);
+  const useCase = new SearchPostalCode(repo);
 
   let resolvedProvinceCode = options.provinceCode;
   if (options.province && !resolvedProvinceCode) {

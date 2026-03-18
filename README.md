@@ -7,12 +7,13 @@ Library TypeScript berperforma tinggi untuk mencari Kodepos Indonesia berdasarka
 
 ## Fitur Utama 🚀
 
-- **Offline-First**: Tidak memerlukan koneksi internet untuk pencarian data lokal.
-- **Fuzzy Search**: Cerdas menangani typo menggunakan Fuse.js.
+- **Hybrid Search**: Pilih antara pencarian **Local** (offline & super cepat) atau **Remote** (real-time dari situs resmi).
+- **Offline-First**: Tidak memerlukan koneksi internet untuk pencarian data lokal (~80.000+ data).
+- **Fuzzy Search**: Cerdas menangani typo menggunakan Fuse.js (Mode Local).
+- **Inverted Index**: Pencarian kata kunci instan dengan performa tinggi.
 - **Lazy Loading**: Hanya memuat data provinsi yang dibutuhkan untuk menghemat RAM.
 - **Structured Search**: Pencarian spesifik berdasarkan Provinsi, Kota, Kecamatan, atau Desa.
 - **CLI Tool**: Cari kodepos langsung dari terminal.
-- **High Performance**: Indexing internal untuk pencarian kodepos instan.
 
 ## Instalasi
 
@@ -29,8 +30,11 @@ Gunakan fungsi `search` global yang sudah dioptimalkan dengan cache internal.
 ```typescript
 import { search, searchByCode } from '@damarkuncoro/posindonesia';
 
-// 🔍 Pencarian kata kunci bebas
-const results = await search(['Gambir', 'Jakarta Pusat']);
+// 🔍 Pencarian Lokal (Default, Offline, Super Cepat)
+const localResults = await search(['Gambir', 'Jakarta Pusat']);
+
+// 🌐 Pencarian Remote (Real-time dari situs Pos Indonesia)
+const remoteResults = await search('Gambir', { source: 'remote' });
 
 // 🧠 Pencarian Fuzzy (menangani typo: 'Gmbir' -> 'Gambir')
 const fuzzy = await search('Gmbir', { useFuzzy: true });
@@ -41,9 +45,8 @@ const structured = await search({
   city: 'Jakarta Pusat' 
 });
 
-// ⚡ Pencarian Spesifik Provinsi (Hemat Memori)
-// '31' adalah kode Kemendagri untuk DKI Jakarta
-const dki = await search('Gambir', { provinceCode: '31' });
+// ⚡ Pencarian Spesifik Provinsi (Nama atau Kode)
+const byProvince = await search('Bandung', { province: 'Jawa Barat' });
 
 // 🔢 Pencarian berdasarkan Kodepos (Instan/Indexed)
 const byCode = await searchByCode('10110');
@@ -86,14 +89,14 @@ const results = await searchUseCase.execute(['Bandung']);
 Anda dapat menggunakan library ini langsung dari terminal tanpa menulis kode.
 
 ```bash
-# Mencari berdasarkan kata kunci
+# Mencari berdasarkan kata kunci (Mode Lokal)
 npx posindonesia search Gambir Jakarta
+
+# Mencari secara real-time dari situs resmi
+npx posindonesia search Gambir --remote
 
 # Mencari dengan filter provinsi dan mode fuzzy
 npx posindonesia search Gmbir -p 31 --fuzzy
-
-# Mencari berdasarkan kodepos
-npx posindonesia code 10110
 ```
 
 ## Skema Data

@@ -16,12 +16,14 @@ program
   .argument('<keywords...>', 'Keywords to search (e.g. Gambir Jakarta)')
   .option('-p, --province <code2>', 'Limit search to specific province code (e.g. 31)')
   .option('-f, --fuzzy', 'Enable fuzzy search')
+  .option('-r, --remote', 'Fetch real-time data from Pos Indonesia')
   .action(async (keywords, options) => {
     try {
-      console.log(chalk.blue(`Searching for: ${keywords.join(', ')}...`));
+      console.log(chalk.blue(`Searching for: ${keywords.join(', ')} (${options.remote ? 'Remote' : 'Local'})...`));
       const results = await search(keywords, { 
         provinceCode: options.province,
-        useFuzzy: options.fuzzy 
+        useFuzzy: options.fuzzy,
+        source: options.remote ? 'remote' : 'local'
       });
 
       if (results.length === 0) {
@@ -44,10 +46,14 @@ program
   .description('Search by specific postal code or administrative code')
   .argument('<code>', 'The code to search for')
   .option('-p, --province <code2>', 'Limit search to specific province code')
+  .option('-r, --remote', 'Fetch real-time data from Pos Indonesia')
   .action(async (code, options) => {
     try {
-      console.log(chalk.blue(`Searching for code: ${code}...`));
-      const results = await searchByCode(code, options.province);
+      console.log(chalk.blue(`Searching for code: ${code} (${options.remote ? 'Remote' : 'Local'})...`));
+      const results = await searchByCode(code, {
+        provinceCode: options.province,
+        source: options.remote ? 'remote' : 'local'
+      });
 
       if (results.length === 0) {
         console.log(chalk.yellow('No results found.'));
