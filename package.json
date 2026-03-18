@@ -10,7 +10,11 @@
     "url": "https://github.com/damarkuncoro/posindonesia/issues"
   },
   "homepage": "https://github.com/damarkuncoro/posindonesia#readme",
-  "main": "lib/cjs/main.js",
+  "type": "module",
+  "bin": {
+    "posindonesia": "./lib/esm/cli.js"
+  },
+  "main": "./lib/cjs/main.js",
   "module": "lib/esm/main.js",
   "types": "lib/cjs/main.d.ts",
   "exports": {
@@ -56,6 +60,7 @@
   },
   "dependencies": {
     "axios": "^1.13.6",
+    "chalk": "^4.1.2",
     "cheerio": "^1.2.0",
     "commander": "^14.0.3",
     "fuse.js": "^7.1.0",
@@ -71,7 +76,6 @@
     "@types/qs": "^6.15.0",
     "@typescript-eslint/eslint-plugin": "^8.57.1",
     "@typescript-eslint/parser": "^8.57.1",
-    "chalk": "^4.1.2",
     "cli-progress": "^3.12.0",
     "eslint": "^10.0.3",
     "eslint-config-prettier": "^10.1.8",
