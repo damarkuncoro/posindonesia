@@ -16,17 +16,29 @@ export * from './types.js';
  * Global helper for quick postal code searching without manual instantiation.
  * Uses the internal TypeScript database with caching.
  */
-let globalRepo: TsPostalCodeRepository | null = null;
+let globalStandardRepo: TsPostalCodeRepository | null = null;
+let globalFuzzyRepo: TsPostalCodeRepository | null = null;
 
 export async function search(
   keywords: string | string[], 
   options: { provinceCode?: string; useFuzzy?: boolean } = {}
 ): Promise<PostalCode[]> {
-  if (!globalRepo) {
-    globalRepo = new TsPostalCodeRepository({ useFuzzy: options.useFuzzy });
+  const isFuzzy = !!options.useFuzzy;
+  let repo: TsPostalCodeRepository;
+
+  if (isFuzzy) {
+    if (!globalFuzzyRepo) {
+      globalFuzzyRepo = new TsPostalCodeRepository({ useFuzzy: true });
+    }
+    repo = globalFuzzyRepo;
+  } else {
+    if (!globalStandardRepo) {
+      globalStandardRepo = new TsPostalCodeRepository({ useFuzzy: false });
+    }
+    repo = globalStandardRepo;
   }
   
-  const useCase = new SearchPostalCode(globalRepo);
+  const useCase = new SearchPostalCode(repo);
   const keywordArray = Array.isArray(keywords) ? keywords : [keywords];
   
   return useCase.execute(keywordArray, options.provinceCode);
@@ -39,10 +51,10 @@ export async function searchByCode(
   code: string, 
   provinceCode?: string
 ): Promise<PostalCode[]> {
-  if (!globalRepo) {
-    globalRepo = new TsPostalCodeRepository();
+  if (!globalStandardRepo) {
+    globalStandardRepo = new TsPostalCodeRepository();
   }
   
-  const useCase = new SearchPostalCode(globalRepo);
+  const useCase = new SearchPostalCode(globalStandardRepo);
   return useCase.executeByCode(code, provinceCode);
 }

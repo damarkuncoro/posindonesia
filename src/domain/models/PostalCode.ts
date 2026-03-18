@@ -38,28 +38,40 @@ export class PostalCode {
   }
 
   /**
-   * Check if the postal code matches a set of keywords.
-   * Searches across all administrative levels and the code itself.
+   * Static helper to check if raw data matches keywords.
    */
-  matches(keywords: string[]): boolean {
+  static matches(data: PostalCodeData, keywords: string[]): boolean {
     if (keywords.length === 0) return true;
-    
-    const combinedData = `${this.postalCode} ${this.province} ${this.city} ${this.district} ${this.village}`.toLowerCase();
+    const combinedData = `${data.postalCode} ${data.province} ${data.city} ${data.district} ${data.village}`.toLowerCase();
     return keywords.every(term => combinedData.includes(term.toLowerCase()));
   }
 
   /**
-   * Check if the entry matches a specific code (postal, village, district, city, or province).
+   * Static helper to check if raw data matches a code.
    */
-  matchesCode(code: string): boolean {
+  static matchesCode(data: PostalCodeData, code: string): boolean {
     const cleanCode = code.trim();
     return (
-      this.postalCode === cleanCode ||
-      this.villageCode === cleanCode ||
-      this.districtCode === cleanCode ||
-      this.cityCode === cleanCode ||
-      this.provinceCode === cleanCode
+      data.postalCode === cleanCode ||
+      data.villageCode === cleanCode ||
+      data.districtCode === cleanCode ||
+      data.cityCode === cleanCode ||
+      data.provinceCode === cleanCode
     );
+  }
+
+  /**
+   * Check if the postal code matches a set of keywords.
+   */
+  matches(keywords: string[]): boolean {
+    return PostalCode.matches(this.toJSON(), keywords);
+  }
+
+  /**
+   * Check if the entry matches a specific code.
+   */
+  matchesCode(code: string): boolean {
+    return PostalCode.matchesCode(this.toJSON(), code);
   }
 
   /**
