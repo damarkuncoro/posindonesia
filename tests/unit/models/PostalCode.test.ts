@@ -21,6 +21,16 @@ describe('PostalCode', () => {
     expect(pc.city).toBe('JAKARTA PUSAT');
   });
 
+  it('should throw error for invalid postal code format', () => {
+    const invalidData = { ...sampleData, postalCode: '123' };
+    expect(() => new PostalCode(invalidData)).toThrow('Invalid postal code format');
+  });
+
+  it('should throw error for missing administrative data', () => {
+    const incompleteData = { ...sampleData, village: '' };
+    expect(() => new PostalCode(incompleteData as any)).toThrow('Incomplete administrative data');
+  });
+
   it('should match keywords correctly (case-insensitive)', () => {
     const pc = new PostalCode(sampleData);
     expect(pc.matches(['gambir'])).toBe(true);

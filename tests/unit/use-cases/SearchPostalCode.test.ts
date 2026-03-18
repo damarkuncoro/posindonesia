@@ -1,17 +1,16 @@
 import { SearchPostalCode } from '../../../src/application/use-cases/SearchPostalCode.js';
-import { PostalCodeRepository } from '../../../src/domain/repositories/PostalCodeRepository.js';
+import { SearchableRepository } from '../../../src/domain/repositories/PostalCodeRepository.js';
 import { ValidationError } from '../../../src/domain/errors/PostalCodeError.js';
 import { PostalCode } from '../../../src/domain/models/PostalCode.js';
 
 describe('SearchPostalCode Use Case', () => {
-  let mockRepository: jest.Mocked<PostalCodeRepository>;
+  let mockRepository: jest.Mocked<SearchableRepository>;
   let useCase: SearchPostalCode;
 
   beforeEach(() => {
     mockRepository = {
       findByKeywords: jest.fn(),
       findByCode: jest.fn(),
-      fetchExternal: jest.fn(),
     };
     useCase = new SearchPostalCode(mockRepository);
   });
@@ -20,9 +19,9 @@ describe('SearchPostalCode Use Case', () => {
     const mockResults = [
       new PostalCode({
         postalCode: '10110',
-        province: 'DKI',
+        province: 'DKI JAKARTA',
         provinceCode: '31',
-        city: 'JKT',
+        city: 'JAKARTA PUSAT',
         cityCode: '3171',
         district: 'GAMBIR',
         districtCode: '3171010',
@@ -34,7 +33,7 @@ describe('SearchPostalCode Use Case', () => {
 
     const results = await useCase.execute(['  gambir  ', '']);
     
-    expect(mockRepository.findByKeywords).toHaveBeenCalledWith(['gambir']);
+    expect(mockRepository.findByKeywords).toHaveBeenCalledWith(['gambir'], undefined);
     expect(results).toEqual(mockResults);
   });
 
@@ -46,5 +45,11 @@ describe('SearchPostalCode Use Case', () => {
   it('should throw ValidationError if keywords are only empty strings', async () => {
     await expect(useCase.execute([' ', '  '])).rejects.toThrow(ValidationError);
     await expect(useCase.execute([' ', '  '])).rejects.toThrow('Search keywords cannot be empty strings');
+  });
+
+  it('should call repository findByCode with trimmed code', async () => {
+    mockRepository.findByCode.mockResolvedValue([]);
+    await useCase.executeByCode(' 10110 ');
+    expect(mockRepository.findByCode).toHaveBeenCalledWith('10110', undefined);
   });
 });

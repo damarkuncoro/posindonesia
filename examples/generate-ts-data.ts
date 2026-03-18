@@ -6,7 +6,7 @@ import { PostalCodeData } from '../src/types.js';
  * Script untuk mengonversi file JSON provinsi menjadi file TypeScript
  * yang dapat diimpor langsung dalam aplikasi, lengkap dengan kode wilayah.
  * 
- * VERSI 4: Dengan logika pencocokan V3 + De-duplikasi Ketat.
+ * VERSI 5: Mendukung pemuatan dinamis (PROVINCE_LOADERS).
  */
 
 const BASE_DATA_DIR = "/Users/damarkuncoro/SATU RAYA INTEGRASI/@damarkuncoro/data-wilayah-indonesia/csv";
@@ -41,10 +41,11 @@ function basicNormalize(str: string): string {
 }
 
 async function main() {
-    console.log('--- Memulai Konversi JSON ke TypeScript (Mapping V3 + Dedup) ---');
+    console.log('--- Memulai Konversi JSON ke TypeScript (Versi 5) ---');
     
-    const inputDir = path.join(__dirname, '../results/api_provinces');
-    const outputDir = path.join(__dirname, '../src/data');
+    const __dirname = path.dirname(new URL(import.meta.url).pathname);
+    const inputDir = path.resolve(__dirname, '../results/api_provinces');
+    const outputDir = path.resolve(__dirname, '../src/data');
 
     if (!fs.existsSync(inputDir)) {
         console.error('❌ Direktori input tidak ditemukan.');
@@ -56,9 +57,6 @@ async function main() {
     }
 
     // 1. Load Data Administratif (CSV) ke Memori
-    console.log('📂 Memuat data administratif...');
-    
-    // Provinces
     const provinces = fs.readFileSync(`${BASE_DATA_DIR}/provinces.csv`, 'utf-8')
         .split('\n')
         .filter(line => line.trim() !== '')
@@ -66,151 +64,82 @@ async function main() {
             const [id, name] = line.split(',');
             const normName = basicNormalize(name);
             acc[normName] = { id, name: normName };
-            // Mapping untuk nama file
             const fileKey = name.trim().toLowerCase().replace(/\s+/g, '_');
             acc[fileKey] = { id, name: normName };
             return acc;
         }, {} as Record<string, RawProvince>);
 
-    // Tambahan manual untuk provinsi baru
+    // Tambahan manual
     provinces['papua_selatan'] = { id: '93', name: 'PAPUA SELATAN' };
     provinces['papua_tengah'] = { id: '94', name: 'PAPUA TENGAH' };
     provinces['papua_pegunungan'] = { id: '95', name: 'PAPUA PEGUNUNGAN' };
     provinces['papua_barat_daya'] = { id: '96', name: 'PAPUA BARAT DAYA' };
 
-    // Regencies (Kabupaten/Kota)
     const regenciesMap: Record<string, string> = {};
     const globalRegenciesMap: Record<string, string> = {}; 
+    fs.readFileSync(`${BASE_DATA_DIR}/regencies.csv`, 'utf-8').split('\n').filter(l => l.trim() !== '').forEach(l => {
+        const [id, provId, name] = l.split(',');
+        regenciesMap[`${provId}-${basicNormalize(name)}`] = id;
+        regenciesMap[`${provId}-${normalize(name)}`] = id;
+        globalRegenciesMap[normalize(name)] = id;
+    });
 
-    fs.readFileSync(`${BASE_DATA_DIR}/regencies.csv`, 'utf-8')
-        .split('\n')
-        .filter(line => line.trim() !== '')
-        .forEach(line => {
-            const [id, provinceId, name] = line.split(',');
-            const normName = normalize(name);
-            const key = `${provinceId}-${normName}`;
-            regenciesMap[key] = id;
-            globalRegenciesMap[normName] = id;
-            const basicKey = `${provinceId}-${basicNormalize(name)}`;
-            regenciesMap[basicKey] = id;
-        });
-
-    // Districts (Kecamatan)
     const districtsMap: Record<string, string> = {};
-    fs.readFileSync(`${BASE_DATA_DIR}/districts.csv`, 'utf-8')
-        .split('\n')
-        .filter(line => line.trim() !== '')
-        .forEach(line => {
-            const [id, regencyId, name] = line.split(',');
-            const key = `${regencyId}-${normalize(name)}`;
-            districtsMap[key] = id;
-        });
+    fs.readFileSync(`${BASE_DATA_DIR}/districts.csv`, 'utf-8').split('\n').filter(l => l.trim() !== '').forEach(l => {
+        const [id, regId, name] = l.split(',');
+        districtsMap[`${regId}-${normalize(name)}`] = id;
+    });
 
-    // Villages (Desa/Kelurahan)
     const villagesMap: Record<string, string> = {};
-    fs.readFileSync(`${BASE_DATA_DIR}/villages.csv`, 'utf-8')
-        .split('\n')
-        .filter(line => line.trim() !== '')
-        .forEach(line => {
-            const [id, districtId, name] = line.split(',');
-            const key = `${districtId}-${normalize(name)}`;
-            villagesMap[key] = id;
-        });
-
-    console.log('✅ Data administratif dimuat.');
+    fs.readFileSync(`${BASE_DATA_DIR}/villages.csv`, 'utf-8').split('\n').filter(l => l.trim() !== '').forEach(l => {
+        const [id, distId, name] = l.split(',');
+        villagesMap[`${distId}-${normalize(name)}`] = id;
+    });
 
     const files = fs.readdirSync(inputDir).filter(f => f.endsWith('.json'));
-    let indexContent = '';
+    
+    let loadersContent = "import { PostalCodeData } from '../types.js';\n\nexport type ProvinceLoader = () => Promise<Record<string, PostalCodeData[]>>;\n\nexport const PROVINCE_LOADERS: Record<string, ProvinceLoader> = {\n";
+    let aliasContent = "export const PROVINCE_ALIAS_MAP: Record<string, string> = {\n";
 
     for (const file of files) {
         try {
-            const filePath = path.join(inputDir, file);
-            const fileData: JsonPostalCode[] = JSON.parse(fs.readFileSync(filePath, 'utf-8'));
-            
-            // Hapus duplikasi awal (JSON level)
-            const uniqueData = Array.from(new Set(fileData.map((d: JsonPostalCode) => JSON.stringify(d))))
-                                    .map((str: string) => JSON.parse(str) as JsonPostalCode);
-
+            const fileData: JsonPostalCode[] = JSON.parse(fs.readFileSync(path.join(inputDir, file), 'utf-8'));
             const provinceKey = file.replace('.json', '');
             const provinceInfo = provinces[provinceKey];
-
-            if (!provinceInfo) {
-                console.warn(`⚠️ Tidak menemukan ID untuk provinsi: ${provinceKey}`);
-                continue;
-            }
+            if (!provinceInfo) continue;
 
             const tsFileName = `${provinceInfo.id}-${provinceKey.replace(/_/g, '-')}.ts`;
-            const tsFilePath = path.join(outputDir, tsFileName);
             const variableName = provinceKey.toUpperCase().replace(/_/g, '_');
 
-            let tsContent = `import { PostalCodeData } from '../types.js';\n\n`;
-            tsContent += `export const ${variableName}: PostalCodeData[] = [\n`;
+            let tsContent = `import { PostalCodeData } from '../types.js';\n\nexport const ${variableName}: PostalCodeData[] = [\n`;
             
-            let mappedCount = 0;
-            
-            // Set untuk de-duplikasi final sebelum tulis ke TS
             const processedItems = new Set<string>();
-            let finalCount = 0;
-
-            uniqueData.forEach((item: JsonPostalCode) => {
-                // Normalisasi untuk kunci unik
-                const uniqueKey = JSON.stringify({
-                    p: item.provinsi.trim().toUpperCase(),
-                    c: item.kabupaten_kota.trim().toUpperCase(),
-                    d: item.kecamatan.trim().toUpperCase(),
-                    v: item.desa_kelurahan.trim().toUpperCase(),
-                    pc: item.kodepos.trim()
-                });
-
-                if (processedItems.has(uniqueKey)) {
-                    return; // Skip duplikat
-                }
+            fileData.forEach((item: JsonPostalCode) => {
+                const uniqueKey = `${item.provinsi}|${item.kabupaten_kota}|${item.kecamatan}|${item.desa_kelurahan}|${item.kodepos}`.toUpperCase();
+                if (processedItems.has(uniqueKey)) return;
                 processedItems.add(uniqueKey);
-                finalCount++;
 
-                // Logika Mapping
-                const provCode = provinceInfo.id;
-                const normCity = normalize(item.kabupaten_kota);
-                
-                let cityCode = regenciesMap[`${provCode}-${basicNormalize(item.kabupaten_kota)}`];
-                if (!cityCode) cityCode = regenciesMap[`${provCode}-${normCity}`];
-                if (!cityCode) cityCode = globalRegenciesMap[normCity];
+                const cityCode = regenciesMap[`${provinceInfo.id}-${basicNormalize(item.kabupaten_kota)}`] || regenciesMap[`${provinceInfo.id}-${normalize(item.kabupaten_kota)}`] || globalRegenciesMap[normalize(item.kabupaten_kota)];
+                const distCode = cityCode ? districtsMap[`${cityCode}-${normalize(item.kecamatan)}`] : '';
+                const villCode = distCode ? villagesMap[`${distCode}-${normalize(item.desa_kelurahan)}`] : '';
 
-                let distCode = '';
-                if (cityCode) distCode = districtsMap[`${cityCode}-${normalize(item.kecamatan)}`];
-
-                let villCode = '';
-                if (distCode) villCode = villagesMap[`${distCode}-${normalize(item.desa_kelurahan)}`];
-
-                if (villCode) mappedCount++;
-
-                tsContent += `  {\n`;
-                tsContent += `    province: "${item.provinsi}",\n`;
-                tsContent += `    provinceCode: "${provCode}",\n`;
-                tsContent += `    city: "${item.kabupaten_kota}",\n`;
-                tsContent += `    cityCode: "${cityCode || ''}",\n`;
-                tsContent += `    district: "${item.kecamatan}",\n`;
-                tsContent += `    districtCode: "${distCode || ''}",\n`;
-                tsContent += `    village: "${item.desa_kelurahan}",\n`;
-                tsContent += `    villageCode: "${villCode || ''}",\n`;
-                tsContent += `    postalCode: "${item.kodepos}"\n`;
-                tsContent += `  },\n`;
+                tsContent += `  { province: "${item.provinsi}", provinceCode: "${provinceInfo.id}", city: "${item.kabupaten_kota}", cityCode: "${cityCode || ''}", district: "${item.kecamatan}", districtCode: "${distCode || ''}", village: "${item.desa_kelurahan}", villageCode: "${villCode || ''}", postalCode: "${item.kodepos}" },\n`;
             });
-
             tsContent += `];\n`;
+            fs.writeFileSync(path.join(outputDir, tsFileName), tsContent);
 
-            fs.writeFileSync(tsFilePath, tsContent);
-            console.log(`✅ ${tsFileName}: ${finalCount} records (Mapped: ${mappedCount})`);// Tambahkan ke index.ts
-            const importName = variableName;
-            indexContent += `export { ${importName} } from './${tsFileName.replace('.ts', '')}.js';\n`;
-
-        } catch (error: any) {
-            console.error(`❌ Gagal memproses file ${file}:`, error.message);
+            loadersContent += `  '${provinceInfo.id}': () => import('./${tsFileName.replace('.ts', '')}.js'),\n`;
+            aliasContent += `  ${variableName}: '${provinceInfo.id}',\n`;
+            
+            console.log(`✅ ${tsFileName} processed.`);
+        } catch (e: any) {
+            console.error(`❌ Error ${file}:`, e.message);
         }
     }
 
-    fs.writeFileSync(path.join(outputDir, 'index.ts'), indexContent);
-    console.log(`✅ Berhasil membuat index.ts`);
+    loadersContent += "};\n\n" + aliasContent + "};\n";
+    fs.writeFileSync(path.join(outputDir, 'index.ts'), loadersContent);
+    console.log(`✅ index.ts updated.`);
 }
 
 main().catch(console.error);

@@ -1,12 +1,12 @@
 import { PostalCode } from '../../domain/models/PostalCode.js';
-import { PostalCodeRepository } from '../../domain/repositories/PostalCodeRepository.js';
+import { SearchableRepository } from '../../domain/repositories/PostalCodeRepository.js';
 import { ValidationError } from '../../domain/errors/PostalCodeError.js';
 
 /**
  * Use case to search for postal codes.
  */
 export class SearchPostalCode {
-  constructor(private readonly repository: PostalCodeRepository) {}
+  constructor(private readonly repository: SearchableRepository) {}
 
   /**
    * Execute the search with keywords.
@@ -25,5 +25,16 @@ export class SearchPostalCode {
     }
 
     return this.repository.findByKeywords(cleanKeywords, provinceCode);
+  }
+
+  /**
+   * Execute the search by a specific code (Postal, Village, etc).
+   */
+  async executeByCode(code: string, provinceCode?: string): Promise<PostalCode[]> {
+    if (!code || code.trim().length === 0) {
+      throw new ValidationError("A code is required for search");
+    }
+
+    return this.repository.findByCode(code.trim(), provinceCode);
   }
 }

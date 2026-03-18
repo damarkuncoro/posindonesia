@@ -1,20 +1,35 @@
-import { PostalCode } from '../models/PostalCode';
+import { PostalCode } from '../models/PostalCode.js';
 
-export interface PostalCodeRepository {
+/**
+ * Interface for repositories that support searching postal codes.
+ */
+export interface SearchableRepository {
   /**
    * Finds postal codes matching the given keywords.
    * @param keywords Array of search terms
-   * @param provinceCode Optional 2-digit province code to limit search scope (improves performance)
+   * @param provinceCode Optional 2-digit province code to limit search scope
    */
   findByKeywords(keywords: string[], provinceCode?: string): Promise<PostalCode[]>;
 
   /**
    * Finds postal codes matching the given code (postal code, village code, etc.).
+   * @param code The code to search for
+   * @param provinceCode Optional 2-digit province code to limit search scope
    */
-  findByCode(code: string): Promise<PostalCode[]>;
+  findByCode(code: string, provinceCode?: string): Promise<PostalCode[]>;
+}
 
+/**
+ * Interface for repositories that support fetching from external sources.
+ */
+export interface ScrapableRepository {
   /**
-   * Fetches the latest postal code data from an external source (e.g., website).
+   * Fetches the latest postal code data from an external source.
    */
   fetchExternal(villageName: string, cookie?: string): Promise<PostalCode[]>;
 }
+
+/**
+ * Combined interface for backward compatibility.
+ */
+export interface PostalCodeRepository extends SearchableRepository, ScrapableRepository {}
