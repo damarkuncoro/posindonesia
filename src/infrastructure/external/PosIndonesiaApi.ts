@@ -1,5 +1,6 @@
 import axios, { AxiosError } from 'axios';
 import qs from 'qs';
+import { NetworkError } from '../../domain/errors/PostalCodeError.js';
 
 const MAX_RETRIES = 3;
 const RETRY_DELAY = 1000; // ms
@@ -30,13 +31,25 @@ export async function fetchPostalCodeHtml(keyword: string, cookie?: string): Pro
                 },
                 timeout: 15000
             });
+            
+            if (!response.data || typeof response.data !== 'string') {
+                throw new NetworkError(`Received invalid response format from Pos Indonesia API for keyword: ${keyword}`);
+            }
+
             return response.data;
         } catch (error) {
             lastError = error instanceof Error ? error : new Error(String(error));
             
             if (error instanceof AxiosError) {
-                if (error.response?.status === 401 || error.response?.status === 403) {
-                    throw new Error(`Authentication failed for ${keyword}: ${lastError.message}`);
+                const status = error.response?.status;
+                if (status === 401 || status === 403) {
+                    throw new NetworkError(`Authentication failed for ${keyword}. Please check your cookies.`, status);
+                }
+                if (status === 404) {
+                    throw new NetworkError(`Pos Indonesia API endpoint not found.`, status);
+                }
+                if (status && status >= 500) {
+                    throw new NetworkError(`Pos Indonesia server is currently experiencing issues (Status: ${status}).`, status);
                 }
             }
             
@@ -46,5 +59,7 @@ export async function fetchPostalCodeHtml(keyword: string, cookie?: string): Pro
         }
     }
     
-    throw new Error(`Failed to fetch data for ${keyword} after ${MAX_RETRIES} attempts: ${lastError?.message}`);
+    throw new NetworkError(
+        `Failed to fetch data for keyword "${keyword}" after ${MAX_RETRIES} attempts. Last error: ${lastError?.message}`
+    );
 }

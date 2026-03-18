@@ -11,5 +11,8 @@ export * from './infrastructure/repositories/TsPostalCodeRepository.js';
 export * from './infrastructure/external/PosIndonesiaApi.js';
 export * from './infrastructure/parsers/HtmlParser.js';
 
+// Errors
+export * from './domain/errors/PostalCodeError.js';
+
 // Data
 export * from './data/index.js';
