@@ -1,24 +1,43 @@
 import axios, { AxiosError } from 'axios';
 import qs from 'qs';
 import { NetworkError } from '../../domain/errors/PostalCodeError.js';
+import { Logger, NoopLogger } from '../../domain/services/Logger.js';
 
-const MAX_RETRIES = 3;
-const RETRY_DELAY = 1000; // ms
+export interface ApiConfig {
+    maxRetries?: number;
+    retryDelay?: number;
+    timeout?: number;
+    logger?: Logger;
+}
+
+const DEFAULT_CONFIG: Required<ApiConfig> = {
+    maxRetries: 3,
+    retryDelay: 1000,
+    timeout: 15000,
+    logger: new NoopLogger()
+};
 
 async function sleep(ms: number): Promise<void> {
     return new Promise(resolve => setTimeout(resolve, ms));
 }
 
 /**
- * Sends a POST request to Pos Indonesia CariKodepos endpoint with retry logic.
+ * Sends a POST request to Pos Indonesia CariKodepos endpoint with retry logic and configurable options.
  */
-export async function fetchPostalCodeHtml(keyword: string, cookie?: string): Promise<string> {
+export async function fetchPostalCodeHtml(
+    keyword: string, 
+    cookie?: string,
+    options: ApiConfig = {}
+): Promise<string> {
+    const config = { ...DEFAULT_CONFIG, ...options };
     const URL = 'https://kodepos.posindonesia.co.id/CariKodepos';
     const payload = qs.stringify({ kodepos: keyword });
     let lastError: Error | null = null;
 
-    for (let attempt = 1; attempt <= MAX_RETRIES; attempt++) {
+    for (let attempt = 1; attempt <= config.maxRetries; attempt++) {
         try {
+            config.logger.debug(`Fetching HTML for "${keyword}" (Attempt ${attempt}/${config.maxRetries})...`);
+            
             const response = await axios.post<string>(URL, payload, {
                 headers: {
                     'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
@@ -29,7 +48,7 @@ export async function fetchPostalCodeHtml(keyword: string, cookie?: string): Pro
                     'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36',
                     'cookie': cookie || 'ci_session=siodf5sn3081n9fb1h3pfh7k8r92sjvt; TS011d97f9=01dc40192af9d2c68e0588cf6826f2541733c6f742d0e6382757bb95d8a2f8d27f6da94b22391892939703ae744a8f47fe7d578583'
                 },
-                timeout: 15000
+                timeout: config.timeout
             });
             
             if (!response.data || typeof response.data !== 'string') {
@@ -43,23 +62,27 @@ export async function fetchPostalCodeHtml(keyword: string, cookie?: string): Pro
             if (error instanceof AxiosError) {
                 const status = error.response?.status;
                 if (status === 401 || status === 403) {
+                    config.logger.error(`Authentication failed for keyword "${keyword}": ${lastError.message}`);
                     throw new NetworkError(`Authentication failed for ${keyword}. Please check your cookies.`, status);
                 }
                 if (status === 404) {
                     throw new NetworkError(`Pos Indonesia API endpoint not found.`, status);
                 }
                 if (status && status >= 500) {
-                    throw new NetworkError(`Pos Indonesia server is currently experiencing issues (Status: ${status}).`, status);
+                    config.logger.warn(`Server side error (${status}) for "${keyword}". Attempt ${attempt}/${config.maxRetries}`);
                 }
             }
             
-            if (attempt < MAX_RETRIES) {
-                await sleep(RETRY_DELAY * attempt);
+            if (attempt < config.maxRetries) {
+                const delay = config.retryDelay * attempt;
+                config.logger.info(`Retrying in ${delay}ms...`);
+                await sleep(delay);
             }
         }
     }
     
+    config.logger.error(`Exhausted all retries for keyword "${keyword}".`);
     throw new NetworkError(
-        `Failed to fetch data for keyword "${keyword}" after ${MAX_RETRIES} attempts. Last error: ${lastError?.message}`
+        `Failed to fetch data for keyword "${keyword}" after ${config.maxRetries} attempts. Last error: ${lastError?.message}`
     );
 }
