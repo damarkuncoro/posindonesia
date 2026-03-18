@@ -43,6 +43,7 @@ export const PROVINCE_LOADERS: Record<string, ProvinceLoader> = {
 };
 
 export const PROVINCE_ALIAS_MAP: Record<string, string> = {
+  // Indonesian Aliases
   SUMATERA_UTARA: '12',
   ACEH: '11',
   RIAU: '14',
@@ -80,4 +81,32 @@ export const PROVINCE_ALIAS_MAP: Record<string, string> = {
   GORONTALO: '75',
   KEPULAUAN_BANGKA_BELITUNG: '19',
   KEPULAUAN_RIAU: '21',
+
+  // English/International Aliases
+  NORTH_SUMATRA: '12',
+  WEST_SUMATRA: '13',
+  SOUTH_SUMATRA: '16',
+  WEST_JAVA: '32',
+  CENTRAL_JAVA: '33',
+  EAST_JAVA: '35',
+  YOGYAKARTA: '34',
+  WEST_KALIMANTAN: '61',
+  CENTRAL_KALIMANTAN: '62',
+  SOUTH_KALIMANTAN: '63',
+  EAST_KALIMANTAN: '64',
+  NORTH_KALIMANTAN: '65',
+  NORTH_SULAWESI: '71',
+  CENTRAL_SULAWESI: '72',
+  SOUTH_SULAWESI: '73',
+  SOUTHEAST_SULAWESI: '74',
+  WEST_SULAWESI: '76',
+  NORTH_MALUKU: '82',
+  WEST_PAPUA: '91',
+  SOUTH_PAPUA: '93',
+  CENTRAL_PAPUA: '94',
+  HIGHLAND_PAPUA: '95',
+  SOUTHWEST_PAPUA: '96',
+  BANGKA_BELITUNG: '19',
+  RIAU_ISLANDS: '21',
+  JAKARTA: '31',
 };

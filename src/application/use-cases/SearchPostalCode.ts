@@ -5,13 +5,13 @@ import { ValidationError } from '../../domain/errors/PostalCodeError.js';
 /**
  * Use case to search for postal codes.
  */
-export class SearchPostalCode {
-  constructor(private readonly repository: SearchableRepository) {}
+export class SearchPostalCode<T = PostalCode> {
+  constructor(private readonly repository: SearchableRepository<T>) {}
 
   /**
    * Execute the search with keywords.
    */
-  async execute(keywords: string[], provinceCode?: string): Promise<PostalCode[]> {
+  async execute(keywords: string[], provinceCode?: string): Promise<T[]> {
     if (!keywords || keywords.length === 0) {
       throw new ValidationError("At least one keyword is required for search");
     }
@@ -30,7 +30,7 @@ export class SearchPostalCode {
   /**
    * Execute the search by a specific code (Postal, Village, etc).
    */
-  async executeByCode(code: string, provinceCode?: string): Promise<PostalCode[]> {
+  async executeByCode(code: string, provinceCode?: string): Promise<T[]> {
     if (!code || code.trim().length === 0) {
       throw new ValidationError("A code is required for search");
     }
@@ -41,7 +41,7 @@ export class SearchPostalCode {
   /**
    * Execute the search with a structured filter.
    */
-  async executeByFilter(filter: PostalCodeFilter, provinceCode?: string): Promise<PostalCode[]> {
+  async executeByFilter(filter: PostalCodeFilter, provinceCode?: string): Promise<T[]> {
     if (!filter || Object.keys(filter).length === 0) {
       throw new ValidationError("A filter object is required for structured search");
     }
