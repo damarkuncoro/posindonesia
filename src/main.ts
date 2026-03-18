@@ -2,6 +2,7 @@
 export * from './domain/models/PostalCode.js';
 export * from './domain/repositories/PostalCodeRepository.js';
 export * from './domain/services/PostalCodeMatcher.js';
+export * from './domain/services/Logger.js';
 
 // Application Layer
 export * from './application/use-cases/SearchPostalCode.js';
