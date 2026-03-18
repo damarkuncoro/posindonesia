@@ -18,6 +18,7 @@ program
   .option('-f, --fuzzy', 'Enable fuzzy search')
   .action(async (keywords, options) => {
     try {
+      console.log('DEBUG CLI options:', options);
       console.log(chalk.blue(`Searching for: ${keywords.join(', ')}...`));
       const results = await search(keywords, { 
         provinceCode: options.province,
