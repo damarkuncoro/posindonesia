@@ -3,8 +3,10 @@ import { PostalCode } from '../models/PostalCode';
 export interface PostalCodeRepository {
   /**
    * Finds postal codes matching the given keywords.
+   * @param keywords Array of search terms
+   * @param provinceCode Optional 2-digit province code to limit search scope (improves performance)
    */
-  findByKeywords(keywords: string[]): Promise<PostalCode[]>;
+  findByKeywords(keywords: string[], provinceCode?: string): Promise<PostalCode[]>;
 
   /**
    * Finds postal codes matching the given code (postal code, village code, etc.).

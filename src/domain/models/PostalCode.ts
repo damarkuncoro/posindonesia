@@ -29,8 +29,11 @@ export class PostalCode {
   }
 
   private validate(): void {
-    if (!this.postalCode || this.postalCode.length < 5) {
-      // Relaxed validation for partial data
+    if (!this.postalCode || !/^\d{5}$/.test(this.postalCode)) {
+      throw new Error(`Invalid postal code format: ${this.postalCode}`);
+    }
+    if (!this.province || !this.city || !this.district || !this.village) {
+      throw new Error('Incomplete administrative data for postal code entry');
     }
   }
 

@@ -11,7 +11,7 @@ export class SearchPostalCode {
   /**
    * Execute the search with keywords.
    */
-  async execute(keywords: string[]): Promise<PostalCode[]> {
+  async execute(keywords: string[], provinceCode?: string): Promise<PostalCode[]> {
     if (!keywords || keywords.length === 0) {
       throw new ValidationError("At least one keyword is required for search");
     }
@@ -24,6 +24,6 @@ export class SearchPostalCode {
       throw new ValidationError("Search keywords cannot be empty strings");
     }
 
-    return this.repository.findByKeywords(cleanKeywords);
+    return this.repository.findByKeywords(cleanKeywords, provinceCode);
   }
 }

@@ -26,7 +26,18 @@ export class TsPostalCodeRepository implements PostalCodeRepository {
   /**
    * Internal helper to load data only when needed using dynamic imports.
    */
-  private async ensureDataLoaded(): Promise<PostalCode[]> {
+  private async ensureDataLoaded(provinceCode?: string): Promise<PostalCode[]> {
+    // If a specific province is requested, we can load just that one
+    if (provinceCode) {
+      const entry = Object.entries(PROVINCE_MAP).find(([key]) => key.startsWith(provinceCode) || PROVINCE_MAP[key].startsWith(provinceCode));
+      if (entry) {
+        const [key, fileName] = entry;
+        const module = await import(`../../data/${fileName}`);
+        const data = module[key] as PostalCodeData[];
+        return data.map(d => new PostalCode(d)); 
+      }
+    }
+
     if (this.instances === null) {
       const allData: PostalCodeData[] = [];
       
@@ -52,8 +63,8 @@ export class TsPostalCodeRepository implements PostalCodeRepository {
   /**
    * Search for postal codes matching multiple keywords.
    */
-  async findByKeywords(keywords: string[]): Promise<PostalCode[]> {
-    const data = await this.ensureDataLoaded();
+  async findByKeywords(keywords: string[], provinceCode?: string): Promise<PostalCode[]> {
+    const data = await this.ensureDataLoaded(provinceCode);
     
     if (this.useFuzzy) {
       const fuseOptions = {
