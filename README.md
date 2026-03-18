@@ -89,14 +89,42 @@ const results = await searchUseCase.execute(['Bandung']);
 Anda dapat menggunakan library ini langsung dari terminal tanpa menulis kode.
 
 ```bash
+# Setelah package di-publish ke npm:
+npx @damarkuncoro/posindonesia search "Jakarta Pusat"
+
+# Atau dengan cara lain:
+npx posindonesia search "Jakarta Pusat"
+```
+
+### Pengembangan (CLI Lokal)
+
+Untuk pengembangan lokal atau sebelum package di-publish ke npm:
+
+```bash
+# Build terlebih dahulu
+npm run build
+
+# Cara 1: Langsung jalankan binary hasil build
+node lib/esm/cli.js search "Jakarta Pusat" --remote
+
+# Cara 2: Menggunakan tsx (tanpa build)
+npx tsx src/cli.ts search "Jakarta Pusat" --remote
+```
+
+### Contoh Penggunaan CLI
+
+```bash
 # Mencari berdasarkan kata kunci (Mode Lokal)
-npx posindonesia search Gambir Jakarta
+npx tsx src/cli.ts search "Gambir Jakarta"
 
 # Mencari secara real-time dari situs resmi
-npx posindonesia search Gambir --remote
+npx tsx src/cli.ts search "Gambir" --remote
 
 # Mencari dengan filter provinsi dan mode fuzzy
-npx posindonesia search Gmbir -p 31 --fuzzy
+npx tsx src/cli.ts search "Gmbir" -p 31 --fuzzy
+
+# Mencari berdasarkan kode postal
+npx tsx src/cli.ts code 10110 --remote
 ```
 
 ## Skema Data
