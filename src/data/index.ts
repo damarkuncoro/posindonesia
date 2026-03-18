@@ -1,38 +1,40 @@
-export { ACEH } from './11-aceh.js';
-export { BALI } from './51-bali.js';
-export { BANTEN } from './36-banten.js';
-export { BENGKULU } from './17-bengkulu.js';
-export { DI_YOGYAKARTA } from './34-di-yogyakarta.js';
-export { DKI_JAKARTA } from './31-dki-jakarta.js';
-export { GORONTALO } from './75-gorontalo.js';
-export { JAMBI } from './15-jambi.js';
-export { JAWA_BARAT } from './32-jawa-barat.js';
-export { JAWA_TENGAH } from './33-jawa-tengah.js';
-export { JAWA_TIMUR } from './35-jawa-timur.js';
-export { KALIMANTAN_BARAT } from './61-kalimantan-barat.js';
-export { KALIMANTAN_SELATAN } from './63-kalimantan-selatan.js';
-export { KALIMANTAN_TENGAH } from './62-kalimantan-tengah.js';
-export { KALIMANTAN_TIMUR } from './64-kalimantan-timur.js';
-export { KALIMANTAN_UTARA } from './65-kalimantan-utara.js';
-export { KEPULAUAN_BANGKA_BELITUNG } from './19-kepulauan-bangka-belitung.js';
-export { KEPULAUAN_RIAU } from './21-kepulauan-riau.js';
-export { LAMPUNG } from './18-lampung.js';
-export { MALUKU } from './81-maluku.js';
-export { MALUKU_UTARA } from './82-maluku-utara.js';
-export { NUSA_TENGGARA_BARAT } from './52-nusa-tenggara-barat.js';
-export { NUSA_TENGGARA_TIMUR } from './53-nusa-tenggara-timur.js';
-export { PAPUA } from './94-papua.js';
-export { PAPUA_BARAT } from './91-papua-barat.js';
-export { PAPUA_BARAT_DAYA } from './96-papua-barat-daya.js';
-export { PAPUA_PEGUNUNGAN } from './95-papua-pegunungan.js';
-export { PAPUA_SELATAN } from './93-papua-selatan.js';
-export { PAPUA_TENGAH } from './94-papua-tengah.js';
-export { RIAU } from './14-riau.js';
-export { SULAWESI_BARAT } from './76-sulawesi-barat.js';
-export { SULAWESI_SELATAN } from './73-sulawesi-selatan.js';
-export { SULAWESI_TENGAH } from './72-sulawesi-tengah.js';
-export { SULAWESI_TENGGARA } from './74-sulawesi-tenggara.js';
-export { SULAWESI_UTARA } from './71-sulawesi-utara.js';
-export { SUMATERA_BARAT } from './13-sumatera-barat.js';
-export { SUMATERA_SELATAN } from './16-sumatera-selatan.js';
-export { SUMATERA_UTARA } from './12-sumatera-utara.js';
+export const PROVINCE_MAP: Record<string, string> = {
+  ACEH: '11-aceh.js',
+  BALI: '51-bali.js',
+  BANTEN: '36-banten.js',
+  BENGKULU: '17-bengkulu.js',
+  DI_YOGYAKARTA: '34-di-yogyakarta.js',
+  DKI_JAKARTA: '31-dki-jakarta.js',
+  GORONTALO: '75-gorontalo.js',
+  JAMBI: '15-jambi.js',
+  JAWA_BARAT: '32-jawa-barat.js',
+  JAWA_TENGAH: '33-jawa-tengah.js',
+  JAWA_TIMUR: '35-jawa-timur.js',
+  KALIMANTAN_BARAT: '61-kalimantan-barat.js',
+  KALIMANTAN_SELATAN: '63-kalimantan-selatan.js',
+  KALIMANTAN_TENGAH: '62-kalimantan-tengah.js',
+  KALIMANTAN_TIMUR: '64-kalimantan-timur.js',
+  KALIMANTAN_UTARA: '65-kalimantan-utara.js',
+  KEPULAUAN_BANGKA_BELITUNG: '19-kepulauan-bangka-belitung.js',
+  KEPULAUAN_RIAU: '21-kepulauan-riau.js',
+  LAMPUNG: '18-lampung.js',
+  MALUKU: '81-maluku.js',
+  MALUKU_UTARA: '82-maluku-utara.js',
+  NUSA_TENGGARA_BARAT: '52-nusa-tenggara-barat.js',
+  NUSA_TENGGARA_TIMUR: '53-nusa-tenggara-timur.js',
+  PAPUA: '94-papua.js',
+  PAPUA_BARAT: '91-papua-barat.js',
+  PAPUA_BARAT_DAYA: '96-papua-barat-daya.js',
+  PAPUA_PEGUNUNGAN: '95-papua-pegunungan.js',
+  PAPUA_SELATAN: '93-papua-selatan.js',
+  PAPUA_TENGAH: '94-papua-tengah.js',
+  RIAU: '14-riau.js',
+  SULAWESI_BARAT: '76-sulawesi-barat.js',
+  SULAWESI_SELATAN: '73-sulawesi-selatan.js',
+  SULAWESI_TENGAH: '72-sulawesi-tengah.js',
+  SULAWESI_TENGGARA: '74-sulawesi-tenggara.js',
+  SULAWESI_UTARA: '71-sulawesi-utara.js',
+  SUMATERA_BARAT: '13-sumatera-barat.js',
+  SUMATERA_SELATAN: '16-sumatera-selatan.js',
+  SUMATERA_UTARA: '12-sumatera-utara.js',
+};

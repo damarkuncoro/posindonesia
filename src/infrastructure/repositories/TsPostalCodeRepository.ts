@@ -1,30 +1,48 @@
 import { PostalCode } from '../../domain/models/PostalCode.js';
 import { PostalCodeRepository } from '../../domain/repositories/PostalCodeRepository.js';
 import { PostalCodeData } from '../../types.js';
-import * as PROVINCES from '../../data/index.js';
+import { PROVINCE_MAP } from '../../data/index.js';
+import Fuse from 'fuse.js';
+
+export interface TsRepoConfig {
+  useFuzzy?: boolean;
+  fuzzyThreshold?: number;
+}
 
 /**
  * Implementation of PostalCodeRepository using internal TypeScript data.
- * Optimized with Lazy Loading to save memory.
+ * Optimized with True Dynamic Imports for minimal memory footprint.
  */
 export class TsPostalCodeRepository implements PostalCodeRepository {
   private instances: PostalCode[] | null = null;
+  private readonly useFuzzy: boolean;
+  private readonly fuzzyThreshold: number;
 
-  constructor() {
-    // We don't initialize instances in constructor anymore (Lazy Loading)
+  constructor(config: TsRepoConfig = {}) {
+    this.useFuzzy = config.useFuzzy ?? false;
+    this.fuzzyThreshold = config.fuzzyThreshold ?? 0.4;
   }
 
   /**
-   * Internal helper to load data only when needed.
+   * Internal helper to load data only when needed using dynamic imports.
    */
-  private ensureDataLoaded(): PostalCode[] {
+  private async ensureDataLoaded(): Promise<PostalCode[]> {
     if (this.instances === null) {
-      const provincesData = PROVINCES as Record<string, PostalCodeData[]>;
+      const allData: PostalCodeData[] = [];
       
-      // Combine all province data into a single array of domain models
-      const allData: PostalCodeData[] = Object.values(provincesData).flat();
+      // Load all province files dynamically
+      // Note: This is still loading all data, but only when a search is actually performed.
+      // For even better performance, we could search per-province file, but that's more complex.
+      const loadPromises = Object.entries(PROVINCE_MAP).map(async ([key, fileName]) => {
+        const module = await import(`../../data/${fileName}`);
+        const data = module[key] as PostalCodeData[];
+        return data;
+      });
+
+      const results = await Promise.all(loadPromises);
+      const combinedData = results.flat();
       
-      this.instances = allData.map(
+      this.instances = combinedData.map(
         (data: PostalCodeData) => new PostalCode(data)
       );
     }
@@ -35,7 +53,17 @@ export class TsPostalCodeRepository implements PostalCodeRepository {
    * Search for postal codes matching multiple keywords.
    */
   async findByKeywords(keywords: string[]): Promise<PostalCode[]> {
-    const data = this.ensureDataLoaded();
+    const data = await this.ensureDataLoaded();
+    
+    if (this.useFuzzy) {
+      const fuseOptions = {
+        keys: ['postalCode', 'province', 'city', 'district', 'village'],
+        threshold: this.fuzzyThreshold,
+      };
+      const fuse = new Fuse(data, fuseOptions);
+      return fuse.search(keywords.join(' ')).map(result => result.item);
+    }
+
     return data.filter((pc) => pc.matches(keywords));
   }
 
@@ -43,7 +71,7 @@ export class TsPostalCodeRepository implements PostalCodeRepository {
    * Search for postal codes matching a specific code.
    */
   async findByCode(code: string): Promise<PostalCode[]> {
-    const data = this.ensureDataLoaded();
+    const data = await this.ensureDataLoaded();
     return data.filter((pc) => pc.matchesCode(code));
   }
 
@@ -55,7 +83,7 @@ export class TsPostalCodeRepository implements PostalCodeRepository {
   }
 
   /**
-   * Clear the memory (optional, useful for testing or memory-constrained environments).
+   * Clear the memory.
    */
   clearMemory(): void {
     this.instances = null;
