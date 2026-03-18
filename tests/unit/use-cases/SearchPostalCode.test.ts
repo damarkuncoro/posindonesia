@@ -11,6 +11,7 @@ describe('SearchPostalCode Use Case', () => {
     mockRepository = {
       findByKeywords: jest.fn(),
       findByCode: jest.fn(),
+      findByFilter: jest.fn(),
     };
     useCase = new SearchPostalCode(mockRepository);
   });

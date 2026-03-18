@@ -110,7 +110,6 @@ export class TsPostalCodeRepository implements SearchableRepository {
       ? await this.loadProvince(provinceCode) 
       : await this.ensureAllLoaded();
     
-    console.log('DEBUG findByKeywords rawData size:', rawData.length, 'provinceCode:', provinceCode);
     let matches: PostalCodeData[];
 
     if (this.useFuzzy) {

@@ -45,7 +45,6 @@ export async function search(
   }
   
   const useCase = new SearchPostalCode(repo);
-  // console.log('DEBUG search:', { keywords, provinceCode: options.provinceCode });
 
   if (typeof keywords === 'object' && !Array.isArray(keywords)) {
     return useCase.executeByFilter(keywords, options.provinceCode);
