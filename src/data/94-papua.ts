@@ -1,6 +1,6 @@
-import { PostalCode } from '../types';
+import { PostalCodeData } from '../types.js';
 
-export const PAPUA: PostalCode[] = [
+export const PAPUA: PostalCodeData[] = [
   {
     province: "PAPUA",
     provinceCode: "94",

@@ -1,5 +1,6 @@
 import * as fs from 'fs';
 import * as path from 'path';
+import { PostalCodeData } from '../src/types.js';
 
 /**
  * Script untuk mengonversi file JSON provinsi menjadi file TypeScript
@@ -9,6 +10,19 @@ import * as path from 'path';
  */
 
 const BASE_DATA_DIR = "/Users/damarkuncoro/SATU RAYA INTEGRASI/@damarkuncoro/data-wilayah-indonesia/csv";
+
+interface RawProvince {
+    id: string;
+    name: string;
+}
+
+interface JsonPostalCode {
+    provinsi: string;
+    kabupaten_kota: string;
+    kecamatan: string;
+    desa_kelurahan: string;
+    kodepos: string;
+}
 
 // Helper untuk normalisasi nama agar pencarian lebih akurat
 function normalize(str: string): string {
@@ -56,7 +70,7 @@ async function main() {
             const fileKey = name.trim().toLowerCase().replace(/\s+/g, '_');
             acc[fileKey] = { id, name: normName };
             return acc;
-        }, {} as Record<string, { id: string, name: string }>);
+        }, {} as Record<string, RawProvince>);
 
     // Tambahan manual untuk provinsi baru
     provinces['papua_selatan'] = { id: '93', name: 'PAPUA SELATAN' };
@@ -111,11 +125,11 @@ async function main() {
     for (const file of files) {
         try {
             const filePath = path.join(inputDir, file);
-            const fileData = JSON.parse(fs.readFileSync(filePath, 'utf-8'));
+            const fileData: JsonPostalCode[] = JSON.parse(fs.readFileSync(filePath, 'utf-8'));
             
             // Hapus duplikasi awal (JSON level)
-            const uniqueData = Array.from(new Set(fileData.map((d: any) => JSON.stringify(d))))
-                                    .map((str: any) => JSON.parse(str));
+            const uniqueData = Array.from(new Set(fileData.map((d: JsonPostalCode) => JSON.stringify(d))))
+                                    .map((str: string) => JSON.parse(str) as JsonPostalCode);
 
             const provinceKey = file.replace('.json', '');
             const provinceInfo = provinces[provinceKey];
@@ -129,8 +143,8 @@ async function main() {
             const tsFilePath = path.join(outputDir, tsFileName);
             const variableName = provinceKey.toUpperCase().replace(/_/g, '_');
 
-            let tsContent = `import { PostalCode } from '../types';\n\n`;
-            tsContent += `export const ${variableName}: PostalCode[] = [\n`;
+            let tsContent = `import { PostalCodeData } from '../types.js';\n\n`;
+            tsContent += `export const ${variableName}: PostalCodeData[] = [\n`;
             
             let mappedCount = 0;
             
@@ -138,7 +152,7 @@ async function main() {
             const processedItems = new Set<string>();
             let finalCount = 0;
 
-            uniqueData.forEach((item: any) => {
+            uniqueData.forEach((item: JsonPostalCode) => {
                 // Normalisasi untuk kunci unik
                 const uniqueKey = JSON.stringify({
                     p: item.provinsi.trim().toUpperCase(),

@@ -1,6 +1,6 @@
-import { PostalCode } from '../types';
+import { PostalCodeData } from '../types.js';
 
-export const NUSA_TENGGARA_BARAT: PostalCode[] = [
+export const NUSA_TENGGARA_BARAT: PostalCodeData[] = [
   {
     province: "NUSA TENGGARA BARAT",
     provinceCode: "52",

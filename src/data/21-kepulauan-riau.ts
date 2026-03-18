@@ -1,6 +1,6 @@
-import { PostalCode } from '../types';
+import { PostalCodeData } from '../types.js';
 
-export const KEPULAUAN_RIAU: PostalCode[] = [
+export const KEPULAUAN_RIAU: PostalCodeData[] = [
   {
     province: "KEPULAUAN RIAU",
     provinceCode: "21",

@@ -1,6 +1,6 @@
-import { PostalCode } from '../types';
+import { PostalCodeData } from '../types.js';
 
-export const KALIMANTAN_TENGAH: PostalCode[] = [
+export const KALIMANTAN_TENGAH: PostalCodeData[] = [
   {
     province: "KALIMANTAN TENGAH",
     provinceCode: "62",

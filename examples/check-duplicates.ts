@@ -1,17 +1,18 @@
-import * as PROVINCES from '../src/data/index';
-import { PostalCode } from '../src/types';
+import * as PROVINCES from '../src/data/index.js';
+import { PostalCodeData } from '../src/types.js';
 
-async function main() {
+async function main(): Promise<void> {
     console.log('--- PENGECEKAN DUPLIKASI DATA ---\n');
     
-    const allData: PostalCode[] = Object.values(PROVINCES).flat();
+    const provincesData = PROVINCES as Record<string, PostalCodeData[]>;
+    const allData: PostalCodeData[] = Object.values(provincesData).flat();
     console.log(`Total Data: ${allData.length} records`);
 
     // 1. Cek Duplikasi Eksak (Semua field sama)
     const exactDuplicates = new Map<string, number>();
     const uniqueData = new Set<string>();
 
-    allData.forEach(item => {
+    allData.forEach((item: PostalCodeData) => {
         // Normalisasi string untuk perbandingan
         const key = JSON.stringify({
             p: item.province.trim().toUpperCase(),
@@ -42,7 +43,7 @@ async function main() {
     // 2. Cek Konflik Kodepos (Desa+Kecamatan sama, tapi Kodepos beda)
     const locationMap = new Map<string, Set<string>>();
     
-    allData.forEach(item => {
+    allData.forEach((item: PostalCodeData) => {
         const key = `${item.province.trim()}|${item.city.trim()}|${item.district.trim()}|${item.village.trim()}`.toUpperCase();
         
         if (!locationMap.has(key)) {
@@ -67,7 +68,7 @@ async function main() {
 
     // 3. Cek Duplikasi Kodepos (Satu kodepos dipakai >1 lokasi - ini wajar, tapi menarik untuk dilihat)
     const postalMap = new Map<string, number>();
-    allData.forEach(item => {
+    allData.forEach((item: PostalCodeData) => {
         postalMap.set(item.postalCode, (postalMap.get(item.postalCode) || 0) + 1);
     });
 

@@ -16,3 +16,4 @@ export * from './domain/errors/PostalCodeError.js';
 
 // Data
 export * from './data/index.js';
+export * from './types.js';

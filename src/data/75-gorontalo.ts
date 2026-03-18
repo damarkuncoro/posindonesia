@@ -1,6 +1,6 @@
-import { PostalCode } from '../types';
+import { PostalCodeData } from '../types.js';
 
-export const GORONTALO: PostalCode[] = [
+export const GORONTALO: PostalCodeData[] = [
   {
     province: "NUSA TENGGARA TIMUR",
     provinceCode: "75",

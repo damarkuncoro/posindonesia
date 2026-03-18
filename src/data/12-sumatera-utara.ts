@@ -1,6 +1,6 @@
-import { PostalCode } from '../types';
+import { PostalCodeData } from '../types.js';
 
-export const SUMATERA_UTARA: PostalCode[] = [
+export const SUMATERA_UTARA: PostalCodeData[] = [
   {
     province: "SUMATERA UTARA",
     provinceCode: "12",

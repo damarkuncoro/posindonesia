@@ -1,6 +1,6 @@
-import { PostalCode } from '../types';
+import { PostalCodeData } from '../types.js';
 
-export const KALIMANTAN_TIMUR: PostalCode[] = [
+export const KALIMANTAN_TIMUR: PostalCodeData[] = [
   {
     province: "JAWA TIMUR",
     provinceCode: "64",

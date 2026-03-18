@@ -1,14 +1,19 @@
-import { TsPostalCodeRepository } from '../src/infrastructure/repositories/TsPostalCodeRepository';
-import { fetchPostalCodeHtml, parsePostalCodeTable } from '../src/main';
+import { TsPostalCodeRepository } from '../src/infrastructure/repositories/TsPostalCodeRepository.js';
+import { fetchPostalCodeHtml, parsePostalCodeTable } from '../src/main.js';
 
 const USER_COOKIE = 'ci_session=siodf5sn3081n9fb1h3pfh7k8r92sjvt; TS011d97f9=01dc40192af9d2c68e0588cf6826f2541733c6f742d0e6382757bb95d8a2f8d27f6da94b22391892939703ae744a8f47fe7d578583';
 
-async function main() {
+interface TestCase {
+    name: string;
+    keyword: string;
+}
+
+async function main(): Promise<void> {
     console.log('--- PERBANDINGAN HASIL: LOKAL VS INTERNET ---\n');
     
     const repo = new TsPostalCodeRepository();
     
-    const testCases = [
+    const testCases: TestCase[] = [
         { name: 'Kota Besar', keyword: 'GAMBIR' },
         { name: 'Desa di Jawa', keyword: 'PANGANDARAN' },
         { name: 'Provinsi Baru', keyword: 'MERAUKE' },
@@ -32,8 +37,8 @@ async function main() {
             const html = await fetchPostalCodeHtml(test.keyword, USER_COOKIE);
             const netResults = parsePostalCodeTable(html);
             netCount = netResults.length;
-        } catch (e: any) {
-            errorMsg = 'Error';
+        } catch (e: unknown) {
+            errorMsg = e instanceof Error ? e.message : 'Error';
         }
         const timeNet = (performance.now() - startNet).toFixed(2);
 

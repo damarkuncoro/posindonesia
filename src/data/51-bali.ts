@@ -1,6 +1,6 @@
-import { PostalCode } from '../types';
+import { PostalCodeData } from '../types.js';
 
-export const BALI: PostalCode[] = [
+export const BALI: PostalCodeData[] = [
   {
     province: "DKI JAKARTA",
     provinceCode: "51",

@@ -1,6 +1,6 @@
-import { PostalCode } from '../types';
+import { PostalCodeData } from '../types.js';
 
-export const SULAWESI_BARAT: PostalCode[] = [
+export const SULAWESI_BARAT: PostalCodeData[] = [
   {
     province: "SULAWESI BARAT",
     provinceCode: "76",

@@ -1,6 +1,6 @@
-import { PostalCode } from '../types';
+import { PostalCodeData } from '../types.js';
 
-export const DI_YOGYAKARTA: PostalCode[] = [
+export const DI_YOGYAKARTA: PostalCodeData[] = [
   {
     province: "DAERAH ISTIMEWA YOGYAKARTA",
     provinceCode: "34",
