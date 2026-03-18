@@ -1,5 +1,5 @@
 import { PostalCode } from '../../domain/models/PostalCode.js';
-import { SearchableRepository } from '../../domain/repositories/PostalCodeRepository.js';
+import { SearchableRepository, PostalCodeFilter } from '../../domain/repositories/PostalCodeRepository.js';
 import { ValidationError } from '../../domain/errors/PostalCodeError.js';
 
 /**
@@ -36,5 +36,16 @@ export class SearchPostalCode {
     }
 
     return this.repository.findByCode(code.trim(), provinceCode);
+  }
+
+  /**
+   * Execute the search with a structured filter.
+   */
+  async executeByFilter(filter: PostalCodeFilter, provinceCode?: string): Promise<PostalCode[]> {
+    if (!filter || Object.keys(filter).length === 0) {
+      throw new ValidationError("A filter object is required for structured search");
+    }
+
+    return this.repository.findByFilter(filter, provinceCode);
   }
 }

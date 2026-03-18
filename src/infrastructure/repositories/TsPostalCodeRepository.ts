@@ -1,7 +1,7 @@
 import { PostalCode } from '../../domain/models/PostalCode.js';
-import { SearchableRepository } from '../../domain/repositories/PostalCodeRepository.js';
+import { SearchableRepository, PostalCodeFilter } from '../../domain/repositories/PostalCodeRepository.js';
 import { PostalCodeData } from '../../types.js';
-import { PROVINCE_LOADERS, PROVINCE_ALIAS_MAP } from '../../data/index.js';
+import { PROVINCE_LOADERS } from '../../data/index.js';
 import Fuse from 'fuse.js';
 
 export interface TsRepoConfig {
@@ -11,19 +11,32 @@ export interface TsRepoConfig {
 
 /**
  * Implementation of SearchableRepository using internal TypeScript data.
- * Optimized with Flyweight pattern and dynamic imports for minimal memory footprint.
+ * Optimized with Flyweight pattern, dynamic imports, and secondary indexing.
  */
 export class TsPostalCodeRepository implements SearchableRepository {
   private provinceCache: Map<string, PostalCodeData[]> = new Map();
   private provinceLoadPromises: Map<string, Promise<PostalCodeData[]>> = new Map();
   private allData: PostalCodeData[] | null = null;
   private allLoadPromise: Promise<PostalCodeData[]> | null = null;
+  private postalCodeIndex: Map<string, PostalCodeData[]> = new Map();
   private readonly useFuzzy: boolean;
   private readonly fuzzyThreshold: number;
 
   constructor(config: TsRepoConfig = {}) {
     this.useFuzzy = config.useFuzzy ?? false;
     this.fuzzyThreshold = config.fuzzyThreshold ?? 0.4;
+  }
+
+  /**
+   * Internal helper to build an index for postal codes.
+   */
+  private buildIndex(data: PostalCodeData[]): void {
+    data.forEach(item => {
+      if (!this.postalCodeIndex.has(item.postalCode)) {
+        this.postalCodeIndex.set(item.postalCode, []);
+      }
+      this.postalCodeIndex.get(item.postalCode)!.push(item);
+    });
   }
 
   /**
@@ -47,6 +60,7 @@ export class TsPostalCodeRepository implements SearchableRepository {
 
           const rawData = module[exportKey] as PostalCodeData[];
           this.provinceCache.set(code, rawData);
+          this.buildIndex(rawData);
           return rawData;
         } catch (error) {
           return [];
@@ -115,15 +129,46 @@ export class TsPostalCodeRepository implements SearchableRepository {
 
   /**
    * Search for postal codes matching a specific code.
+   * Optimized with secondary index for postal codes.
    */
   async findByCode(code: string, provinceCode?: string): Promise<PostalCode[]> {
     const rawData = provinceCode 
       ? await this.loadProvince(provinceCode) 
       : await this.ensureAllLoaded();
     
+    // Check index first if searching by a 5-digit numeric string (likely postal code)
+    if (/^\d{5}$/.test(code) && this.postalCodeIndex.has(code)) {
+      const indexed = this.postalCodeIndex.get(code)!;
+      // If provinceCode is provided, filter the indexed results
+      const filtered = provinceCode 
+        ? indexed.filter(d => d.provinceCode === provinceCode)
+        : indexed;
+      return filtered.map(data => new PostalCode(data));
+    }
+    
     const matches = rawData.filter((data) => PostalCode.matchesCode(data, code));
     
     // Flyweight: Instantiate PostalCode only for results
+    return matches.map(data => new PostalCode(data));
+  }
+
+  /**
+   * Search for postal codes matching the given structured filter.
+   */
+  async findByFilter(filter: PostalCodeFilter, provinceCode?: string): Promise<PostalCode[]> {
+    const rawData = provinceCode 
+      ? await this.loadProvince(provinceCode) 
+      : await this.ensureAllLoaded();
+    
+    const matches = rawData.filter((data) => {
+      if (filter.postalCode && data.postalCode !== filter.postalCode) return false;
+      if (filter.province && !data.province.toLowerCase().includes(filter.province.toLowerCase())) return false;
+      if (filter.city && !data.city.toLowerCase().includes(filter.city.toLowerCase())) return false;
+      if (filter.district && !data.district.toLowerCase().includes(filter.district.toLowerCase())) return false;
+      if (filter.village && !data.village.toLowerCase().includes(filter.village.toLowerCase())) return false;
+      return true;
+    });
+
     return matches.map(data => new PostalCode(data));
   }
 
@@ -133,6 +178,7 @@ export class TsPostalCodeRepository implements SearchableRepository {
   clearMemory(): void {
     this.provinceCache.clear();
     this.provinceLoadPromises.clear();
+    this.postalCodeIndex.clear();
     this.allData = null;
     this.allLoadPromise = null;
   }

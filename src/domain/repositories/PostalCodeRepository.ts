@@ -1,5 +1,13 @@
 import { PostalCode } from '../models/PostalCode.js';
 
+export interface PostalCodeFilter {
+  province?: string;
+  city?: string;
+  district?: string;
+  village?: string;
+  postalCode?: string;
+}
+
 /**
  * Interface for repositories that support searching postal codes.
  */
@@ -17,6 +25,13 @@ export interface SearchableRepository {
    * @param provinceCode Optional 2-digit province code to limit search scope
    */
   findByCode(code: string, provinceCode?: string): Promise<PostalCode[]>;
+
+  /**
+   * Finds postal codes matching the given structured filter.
+   * @param filter The filter object
+   * @param provinceCode Optional 2-digit province code to limit search scope
+   */
+  findByFilter(filter: PostalCodeFilter, provinceCode?: string): Promise<PostalCode[]>;
 }
 
 /**
