@@ -1,49 +1,55 @@
-# Pos Indonesia Postal Codes
+# @damarkuncoro/posindonesia
 
-Library TypeScript yang menyediakan database kodepos Indonesia terlengkap, akurat, dan siap pakai. Data diambil langsung dari sumber resmi dan dilengkapi dengan kode wilayah administratif (Provinsi, Kota/Kabupaten, Kecamatan, Desa/Kelurahan).
+Library TypeScript berperforma tinggi untuk mencari Kodepos Indonesia berdasarkan database statis internal. Mendukung pencarian fuzzy, pencarian terstruktur, dan pemuatan data yang sangat efisien (Lazy Loading).
 
-## Fitur Utama
+[![CI](https://github.com/damarkuncoro/posindonesia/actions/workflows/ci.yml/badge.svg)](https://github.com/damarkuncoro/posindonesia/actions/workflows/ci.yml)
+[![npm version](https://badge.fury.io/js/@damarkuncoro/posindonesia.svg)](https://badge.fury.io/js/@damarkuncoro/posindonesia)
 
-- 📦 **Database Lengkap**: Mencakup 38 provinsi (termasuk 4 provinsi baru di Papua) dengan total >120.000 data.
-- 🚀 **Cepat & Ringan**: Data tersimpan lokal dalam format TypeScript yang teroptimasi dan *tree-shakable*.
-- 🔍 **Pencarian Fleksibel**: Mendukung pencarian berdasarkan kata kunci (Desa, Kecamatan, Kota, dll).
-- 🆔 **Kode Wilayah**: Dilengkapi dengan kode wilayah administratif (Kemendagri) untuk integrasi sistem.
-- 🛡️ **Type-Safe**: Sepenuhnya ditulis dalam TypeScript dengan definisi tipe yang jelas.
+## Fitur Utama 🚀
+
+- **Offline-First**: Tidak memerlukan koneksi internet untuk pencarian data lokal.
+- **Fuzzy Search**: Cerdas menangani typo menggunakan Fuse.js.
+- **Lazy Loading**: Hanya memuat data provinsi yang dibutuhkan untuk menghemat RAM.
+- **Structured Search**: Pencarian spesifik berdasarkan Provinsi, Kota, Kecamatan, atau Desa.
+- **CLI Tool**: Cari kodepos langsung dari terminal.
+- **High Performance**: Indexing internal untuk pencarian kodepos instan.
 
 ## Instalasi
 
 ```bash
 npm install @damarkuncoro/posindonesia
-# atau
-yarn add @damarkuncoro/posindonesia
 ```
 
-## Penggunaan
+## Penggunaan (Library)
 
 ### **1. Pencarian Cepat (Rekomendasi)**
 
-Cara termudah untuk mencari kodepos adalah menggunakan fungsi `search` global yang sudah dioptimalkan dengan cache dan *lazy loading*.
+Gunakan fungsi `search` global yang sudah dioptimalkan dengan cache internal.
 
 ```typescript
 import { search, searchByCode } from '@damarkuncoro/posindonesia';
 
-// Pencarian berbasis kata kunci (Provinsi, Kota, Kecamatan, Desa, atau Kodepos)
+// 🔍 Pencarian kata kunci bebas
 const results = await search(['Gambir', 'Jakarta Pusat']);
 
-// Pencarian dengan mode Fuzzy (Lebih cerdas dalam menangani typo)
-const fuzzyResults = await search('Gmbir', { useFuzzy: true });
+// 🧠 Pencarian Fuzzy (menangani typo: 'Gmbir' -> 'Gambir')
+const fuzzy = await search('Gmbir', { useFuzzy: true });
 
-// Pencarian cepat hanya di satu provinsi tertentu (Hemat memori & CPU)
-// Gunakan kode provinsi Kemendagri (misal: '31' untuk DKI Jakarta)
-const dkiResults = await search('Gambir', { provinceCode: '31' });
+// 📍 Pencarian Terstruktur (Structured)
+const structured = await search({ 
+  village: 'Gambir', 
+  city: 'Jakarta Pusat' 
+});
 
-// Pencarian berdasarkan kode spesifik (Kodepos atau Kode Wilayah)
+// ⚡ Pencarian Spesifik Provinsi (Hemat Memori)
+// '31' adalah kode Kemendagri untuk DKI Jakarta
+const dki = await search('Gambir', { provinceCode: '31' });
+
+// 🔢 Pencarian berdasarkan Kodepos (Instan/Indexed)
 const byCode = await searchByCode('10110');
 ```
 
 ### **2. Penggunaan Advanced (Repository)**
-
-Jika Anda memerlukan kontrol lebih dalam, Anda bisa menggunakan `TsPostalCodeRepository`.
 
 ```typescript
 import { TsPostalCodeRepository, SearchPostalCode } from '@damarkuncoro/posindonesia';
@@ -56,47 +62,50 @@ const repo = new TsPostalCodeRepository({
 const searchUseCase = new SearchPostalCode(repo);
 const results = await searchUseCase.execute(['Bandung']);
 
-// Bebaskan memori jika tidak digunakan lagi
+// Bebaskan memori cache jika diperlukan
 repo.clearMemory();
 ```
 
-## Struktur Data
+## Penggunaan (CLI)
 
-Setiap entri data memiliki format berikut:
+Anda dapat menggunakan library ini langsung dari terminal tanpa menulis kode.
+
+```bash
+# Mencari berdasarkan kata kunci
+npx posindonesia search Gambir Jakarta
+
+# Mencari dengan filter provinsi dan mode fuzzy
+npx posindonesia search Gmbir -p 31 --fuzzy
+
+# Mencari berdasarkan kodepos
+npx posindonesia code 10110
+```
+
+## Skema Data
+
+Setiap hasil pencarian mengembalikan array objek `PostalCode` dengan struktur:
 
 ```typescript
-interface PostalCode {
+{
   province: string;       // Nama Provinsi
-  provinceCode: string;   // Kode Provinsi (misal: 31)
+  provinceCode: string;   // Kode Kemendagri Provinsi
   city: string;           // Nama Kabupaten/Kota
-  cityCode: string;       // Kode Kab/Kota (misal: 3171)
+  cityCode: string;       // Kode Kemendagri Kabupaten/Kota
   district: string;       // Nama Kecamatan
-  districtCode: string;   // Kode Kecamatan (misal: 3171010)
+  districtCode: string;   // Kode Kemendagri Kecamatan
   village: string;        // Nama Desa/Kelurahan
-  villageCode: string;    // Kode Desa (misal: 3171010001)
-  postalCode: string;     // Kode Pos (5 digit)
+  villageCode: string;    // Kode Kemendagri Desa/Kelurahan
+  postalCode: string;     // Kodepos (5 digit)
 }
 ```
 
 ## Pengembangan
 
-Jika Anda ingin berkontribusi atau menjalankan tes secara lokal:
-
 ```bash
-# Instalasi dependensi
 npm install
-
-# Menjalankan unit test
-npm test
-
-# Menjalankan linter
-npm run lint
-
-# Menjalankan formatter
-npm run format
-
-# Build library (CJS & ESM)
-npm run build
+npm test            # Menjalankan unit tests
+npm run lint        # Memeriksa standar kode
+npm run build       # Build library (ESM & CJS)
 ```
 
 ## Lisensi
