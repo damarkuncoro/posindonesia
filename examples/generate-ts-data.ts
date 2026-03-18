@@ -186,10 +186,9 @@ async function main() {
             tsContent += `];\n`;
 
             fs.writeFileSync(tsFilePath, tsContent);
-            console.log(`✅ ${tsFileName}: ${finalCount} records (Mapped: ${mappedCount})`);
-
+            console.log(`✅ ${tsFileName}: ${finalCount} records (Mapped: ${mappedCount})`);// Tambahkan ke index.ts
             const importName = variableName;
-            indexContent += `export { ${importName} } from './${tsFileName.replace('.ts', '')}';\n`;
+            indexContent += `export { ${importName} } from './${tsFileName.replace('.ts', '')}.js';\n`;
 
         } catch (error: any) {
             console.error(`❌ Gagal memproses file ${file}:`, error.message);

@@ -1,5 +1,5 @@
-import { PostalCode } from '../../domain/models/PostalCode';
-import { PostalCodeRepository } from '../../domain/repositories/PostalCodeRepository';
+import { PostalCode } from '../../domain/models/PostalCode.js';
+import { PostalCodeRepository } from '../../domain/repositories/PostalCodeRepository.js';
 
 /**
  * Use case to search for postal codes.

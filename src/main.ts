@@ -1,15 +1,15 @@
 // Domain Layer
-export * from './domain/models/PostalCode';
-export * from './domain/repositories/PostalCodeRepository';
-export * from './domain/services/PostalCodeMatcher';
+export * from './domain/models/PostalCode.js';
+export * from './domain/repositories/PostalCodeRepository.js';
+export * from './domain/services/PostalCodeMatcher.js';
 
 // Application Layer
-export * from './application/use-cases/SearchPostalCode';
+export * from './application/use-cases/SearchPostalCode.js';
 
 // Infrastructure Layer
-export * from './infrastructure/repositories/TsPostalCodeRepository';
-export * from './infrastructure/external/PosIndonesiaApi';
-export * from './infrastructure/parsers/HtmlParser';
+export * from './infrastructure/repositories/TsPostalCodeRepository.js';
+export * from './infrastructure/external/PosIndonesiaApi.js';
+export * from './infrastructure/parsers/HtmlParser.js';
 
 // Data
-export * from './data';
+export * from './data/index.js';

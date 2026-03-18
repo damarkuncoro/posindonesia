@@ -28,7 +28,7 @@
   "scripts": {
     "build:cjs": "tsc -p tsconfig.cjs.json",
     "build:esm": "tsc -p tsconfig.esm.json",
-    "build": "rm -rf lib && npm run build:cjs && npm run build:esm",
+    "build": "rm -rf lib && npm run build:cjs && echo '{\"type\": \"commonjs\"}' > lib/cjs/package.json && npm run build:esm && echo '{\"type\": \"module\"}' > lib/esm/package.json",
     "prepublishOnly": "npm run build && npm test",
     "docs": "typedoc",
     "test": "jest"

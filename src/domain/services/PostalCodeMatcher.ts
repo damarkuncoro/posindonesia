@@ -1,5 +1,5 @@
 import Fuse from 'fuse.js';
-import { RawPostalCode } from '../../infrastructure/parsers/HtmlParser';
+import { RawPostalCode } from '../../infrastructure/parsers/HtmlParser.js';
 
 /**
  * Domain service to find the best matching postal code from search results.

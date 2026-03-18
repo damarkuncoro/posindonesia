@@ -1,6 +1,6 @@
-import { PostalCode } from '../../domain/models/PostalCode';
-import { PostalCodeRepository } from '../../domain/repositories/PostalCodeRepository';
-import * as PROVINCES from '../../data/index';
+import { PostalCode } from '../../domain/models/PostalCode.js';
+import { PostalCodeRepository } from '../../domain/repositories/PostalCodeRepository.js';
+import * as PROVINCES from '../../data/index.js';
 
 /**
  * Implementation of PostalCodeRepository using internal TypeScript data.
