@@ -1,5 +1,5 @@
-import { PostalCode } from './PostalCode.js';
-import { PostalCodeData } from '../../types.js';
+import { PostalCode } from '../../../src/domain/models/PostalCode.js';
+import { PostalCodeData } from '../../../src/types.js';
 
 describe('PostalCode', () => {
   const sampleData: PostalCodeData = {

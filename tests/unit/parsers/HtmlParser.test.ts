@@ -1,5 +1,5 @@
-import { parsePostalCodeTable } from './HtmlParser.js';
-import { ParseError } from '../../domain/errors/PostalCodeError.js';
+import { parsePostalCodeTable } from '../../../src/infrastructure/parsers/HtmlParser.js';
+import { ParseError } from '../../../src/domain/errors/PostalCodeError.js';
 
 describe('HtmlParser', () => {
   const sampleHtml = `

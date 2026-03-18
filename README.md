@@ -74,6 +74,27 @@ interface PostalCode {
 }
 ```
 
+## Pengembangan
+
+Jika Anda ingin berkontribusi atau menjalankan tes secara lokal:
+
+```bash
+# Instalasi dependensi
+npm install
+
+# Menjalankan unit test
+npm test
+
+# Menjalankan linter
+npm run lint
+
+# Menjalankan formatter
+npm run format
+
+# Build library (CJS & ESM)
+npm run build
+```
+
 ## Lisensi
 
 MIT
