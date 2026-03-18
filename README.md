@@ -49,21 +49,36 @@ const dki = await search('Gambir', { provinceCode: '31' });
 const byCode = await searchByCode('10110');
 ```
 
-### **2. Penggunaan Advanced (Repository)**
+### **2. Penggunaan Advanced (Repository & Custom Data)**
+
+Untuk skenario yang lebih kompleks, seperti menggunakan sumber data Anda sendiri (misal: dari database), Anda dapat menyuntikkan `DataProvider` custom ke dalam `TsPostalCodeRepository`.
 
 ```typescript
-import { TsPostalCodeRepository, SearchPostalCode } from '@damarkuncoro/posindonesia';
+import { 
+  TsPostalCodeRepository, 
+  SearchPostalCode, 
+  type DataProvider, 
+  type PostalCodeData 
+} from '@damarkuncoro/posindonesia';
 
-const repo = new TsPostalCodeRepository({ 
-  useFuzzy: true, 
-  fuzzyThreshold: 0.3 
-});
+// 1. Buat DataProvider Anda sendiri
+class MyDbProvider implements DataProvider {
+  async getAll(): Promise<PostalCodeData[]> {
+    // Logika untuk mengambil data dari database Anda
+    return []; 
+  }
+  async getByProvince(provinceCode: string): Promise<PostalCodeData[]> {
+    // Logika untuk mengambil data provinsi tertentu dari DB
+    return [];
+  }
+}
+
+// 2. Suntikkan ke Repository
+const myProvider = new MyDbProvider();
+const repo = new TsPostalCodeRepository({ dataProvider: myProvider });
 
 const searchUseCase = new SearchPostalCode(repo);
 const results = await searchUseCase.execute(['Bandung']);
-
-// Bebaskan memori cache jika diperlukan
-repo.clearMemory();
 ```
 
 ## Penggunaan (CLI)

@@ -1,6 +1,6 @@
 {
   "name": "@damarkuncoro/posindonesia",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Library untuk mencari Kodepos Indonesia berdasarkan data statis TypeScript.",
   "repository": {
     "type": "git",

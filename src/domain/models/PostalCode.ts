@@ -3,6 +3,10 @@ import { PostalCodeData } from '../../types.js';
 /**
  * Domain model representing a Postal Code entry with its administrative details.
  */
+/**
+ * Represents a single postal code entry with its associated administrative data.
+ * This is the core domain model returned by all search operations.
+ */
 export class PostalCode {
   public readonly postalCode: string;
   public readonly province: string;

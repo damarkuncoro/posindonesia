@@ -1,41 +1,79 @@
 import { PostalCode } from '../../domain/models/PostalCode.js';
 import { SearchableRepository, PostalCodeFilter } from '../../domain/repositories/PostalCodeRepository.js';
 import { PostalCodeData } from '../../types.js';
-import { PROVINCE_LOADERS } from '../../data/index.js';
+import { DataProvider } from '../../domain/repositories/DataProvider.js';
+import { TsDataProvider } from '../data-providers/TsDataProvider.js';
 import Fuse from 'fuse.js';
 
+/**
+ * Configuration for the TsPostalCodeRepository.
+ */
 export interface TsRepoConfig {
+  /**
+   * If true, enables fuzzy search mode using Fuse.js.
+   * @default false
+   */
   useFuzzy?: boolean;
+  /**
+   * The threshold for fuzzy search sensitivity (0.0 to 1.0).
+   * Lower values are more strict.
+   * @default 0.4
+   */
   fuzzyThreshold?: number;
+  /**
+   * Optional custom data provider. Defaults to internal TsDataProvider.
+   */
+  dataProvider?: DataProvider;
 }
 
 /**
- * Implementation of SearchableRepository using internal TypeScript data.
+ * Implementation of SearchableRepository.
  * Optimized with Flyweight pattern, dynamic imports, and secondary indexing.
  */
 export class TsPostalCodeRepository implements SearchableRepository {
-  private provinceCache: Map<string, PostalCodeData[]> = new Map();
-  private provinceLoadPromises: Map<string, Promise<PostalCodeData[]>> = new Map();
   private allData: PostalCodeData[] | null = null;
   private allLoadPromise: Promise<PostalCodeData[]> | null = null;
   private postalCodeIndex: Map<string, PostalCodeData[]> = new Map();
+  private invertedIndex: Map<string, number[]> = new Map();
+  private allDataArray: PostalCodeData[] = [];
   private readonly useFuzzy: boolean;
   private readonly fuzzyThreshold: number;
+  private readonly dataProvider: DataProvider;
 
   constructor(config: TsRepoConfig = {}) {
     this.useFuzzy = config.useFuzzy ?? false;
     this.fuzzyThreshold = config.fuzzyThreshold ?? 0.4;
+    this.dataProvider = config.dataProvider ?? new TsDataProvider();
   }
 
   /**
-   * Internal helper to build an index for postal codes.
+   * Internal helper to build an index for postal codes and inverted index for text search.
    */
   private buildIndex(data: PostalCodeData[]): void {
-    data.forEach(item => {
+    const startIndex = this.allDataArray.length;
+    
+    data.forEach((item, idx) => {
+      const globalIdx = startIndex + idx;
+      this.allDataArray.push(item);
+
+      // Postal Code Index
       if (!this.postalCodeIndex.has(item.postalCode)) {
         this.postalCodeIndex.set(item.postalCode, []);
       }
       this.postalCodeIndex.get(item.postalCode)!.push(item);
+
+      // Inverted Index for text search
+      const text = `${item.province} ${item.city} ${item.district} ${item.village}`.toLowerCase();
+      const tokens = text.split(/[\s,.-]+/).filter(t => t.length > 0);
+      
+      // Use a Set to avoid duplicate tokens for the same document
+      const uniqueTokens = new Set(tokens);
+      uniqueTokens.forEach(token => {
+        if (!this.invertedIndex.has(token)) {
+          this.invertedIndex.set(token, []);
+        }
+        this.invertedIndex.get(token)!.push(globalIdx);
+      });
     });
   }
 
@@ -43,35 +81,9 @@ export class TsPostalCodeRepository implements SearchableRepository {
    * Internal helper to load data for a specific province.
    */
   private async loadProvince(code: string): Promise<PostalCodeData[]> {
-    if (this.provinceCache.has(code)) {
-      return this.provinceCache.get(code)!;
-    }
-
-    let loadPromise = this.provinceLoadPromises.get(code);
-    if (!loadPromise) {
-      loadPromise = (async () => {
-        const loader = PROVINCE_LOADERS[code];
-        if (!loader) return [];
-
-        try {
-          const module = await loader();
-          const exportKey = Object.keys(module).find(k => k !== 'default');
-          if (!exportKey) return [];
-
-          const rawData = module[exportKey] as PostalCodeData[];
-          this.provinceCache.set(code, rawData);
-          this.buildIndex(rawData);
-          return rawData;
-        } catch (error) {
-          return [];
-        } finally {
-          this.provinceLoadPromises.delete(code);
-        }
-      })();
-      this.provinceLoadPromises.set(code, loadPromise);
-    }
-
-    return loadPromise;
+    const data = await this.dataProvider.getByProvince(code);
+    this.buildIndex(data);
+    return data;
   }
 
   /**
@@ -84,16 +96,8 @@ export class TsPostalCodeRepository implements SearchableRepository {
 
     if (!this.allLoadPromise) {
       this.allLoadPromise = (async () => {
-        const codes = Object.keys(PROVINCE_LOADERS);
-        const results = await Promise.allSettled(
-          codes.map(code => this.loadProvince(code))
-        );
-        
-        const combinedData = results
-          .filter((r): r is PromiseFulfilledResult<PostalCodeData[]> => r.status === 'fulfilled')
-          .map(r => r.value)
-          .flat();
-          
+        const combinedData = await this.dataProvider.getAll();
+        this.buildIndex(combinedData);
         this.allData = combinedData;
         return combinedData;
       })();
@@ -120,7 +124,33 @@ export class TsPostalCodeRepository implements SearchableRepository {
       const fuse = new Fuse(rawData, fuseOptions);
       matches = fuse.search(keywords.join(' ')).map(result => result.item);
     } else {
-      matches = rawData.filter((data) => PostalCode.matches(data, keywords));
+      // Use Inverted Index for standard search
+      const lowerKeywords = keywords.map(k => k.toLowerCase());
+      const resultIndices = new Set<number>();
+
+      if (lowerKeywords.length > 0) {
+        const firstKeyword = lowerKeywords[0];
+        const initialDocs = this.invertedIndex.get(firstKeyword) || [];
+        initialDocs.forEach(idx => resultIndices.add(idx));
+
+        for (let i = 1; i < lowerKeywords.length; i++) {
+          const keyword = lowerKeywords[i];
+          const docsForKeyword = new Set(this.invertedIndex.get(keyword) || []);
+          resultIndices.forEach(idx => {
+            if (!docsForKeyword.has(idx)) {
+              resultIndices.delete(idx);
+            }
+          });
+        }
+      }
+      
+      const finalIndices = Array.from(resultIndices);
+      matches = finalIndices.map(idx => this.allDataArray[idx]);
+
+      // If provinceCode is provided, we need to filter the results from the global index
+      if (provinceCode) {
+        matches = matches.filter(m => m.provinceCode === provinceCode);
+      }
     }
 
     // Flyweight: Instantiate PostalCode only for results
@@ -176,10 +206,13 @@ export class TsPostalCodeRepository implements SearchableRepository {
    * Clear the memory cache.
    */
   clearMemory(): void {
-    this.provinceCache.clear();
-    this.provinceLoadPromises.clear();
     this.postalCodeIndex.clear();
+    this.invertedIndex.clear();
     this.allData = null;
+    this.allDataArray = [];
     this.allLoadPromise = null;
+    if (this.dataProvider instanceof TsDataProvider) {
+      this.dataProvider.clearCache();
+    }
   }
 }
