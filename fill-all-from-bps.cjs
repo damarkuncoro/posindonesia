@@ -2,7 +2,7 @@
  * Script untuk mengisi villageCode kosong di SEMUA file src/data
  * Menggunakan data resmi dari BPS API
  * 
- * Run: node fill-all-from-bps.js
+ * Run: node fill-all-from-bps.cjs
  */
 
 const fs = require('fs');
@@ -21,10 +21,12 @@ function fetchBpsVillageCodes(districtCode) {
         try {
           resolve(JSON.parse(data));
         } catch (e) {
+          console.error(`Error parsing BPS data for district ${districtCode}:`, e);
           resolve([]);
         }
       });
-    }).on('error', () => {
+    }).on('error', (err) => {
+      console.error(`Error fetching BPS data for district ${districtCode}:`, err);
       resolve([]);
     });
   });
@@ -67,7 +69,7 @@ function parseDataFile(content) {
   return records;
 }
 
-// Match village names
+// Match village names with fuzzy matching
 function matchVillageName(dataVillage, bpsVillage) {
   const normalize = (s) => s.toUpperCase()
     .replace(/KEL\.\s*/g, '')
@@ -78,13 +80,25 @@ function matchVillageName(dataVillage, bpsVillage) {
   const d = normalize(dataVillage);
   const b = normalize(bpsVillage);
   
+  // Exact match
   if (d === b) return true;
+  
+  // Partial match (one contains the other)
   if (d.includes(b) || b.includes(d)) return true;
+  
+  // Common variations
   if (d.replace('GAMPANG', 'KAMPUNG') === b) return true;
   if (d.replace('KAMPUNG', 'GAMPANG') === b) return true;
   if (d.replace('MENJANGAN', 'MENJANA') === b) return true;
   if (d.replace('-', ' ') === b.replace('-', ' ')) return true;
+  if (d.replace(/[^A-Z]/g, '') === b.replace(/[^A-Z]/g, '')) return true;
+  
   return false;
+}
+
+// Escape special regex characters
+function escapeRegex(str) {
+  return str.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
 }
 
 // Process a single file
@@ -104,10 +118,17 @@ async function processFile(filePath) {
   
   if (districtMap.size === 0) return 0;
   
+  console.log(`  Districts dengan villageCode kosong: ${districtMap.size}`);
+  
   let filledCount = 0;
+  let matchedNotReplaced = 0;
   
   for (const [districtCode, emptyRecords] of districtMap) {
     const bpsVillages = await fetchBpsVillageCodes(districtCode);
+    
+    if (bpsVillages.length === 0) {
+      console.log(`  WARNING: Tidak ada data BPS untuk district ${districtCode}`);
+    }
     
     for (const record of emptyRecords) {
       const matched = bpsVillages.find(bps => 
@@ -115,17 +136,26 @@ async function processFile(filePath) {
       );
       
       if (matched) {
+        const escapedDistrict = escapeRegex(record.district);
+        const escapedVillage = escapeRegex(record.village);
+        
         const searchPattern = new RegExp(
-          `("district":\\s*"${record.district}".*?"village":\\s*"${record.village}".*?"villageCode":\\s*)""`,
+          `("district":\\s*"${escapedDistrict}".*?"village":\\s*"${escapedVillage}".*?"villageCode":\\s*)""`,
           's'
         );
-        content = content.replace(searchPattern, `$1"${matched.kode}"`);
-        filledCount++;
+        const result = content.replace(searchPattern, `$1"${matched.kode}"`);
+        if (result !== content) {
+          content = result;
+          filledCount++;
+        } else {
+          matchedNotReplaced++;
+        }
       }
     }
   }
   
   fs.writeFileSync(filePath, content);
+  console.log(`  => VillageCode diisi: ${filledCount}, matched tapi tidak replace: ${matchedNotReplaced}`);
   return filledCount;
 }
 
@@ -145,7 +175,6 @@ async function main() {
     console.log(`\nProcessing: ${file}...`);
     
     const filled = await processFile(filePath);
-    console.log(`  => VillageCode diisi: ${filled}`);
     totalFilled += filled;
   }
   

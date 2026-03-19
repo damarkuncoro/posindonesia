@@ -97,7 +97,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Syiah Kuala",
     "districtCode": "1171040",
     "village": "Ie Masen Kayee Adang",
-    "villageCode": "",
+    "villageCode": "1171040010",
     "postalCode": "23116"
   },
   {
@@ -130,7 +130,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Ulee Kareng",
     "districtCode": "1171041",
     "village": "Ie Masen Ulee Kareng",
-    "villageCode": "",
+    "villageCode": "1171041007",
     "postalCode": "23117"
   },
   {
@@ -1098,7 +1098,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Peukan Bada",
     "districtCode": "1108120",
     "village": "Lam Awe",
-    "villageCode": "",
+    "villageCode": "1108120018",
     "postalCode": "23351"
   },
   {
@@ -1109,7 +1109,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Peukan Bada",
     "districtCode": "1108120",
     "village": "Gampong Baro",
-    "villageCode": "",
+    "villageCode": "1108120016",
     "postalCode": "23351"
   },
   {
@@ -1153,7 +1153,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Peukan Bada",
     "districtCode": "1108120",
     "village": "Rima Jeuneu",
-    "villageCode": "",
+    "villageCode": "1108120004",
     "postalCode": "23351"
   },
   {
@@ -1252,7 +1252,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Peukan Bada",
     "districtCode": "1108120",
     "village": "Lambaro Nejid",
-    "villageCode": "",
+    "villageCode": "1108120016",
     "postalCode": "23351"
   },
   {
@@ -1538,7 +1538,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Darul Imarah",
     "districtCode": "1108110",
     "village": "Lamkawe",
-    "villageCode": "",
+    "villageCode": "1108110036",
     "postalCode": "23352"
   },
   {
@@ -1659,7 +1659,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Lhoknga",
     "districtCode": "1108020",
     "village": "Meunasah Baro Lamlhom",
-    "villageCode": "",
+    "villageCode": "1108020027",
     "postalCode": "23353"
   },
   {
@@ -1703,7 +1703,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Lhoknga",
     "districtCode": "1108020",
     "village": "Meunasah Mon Cut",
-    "villageCode": "",
+    "villageCode": "1108020016",
     "postalCode": "23353"
   },
   {
@@ -2803,7 +2803,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Montasik",
     "districtCode": "1108080",
     "village": "Piyeung Manee",
-    "villageCode": "",
+    "villageCode": "1108080004",
     "postalCode": "23362"
   },
   {
@@ -3012,7 +3012,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Montasik",
     "districtCode": "1108080",
     "village": "Gampong Baroh",
-    "villageCode": "",
+    "villageCode": "1108080022",
     "postalCode": "23362"
   },
   {
@@ -3067,7 +3067,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Montasik",
     "districtCode": "1108080",
     "village": "Kp. Alue",
-    "villageCode": "",
+    "villageCode": "1108080025",
     "postalCode": "23362"
   },
   {
@@ -3463,7 +3463,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Indrapuri",
     "districtCode": "1108030",
     "village": "Indrapuri",
-    "villageCode": "",
+    "villageCode": "1108030038",
     "postalCode": "23363"
   },
   {
@@ -4552,7 +4552,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Blang Bintang",
     "districtCode": "1108081",
     "village": "Paya Ue",
-    "villageCode": "",
+    "villageCode": "1108081003",
     "postalCode": "23368"
   },
   {
@@ -4618,7 +4618,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Blang Bintang",
     "districtCode": "1108081",
     "village": "Cot Bagie",
-    "villageCode": "",
+    "villageCode": "1108081014",
     "postalCode": "23368"
   },
   {
@@ -4849,7 +4849,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Ingin Jaya",
     "districtCode": "1108090",
     "village": "Lamteungoh",
-    "villageCode": "",
+    "villageCode": "1108090023",
     "postalCode": "23371"
   },
   {
@@ -5751,7 +5751,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Darussalam",
     "districtCode": "1108060",
     "village": "Lambiheu La",
-    "villageCode": "",
+    "villageCode": "1108060009",
     "postalCode": "23373"
   },
   {
@@ -5817,7 +5817,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Darussalam",
     "districtCode": "1108060",
     "village": "Gampong Blang",
-    "villageCode": "",
+    "villageCode": "1108060022",
     "postalCode": "23373"
   },
   {
@@ -5839,7 +5839,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Darussalam",
     "districtCode": "1108060",
     "village": "Lam Gawe",
-    "villageCode": "",
+    "villageCode": "1108060003",
     "postalCode": "23373"
   },
   {
@@ -5850,7 +5850,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Darussalam",
     "districtCode": "1108060",
     "village": "Lam Duroy",
-    "villageCode": "",
+    "villageCode": "1108060018",
     "postalCode": "23373"
   },
   {
@@ -5927,7 +5927,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Darussalam",
     "districtCode": "1108060",
     "village": "Gampong Cot",
-    "villageCode": "",
+    "villageCode": "1108060023",
     "postalCode": "23373"
   },
   {
@@ -6213,7 +6213,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Mesjid Raya",
     "districtCode": "1108050",
     "village": "Gampong Baro",
-    "villageCode": "",
+    "villageCode": "1108050002",
     "postalCode": "23381"
   },
   {
@@ -6763,7 +6763,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Pasie Raya",
     "districtCode": "1116011",
     "village": "Tuwi Kareung",
-    "villageCode": "",
+    "villageCode": "1116011006",
     "postalCode": "23641"
   },
   {
@@ -6895,7 +6895,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Panga",
     "districtCode": "1116020",
     "village": "Tuwi Kareung",
-    "villageCode": "",
+    "villageCode": "1116020002",
     "postalCode": "23642"
   },
   {
@@ -7093,7 +7093,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Darul Hikmah",
     "districtCode": "1116051",
     "village": "Gampong Baro Lamteungoh",
-    "villageCode": "",
+    "villageCode": "1116051016",
     "postalCode": "23643"
   },
   {
@@ -7148,7 +7148,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Darul Hikmah",
     "districtCode": "1116051",
     "village": "Gampong Baro Patek",
-    "villageCode": "",
+    "villageCode": "1116051001",
     "postalCode": "23643"
   },
   {
@@ -7610,7 +7610,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Meureubo",
     "districtCode": "1107081",
     "village": "Paya Baro Ranto P",
-    "villageCode": "",
+    "villageCode": "1107081026",
     "postalCode": "23651"
   },
   {
@@ -7863,7 +7863,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Samatiga",
     "districtCode": "1107060",
     "village": "Suak Seuke",
-    "villageCode": "",
+    "villageCode": "1107060010",
     "postalCode": "23652"
   },
   {
@@ -8171,7 +8171,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Teunom",
     "districtCode": "1116010",
     "village": "Batee Roo",
-    "villageCode": "",
+    "villageCode": "1116010014",
     "postalCode": "23653"
   },
   {
@@ -9337,7 +9337,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Arongan Lambalek",
     "districtCode": "1107062",
     "village": "Suak Ie Beuso",
-    "villageCode": "",
+    "villageCode": "1107062003",
     "postalCode": "23659"
   },
   {
@@ -9480,7 +9480,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Arongan Lambalek",
     "districtCode": "1107062",
     "village": "Panton Makmu",
-    "villageCode": "",
+    "villageCode": "1107062022",
     "postalCode": "23659"
   },
   {
@@ -10305,7 +10305,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Woyla",
     "districtCode": "1107070",
     "village": "Lung Jawa",
-    "villageCode": "",
+    "villageCode": "1107070053",
     "postalCode": "23682"
   },
   {
@@ -10503,7 +10503,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Woyla",
     "districtCode": "1107070",
     "village": "Cot Keumude",
-    "villageCode": "",
+    "villageCode": "1107070049",
     "postalCode": "23682"
   },
   {
@@ -10580,7 +10580,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Sungai Mas",
     "districtCode": "1107090",
     "village": "Pungki",
-    "villageCode": "",
+    "villageCode": "1107090006",
     "postalCode": "23683"
   },
   {
@@ -11119,7 +11119,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Woyla Barat",
     "districtCode": "1107071",
     "village": "Lhok Malee",
-    "villageCode": "",
+    "villageCode": "1107071007",
     "postalCode": "23685"
   },
   {
@@ -11218,7 +11218,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Woyla Barat",
     "districtCode": "1107071",
     "village": "Pasi Malee",
-    "villageCode": "",
+    "villageCode": "1107071003",
     "postalCode": "23685"
   },
   {
@@ -11262,7 +11262,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Woyla Barat",
     "districtCode": "1107071",
     "village": "Alue Keumuning",
-    "villageCode": "",
+    "villageCode": "1107071020",
     "postalCode": "23685"
   },
   {
@@ -11812,7 +11812,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Panton Reu",
     "districtCode": "1107083",
     "village": "Lek-Lek",
-    "villageCode": "",
+    "villageCode": "1107083005",
     "postalCode": "23689"
   },
   {
@@ -11856,7 +11856,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Panton Reu",
     "districtCode": "1107083",
     "village": "Kuala Manyeue",
-    "villageCode": "",
+    "villageCode": "1107083011",
     "postalCode": "23689"
   },
   {
@@ -12153,7 +12153,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Lembah Sabil",
     "districtCode": "1112011",
     "village": "Kayee Aceh",
-    "villageCode": "",
+    "villageCode": "1112011018",
     "postalCode": "23741"
   },
   {
@@ -12164,7 +12164,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Lembah Sabil",
     "districtCode": "1112011",
     "village": "Padang Keulele",
-    "villageCode": "",
+    "villageCode": "1112011008",
     "postalCode": "23741"
   },
   {
@@ -12362,7 +12362,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Setia",
     "districtCode": "1112021",
     "village": "Tangan-Tangan Cut",
-    "villageCode": "",
+    "villageCode": "1112021002",
     "postalCode": "23742"
   },
   {
@@ -12450,7 +12450,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Jeumpa",
     "districtCode": "1112031",
     "village": "Ikue Lhung",
-    "villageCode": "",
+    "villageCode": "1112031004",
     "postalCode": "23743"
   },
   {
@@ -12472,7 +12472,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Jeumpa",
     "districtCode": "1112031",
     "village": "Alue Seulaseh",
-    "villageCode": "",
+    "villageCode": "1112031011",
     "postalCode": "23743"
   },
   {
@@ -12483,7 +12483,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Jeumpa",
     "districtCode": "1112031",
     "village": "Asoe Nanggroe",
-    "villageCode": "",
+    "villageCode": "1112031002",
     "postalCode": "23743"
   },
   {
@@ -12835,7 +12835,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Sawang",
     "districtCode": "1103070",
     "village": "Blang Geulinggang",
-    "villageCode": "",
+    "villageCode": "1103070005",
     "postalCode": "23753"
   },
   {
@@ -12868,7 +12868,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Sawang",
     "districtCode": "1103070",
     "village": "Simpang Tiga",
-    "villageCode": "",
+    "villageCode": "1103070004",
     "postalCode": "23753"
   },
   {
@@ -13176,7 +13176,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Meukek",
     "districtCode": "1103080",
     "village": "Arun Tunggai",
-    "villageCode": "",
+    "villageCode": "1103080008",
     "postalCode": "23754"
   },
   {
@@ -13506,7 +13506,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Kluet Tengah",
     "districtCode": "1103042",
     "village": "Siurai-Urai",
-    "villageCode": "",
+    "villageCode": "1103042003",
     "postalCode": "23756"
   },
   {
@@ -13517,7 +13517,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Kluet Tengah",
     "districtCode": "1103042",
     "village": "Alur Keujrun",
-    "villageCode": "",
+    "villageCode": "1103042013",
     "postalCode": "23756"
   },
   {
@@ -13671,7 +13671,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Labuhan Haji Barat",
     "districtCode": "1103092",
     "village": "Iku Lhueng",
-    "villageCode": "",
+    "villageCode": "1103092003",
     "postalCode": "23757"
   },
   {
@@ -13715,7 +13715,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Labuhan Haji Barat",
     "districtCode": "1103092",
     "village": "Teungoh Iboh",
-    "villageCode": "",
+    "villageCode": "1103092010",
     "postalCode": "23757"
   },
   {
@@ -13847,7 +13847,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Labuhan Haji Timur",
     "districtCode": "1103091",
     "village": "Peuneulop",
-    "villageCode": "",
+    "villageCode": "1103091009",
     "postalCode": "23758"
   },
   {
@@ -14298,7 +14298,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Tangan-Tangan",
     "districtCode": "1112020",
     "village": "Padang Bak Jok",
-    "villageCode": "",
+    "villageCode": "1112020001",
     "postalCode": "23763"
   },
   {
@@ -14320,7 +14320,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Tangan-Tangan",
     "districtCode": "1112020",
     "village": "Kuta Bak Drien",
-    "villageCode": "",
+    "villageCode": "1112020014",
     "postalCode": "23763"
   },
   {
@@ -14408,7 +14408,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Tangan-Tangan",
     "districtCode": "1112020",
     "village": "Gunong Cut",
-    "villageCode": "",
+    "villageCode": "1112020010",
     "postalCode": "23763"
   },
   {
@@ -14430,7 +14430,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Tangan-Tangan",
     "districtCode": "1112020",
     "village": "Ie Lhob",
-    "villageCode": "",
+    "villageCode": "1112020015",
     "postalCode": "23763"
   },
   {
@@ -15002,7 +15002,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Kuala Batee",
     "districtCode": "1112050",
     "village": "Pasar Kota Bahagia",
-    "villageCode": "",
+    "villageCode": "1112050015",
     "postalCode": "23766"
   },
   {
@@ -15057,7 +15057,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Kuala Batee",
     "districtCode": "1112050",
     "village": "Lhung Geulumpang",
-    "villageCode": "",
+    "villageCode": "1112050009",
     "postalCode": "23766"
   },
   {
@@ -15068,7 +15068,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Kuala Batee",
     "districtCode": "1112050",
     "village": "Kuala Terubue",
-    "villageCode": "",
+    "villageCode": "1112050014",
     "postalCode": "23766"
   },
   {
@@ -15090,7 +15090,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Kuala Batee",
     "districtCode": "1112050",
     "village": "Geulanggang Gajah",
-    "villageCode": "",
+    "villageCode": "1112050018",
     "postalCode": "23766"
   },
   {
@@ -15167,7 +15167,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Kuala Batee",
     "districtCode": "1112050",
     "village": "Keude Baro",
-    "villageCode": "",
+    "villageCode": "1112050002",
     "postalCode": "23766"
   },
   {
@@ -15211,7 +15211,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Babah Rot",
     "districtCode": "1112060",
     "village": "Rukoen Dame",
-    "villageCode": "",
+    "villageCode": "1112060011",
     "postalCode": "23767"
   },
   {
@@ -15277,7 +15277,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Babah Rot",
     "districtCode": "1112060",
     "village": "Pante Rakyat",
-    "villageCode": "",
+    "villageCode": "1112060003",
     "postalCode": "23767"
   },
   {
@@ -15288,7 +15288,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Babah Rot",
     "districtCode": "1112060",
     "village": "Ie Mirah",
-    "villageCode": "",
+    "villageCode": "1112060002",
     "postalCode": "23767"
   },
   {
@@ -15310,7 +15310,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Babah Rot",
     "districtCode": "1112060",
     "village": "Pante Cermin",
-    "villageCode": "",
+    "villageCode": "1112060004",
     "postalCode": "23767"
   },
   {
@@ -15409,7 +15409,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Kluet Utara",
     "districtCode": "1103040",
     "village": "Kotafajar",
-    "villageCode": "",
+    "villageCode": "1103040052",
     "postalCode": "23771"
   },
   {
@@ -15508,7 +15508,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Kluet Utara",
     "districtCode": "1103040",
     "village": "Ruak",
-    "villageCode": "",
+    "villageCode": "1103040051",
     "postalCode": "23771"
   },
   {
@@ -15585,7 +15585,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Kluet Utara",
     "districtCode": "1103040",
     "village": "Suaq Geuringgeng",
-    "villageCode": "",
+    "villageCode": "1103040003",
     "postalCode": "23771"
   },
   {
@@ -15596,7 +15596,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Kluet Selatan",
     "districtCode": "1103030",
     "village": "Suaq Bakung",
-    "villageCode": "",
+    "villageCode": "1103030004",
     "postalCode": "23772"
   },
   {
@@ -15673,7 +15673,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Kluet Selatan",
     "districtCode": "1103030",
     "village": "Geulumbuk",
-    "villageCode": "",
+    "villageCode": "1103030016",
     "postalCode": "23772"
   },
   {
@@ -15717,7 +15717,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Kluet Selatan",
     "districtCode": "1103030",
     "village": "Pasie Lembang",
-    "villageCode": "",
+    "villageCode": "1103030001",
     "postalCode": "23772"
   },
   {
@@ -15750,7 +15750,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Kluet Selatan",
     "districtCode": "1103030",
     "village": "Gampong Luar",
-    "villageCode": "",
+    "villageCode": "1103030012",
     "postalCode": "23772"
   },
   {
@@ -15772,7 +15772,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Kluet Selatan",
     "districtCode": "1103030",
     "village": "Pasi Meurapat",
-    "villageCode": "",
+    "villageCode": "1103030010",
     "postalCode": "23772"
   },
   {
@@ -15805,7 +15805,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Bakongan",
     "districtCode": "1103020",
     "village": "Gampong Baro",
-    "villageCode": "",
+    "villageCode": "1103020003",
     "postalCode": "23773"
   },
   {
@@ -15816,7 +15816,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Bakongan",
     "districtCode": "1103020",
     "village": "Ujong Mangki",
-    "villageCode": "",
+    "villageCode": "1103020001",
     "postalCode": "23773"
   },
   {
@@ -15827,7 +15827,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Bakongan",
     "districtCode": "1103020",
     "village": "Darul Ikhsan",
-    "villageCode": "",
+    "villageCode": "1103020023",
     "postalCode": "23773"
   },
   {
@@ -15838,7 +15838,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Bakongan",
     "districtCode": "1103020",
     "village": "Gampong Drien",
-    "villageCode": "",
+    "villageCode": "1103020015",
     "postalCode": "23773"
   },
   {
@@ -15860,7 +15860,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Trumon",
     "districtCode": "1103010",
     "village": "Sigleng",
-    "villageCode": "",
+    "villageCode": "1103010012",
     "postalCode": "23774"
   },
   {
@@ -15882,7 +15882,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Trumon",
     "districtCode": "1103010",
     "village": "Panton Bilie",
-    "villageCode": "",
+    "villageCode": "1103010013",
     "postalCode": "23774"
   },
   {
@@ -15893,7 +15893,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Trumon",
     "districtCode": "1103010",
     "village": "Seuneubok Jaya",
-    "villageCode": "",
+    "villageCode": "1103010030",
     "postalCode": "23774"
   },
   {
@@ -15904,7 +15904,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Trumon",
     "districtCode": "1103010",
     "village": "Ujong Tanoh",
-    "villageCode": "",
+    "villageCode": "1103010009",
     "postalCode": "23774"
   },
   {
@@ -15937,7 +15937,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Trumon",
     "districtCode": "1103010",
     "village": "Padang Harapan",
-    "villageCode": "",
+    "villageCode": "1103010027",
     "postalCode": "23774"
   },
   {
@@ -15981,7 +15981,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Trumon",
     "districtCode": "1103010",
     "village": "Gampong Teungoh",
-    "villageCode": "",
+    "villageCode": "1103010003",
     "postalCode": "23774"
   },
   {
@@ -16124,7 +16124,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Trumon Timur",
     "districtCode": "1103011",
     "village": "Kapa Sesak",
-    "villageCode": "",
+    "villageCode": "1103011011",
     "postalCode": "23776"
   },
   {
@@ -16146,7 +16146,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Trumon Timur",
     "districtCode": "1103011",
     "village": "Seuneubok Punto",
-    "villageCode": "",
+    "villageCode": "1103011003",
     "postalCode": "23776"
   },
   {
@@ -16157,7 +16157,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Trumon Timur",
     "districtCode": "1103011",
     "village": "Krueng Luas",
-    "villageCode": "",
+    "villageCode": "1103011009",
     "postalCode": "23776"
   },
   {
@@ -16168,7 +16168,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Trumon Timur",
     "districtCode": "1103011",
     "village": "Seuneubok Pusaka",
-    "villageCode": "",
+    "villageCode": "1103011012",
     "postalCode": "23776"
   },
   {
@@ -16256,7 +16256,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Bakongan Timur",
     "districtCode": "1103021",
     "village": "Pasie Seubadeh",
-    "villageCode": "",
+    "villageCode": "1103021004",
     "postalCode": "23777"
   },
   {
@@ -16267,7 +16267,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Kota Bahagia",
     "districtCode": "1103022",
     "village": "Buket Gadeng",
-    "villageCode": "",
+    "villageCode": "1103022010",
     "postalCode": "23778"
   },
   {
@@ -16278,7 +16278,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Kota Bahagia",
     "districtCode": "1103022",
     "village": "Ujong Tanoh",
-    "villageCode": "",
+    "villageCode": "1103022004",
     "postalCode": "23778"
   },
   {
@@ -16322,7 +16322,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Kota Bahagia",
     "districtCode": "1103022",
     "village": "Ujong Gunung Rayeuk",
-    "villageCode": "",
+    "villageCode": "1103022006",
     "postalCode": "23778"
   },
   {
@@ -16344,7 +16344,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Kota Bahagia",
     "districtCode": "1103022",
     "village": "Ujong Gunong Cut",
-    "villageCode": "",
+    "villageCode": "1103022007",
     "postalCode": "23778"
   },
   {
@@ -16740,7 +16740,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Seulimeum",
     "districtCode": "1108040",
     "village": "Peukan Seulimeum",
-    "villageCode": "",
+    "villageCode": "1108040035",
     "postalCode": "23951"
   },
   {
@@ -16751,7 +16751,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Seulimeum",
     "districtCode": "1108040",
     "village": "Gampong Seulimeum",
-    "villageCode": "",
+    "villageCode": "1108040035",
     "postalCode": "23951"
   },
   {
@@ -17697,7 +17697,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Dewantara",
     "districtCode": "1111170",
     "village": "Geulumpang Sulu Timu",
-    "villageCode": "",
+    "villageCode": "1111170011",
     "postalCode": "24354"
   },
   {
@@ -17895,7 +17895,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Muara Batu",
     "districtCode": "1111160",
     "village": "Reuleut Timu",
-    "villageCode": "",
+    "villageCode": "1111160004",
     "postalCode": "24355"
   },
   {
@@ -18489,7 +18489,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Kuta Makmur",
     "districtCode": "1111030",
     "village": "Cot Rheu",
-    "villageCode": "",
+    "villageCode": "1111030034",
     "postalCode": "24371"
   },
   {
@@ -18511,7 +18511,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Kuta Makmur",
     "districtCode": "1111030",
     "village": "Cot Seutui",
-    "villageCode": "",
+    "villageCode": "1111030041",
     "postalCode": "24371"
   },
   {
@@ -18610,7 +18610,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Kuta Makmur",
     "districtCode": "1111030",
     "village": "Meunasah Buket",
-    "villageCode": "",
+    "villageCode": "1111030017",
     "postalCode": "24371"
   },
   {
@@ -18753,7 +18753,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Meurah Mulia",
     "districtCode": "1111050",
     "village": "Tanjong",
-    "villageCode": "",
+    "villageCode": "1111050041",
     "postalCode": "24372"
   },
   {
@@ -18764,7 +18764,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Meurah Mulia",
     "districtCode": "1111050",
     "village": "Barat Paya Itek",
-    "villageCode": "",
+    "villageCode": "1111050029",
     "postalCode": "24372"
   },
   {
@@ -18797,7 +18797,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Meurah Mulia",
     "districtCode": "1111050",
     "village": "Keeh",
-    "villageCode": "",
+    "villageCode": "1111050032",
     "postalCode": "24372"
   },
   {
@@ -18852,7 +18852,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Meurah Mulia",
     "districtCode": "1111050",
     "village": "Baree Blang",
-    "villageCode": "",
+    "villageCode": "1111050001",
     "postalCode": "24372"
   },
   {
@@ -18874,7 +18874,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Meurah Mulia",
     "districtCode": "1111050",
     "village": "Ubit Paya Itek",
-    "villageCode": "",
+    "villageCode": "1111050035",
     "postalCode": "24372"
   },
   {
@@ -18940,7 +18940,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Meurah Mulia",
     "districtCode": "1111050",
     "village": "Mesjid",
-    "villageCode": "",
+    "villageCode": "1111050027",
     "postalCode": "24372"
   },
   {
@@ -18973,7 +18973,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Meurah Mulia",
     "districtCode": "1111050",
     "village": "Rayeuk Paya Itek",
-    "villageCode": "",
+    "villageCode": "1111050034",
     "postalCode": "24372"
   },
   {
@@ -19050,7 +19050,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Meurah Mulia",
     "districtCode": "1111050",
     "village": "Rangkileh",
-    "villageCode": "",
+    "villageCode": "1111050036",
     "postalCode": "24372"
   },
   {
@@ -19204,7 +19204,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Meurah Mulia",
     "districtCode": "1111050",
     "village": "Pulo Drien Beukah",
-    "villageCode": "",
+    "villageCode": "1111050019",
     "postalCode": "24372"
   },
   {
@@ -19259,7 +19259,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Syamtalira Bayu",
     "districtCode": "1111040",
     "village": "Glong",
-    "villageCode": "",
+    "villageCode": "1111040039",
     "postalCode": "24373"
   },
   {
@@ -19512,7 +19512,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Syamtalira Bayu",
     "districtCode": "1111040",
     "village": "Langa",
-    "villageCode": "",
+    "villageCode": "1111040040",
     "postalCode": "24373"
   },
   {
@@ -19545,7 +19545,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Syamtalira Bayu",
     "districtCode": "1111040",
     "village": "Beunot",
-    "villageCode": "",
+    "villageCode": "1111040041",
     "postalCode": "24373"
   },
   {
@@ -19688,7 +19688,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Samudera",
     "districtCode": "1111130",
     "village": "Krueng Baro Blang Mee",
-    "villageCode": "",
+    "villageCode": "1111130027",
     "postalCode": "24374"
   },
   {
@@ -19941,7 +19941,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Samudera",
     "districtCode": "1111130",
     "village": "Asan",
-    "villageCode": "",
+    "villageCode": "1111130019",
     "postalCode": "24374"
   },
   {
@@ -19985,7 +19985,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Samudera",
     "districtCode": "1111130",
     "village": "Keude Blang Mee Pulo Klat",
-    "villageCode": "",
+    "villageCode": "1111130032",
     "postalCode": "24374"
   },
   {
@@ -20051,7 +20051,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Samudera",
     "districtCode": "1111130",
     "village": "Krueng Matee",
-    "villageCode": "",
+    "villageCode": "1111130022",
     "postalCode": "24374"
   },
   {
@@ -20194,7 +20194,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Nisam",
     "districtCode": "1111020",
     "village": "Cot Mee",
-    "villageCode": "",
+    "villageCode": "1111020027",
     "postalCode": "24376"
   },
   {
@@ -20601,7 +20601,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Sawang",
     "districtCode": "1111010",
     "village": "Lhok Kuyun",
-    "villageCode": "",
+    "villageCode": "1111010024",
     "postalCode": "24377"
   },
   {
@@ -21272,7 +21272,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Syamtalira Aron",
     "districtCode": "1111140",
     "village": "Glok",
-    "villageCode": "",
+    "villageCode": "1111140004",
     "postalCode": "24381"
   },
   {
@@ -21580,7 +21580,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Lhoksukon",
     "districtCode": "1111110",
     "village": "Grong-grong",
-    "villageCode": "",
+    "villageCode": "1111110025",
     "postalCode": "24382"
   },
   {
@@ -22152,7 +22152,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Lhoksukon",
     "districtCode": "1111110",
     "village": "Pante",
-    "villageCode": "",
+    "villageCode": "1111110050",
     "postalCode": "24382"
   },
   {
@@ -22251,7 +22251,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Lhoksukon",
     "districtCode": "1111110",
     "village": "Meunasah Nga LT",
-    "villageCode": "",
+    "villageCode": "1111110034",
     "postalCode": "24382"
   },
   {
@@ -22284,7 +22284,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Lhoksukon",
     "districtCode": "1111110",
     "village": "Lhok Seuntang",
-    "villageCode": "",
+    "villageCode": "1111110032",
     "postalCode": "24382"
   },
   {
@@ -22405,7 +22405,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Cot Girek",
     "districtCode": "1111070",
     "village": "Gampong Ara",
-    "villageCode": "",
+    "villageCode": "1111070014",
     "postalCode": "24383"
   },
   {
@@ -22625,7 +22625,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Tanah Luas",
     "districtCode": "1111120",
     "village": "Ujong Baroh Berghang",
-    "villageCode": "",
+    "villageCode": "1111120067",
     "postalCode": "24385"
   },
   {
@@ -22724,7 +22724,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Tanah Luas",
     "districtCode": "1111120",
     "village": "Jeumpa Berghang",
-    "villageCode": "",
+    "villageCode": "1111120057",
     "postalCode": "24385"
   },
   {
@@ -22845,7 +22845,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Tanah Luas",
     "districtCode": "1111120",
     "village": "Teupin Mee",
-    "villageCode": "",
+    "villageCode": "1111120024",
     "postalCode": "24385"
   },
   {
@@ -23054,7 +23054,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Tanah Luas",
     "districtCode": "1111120",
     "village": "Teungoh Berghang",
-    "villageCode": "",
+    "villageCode": "1111120056",
     "postalCode": "24385"
   },
   {
@@ -23131,7 +23131,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Tanah Luas",
     "districtCode": "1111120",
     "village": "Meunasah Tutong",
-    "villageCode": "",
+    "villageCode": "1111120054",
     "postalCode": "24385"
   },
   {
@@ -23142,7 +23142,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Tanah Luas",
     "districtCode": "1111120",
     "village": "Pante Berghang",
-    "villageCode": "",
+    "villageCode": "1111120058",
     "postalCode": "24385"
   },
   {
@@ -23208,7 +23208,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Tanah Luas",
     "districtCode": "1111120",
     "village": "Manyang SB",
-    "villageCode": "",
+    "villageCode": "1111120033",
     "postalCode": "24385"
   },
   {
@@ -23263,7 +23263,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Matangkuli",
     "districtCode": "1111060",
     "village": "Keude Matangkuli",
-    "villageCode": "",
+    "villageCode": "1111060104",
     "postalCode": "24386"
   },
   {
@@ -23439,7 +23439,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Matangkuli",
     "districtCode": "1111060",
     "village": "Teungoh Glumpang VII",
-    "villageCode": "",
+    "villageCode": "1111060108",
     "postalCode": "24386"
   },
   {
@@ -23516,7 +23516,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Matangkuli",
     "districtCode": "1111060",
     "village": "Blang Supeng",
-    "villageCode": "",
+    "villageCode": "1111060097",
     "postalCode": "24386"
   },
   {
@@ -23725,7 +23725,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Matangkuli",
     "districtCode": "1111060",
     "village": "Kunyet Mulee",
-    "villageCode": "",
+    "villageCode": "1111060057",
     "postalCode": "24386"
   },
   {
@@ -23736,7 +23736,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Matangkuli",
     "districtCode": "1111060",
     "village": "Blang Matangkuli",
-    "villageCode": "",
+    "villageCode": "1111060097",
     "postalCode": "24386"
   },
   {
@@ -23758,7 +23758,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Matangkuli",
     "districtCode": "1111060",
     "village": "Beuringen Pirak",
-    "villageCode": "",
+    "villageCode": "1111060066",
     "postalCode": "24386"
   },
   {
@@ -23901,7 +23901,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Paya Bakong",
     "districtCode": "1111061",
     "village": "Cempeudak",
-    "villageCode": "",
+    "villageCode": "1111061032",
     "postalCode": "24387"
   },
   {
@@ -24165,7 +24165,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Paya Bakong",
     "districtCode": "1111061",
     "village": "Gampong Nga",
-    "villageCode": "",
+    "villageCode": "1111061011",
     "postalCode": "24387"
   },
   {
@@ -24363,7 +24363,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Nibong",
     "districtCode": "1111121",
     "village": "Paya Terbang",
-    "villageCode": "",
+    "villageCode": "1111121011",
     "postalCode": "24388"
   },
   {
@@ -24396,7 +24396,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Nibong",
     "districtCode": "1111121",
     "village": "Keh Nibong",
-    "villageCode": "",
+    "villageCode": "1111121014",
     "postalCode": "24388"
   },
   {
@@ -25078,7 +25078,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Baktiya",
     "districtCode": "1111100",
     "village": "Mon Sukon",
-    "villageCode": "",
+    "villageCode": "1111100006",
     "postalCode": "24392"
   },
   {
@@ -25353,7 +25353,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Baktiya",
     "districtCode": "1111100",
     "village": "Lueng Bata",
-    "villageCode": "",
+    "villageCode": "1111100012",
     "postalCode": "24392"
   },
   {
@@ -25408,7 +25408,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Baktiya",
     "districtCode": "1111100",
     "village": "Pulo Seukee",
-    "villageCode": "",
+    "villageCode": "1111100074",
     "postalCode": "24392"
   },
   {
@@ -26112,7 +26112,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "T. Jambo Aye",
     "districtCode": "",
     "village": "Meunasah Dayah",
-    "villageCode": "",
+    "villageCode": "1110080064",
     "postalCode": "24394"
   },
   {
@@ -26541,7 +26541,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Langkahan",
     "districtCode": "1111081",
     "village": "Matang Teungoh Selatan",
-    "villageCode": "",
+    "villageCode": "1111081011",
     "postalCode": "24395"
   },
   {
@@ -26684,7 +26684,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Baktiya Barat",
     "districtCode": "1111101",
     "village": "Blang Rheue",
-    "villageCode": "",
+    "villageCode": "1111101024",
     "postalCode": "24396"
   },
   {
@@ -26959,7 +26959,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Lapang",
     "districtCode": "1111151",
     "village": "Kuala Kereuto",
-    "villageCode": "",
+    "villageCode": "1111151011",
     "postalCode": "24397"
   },
   {
@@ -27102,7 +27102,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Rantau Selamat",
     "districtCode": "1105100",
     "village": "Sarah Teube",
-    "villageCode": "",
+    "villageCode": "1105100010",
     "postalCode": "24452"
   },
   {
@@ -27179,7 +27179,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Rantau Selamat",
     "districtCode": "1105100",
     "village": "Bayeun",
-    "villageCode": "",
+    "villageCode": "1105100009",
     "postalCode": "24452"
   },
   {
@@ -27333,7 +27333,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Peureulak",
     "districtCode": "1105110",
     "village": "Paya Meuligou",
-    "villageCode": "",
+    "villageCode": "1105110034",
     "postalCode": "24453"
   },
   {
@@ -27916,7 +27916,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Idi Rayeuk",
     "districtCode": "1105130",
     "village": "Bantayan Timu",
-    "villageCode": "",
+    "villageCode": "1105130078",
     "postalCode": "24454"
   },
   {
@@ -28015,7 +28015,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Darul Aman",
     "districtCode": "1105140",
     "village": "Gampong Beunot",
-    "villageCode": "",
+    "villageCode": "1105140021",
     "postalCode": "24455"
   },
   {
@@ -28059,7 +28059,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Darul Aman",
     "districtCode": "1105140",
     "village": "Gampong Keude",
-    "villageCode": "",
+    "villageCode": "1105140037",
     "postalCode": "24455"
   },
   {
@@ -28070,7 +28070,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Darul Aman",
     "districtCode": "1105140",
     "village": "Gampong Baro",
-    "villageCode": "",
+    "villageCode": "1105140024",
     "postalCode": "24455"
   },
   {
@@ -28279,7 +28279,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Darul Aman",
     "districtCode": "1105140",
     "village": "Buket Rumia",
-    "villageCode": "",
+    "villageCode": "1105140009",
     "postalCode": "24455"
   },
   {
@@ -28444,7 +28444,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Darul Aman",
     "districtCode": "1105140",
     "village": "Matang Geuto",
-    "villageCode": "",
+    "villageCode": "1105140042",
     "postalCode": "24455"
   },
   {
@@ -28455,7 +28455,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Darul Aman",
     "districtCode": "1105140",
     "village": "Peukan Idi Cut",
-    "villageCode": "",
+    "villageCode": "1105140038",
     "postalCode": "24455"
   },
   {
@@ -28510,7 +28510,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Nurussalam",
     "districtCode": "1105150",
     "village": "Keude Bagok Sa",
-    "villageCode": "",
+    "villageCode": "1105150038",
     "postalCode": "24456"
   },
   {
@@ -28675,7 +28675,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Nurussalam",
     "districtCode": "1105150",
     "village": "Pulo U",
-    "villageCode": "",
+    "villageCode": "1105150029",
     "postalCode": "24456"
   },
   {
@@ -28752,7 +28752,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Nurussalam",
     "districtCode": "1105150",
     "village": "Keude Bagok Dua",
-    "villageCode": "",
+    "villageCode": "1105150037",
     "postalCode": "24456"
   },
   {
@@ -29005,7 +29005,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Simpang Ulim",
     "districtCode": "1105180",
     "village": "Pucok Alue Sa",
-    "villageCode": "",
+    "villageCode": "1105180010",
     "postalCode": "24457"
   },
   {
@@ -29060,7 +29060,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Simpang Ulim",
     "districtCode": "1105180",
     "village": "Alue Buloh Sa",
-    "villageCode": "",
+    "villageCode": "1105180023",
     "postalCode": "24457"
   },
   {
@@ -29566,7 +29566,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Madat",
     "districtCode": "1105181",
     "village": "Lueng Sa",
-    "villageCode": "",
+    "villageCode": "1105181017",
     "postalCode": "24459"
   },
   {
@@ -30215,7 +30215,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Birem Bayeun",
     "districtCode": "1105090",
     "village": "Alue Gadeng Dua",
-    "villageCode": "",
+    "villageCode": "1105090022",
     "postalCode": "24464"
   },
   {
@@ -30281,7 +30281,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Birem Bayeun",
     "districtCode": "1105090",
     "village": "Alue Gadeng SA",
-    "villageCode": "",
+    "villageCode": "1105090014",
     "postalCode": "24464"
   },
   {
@@ -30534,7 +30534,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Sungai Raya",
     "districtCode": "1105101",
     "village": "Labuhan Keudee",
-    "villageCode": "",
+    "villageCode": "1105101010",
     "postalCode": "24465"
   },
   {
@@ -30699,7 +30699,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Peureulak Timur",
     "districtCode": "1105111",
     "village": "Alue Bu Alue Lhok",
-    "villageCode": "",
+    "villageCode": "1105111006",
     "postalCode": "24466"
   },
   {
@@ -31348,7 +31348,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Peudawa",
     "districtCode": "1105131",
     "village": "Paya Bili Sa",
-    "villageCode": "",
+    "villageCode": "1105131005",
     "postalCode": "24469"
   },
   {
@@ -31469,7 +31469,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Manyak Payed",
     "districtCode": "1114080",
     "village": "Geulanggang Merak",
-    "villageCode": "",
+    "villageCode": "1114080017",
     "postalCode": "24471"
   },
   {
@@ -31821,7 +31821,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Bendahara",
     "districtCode": "1114060",
     "village": "Matang Tepah",
-    "villageCode": "",
+    "villageCode": "1114060003",
     "postalCode": "24472"
   },
   {
@@ -31854,7 +31854,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Bendahara",
     "districtCode": "1114060",
     "village": "Kuala Genting",
-    "villageCode": "",
+    "villageCode": "1114060028",
     "postalCode": "24472"
   },
   {
@@ -31898,7 +31898,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Bendahara",
     "districtCode": "1114060",
     "village": "Tumpok Tengoh",
-    "villageCode": "",
+    "villageCode": "1114060017",
     "postalCode": "24472"
   },
   {
@@ -31909,7 +31909,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Bendahara",
     "districtCode": "1114060",
     "village": "Kuala Penaga",
-    "villageCode": "",
+    "villageCode": "1114060027",
     "postalCode": "24472"
   },
   {
@@ -32030,7 +32030,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Bendahara",
     "districtCode": "1114060",
     "village": "Mesjid Sungai Iyu",
-    "villageCode": "",
+    "villageCode": "1114060030",
     "postalCode": "24472"
   },
   {
@@ -32052,7 +32052,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Bendahara",
     "districtCode": "1114060",
     "village": "Tanjung Parit",
-    "villageCode": "",
+    "villageCode": "1114060018",
     "postalCode": "24472"
   },
   {
@@ -32107,7 +32107,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Bendahara",
     "districtCode": "1114060",
     "village": "Mesjid Bendahara",
-    "villageCode": "",
+    "villageCode": "1114060021",
     "postalCode": "24472"
   },
   {
@@ -32151,7 +32151,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Banda Mulia",
     "districtCode": "1114061",
     "village": "Telaga Meuku Sa",
-    "villageCode": "",
+    "villageCode": "1114061008",
     "postalCode": "24473"
   },
   {
@@ -32184,7 +32184,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Banda Mulia",
     "districtCode": "1114061",
     "village": "Besar",
-    "villageCode": "",
+    "villageCode": "1114061006",
     "postalCode": "24473"
   },
   {
@@ -32228,7 +32228,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Banda Mulia",
     "districtCode": "1114061",
     "village": "Telaga Meuku Dua",
-    "villageCode": "",
+    "villageCode": "1114061007",
     "postalCode": "24473"
   },
   {
@@ -32360,7 +32360,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Seruway",
     "districtCode": "1114050",
     "village": "Pekan Seruway",
-    "villageCode": "",
+    "villageCode": "1114050018",
     "postalCode": "24473"
   },
   {
@@ -32470,7 +32470,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Seruway",
     "districtCode": "1114050",
     "village": "Perkebunan Seruway",
-    "villageCode": "",
+    "villageCode": "1114050013",
     "postalCode": "24473"
   },
   {
@@ -32492,7 +32492,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Seruway",
     "districtCode": "1114050",
     "village": "Sungai Kuruk II",
-    "villageCode": "",
+    "villageCode": "1114050010",
     "postalCode": "24473"
   },
   {
@@ -32503,7 +32503,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Seruway",
     "districtCode": "1114050",
     "village": "Sungai Kuruk III",
-    "villageCode": "",
+    "villageCode": "1114050010",
     "postalCode": "24473"
   },
   {
@@ -32514,7 +32514,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Seruway",
     "districtCode": "1114050",
     "village": "Kuala Pusung Kapal",
-    "villageCode": "",
+    "villageCode": "1114050024",
     "postalCode": "24473"
   },
   {
@@ -32712,7 +32712,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Rantau",
     "districtCode": "1114030",
     "village": "Durian",
-    "villageCode": "",
+    "villageCode": "1114030005",
     "postalCode": "24474"
   },
   {
@@ -32723,7 +32723,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Rantau",
     "districtCode": "1114030",
     "village": "Pertamina",
-    "villageCode": "",
+    "villageCode": "1114030012",
     "postalCode": "24474"
   },
   {
@@ -32822,7 +32822,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Rantau",
     "districtCode": "1114030",
     "village": "Mekar Jaya",
-    "villageCode": "",
+    "villageCode": "1114030017",
     "postalCode": "24474"
   },
   {
@@ -32866,7 +32866,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Tenggulun",
     "districtCode": "1114021",
     "village": "Sumber Makmur",
-    "villageCode": "",
+    "villageCode": "1114021007",
     "postalCode": "24475"
   },
   {
@@ -33108,7 +33108,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Karang Baru",
     "districtCode": "1114070",
     "village": "Air Tenang",
-    "villageCode": "",
+    "villageCode": "1114070023",
     "postalCode": "24476"
   },
   {
@@ -33141,7 +33141,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Karang Baru",
     "districtCode": "1114070",
     "village": "Bundar",
-    "villageCode": "",
+    "villageCode": "1114070019",
     "postalCode": "24476"
   },
   {
@@ -33251,7 +33251,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Karang Baru",
     "districtCode": "1114070",
     "village": "Tupah",
-    "villageCode": "",
+    "villageCode": "1114070025",
     "postalCode": "24476"
   },
   {
@@ -33273,7 +33273,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Karang Baru",
     "districtCode": "1114070",
     "village": "Johar",
-    "villageCode": "",
+    "villageCode": "1114070024",
     "postalCode": "24476"
   },
   {
@@ -33372,7 +33372,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Kejuruan Muda",
     "districtCode": "1114020",
     "village": "Karang Jadi",
-    "villageCode": "",
+    "villageCode": "1114020010",
     "postalCode": "24477"
   },
   {
@@ -33394,7 +33394,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Kejuruan Muda",
     "districtCode": "1114020",
     "village": "Jawa",
-    "villageCode": "",
+    "villageCode": "1114020011",
     "postalCode": "24477"
   },
   {
@@ -33427,7 +33427,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Kejuruan Muda",
     "districtCode": "1114020",
     "village": "Alur Mentawak",
-    "villageCode": "",
+    "villageCode": "1114020021",
     "postalCode": "24477"
   },
   {
@@ -33603,7 +33603,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Bandar Pusaka",
     "districtCode": "1114011",
     "village": "Perkebunan  Alur Jambu",
-    "villageCode": "",
+    "villageCode": "1114011005",
     "postalCode": "24477"
   },
   {
@@ -33680,7 +33680,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Tamiang Hulu",
     "districtCode": "1114010",
     "village": "Alur Tani Dua",
-    "villageCode": "",
+    "villageCode": "1114010004",
     "postalCode": "24478"
   },
   {
@@ -33724,7 +33724,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Tamiang Hulu",
     "districtCode": "1114010",
     "village": "Alur Tani Satu",
-    "villageCode": "",
+    "villageCode": "1114010003",
     "postalCode": "24478"
   },
   {
@@ -33779,7 +33779,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Idi Timur",
     "districtCode": "1105135",
     "village": "Ulee Glee",
-    "villageCode": "",
+    "villageCode": "1105135007",
     "postalCode": "24481"
   },
   {
@@ -33812,7 +33812,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Idi Timur",
     "districtCode": "1105135",
     "village": "Seuneubok Teungoh",
-    "villageCode": "",
+    "villageCode": "1105135009",
     "postalCode": "24481"
   },
   {
@@ -33867,7 +33867,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Idi Timur",
     "districtCode": "1105135",
     "village": "Seuneubok Timu",
-    "villageCode": "",
+    "villageCode": "1105135010",
     "postalCode": "24481"
   },
   {
@@ -33889,7 +33889,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Idi Timur",
     "districtCode": "1105135",
     "village": "Seuneubok Dalam",
-    "villageCode": "",
+    "villageCode": "1105135013",
     "postalCode": "24481"
   },
   {
@@ -33955,7 +33955,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Darul Ihsan",
     "districtCode": "1105134",
     "village": "Seuneubok Teungoh",
-    "villageCode": "",
+    "villageCode": "1105134003",
     "postalCode": "24482"
   },
   {
@@ -34285,7 +34285,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Idi Tunong",
     "districtCode": "1105133",
     "village": "Paya Awee",
-    "villageCode": "",
+    "villageCode": "1105133004",
     "postalCode": "24483"
   },
   {
@@ -34373,7 +34373,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Banda Alam",
     "districtCode": "1105132",
     "village": "Seuneubok Pango",
-    "villageCode": "",
+    "villageCode": "1105132007",
     "postalCode": "24484"
   },
   {
@@ -34681,7 +34681,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Darul Falah",
     "districtCode": "1105151",
     "village": "Alue Siwah",
-    "villageCode": "",
+    "villageCode": "1105151011",
     "postalCode": "24486"
   },
   {
@@ -34769,7 +34769,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Darul Falah",
     "districtCode": "1105151",
     "village": "Cempeudak",
-    "villageCode": "",
+    "villageCode": "1105151002",
     "postalCode": "24486"
   },
   {
@@ -34802,7 +34802,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Pante Bidari",
     "districtCode": "1105170",
     "village": "Putoh Dua",
-    "villageCode": "",
+    "villageCode": "1105170017",
     "postalCode": "24487"
   },
   {
@@ -35000,7 +35000,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Pante Bidari",
     "districtCode": "1105170",
     "village": "Grong-grong",
-    "villageCode": "",
+    "villageCode": "1105170009",
     "postalCode": "24487"
   },
   {
@@ -35066,7 +35066,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Pante Bidari",
     "districtCode": "1105170",
     "village": "Putoh Sa",
-    "villageCode": "",
+    "villageCode": "1105170022",
     "postalCode": "24487"
   },
   {
@@ -35616,7 +35616,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Bebesen",
     "districtCode": "1106050",
     "village": "Colo Blang Gele",
-    "villageCode": "",
+    "villageCode": "1106050001",
     "postalCode": "24552"
   },
   {
@@ -37211,7 +37211,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Jagong Jeget",
     "districtCode": "1106012",
     "village": "Jagong Jeget",
-    "villageCode": "",
+    "villageCode": "1106012003",
     "postalCode": "24563"
   },
   {
@@ -37519,7 +37519,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Linge",
     "districtCode": "1106010",
     "village": "Despot Linge",
-    "villageCode": "",
+    "villageCode": "1106010010",
     "postalCode": "24563"
   },
   {
@@ -38278,7 +38278,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Bintang",
     "districtCode": "1106020",
     "village": "Kelitu Sintep",
-    "villageCode": "",
+    "villageCode": "1106020013",
     "postalCode": "24571"
   },
   {
@@ -38355,7 +38355,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Babussalam",
     "districtCode": "1104040",
     "village": "Batu Mbulan II",
-    "villageCode": "",
+    "villageCode": "1104040021",
     "postalCode": "24619"
   },
   {
@@ -38377,7 +38377,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Babussalam",
     "districtCode": "1104040",
     "village": "Mendabe",
-    "villageCode": "",
+    "villageCode": "1104040033",
     "postalCode": "24619"
   },
   {
@@ -38465,7 +38465,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Babussalam",
     "districtCode": "1104040",
     "village": "Batu Mbulan Mbaru",
-    "villageCode": "",
+    "villageCode": "1104040030",
     "postalCode": "24619"
   },
   {
@@ -38487,7 +38487,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Babussalam",
     "districtCode": "1104040",
     "village": "Batu Mbulan Sepakat",
-    "villageCode": "",
+    "villageCode": "1104040038",
     "postalCode": "24619"
   },
   {
@@ -38498,7 +38498,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Babussalam",
     "districtCode": "1104040",
     "village": "Batu Mbulan Asli",
-    "villageCode": "",
+    "villageCode": "1104040023",
     "postalCode": "24619"
   },
   {
@@ -38520,7 +38520,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Babussalam",
     "districtCode": "1104040",
     "village": "Kute Rih",
-    "villageCode": "",
+    "villageCode": "1104040001",
     "postalCode": "24619"
   },
   {
@@ -38542,7 +38542,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Babussalam",
     "districtCode": "1104040",
     "village": "Pekhapat Titi Panjang",
-    "villageCode": "",
+    "villageCode": "1104040035",
     "postalCode": "24619"
   },
   {
@@ -38564,7 +38564,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Babussalam",
     "districtCode": "1104040",
     "village": "Melayu I",
-    "villageCode": "",
+    "villageCode": "1104040039",
     "postalCode": "24619"
   },
   {
@@ -38586,7 +38586,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Babussalam",
     "districtCode": "1104040",
     "village": "Pekhapat Sepakat",
-    "villageCode": "",
+    "villageCode": "1104040034",
     "postalCode": "24619"
   },
   {
@@ -38597,7 +38597,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Babussalam",
     "districtCode": "1104040",
     "village": "Pulo Sanggakh",
-    "villageCode": "",
+    "villageCode": "1104040036",
     "postalCode": "24619"
   },
   {
@@ -38608,7 +38608,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Babussalam",
     "districtCode": "1104040",
     "village": "Batu Mbulan I",
-    "villageCode": "",
+    "villageCode": "1104040021",
     "postalCode": "24619"
   },
   {
@@ -38652,7 +38652,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Badar",
     "districtCode": "1104050",
     "village": "Lawe Bekung Tampahan",
-    "villageCode": "",
+    "villageCode": "1104050004",
     "postalCode": "24652"
   },
   {
@@ -38751,7 +38751,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Badar",
     "districtCode": "1104050",
     "village": "Batu Mbekhong",
-    "villageCode": "",
+    "villageCode": "1104050042",
     "postalCode": "24652"
   },
   {
@@ -38817,7 +38817,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Lawe Alas",
     "districtCode": "1104010",
     "village": "Lawe Kongker",
-    "villageCode": "",
+    "villageCode": "1104010024",
     "postalCode": "24661"
   },
   {
@@ -38938,7 +38938,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Lawe Alas",
     "districtCode": "1104010",
     "village": "Pasikh Nunang",
-    "villageCode": "",
+    "villageCode": "1104010048",
     "postalCode": "24661"
   },
   {
@@ -38993,7 +38993,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Lawe Alas",
     "districtCode": "1104010",
     "village": "Lawe Kongker Hilir",
-    "villageCode": "",
+    "villageCode": "1104010024",
     "postalCode": "24661"
   },
   {
@@ -39026,7 +39026,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Lawe Alas",
     "districtCode": "1104010",
     "village": "Paye Munje",
-    "villageCode": "",
+    "villageCode": "1104010034",
     "postalCode": "24661"
   },
   {
@@ -39037,7 +39037,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Lawe Alas",
     "districtCode": "1104010",
     "village": "Cingkham Mekhanggun",
-    "villageCode": "",
+    "villageCode": "1104010047",
     "postalCode": "24661"
   },
   {
@@ -39070,7 +39070,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Lawe Alas",
     "districtCode": "1104010",
     "village": "Engkeran",
-    "villageCode": "",
+    "villageCode": "1104010023",
     "postalCode": "24661"
   },
   {
@@ -39136,7 +39136,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Tanoh Alas",
     "districtCode": "1104012",
     "village": "Jambukh Pekhmate",
-    "villageCode": "",
+    "villageCode": "1104012013",
     "postalCode": "24662"
   },
   {
@@ -39169,7 +39169,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Tanoh Alas",
     "districtCode": "1104012",
     "village": "Salim Pinim I",
-    "villageCode": "",
+    "villageCode": "1104012008",
     "postalCode": "24662"
   },
   {
@@ -39180,7 +39180,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Tanoh Alas",
     "districtCode": "1104012",
     "village": "Khutung Mbelang",
-    "villageCode": "",
+    "villageCode": "1104012009",
     "postalCode": "24662"
   },
   {
@@ -39213,7 +39213,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Tanoh Alas",
     "districtCode": "1104012",
     "village": "Stambul Jaya",
-    "villageCode": "",
+    "villageCode": "1104012010",
     "postalCode": "24662"
   },
   {
@@ -39246,7 +39246,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Tanoh Alas",
     "districtCode": "1104012",
     "village": "Alur Nangke",
-    "villageCode": "",
+    "villageCode": "1104012011",
     "postalCode": "24662"
   },
   {
@@ -39279,7 +39279,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Babul Rahmah",
     "districtCode": "1104011",
     "village": "Pinggan Mbelang",
-    "villageCode": "",
+    "villageCode": "1104011026",
     "postalCode": "24663"
   },
   {
@@ -39301,7 +39301,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Babul Rahmah",
     "districtCode": "1104011",
     "village": "Lumban Sitio-tio",
-    "villageCode": "",
+    "villageCode": "1104011006",
     "postalCode": "24663"
   },
   {
@@ -39367,7 +39367,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Babul Rahmah",
     "districtCode": "1104011",
     "village": "Titi Hakhapen",
-    "villageCode": "",
+    "villageCode": "1104011029",
     "postalCode": "24663"
   },
   {
@@ -39400,7 +39400,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Babul Rahmah",
     "districtCode": "1104011",
     "village": "Alukh Bakhu",
-    "villageCode": "",
+    "villageCode": "1104011030",
     "postalCode": "24663"
   },
   {
@@ -39411,7 +39411,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Babul Rahmah",
     "districtCode": "1104011",
     "village": "Kute Lang-Lang",
-    "villageCode": "",
+    "villageCode": "1104011005",
     "postalCode": "24663"
   },
   {
@@ -39422,7 +39422,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Babul Rahmah",
     "districtCode": "1104011",
     "village": "Sumukh Alas",
-    "villageCode": "",
+    "villageCode": "1104011020",
     "postalCode": "24663"
   },
   {
@@ -39433,7 +39433,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Babul Rahmah",
     "districtCode": "1104011",
     "village": "Ukekh Deleng",
-    "villageCode": "",
+    "villageCode": "1104011027",
     "postalCode": "24663"
   },
   {
@@ -39510,7 +39510,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Babul Rahmah",
     "districtCode": "1104011",
     "village": "Khambung Tumbung",
-    "villageCode": "",
+    "villageCode": "1104011023",
     "postalCode": "24663"
   },
   {
@@ -39521,7 +39521,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Babul Rahmah",
     "districtCode": "1104011",
     "village": "Tanoh Subukh",
-    "villageCode": "",
+    "villageCode": "1104011025",
     "postalCode": "24663"
   },
   {
@@ -39532,7 +39532,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Babul Rahmah",
     "districtCode": "1104011",
     "village": "Pardamaian",
-    "villageCode": "",
+    "villageCode": "1104011008",
     "postalCode": "24663"
   },
   {
@@ -39554,7 +39554,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Babul Rahmah",
     "districtCode": "1104011",
     "village": "Lawe Malum",
-    "villageCode": "",
+    "villageCode": "1104011017",
     "postalCode": "24663"
   },
   {
@@ -39565,7 +39565,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Babul Rahmah",
     "districtCode": "1104011",
     "village": "Sepekhinding",
-    "villageCode": "",
+    "villageCode": "1104011024",
     "postalCode": "24663"
   },
   {
@@ -39609,7 +39609,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Leuser",
     "districtCode": "1104023",
     "village": "Bun-bun Alas",
-    "villageCode": "",
+    "villageCode": "1104023003",
     "postalCode": "24664"
   },
   {
@@ -39642,7 +39642,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Leuser",
     "districtCode": "1104023",
     "village": "Tuah Kekhine",
-    "villageCode": "",
+    "villageCode": "1104023016",
     "postalCode": "24664"
   },
   {
@@ -39653,7 +39653,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Leuser",
     "districtCode": "1104023",
     "village": "Bintang Bukit Indah",
-    "villageCode": "",
+    "villageCode": "1104023006",
     "postalCode": "24664"
   },
   {
@@ -39664,7 +39664,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Leuser",
     "districtCode": "1104023",
     "village": "Bunbun Indah",
-    "villageCode": "",
+    "villageCode": "1104023018",
     "postalCode": "24664"
   },
   {
@@ -39818,7 +39818,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Leuser",
     "districtCode": "1104023",
     "village": "Akhih Majile",
-    "villageCode": "",
+    "villageCode": "1104023011",
     "postalCode": "24664"
   },
   {
@@ -39862,7 +39862,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Darul Hasanah",
     "districtCode": "1104051",
     "village": "Pulo Gabung",
-    "villageCode": "",
+    "villageCode": "1104051019",
     "postalCode": "24665"
   },
   {
@@ -39906,7 +39906,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Darul Hasanah",
     "districtCode": "1104051",
     "village": "Sri Muda",
-    "villageCode": "",
+    "villageCode": "1104051012",
     "postalCode": "24665"
   },
   {
@@ -39917,7 +39917,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Darul Hasanah",
     "districtCode": "1104051",
     "village": "Tanjung Bakhu",
-    "villageCode": "",
+    "villageCode": "1104051023",
     "postalCode": "24665"
   },
   {
@@ -40038,7 +40038,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Darul Hasanah",
     "districtCode": "1104051",
     "village": "Istiqamah",
-    "villageCode": "",
+    "villageCode": "1104051020",
     "postalCode": "24665"
   },
   {
@@ -40049,7 +40049,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Darul Hasanah",
     "districtCode": "1104051",
     "village": "Kute Ujung",
-    "villageCode": "",
+    "villageCode": "1104051006",
     "postalCode": "24665"
   },
   {
@@ -40093,7 +40093,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Darul Hasanah",
     "districtCode": "1104051",
     "village": "Kite Merangun",
-    "villageCode": "",
+    "villageCode": "1104051003",
     "postalCode": "24665"
   },
   {
@@ -40104,7 +40104,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Darul Hasanah",
     "districtCode": "1104051",
     "village": "Kokhtan Jaya",
-    "villageCode": "",
+    "villageCode": "1104051021",
     "postalCode": "24665"
   },
   {
@@ -40225,7 +40225,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Bambel",
     "districtCode": "1104030",
     "village": "Ampera",
-    "villageCode": "",
+    "villageCode": "1104030057",
     "postalCode": "24671"
   },
   {
@@ -40269,7 +40269,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Bambel",
     "districtCode": "1104030",
     "village": "Kute Lang-Lang",
-    "villageCode": "",
+    "villageCode": "1104030024",
     "postalCode": "24671"
   },
   {
@@ -40291,7 +40291,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Bambel",
     "districtCode": "1104030",
     "village": "Pancakh Iman",
-    "villageCode": "",
+    "villageCode": "1104030060",
     "postalCode": "24671"
   },
   {
@@ -40379,7 +40379,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Bambel",
     "districtCode": "1104030",
     "village": "Kute Lang-Lang Bakhu",
-    "villageCode": "",
+    "villageCode": "1104030024",
     "postalCode": "24671"
   },
   {
@@ -40423,7 +40423,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Bambel",
     "districtCode": "1104030",
     "village": "Kuta Antara",
-    "villageCode": "",
+    "villageCode": "1104030042",
     "postalCode": "24671"
   },
   {
@@ -40434,7 +40434,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Bambel",
     "districtCode": "1104030",
     "village": "Biak Muli Pantai Raja",
-    "villageCode": "",
+    "villageCode": "1104030026",
     "postalCode": "24671"
   },
   {
@@ -40456,7 +40456,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Bambel",
     "districtCode": "1104030",
     "village": "Tembilakh Mbakhu",
-    "villageCode": "",
+    "villageCode": "1104030051",
     "postalCode": "24671"
   },
   {
@@ -40533,7 +40533,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Lawe Sumur",
     "districtCode": "1104032",
     "village": "Terutung Megara Lawe Pasaran",
-    "villageCode": "",
+    "villageCode": "1104032004",
     "postalCode": "24672"
   },
   {
@@ -40555,7 +40555,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Lawe Sumur",
     "districtCode": "1104032",
     "village": "Lawe Polak",
-    "villageCode": "",
+    "villageCode": "1104032012",
     "postalCode": "24672"
   },
   {
@@ -40566,7 +40566,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Lawe Sumur",
     "districtCode": "1104032",
     "village": "Terutung Megahke MBakhu",
-    "villageCode": "",
+    "villageCode": "1104032014",
     "postalCode": "24672"
   },
   {
@@ -40599,7 +40599,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Lawe Sumur",
     "districtCode": "1104032",
     "village": "Panosan",
-    "villageCode": "",
+    "villageCode": "1104032006",
     "postalCode": "24672"
   },
   {
@@ -40643,7 +40643,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Lawe Sumur",
     "districtCode": "1104032",
     "village": "Teger Miko",
-    "villageCode": "",
+    "villageCode": "1104032018",
     "postalCode": "24672"
   },
   {
@@ -40654,7 +40654,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Lawe Sumur",
     "districtCode": "1104032",
     "village": "Kute Lesung",
-    "villageCode": "",
+    "villageCode": "1104032001",
     "postalCode": "24672"
   },
   {
@@ -40665,7 +40665,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Lawe Sumur",
     "districtCode": "1104032",
     "village": "Lawes Sumur Sepakat",
-    "villageCode": "",
+    "villageCode": "1104032013",
     "postalCode": "24672"
   },
   {
@@ -40720,7 +40720,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Lawe Sigala-Gala",
     "districtCode": "1104020",
     "village": "Lawe Loning Gabungan",
-    "villageCode": "",
+    "villageCode": "1104020011",
     "postalCode": "24673"
   },
   {
@@ -40797,7 +40797,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Lawe Sigala-Gala",
     "districtCode": "1104020",
     "village": "Kute Tengah",
-    "villageCode": "",
+    "villageCode": "1104020016",
     "postalCode": "24673"
   },
   {
@@ -40852,7 +40852,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Lawe Sigala-Gala",
     "districtCode": "1104020",
     "village": "Enmiya Batu Dua Ratus",
-    "villageCode": "",
+    "villageCode": "1104020045",
     "postalCode": "24673"
   },
   {
@@ -40885,7 +40885,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Lawe Sigala-Gala",
     "districtCode": "1104020",
     "village": "Ndauh Nitenggo",
-    "villageCode": "",
+    "villageCode": "1104020048",
     "postalCode": "24673"
   },
   {
@@ -40929,7 +40929,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Lawe Sigala-Gala",
     "districtCode": "1104020",
     "village": "Lawe Tua Gabungan",
-    "villageCode": "",
+    "villageCode": "1104020022",
     "postalCode": "24673"
   },
   {
@@ -40940,7 +40940,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Lawe Sigala-Gala",
     "districtCode": "1104020",
     "village": "Kedataran Gabungan",
-    "villageCode": "",
+    "villageCode": "1104020014",
     "postalCode": "24673"
   },
   {
@@ -40962,7 +40962,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Lawe Sigala-Gala",
     "districtCode": "1104020",
     "village": "Lawe Pekhidinen",
-    "villageCode": "",
+    "villageCode": "1104020051",
     "postalCode": "24673"
   },
   {
@@ -41105,7 +41105,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Babul Makmur",
     "districtCode": "1104021",
     "village": "Lawe Desky Sabas",
-    "villageCode": "",
+    "villageCode": "1104021009",
     "postalCode": "24674"
   },
   {
@@ -41116,7 +41116,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Babul Makmur",
     "districtCode": "1104021",
     "village": "Muara Setia",
-    "villageCode": "",
+    "villageCode": "1104021017",
     "postalCode": "24674"
   },
   {
@@ -41215,7 +41215,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Babul Makmur",
     "districtCode": "1104021",
     "village": "Lawe Desky I",
-    "villageCode": "",
+    "villageCode": "1104021011",
     "postalCode": "24674"
   },
   {
@@ -41237,7 +41237,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Babul Makmur",
     "districtCode": "1104021",
     "village": "Kute Bakti",
-    "villageCode": "",
+    "villageCode": "1104021005",
     "postalCode": "24674"
   },
   {
@@ -41281,7 +41281,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Babul Makmur",
     "districtCode": "1104021",
     "village": "Lawe Desky Jaya",
-    "villageCode": "",
+    "villageCode": "1104021026",
     "postalCode": "24674"
   },
   {
@@ -41314,7 +41314,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Semadam",
     "districtCode": "1104022",
     "village": "Lawe Kinga Tebing Tinggi",
-    "villageCode": "",
+    "villageCode": "1104022001",
     "postalCode": "24675"
   },
   {
@@ -41325,7 +41325,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Semadam",
     "districtCode": "1104022",
     "village": "Lawe Petanduk-II",
-    "villageCode": "",
+    "villageCode": "1104022013",
     "postalCode": "24675"
   },
   {
@@ -41358,7 +41358,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Semadam",
     "districtCode": "1104022",
     "village": "Lawe Kinga Gabungan",
-    "villageCode": "",
+    "villageCode": "1104022010",
     "postalCode": "24675"
   },
   {
@@ -41446,7 +41446,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Semadam",
     "districtCode": "1104022",
     "village": "Sepakat Segenap",
-    "villageCode": "",
+    "villageCode": "1104022014",
     "postalCode": "24675"
   },
   {
@@ -41457,7 +41457,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Semadam",
     "districtCode": "1104022",
     "village": "Lawe Kinge Lapter",
-    "villageCode": "",
+    "villageCode": "1104022018",
     "postalCode": "24675"
   },
   {
@@ -41501,7 +41501,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Semadam",
     "districtCode": "1104022",
     "village": "Ngkeran Alur Buluh",
-    "villageCode": "",
+    "villageCode": "1104022005",
     "postalCode": "24675"
   },
   {
@@ -41523,7 +41523,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Bukit Tusam",
     "districtCode": "1104031",
     "village": "Kute Empat Lima",
-    "villageCode": "",
+    "villageCode": "1104031024",
     "postalCode": "24676"
   },
   {
@@ -41534,7 +41534,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Bukit Tusam",
     "districtCode": "1104031",
     "village": "Kute Lengat Selian",
-    "villageCode": "",
+    "villageCode": "1104031006",
     "postalCode": "24676"
   },
   {
@@ -41556,7 +41556,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Bukit Tusam",
     "districtCode": "1104031",
     "village": "Paye Khambung",
-    "villageCode": "",
+    "villageCode": "1104031021",
     "postalCode": "24676"
   },
   {
@@ -41600,7 +41600,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Bukit Tusam",
     "districtCode": "1104031",
     "village": "Kute Lingga",
-    "villageCode": "",
+    "villageCode": "1104031007",
     "postalCode": "24676"
   },
   {
@@ -41644,7 +41644,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Bukit Tusam",
     "districtCode": "1104031",
     "village": "Lawe Dua",
-    "villageCode": "",
+    "villageCode": "1104031009",
     "postalCode": "24676"
   },
   {
@@ -41710,7 +41710,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Bukit Tusam",
     "districtCode": "1104031",
     "village": "Kute Lengat Pangan",
-    "villageCode": "",
+    "villageCode": "1104031005",
     "postalCode": "24676"
   },
   {
@@ -41798,7 +41798,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Lawe Bulan",
     "districtCode": "1104041",
     "village": "Kute Galuh Asli",
-    "villageCode": "",
+    "villageCode": "1104041027",
     "postalCode": "24677"
   },
   {
@@ -41831,7 +41831,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Lawe Bulan",
     "districtCode": "1104041",
     "village": "Katambaru Becawan",
-    "villageCode": "",
+    "villageCode": "1104041019",
     "postalCode": "24677"
   },
   {
@@ -41842,7 +41842,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Lawe Bulan",
     "districtCode": "1104041",
     "village": "Pekhapet Timur",
-    "villageCode": "",
+    "villageCode": "1104041025",
     "postalCode": "24677"
   },
   {
@@ -41875,7 +41875,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Lawe Bulan",
     "districtCode": "1104041",
     "village": "Lawe Sagu Baru",
-    "villageCode": "",
+    "villageCode": "1104041029",
     "postalCode": "24677"
   },
   {
@@ -41930,7 +41930,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Lawe Bulan",
     "districtCode": "1104041",
     "village": "Kampung Nangka",
-    "villageCode": "",
+    "villageCode": "1104041014",
     "postalCode": "24677"
   },
   {
@@ -41941,7 +41941,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Lawe Bulan",
     "districtCode": "1104041",
     "village": "Kuta Buluh Botong",
-    "villageCode": "",
+    "villageCode": "1104041018",
     "postalCode": "24677"
   },
   {
@@ -41952,7 +41952,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Lawe Bulan",
     "districtCode": "1104041",
     "village": "Kute Bantil",
-    "villageCode": "",
+    "villageCode": "1104041005",
     "postalCode": "24677"
   },
   {
@@ -41963,7 +41963,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Lawe Bulan",
     "districtCode": "1104041",
     "village": "Lawe Kolok",
-    "villageCode": "",
+    "villageCode": "1104041006",
     "postalCode": "24677"
   },
   {
@@ -41985,7 +41985,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Lawe Bulan",
     "districtCode": "1104041",
     "village": "Kuta Genting",
-    "villageCode": "",
+    "villageCode": "1104041028",
     "postalCode": "24677"
   },
   {
@@ -41996,7 +41996,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Lawe Bulan",
     "districtCode": "1104041",
     "village": "Kandang Mbelang Mandiri",
-    "villageCode": "",
+    "villageCode": "1104041022",
     "postalCode": "24677"
   },
   {
@@ -42040,7 +42040,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Deleng Pokhkisen",
     "districtCode": "1104053",
     "village": "Tading Ni Ulihi",
-    "villageCode": "",
+    "villageCode": "1104053018",
     "postalCode": "24678"
   },
   {
@@ -42051,7 +42051,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Deleng Pokhkisen",
     "districtCode": "1104053",
     "village": "Tenembak Lang-Lang",
-    "villageCode": "",
+    "villageCode": "1104053003",
     "postalCode": "24678"
   },
   {
@@ -42150,7 +42150,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Deleng Pokhkisen",
     "districtCode": "1104053",
     "village": "Beriring Naru",
-    "villageCode": "",
+    "villageCode": "1104053016",
     "postalCode": "24678"
   },
   {
@@ -42172,7 +42172,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Deleng Pokhkisen",
     "districtCode": "1104053",
     "village": "Sepakat",
-    "villageCode": "",
+    "villageCode": "1104053011",
     "postalCode": "24678"
   },
   {
@@ -42216,7 +42216,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Deleng Pokhkisen",
     "districtCode": "1104053",
     "village": "Ranto Dior",
-    "villageCode": "",
+    "villageCode": "1104053009",
     "postalCode": "24678"
   },
   {
@@ -42293,7 +42293,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Ketambe",
     "districtCode": "1104052",
     "village": "Jambur Lak-lak",
-    "villageCode": "",
+    "villageCode": "1104052006",
     "postalCode": "24679"
   },
   {
@@ -42392,7 +42392,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Ketambe",
     "districtCode": "1104052",
     "village": "Bener Bepapah",
-    "villageCode": "",
+    "villageCode": "1104052015",
     "postalCode": "24679"
   },
   {
@@ -42403,7 +42403,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Ketambe",
     "districtCode": "1104052",
     "village": "Bukit Mbakhu",
-    "villageCode": "",
+    "villageCode": "1104052020",
     "postalCode": "24679"
   },
   {
@@ -42414,7 +42414,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Ketambe",
     "districtCode": "1104052",
     "village": "Jongar Asli",
-    "villageCode": "",
+    "villageCode": "1104052004",
     "postalCode": "24679"
   },
   {
@@ -42458,7 +42458,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Ketambe",
     "districtCode": "1104052",
     "village": "Penyeberangan Cingkam",
-    "villageCode": "",
+    "villageCode": "1104052003",
     "postalCode": "24679"
   },
   {
@@ -42480,7 +42480,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Ketambe",
     "districtCode": "1104052",
     "village": "Datok Pining",
-    "villageCode": "",
+    "villageCode": "1104052016",
     "postalCode": "24679"
   },
   {
@@ -42491,7 +42491,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Ketambe",
     "districtCode": "1104052",
     "village": "Kayu Metangur",
-    "villageCode": "",
+    "villageCode": "1104052011",
     "postalCode": "24679"
   },
   {
@@ -42513,7 +42513,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Ketambe",
     "districtCode": "1104052",
     "village": "Simpang Tiga Jongar",
-    "villageCode": "",
+    "villageCode": "1104052002",
     "postalCode": "24679"
   },
   {
@@ -42524,7 +42524,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Ketambe",
     "districtCode": "1104052",
     "village": "Lawe Ger-Ger",
-    "villageCode": "",
+    "villageCode": "1104052013",
     "postalCode": "24679"
   },
   {
@@ -43437,7 +43437,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Gunung Meriah",
     "districtCode": "1102031",
     "village": "Sianjo-Anjo Meriah",
-    "villageCode": "",
+    "villageCode": "1102031020",
     "postalCode": "24784"
   },
   {
@@ -43580,7 +43580,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Singkil",
     "districtCode": "1102020",
     "village": "Pasar",
-    "villageCode": "",
+    "villageCode": "1102020004",
     "postalCode": "24785"
   },
   {
@@ -43833,7 +43833,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Sultan Daulat",
     "districtCode": "1175040",
     "village": "Jambi Baru",
-    "villageCode": "",
+    "villageCode": "1175040005",
     "postalCode": "24883"
   },
   {
@@ -44064,7 +44064,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Sakti",
     "districtCode": "1109120",
     "village": "Mns Dayah Tuha",
-    "villageCode": "",
+    "villageCode": "1109120036",
     "postalCode": "24164"
   },
   {
@@ -44372,7 +44372,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Bandar Baru",
     "districtCode": "1118080",
     "village": "Dayah Nyong",
-    "villageCode": "",
+    "villageCode": "1118080031",
     "postalCode": "24184"
   },
   {
@@ -44394,7 +44394,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Meurah Dua",
     "districtCode": "1118020",
     "village": "Dayah Usen",
-    "villageCode": "",
+    "villageCode": "1118020012",
     "postalCode": "24186"
   },
   {
@@ -44603,7 +44603,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Muara Satu",
     "districtCode": "1174021",
     "village": "Meunasah Dayah",
-    "villageCode": "",
+    "villageCode": "1174021003",
     "postalCode": "24353"
   },
   {
@@ -44713,7 +44713,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Timang gajah",
     "districtCode": "1117010",
     "village": "Kulem Para Kanis",
-    "villageCode": "",
+    "villageCode": "1117010030",
     "postalCode": "24553"
   },
   {
@@ -44724,7 +44724,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Timang gajah",
     "districtCode": "1117010",
     "village": "Simpang Bumi Ayu",
-    "villageCode": "",
+    "villageCode": "1117010023",
     "postalCode": "24553"
   },
   {
@@ -44856,7 +44856,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Timang gajah",
     "districtCode": "1117010",
     "village": "Fajar Harapan",
-    "villageCode": "",
+    "villageCode": "1117010020",
     "postalCode": "24553"
   },
   {
@@ -44867,7 +44867,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Timang gajah",
     "districtCode": "1117010",
     "village": "Kampung Baru 76",
-    "villageCode": "",
+    "villageCode": "1117010024",
     "postalCode": "24553"
   },
   {
@@ -45307,7 +45307,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Bukit",
     "districtCode": "1117030",
     "village": "Batin Wih Pongas",
-    "villageCode": "",
+    "villageCode": "1117030034",
     "postalCode": "24581"
   },
   {
@@ -45659,7 +45659,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Bandar",
     "districtCode": "1117050",
     "village": "Bathin Baru",
-    "villageCode": "",
+    "villageCode": "1117050023",
     "postalCode": "24582"
   },
   {
@@ -45824,7 +45824,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Permata",
     "districtCode": "1117070",
     "village": "Wih Tenang Toa",
-    "villageCode": "",
+    "villageCode": "1117070013",
     "postalCode": "24583"
   },
   {
@@ -45846,7 +45846,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Permata",
     "districtCode": "1117070",
     "village": "Jungke",
-    "villageCode": "",
+    "villageCode": "1117070021",
     "postalCode": "24583"
   },
   {
@@ -45989,7 +45989,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Permata",
     "districtCode": "1117070",
     "village": "GLP. Wih Tenang Uken",
-    "villageCode": "",
+    "villageCode": "1117070006",
     "postalCode": "24583"
   },
   {
@@ -46176,7 +46176,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Mesidah",
     "districtCode": "1117061",
     "village": "Perumpaken Benjadi",
-    "villageCode": "",
+    "villageCode": "1117061010",
     "postalCode": "24584"
   },
   {
@@ -46231,7 +46231,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Mesidah",
     "districtCode": "1117061",
     "village": "Jamur Atu Jaya",
-    "villageCode": "",
+    "villageCode": "1117061002",
     "postalCode": "24584"
   },
   {
@@ -46286,7 +46286,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Syiah Utama",
     "districtCode": "1117060",
     "village": "Kutelah Lane",
-    "villageCode": "",
+    "villageCode": "1117060003",
     "postalCode": "24585"
   },
   {
@@ -46550,7 +46550,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Bener Kelipah",
     "districtCode": "1117051",
     "village": "Bener Bintang Musara",
-    "villageCode": "",
+    "villageCode": "1117051004",
     "postalCode": "24586"
   },
   {
@@ -46605,7 +46605,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Wih Pesam",
     "districtCode": "1117040",
     "village": "Merie Satu",
-    "villageCode": "",
+    "villageCode": "1117040012",
     "postalCode": "24591"
   },
   {
@@ -46627,7 +46627,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Wih Pesam",
     "districtCode": "1117040",
     "village": "Suka Ramai Atas",
-    "villageCode": "",
+    "villageCode": "1117040003",
     "postalCode": "24591"
   },
   {
@@ -46748,7 +46748,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Wih Pesam",
     "districtCode": "1117040",
     "village": "Suka Ramai Bawah",
-    "villageCode": "",
+    "villageCode": "1117040004",
     "postalCode": "24591"
   },
   {
@@ -47067,7 +47067,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Pintu Rime Gayo",
     "districtCode": "1117020",
     "village": "Wih Porak",
-    "villageCode": "",
+    "villageCode": "1117020012",
     "postalCode": "24593"
   },
   {
@@ -47078,7 +47078,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Pintu Rime Gayo",
     "districtCode": "1117020",
     "village": "Uning Mas",
-    "villageCode": "",
+    "villageCode": "1117020019",
     "postalCode": "24593"
   },
   {
@@ -47628,7 +47628,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Sultan Daulat",
     "districtCode": "1175040",
     "village": "Cipar-Pari Timur",
-    "villageCode": "",
+    "villageCode": "1175040009",
     "postalCode": "24883"
   },
   {
@@ -47947,7 +47947,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Rundeng",
     "districtCode": "1175030",
     "village": "Badar",
-    "villageCode": "",
+    "villageCode": "1175030003",
     "postalCode": "24884"
   },
   {
@@ -48310,7 +48310,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Kembang Tanjong",
     "districtCode": "1109180",
     "village": "Kandang",
-    "villageCode": "",
+    "villageCode": "1118080004",
     "postalCode": "24182"
   },
   {
@@ -48387,7 +48387,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Kembang Tanjong",
     "districtCode": "1109180",
     "village": "Rheung Rheung",
-    "villageCode": "",
+    "villageCode": "1118080022",
     "postalCode": "24182"
   },
   {
@@ -48398,7 +48398,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Kembang Tanjong",
     "districtCode": "1109180",
     "village": "Kampong Barat",
-    "villageCode": "",
+    "villageCode": "1109180002",
     "postalCode": "24182"
   },
   {
@@ -48431,7 +48431,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Kembang Tanjong",
     "districtCode": "1109180",
     "village": "Kampong Araih",
-    "villageCode": "",
+    "villageCode": "1109180021",
     "postalCode": "24182"
   },
   {
@@ -48453,7 +48453,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Kembang Tanjong",
     "districtCode": "1109180",
     "village": "Jurong Balee",
-    "villageCode": "",
+    "villageCode": "1109180020",
     "postalCode": "24182"
   },
   {
@@ -48497,7 +48497,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Kembang Tanjong",
     "districtCode": "1109180",
     "village": "Kampong Panjoe",
-    "villageCode": "",
+    "villageCode": "1109180004",
     "postalCode": "24182"
   },
   {
@@ -48519,7 +48519,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Kembang Tanjong",
     "districtCode": "1109180",
     "village": "Deyah Mon Ara",
-    "villageCode": "",
+    "villageCode": "1109180040",
     "postalCode": "24182"
   },
   {
@@ -48607,7 +48607,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Kembang Tanjong",
     "districtCode": "1109180",
     "village": "Manyang",
-    "villageCode": "",
+    "villageCode": "1118080036",
     "postalCode": "24182"
   },
   {
@@ -48706,7 +48706,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Kembang Tanjong",
     "districtCode": "1109180",
     "village": "Kampong Asan",
-    "villageCode": "",
+    "villageCode": "1109180036",
     "postalCode": "24182"
   },
   {
@@ -48794,7 +48794,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Pidie",
     "districtCode": "1109210",
     "village": "Gajah Aye",
-    "villageCode": "",
+    "villageCode": "1109180009",
     "postalCode": "24151"
   },
   {
@@ -48827,7 +48827,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Geulumpang Tiga",
     "districtCode": "",
     "village": "Pulo Gajah Mate",
-    "villageCode": "",
+    "villageCode": "1109210059",
     "postalCode": "24183"
   },
   {
@@ -48882,7 +48882,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Bandar Baru",
     "districtCode": "1118080",
     "village": "Blang Krueng",
-    "villageCode": "",
+    "villageCode": "1118080010",
     "postalCode": "24184"
   },
   {
@@ -48893,7 +48893,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Bandar Baru",
     "districtCode": "1118080",
     "village": "Alue",
-    "villageCode": "",
+    "villageCode": "1118080011",
     "postalCode": "24184"
   },
   {
@@ -48904,7 +48904,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Bandar Baru",
     "districtCode": "1118080",
     "village": "Tanoh Mirah",
-    "villageCode": "",
+    "villageCode": "1118080012",
     "postalCode": "24184"
   },
   {
@@ -48915,7 +48915,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Bandar Baru",
     "districtCode": "1118080",
     "village": "Pulo Rheng",
-    "villageCode": "",
+    "villageCode": "1118080029",
     "postalCode": "24184"
   },
   {
@@ -48937,7 +48937,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Bandar Baru",
     "districtCode": "1118080",
     "village": "Beurandeh",
-    "villageCode": "",
+    "villageCode": "1118080032",
     "postalCode": "24184"
   },
   {
@@ -48959,7 +48959,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Bandar Baru",
     "districtCode": "1118080",
     "village": "Baroh Musa",
-    "villageCode": "",
+    "villageCode": "1118080020",
     "postalCode": "24184"
   },
   {
@@ -48970,7 +48970,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Bandar Baru",
     "districtCode": "1118080",
     "village": "Sagoe",
-    "villageCode": "",
+    "villageCode": "1118080016",
     "postalCode": "24184"
   },
   {
@@ -48981,7 +48981,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Bandar Baru",
     "districtCode": "1118080",
     "village": "Baro",
-    "villageCode": "",
+    "villageCode": "1118080007",
     "postalCode": "24184"
   },
   {
@@ -48992,7 +48992,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Bandar Baru",
     "districtCode": "1118080",
     "village": "Jijiem",
-    "villageCode": "",
+    "villageCode": "1118080003",
     "postalCode": "24184"
   },
   {
@@ -49003,7 +49003,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Bandar Baru",
     "districtCode": "1118080",
     "village": "Balee",
-    "villageCode": "",
+    "villageCode": "1118080018",
     "postalCode": "24184"
   },
   {
@@ -49025,7 +49025,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Bandar Baru",
     "districtCode": "1118080",
     "village": "Paru Cot",
-    "villageCode": "",
+    "villageCode": "1118080043",
     "postalCode": "24184"
   },
   {
@@ -49036,7 +49036,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Bandar Baru",
     "districtCode": "1118080",
     "village": "Blang Glong",
-    "villageCode": "",
+    "villageCode": "1118080025",
     "postalCode": "24184"
   },
   {
@@ -49047,7 +49047,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Bandar Baru",
     "districtCode": "1118080",
     "village": "Siren",
-    "villageCode": "",
+    "villageCode": "1118080034",
     "postalCode": "24184"
   },
   {
@@ -49069,7 +49069,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Bandar Baru",
     "districtCode": "1118080",
     "village": "Mesjid",
-    "villageCode": "",
+    "villageCode": "1118080038",
     "postalCode": "24184"
   },
   {
@@ -49080,7 +49080,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Bandar Baru",
     "districtCode": "1118080",
     "village": "Abah Lueng",
-    "villageCode": "",
+    "villageCode": "1118080002",
     "postalCode": "24184"
   },
   {
@@ -49113,7 +49113,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Bandar Baru",
     "districtCode": "1118080",
     "village": "Blang Sukon",
-    "villageCode": "",
+    "villageCode": "1118080005",
     "postalCode": "24184"
   },
   {
@@ -49135,7 +49135,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Bandar Baru",
     "districtCode": "1118080",
     "village": "Blang Baro",
-    "villageCode": "",
+    "villageCode": "1118080007",
     "postalCode": "24184"
   },
   {
@@ -49168,7 +49168,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Bandar Baru",
     "districtCode": "1118080",
     "village": "Udeung",
-    "villageCode": "",
+    "villageCode": "1118080023",
     "postalCode": "24184"
   },
   {
@@ -49190,7 +49190,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Bandar Baru",
     "districtCode": "1118080",
     "village": "Daboih",
-    "villageCode": "",
+    "villageCode": "1118080028",
     "postalCode": "24184"
   },
   {
@@ -49212,7 +49212,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Bandar Baru",
     "districtCode": "1118080",
     "village": "Pulo Pueb",
-    "villageCode": "",
+    "villageCode": "1118080039",
     "postalCode": "24184"
   },
   {
@@ -49223,7 +49223,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Bandar Baru",
     "districtCode": "1118080",
     "village": "Aki Neungoh",
-    "villageCode": "",
+    "villageCode": "1118080001",
     "postalCode": "24184"
   },
   {
@@ -49234,7 +49234,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Bandar Baru",
     "districtCode": "1118080",
     "village": "Tutong",
-    "villageCode": "",
+    "villageCode": "1118080035",
     "postalCode": "24184"
   },
   {
@@ -49245,7 +49245,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Bandar Baru",
     "districtCode": "1118080",
     "village": "Baroh Cot",
-    "villageCode": "",
+    "villageCode": "1118080017",
     "postalCode": "24184"
   },
   {
@@ -49267,7 +49267,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Bandar Baru",
     "districtCode": "1118080",
     "village": "Kayee Jatoe",
-    "villageCode": "",
+    "villageCode": "1118080006",
     "postalCode": "24184"
   },
   {
@@ -49278,7 +49278,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Bandar Baru",
     "districtCode": "1118080",
     "village": "Sarah Panyang",
-    "villageCode": "",
+    "villageCode": "1118080004",
     "postalCode": "24184"
   },
   {
@@ -49289,7 +49289,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Bandar Baru",
     "districtCode": "1118080",
     "village": "Sawang",
-    "villageCode": "",
+    "villageCode": "1118080040",
     "postalCode": "24184"
   },
   {
@@ -49300,7 +49300,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Bandar Baru",
     "districtCode": "1118080",
     "village": "Baroh Lancok",
-    "villageCode": "",
+    "villageCode": "1118080037",
     "postalCode": "24184"
   },
   {
@@ -49322,7 +49322,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Bandar Baru",
     "districtCode": "1118080",
     "village": "Cut Nyong",
-    "villageCode": "",
+    "villageCode": "1118080042",
     "postalCode": "24184"
   },
   {
@@ -49817,7 +49817,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Kota Juang",
     "districtCode": "1110061",
     "village": "Bandar Bireuen",
-    "villageCode": "",
+    "villageCode": "1110061014",
     "postalCode": "24219"
   },
   {
@@ -49905,7 +49905,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Samalanga",
     "districtCode": "1110010",
     "village": "Pineung Siribee",
-    "villageCode": "",
+    "villageCode": "1110010073",
     "postalCode": "24264"
   },
   {
@@ -49982,7 +49982,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Samalanga",
     "districtCode": "1110010",
     "village": "Angkieng Barat",
-    "villageCode": "",
+    "villageCode": "1110010079",
     "postalCode": "24264"
   },
   {
@@ -50015,7 +50015,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Samalanga",
     "districtCode": "1110010",
     "village": "Matang Jereung",
-    "villageCode": "",
+    "villageCode": "1110010086",
     "postalCode": "24264"
   },
   {
@@ -50367,7 +50367,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Teupah Tengah",
     "districtCode": "1101022",
     "village": "Batu-Batu",
-    "villageCode": "",
+    "villageCode": "1101022011",
     "postalCode": "23891"
   },
   {
@@ -50675,7 +50675,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Banda Sakti",
     "districtCode": "1174030",
     "village": "Kampung Jawa Lhokseumawe",
-    "villageCode": "",
+    "villageCode": "1174030018",
     "postalCode": "24315"
   },
   {
@@ -50719,7 +50719,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Banda Sakti",
     "districtCode": "1174030",
     "village": "Pusong Lhokseumawe",
-    "villageCode": "",
+    "villageCode": "1174030003",
     "postalCode": "24319"
   },
   {
@@ -51071,7 +51071,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Muara Dua",
     "districtCode": "1174020",
     "village": "Meunasah Blang",
-    "villageCode": "",
+    "villageCode": "1174020010",
     "postalCode": "24352"
   },
   {
@@ -51093,7 +51093,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Muara Dua",
     "districtCode": "1174020",
     "village": "Paya Punteuet",
-    "villageCode": "",
+    "villageCode": "1174020013",
     "postalCode": "24352"
   },
   {
@@ -51104,7 +51104,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Muara Dua",
     "districtCode": "1174020",
     "village": "Meunasah Mee",
-    "villageCode": "",
+    "villageCode": "1174020009",
     "postalCode": "24352"
   },
   {
@@ -51115,7 +51115,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Muara Dua",
     "districtCode": "1174020",
     "village": "Meunasah Mesjid",
-    "villageCode": "",
+    "villageCode": "1174020015",
     "postalCode": "24352"
   },
   {
@@ -51126,7 +51126,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Muara Dua",
     "districtCode": "1174020",
     "village": "Blang Poroh",
-    "villageCode": "",
+    "villageCode": "1174020012",
     "postalCode": "24352"
   },
   {
@@ -51148,7 +51148,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Muara Dua",
     "districtCode": "1174020",
     "village": "Cot Girek Kandang",
-    "villageCode": "",
+    "villageCode": "1174020004",
     "postalCode": "24352"
   },
   {
@@ -51192,7 +51192,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Muara Dua",
     "districtCode": "1174020",
     "village": "Meunasah Manyang",
-    "villageCode": "",
+    "villageCode": "1174020005",
     "postalCode": "24352"
   },
   {
@@ -51236,7 +51236,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Muara Dua",
     "districtCode": "1174020",
     "village": "Meunasah Alue",
-    "villageCode": "",
+    "villageCode": "1174020018",
     "postalCode": "24352"
   },
   {
@@ -51247,7 +51247,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Muara Satu",
     "districtCode": "1174021",
     "village": "Meuria Paloh",
-    "villageCode": "",
+    "villageCode": "1174021005",
     "postalCode": "24353"
   },
   {
@@ -51808,7 +51808,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Pantan Cuaca",
     "districtCode": "1113041",
     "village": "UPT. Aih Selah",
-    "villageCode": "",
+    "villageCode": "1113041009",
     "postalCode": "24659"
   },
   {
@@ -52006,7 +52006,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Darul Makmur",
     "districtCode": "1115010",
     "village": "Alue Waki",
-    "villageCode": "",
+    "villageCode": "1115010046",
     "postalCode": "23662"
   },
   {
@@ -52281,7 +52281,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Mutiara Timur",
     "districtCode": "1109081",
     "village": "Alue Jojo",
-    "villageCode": "",
+    "villageCode": "1109081032",
     "postalCode": "24176"
   },
   {
@@ -52314,7 +52314,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Juli",
     "districtCode": "1110050",
     "village": "Alue Unoe",
-    "villageCode": "",
+    "villageCode": "1110050010",
     "postalCode": "24252"
   },
   {
@@ -52336,7 +52336,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Peusangan Siblah Krueng",
     "districtCode": "1110082",
     "village": "Alue Kupula",
-    "villageCode": "",
+    "villageCode": "1110082009",
     "postalCode": "24254"
   },
   {
@@ -52589,7 +52589,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Jeunieb",
     "districtCode": "1110030",
     "village": "Alue Lamsaba",
-    "villageCode": "",
+    "villageCode": "1110030058",
     "postalCode": "24263"
   },
   {
@@ -52611,7 +52611,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Pandrah",
     "districtCode": "1110020",
     "village": "Alue Igeuh",
-    "villageCode": "",
+    "villageCode": "1110020013",
     "postalCode": "24266"
   },
   {
@@ -52930,7 +52930,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Padang Tiji",
     "districtCode": "1109140",
     "village": "Jurong Anoe Paloh",
-    "villageCode": "",
+    "villageCode": "1109140025",
     "postalCode": "24161"
   },
   {
@@ -52985,7 +52985,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Padang Tiji",
     "districtCode": "1109140",
     "village": "Pante Cermen Paloh",
-    "villageCode": "",
+    "villageCode": "1109140029",
     "postalCode": "24161"
   },
   {
@@ -53062,7 +53062,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Padang Tiji",
     "districtCode": "1109140",
     "village": "Grong-Grong Gogo",
-    "villageCode": "",
+    "villageCode": "1109140053",
     "postalCode": "24161"
   },
   {
@@ -53216,7 +53216,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Padang Tiji",
     "districtCode": "1109140",
     "village": "Jurong Gampong Cot Paloh",
-    "villageCode": "",
+    "villageCode": "1109140048",
     "postalCode": "24161"
   },
   {
@@ -53370,7 +53370,7 @@ export const ACEH: PostalCodeData[] = [
     "district": "Padang Tiji",
     "districtCode": "1109140",
     "village": "Gampong Cut Paloh",
-    "villageCode": "",
+    "villageCode": "1109140028",
     "postalCode": "24161"
   },
   {
