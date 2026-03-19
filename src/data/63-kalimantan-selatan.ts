@@ -647,7 +647,7 @@ export const KALIMANTAN_SELATAN: PostalCodeData[] = [
     "district": "Banjarmasin Timur",
     "districtCode": "6371020",
     "village": "Banua Anyar",
-    "villageCode": "",
+    "villageCode": "6371020013",
     "postalCode": "70239"
   },
   {
@@ -944,7 +944,7 @@ export const KALIMANTAN_SELATAN: PostalCodeData[] = [
     "district": "Martapura",
     "districtCode": "6303050",
     "village": "Pasayangan",
-    "villageCode": "",
+    "villageCode": "6303050018",
     "postalCode": "70619"
   },
   {
@@ -1021,7 +1021,7 @@ export const KALIMANTAN_SELATAN: PostalCodeData[] = [
     "district": "Martapura",
     "districtCode": "6303050",
     "village": "Sekumpul",
-    "villageCode": "",
+    "villageCode": "6303050038",
     "postalCode": "70619"
   },
   {
@@ -1175,7 +1175,7 @@ export const KALIMANTAN_SELATAN: PostalCodeData[] = [
     "district": "Martapura Timur",
     "districtCode": "6303051",
     "village": "Melayu",
-    "villageCode": "",
+    "villageCode": "6303051007",
     "postalCode": "70621"
   },
   {
@@ -1307,7 +1307,7 @@ export const KALIMANTAN_SELATAN: PostalCodeData[] = [
     "district": "Martapura Barat",
     "districtCode": "6303052",
     "village": "Teluk Selong",
-    "villageCode": "",
+    "villageCode": "6303052003",
     "postalCode": "70651"
   },
   {
@@ -1395,7 +1395,7 @@ export const KALIMANTAN_SELATAN: PostalCodeData[] = [
     "district": "Martapura Barat",
     "districtCode": "6303052",
     "village": "Teluk Selong Ulu",
-    "villageCode": "",
+    "villageCode": "6303052003",
     "postalCode": "70651"
   },
   {
@@ -1439,7 +1439,7 @@ export const KALIMANTAN_SELATAN: PostalCodeData[] = [
     "district": "Gambut",
     "districtCode": "6303020",
     "village": "Guntung Ujung",
-    "villageCode": "",
+    "villageCode": "6303020003",
     "postalCode": "70652"
   },
   {
@@ -1593,7 +1593,7 @@ export const KALIMANTAN_SELATAN: PostalCodeData[] = [
     "district": "Sungai Tabuk",
     "districtCode": "6303040",
     "village": "Lok Buntar",
-    "villageCode": "",
+    "villageCode": "6303040017",
     "postalCode": "70653"
   },
   {
@@ -1604,7 +1604,7 @@ export const KALIMANTAN_SELATAN: PostalCodeData[] = [
     "district": "Sungai Tabuk",
     "districtCode": "6303040",
     "village": "Sungai Pinang",
-    "villageCode": "",
+    "villageCode": "6303040009",
     "postalCode": "70653"
   },
   {
@@ -1835,7 +1835,7 @@ export const KALIMANTAN_SELATAN: PostalCodeData[] = [
     "district": "Kertak Hanyar",
     "districtCode": "6303030",
     "village": "Pasar Kamis",
-    "villageCode": "",
+    "villageCode": "6303030016",
     "postalCode": "70654"
   },
   {
@@ -1846,7 +1846,7 @@ export const KALIMANTAN_SELATAN: PostalCodeData[] = [
     "district": "Kertak Hanyar",
     "districtCode": "6303030",
     "village": "Belayung Baru",
-    "villageCode": "",
+    "villageCode": "6303030015",
     "postalCode": "70654"
   },
   {
@@ -1868,7 +1868,7 @@ export const KALIMANTAN_SELATAN: PostalCodeData[] = [
     "district": "Kertak Hanyar",
     "districtCode": "6303030",
     "village": "Mandarsari",
-    "villageCode": "",
+    "villageCode": "6303030020",
     "postalCode": "70654"
   },
   {
@@ -1934,7 +1934,7 @@ export const KALIMANTAN_SELATAN: PostalCodeData[] = [
     "district": "Kertak Hanyar",
     "districtCode": "6303030",
     "village": "Pemangkih Laut",
-    "villageCode": "",
+    "villageCode": "6303030014",
     "postalCode": "70654"
   },
   {
@@ -2264,7 +2264,7 @@ export const KALIMANTAN_SELATAN: PostalCodeData[] = [
     "district": "Beruntung Baru",
     "districtCode": "6303011",
     "village": "Salat Makmur",
-    "villageCode": "",
+    "villageCode": "6303011003",
     "postalCode": "70656"
   },
   {
@@ -2297,7 +2297,7 @@ export const KALIMANTAN_SELATAN: PostalCodeData[] = [
     "district": "Tatah Makmur",
     "districtCode": "6303031",
     "village": "Pemangkih Darat",
-    "villageCode": "",
+    "villageCode": "6303031005",
     "postalCode": "70657"
   },
   {
@@ -2330,7 +2330,7 @@ export const KALIMANTAN_SELATAN: PostalCodeData[] = [
     "district": "Tatah Makmur",
     "districtCode": "6303031",
     "village": "Pemangkih Tengah",
-    "villageCode": "",
+    "villageCode": "6303031009",
     "postalCode": "70657"
   },
   {
@@ -2385,7 +2385,7 @@ export const KALIMANTAN_SELATAN: PostalCodeData[] = [
     "district": "Tatah Makmur",
     "districtCode": "6303031",
     "village": "Bangkal Tengah",
-    "villageCode": "",
+    "villageCode": "6303031002",
     "postalCode": "70657"
   },
   {
@@ -2418,7 +2418,7 @@ export const KALIMANTAN_SELATAN: PostalCodeData[] = [
     "district": "Tatah Makmur",
     "districtCode": "6303031",
     "village": "Thaibah Raya",
-    "villageCode": "",
+    "villageCode": "6303031010",
     "postalCode": "70657"
   },
   {
@@ -2506,7 +2506,7 @@ export const KALIMANTAN_SELATAN: PostalCodeData[] = [
     "district": "Karang Intan",
     "districtCode": "6303070",
     "village": "Bi ih",
-    "villageCode": "",
+    "villageCode": "6303070024",
     "postalCode": "70661"
   },
   {
@@ -2572,7 +2572,7 @@ export const KALIMANTAN_SELATAN: PostalCodeData[] = [
     "district": "Karang Intan",
     "districtCode": "6303070",
     "village": "Lok Tangga",
-    "villageCode": "",
+    "villageCode": "6303070022",
     "postalCode": "70661"
   },
   {
@@ -2594,7 +2594,7 @@ export const KALIMANTAN_SELATAN: PostalCodeData[] = [
     "district": "Karang Intan",
     "districtCode": "6303070",
     "village": "Mandiangin Barat",
-    "villageCode": "",
+    "villageCode": "6303070002",
     "postalCode": "70661"
   },
   {
@@ -2693,7 +2693,7 @@ export const KALIMANTAN_SELATAN: PostalCodeData[] = [
     "district": "Karang Intan",
     "districtCode": "6303070",
     "village": "Mandiangin Timur",
-    "villageCode": "",
+    "villageCode": "6303070003",
     "postalCode": "70661"
   },
   {
@@ -2715,7 +2715,7 @@ export const KALIMANTAN_SELATAN: PostalCodeData[] = [
     "district": "Karang Intan",
     "districtCode": "6303070",
     "village": "Mandikapau Timur",
-    "villageCode": "",
+    "villageCode": "6303070006",
     "postalCode": "70661"
   },
   {
@@ -2869,7 +2869,7 @@ export const KALIMANTAN_SELATAN: PostalCodeData[] = [
     "district": "Astambul",
     "districtCode": "6303060",
     "village": "Kelampaian Tengah",
-    "villageCode": "",
+    "villageCode": "6303060016",
     "postalCode": "70671"
   },
   {
@@ -2880,7 +2880,7 @@ export const KALIMANTAN_SELATAN: PostalCodeData[] = [
     "district": "Astambul",
     "districtCode": "6303060",
     "village": "Lok Gabang",
-    "villageCode": "",
+    "villageCode": "6303060019",
     "postalCode": "70671"
   },
   {
@@ -2957,7 +2957,7 @@ export const KALIMANTAN_SELATAN: PostalCodeData[] = [
     "district": "Astambul",
     "districtCode": "6303060",
     "village": "Jati Baru",
-    "villageCode": "",
+    "villageCode": "6303060006",
     "postalCode": "70671"
   },
   {
@@ -2979,7 +2979,7 @@ export const KALIMANTAN_SELATAN: PostalCodeData[] = [
     "district": "Astambul",
     "districtCode": "6303060",
     "village": "Pingaran",
-    "villageCode": "",
+    "villageCode": "6303060001",
     "postalCode": "70671"
   },
   {
@@ -3045,7 +3045,7 @@ export const KALIMANTAN_SELATAN: PostalCodeData[] = [
     "district": "Astambul",
     "districtCode": "6303060",
     "village": "Astambul Kota",
-    "villageCode": "",
+    "villageCode": "6303060005",
     "postalCode": "70671"
   },
   {
@@ -3067,7 +3067,7 @@ export const KALIMANTAN_SELATAN: PostalCodeData[] = [
     "district": "Astambul",
     "districtCode": "6303060",
     "village": "Kelampaian Ulu",
-    "villageCode": "",
+    "villageCode": "6303060017",
     "postalCode": "70671"
   },
   {
@@ -3089,7 +3089,7 @@ export const KALIMANTAN_SELATAN: PostalCodeData[] = [
     "district": "Astambul",
     "districtCode": "6303060",
     "village": "Benua Anyar Danau Salak",
-    "villageCode": "",
+    "villageCode": "6303060007",
     "postalCode": "70671"
   },
   {
@@ -3122,7 +3122,7 @@ export const KALIMANTAN_SELATAN: PostalCodeData[] = [
     "district": "Mataraman",
     "districtCode": "6303110",
     "village": "Mangkalawat",
-    "villageCode": "",
+    "villageCode": "6303110012",
     "postalCode": "70672"
   },
   {
@@ -3254,7 +3254,7 @@ export const KALIMANTAN_SELATAN: PostalCodeData[] = [
     "district": "Simpang Empat",
     "districtCode": "6303120",
     "village": "Lok Cantung",
-    "villageCode": "",
+    "villageCode": "6303120003",
     "postalCode": "70673"
   },
   {
@@ -3826,7 +3826,7 @@ export const KALIMANTAN_SELATAN: PostalCodeData[] = [
     "district": "Telaga Bauntung",
     "districtCode": "6303121",
     "village": "Lok Tanah",
-    "villageCode": "",
+    "villageCode": "6303121002",
     "postalCode": "70677"
   },
   {
@@ -4321,7 +4321,7 @@ export const KALIMANTAN_SELATAN: PostalCodeData[] = [
     "district": "Simpang Empat",
     "districtCode": "6310052",
     "village": "Hidayah Makmur",
-    "villageCode": "",
+    "villageCode": "6310052013",
     "postalCode": "72221"
   },
   {
@@ -4629,7 +4629,7 @@ export const KALIMANTAN_SELATAN: PostalCodeData[] = [
     "district": "Banjang",
     "districtCode": "6308060",
     "village": "Teluk Buluh",
-    "villageCode": "",
+    "villageCode": "6308060013",
     "postalCode": "71451"
   },
   {
@@ -5421,7 +5421,7 @@ export const KALIMANTAN_SELATAN: PostalCodeData[] = [
     "district": "Batang Alai Selatan",
     "districtCode": "6307040",
     "village": "Tembok Bahalang",
-    "villageCode": "",
+    "villageCode": "6307040029",
     "postalCode": "71381"
   },
   {
@@ -5476,7 +5476,7 @@ export const KALIMANTAN_SELATAN: PostalCodeData[] = [
     "district": "Batang Alai Selatan",
     "districtCode": "6307040",
     "village": "Lok Basar",
-    "villageCode": "",
+    "villageCode": "6307040031",
     "postalCode": "71381"
   },
   {
@@ -5498,7 +5498,7 @@ export const KALIMANTAN_SELATAN: PostalCodeData[] = [
     "district": "Batang Alai Selatan",
     "districtCode": "6307040",
     "village": "Lunjuk",
-    "villageCode": "",
+    "villageCode": "6307040032",
     "postalCode": "71381"
   },
   {
@@ -5663,7 +5663,7 @@ export const KALIMANTAN_SELATAN: PostalCodeData[] = [
     "district": "Batang Alai Timur",
     "districtCode": "6307041",
     "village": "Juhu",
-    "villageCode": "",
+    "villageCode": "6307041001",
     "postalCode": "71382"
   },
   {
@@ -5861,7 +5861,7 @@ export const KALIMANTAN_SELATAN: PostalCodeData[] = [
     "district": "Candi Laras Utara",
     "districtCode": "6305100",
     "village": "Margasari Hilir",
-    "villageCode": "",
+    "villageCode": "6305100006",
     "postalCode": "71171"
   },
   {
@@ -6444,7 +6444,7 @@ export const KALIMANTAN_SELATAN: PostalCodeData[] = [
     "district": "Batu Ampar",
     "districtCode": "6301070",
     "village": "Tajau Mulya",
-    "villageCode": "",
+    "villageCode": "6301070006",
     "postalCode": "70882"
   },
   {
@@ -6488,7 +6488,7 @@ export const KALIMANTAN_SELATAN: PostalCodeData[] = [
     "district": "Batu Ampar",
     "districtCode": "6301070",
     "village": "Bluru",
-    "villageCode": "",
+    "villageCode": "6301070013",
     "postalCode": "70882"
   },
   {
@@ -6719,7 +6719,7 @@ export const KALIMANTAN_SELATAN: PostalCodeData[] = [
     "district": "Padang Batung",
     "districtCode": "6306010",
     "village": "Jelatang",
-    "villageCode": "",
+    "villageCode": "6306010009",
     "postalCode": "71281"
   },
   {
@@ -6763,7 +6763,7 @@ export const KALIMANTAN_SELATAN: PostalCodeData[] = [
     "district": "Batu Benawa",
     "districtCode": "6307020",
     "village": "Kalibaru",
-    "villageCode": "",
+    "villageCode": "6307020011",
     "postalCode": "71371"
   },
   {
@@ -7104,7 +7104,7 @@ export const KALIMANTAN_SELATAN: PostalCodeData[] = [
     "district": "Batu Mandi",
     "districtCode": "6311020",
     "village": "Munjung",
-    "villageCode": "",
+    "villageCode": "6311020006",
     "postalCode": "71663"
   },
   {
@@ -7170,7 +7170,7 @@ export const KALIMANTAN_SELATAN: PostalCodeData[] = [
     "district": "Batu Mandi",
     "districtCode": "6311020",
     "village": "Bungur",
-    "villageCode": "",
+    "villageCode": "6311020013",
     "postalCode": "71663"
   },
   {
@@ -7511,7 +7511,7 @@ export const KALIMANTAN_SELATAN: PostalCodeData[] = [
     "district": "Pelaihari",
     "districtCode": "6301060",
     "village": "Pemuda",
-    "villageCode": "",
+    "villageCode": "6301060029",
     "postalCode": "70819"
   },
   {
@@ -7599,7 +7599,7 @@ export const KALIMANTAN_SELATAN: PostalCodeData[] = [
     "district": "Pelaihari",
     "districtCode": "6301060",
     "village": "Atu-atu",
-    "villageCode": "",
+    "villageCode": "6301060014",
     "postalCode": "70819"
   },
   {
@@ -7621,7 +7621,7 @@ export const KALIMANTAN_SELATAN: PostalCodeData[] = [
     "district": "Bajuin",
     "districtCode": "6301061",
     "village": "Pemalongan",
-    "villageCode": "",
+    "villageCode": "6301061003",
     "postalCode": "70851"
   },
   {
@@ -8215,7 +8215,7 @@ export const KALIMANTAN_SELATAN: PostalCodeData[] = [
     "district": "Takisung",
     "districtCode": "6301020",
     "village": "Pagatan Besar",
-    "villageCode": "",
+    "villageCode": "6301020011",
     "postalCode": "70861"
   },
   {
@@ -8358,7 +8358,7 @@ export const KALIMANTAN_SELATAN: PostalCodeData[] = [
     "district": "Jorong",
     "districtCode": "6301080",
     "village": "Asri Mulya",
-    "villageCode": "",
+    "villageCode": "6301080008",
     "postalCode": "70881"
   },
   {
@@ -8369,7 +8369,7 @@ export const KALIMANTAN_SELATAN: PostalCodeData[] = [
     "district": "Jorong",
     "districtCode": "6301080",
     "village": "Muara Asam-Asam",
-    "villageCode": "",
+    "villageCode": "6301080006",
     "postalCode": "70881"
   },
   {
@@ -8391,7 +8391,7 @@ export const KALIMANTAN_SELATAN: PostalCodeData[] = [
     "district": "Jorong",
     "districtCode": "6301080",
     "village": "Asam-Asam",
-    "villageCode": "",
+    "villageCode": "6301080006",
     "postalCode": "70881"
   },
   {
@@ -8545,7 +8545,7 @@ export const KALIMANTAN_SELATAN: PostalCodeData[] = [
     "district": "Kintap",
     "districtCode": "6301090",
     "village": "Pandan Sari",
-    "villageCode": "",
+    "villageCode": "6301090001",
     "postalCode": "70883"
   },
   {
@@ -8930,7 +8930,7 @@ export const KALIMANTAN_SELATAN: PostalCodeData[] = [
     "district": "Labuan Amas Selatan",
     "districtCode": "6307060",
     "village": "Mahang Baru",
-    "villageCode": "",
+    "villageCode": "6307060008",
     "postalCode": "71361"
   },
   {
@@ -9403,7 +9403,7 @@ export const KALIMANTAN_SELATAN: PostalCodeData[] = [
     "district": "Pulau Laut Timur",
     "districtCode": "",
     "village": "Betung",
-    "villageCode": "",
+    "villageCode": "6310010001",
     "postalCode": "72152"
   },
   {
@@ -10547,7 +10547,7 @@ export const KALIMANTAN_SELATAN: PostalCodeData[] = [
     "district": "Pamukan Utara",
     "districtCode": "",
     "village": "Wonorejo",
-    "villageCode": "",
+    "villageCode": "6310030019",
     "postalCode": "72169"
   },
   {
@@ -10976,7 +10976,7 @@ export const KALIMANTAN_SELATAN: PostalCodeData[] = [
     "district": "Marabahan",
     "districtCode": "6304140",
     "village": "Penghulu",
-    "villageCode": "",
+    "villageCode": "6304140003",
     "postalCode": "70511"
   },
   {
@@ -11042,7 +11042,7 @@ export const KALIMANTAN_SELATAN: PostalCodeData[] = [
     "district": "Marabahan",
     "districtCode": "6304140",
     "village": "Ulu Benteng",
-    "villageCode": "",
+    "villageCode": "6304140005",
     "postalCode": "70511"
   },
   {
@@ -11361,7 +11361,7 @@ export const KALIMANTAN_SELATAN: PostalCodeData[] = [
     "district": "Wanaraya",
     "districtCode": "6304090",
     "village": "Kolam Kanan",
-    "villageCode": "",
+    "villageCode": "6304090005",
     "postalCode": "70554"
   },
   {
@@ -11416,7 +11416,7 @@ export const KALIMANTAN_SELATAN: PostalCodeData[] = [
     "district": "Wanaraya",
     "districtCode": "6304090",
     "village": "Kolam Kiri",
-    "villageCode": "",
+    "villageCode": "6304090003",
     "postalCode": "70554"
   },
   {
@@ -11570,7 +11570,7 @@ export const KALIMANTAN_SELATAN: PostalCodeData[] = [
     "district": "Barambai",
     "districtCode": "6304100",
     "village": "Barambai Kolam Kiri Dalam",
-    "villageCode": "",
+    "villageCode": "6304100004",
     "postalCode": "70562"
   },
   {
@@ -11603,7 +11603,7 @@ export const KALIMANTAN_SELATAN: PostalCodeData[] = [
     "district": "Barambai",
     "districtCode": "6304100",
     "village": "Barambai Karya Tani",
-    "villageCode": "",
+    "villageCode": "6304100004",
     "postalCode": "70562"
   },
   {
@@ -11966,7 +11966,7 @@ export const KALIMANTAN_SELATAN: PostalCodeData[] = [
     "district": "Anjir Pasar",
     "districtCode": "6304040",
     "village": "Anjir Seberang Pasar I",
-    "villageCode": "",
+    "villageCode": "6304040004",
     "postalCode": "70565"
   },
   {
@@ -12076,7 +12076,7 @@ export const KALIMANTAN_SELATAN: PostalCodeData[] = [
     "district": "Tamban",
     "districtCode": "6304020",
     "village": "Tinggiran II Luar",
-    "villageCode": "",
+    "villageCode": "6304020014",
     "postalCode": "70566"
   },
   {
@@ -12945,7 +12945,7 @@ export const KALIMANTAN_SELATAN: PostalCodeData[] = [
     "district": "Bakarangan",
     "districtCode": "6305080",
     "village": "Bundung",
-    "villageCode": "",
+    "villageCode": "6305080010",
     "postalCode": "71152"
   },
   {
@@ -12967,7 +12967,7 @@ export const KALIMANTAN_SELATAN: PostalCodeData[] = [
     "district": "Bakarangan",
     "districtCode": "6305080",
     "village": "Parigi Kecil",
-    "villageCode": "",
+    "villageCode": "6305080002",
     "postalCode": "71152"
   },
   {
@@ -13022,7 +13022,7 @@ export const KALIMANTAN_SELATAN: PostalCodeData[] = [
     "district": "Bakarangan",
     "districtCode": "6305080",
     "village": "Gadung Keramat",
-    "villageCode": "",
+    "villageCode": "6305080008",
     "postalCode": "71152"
   },
   {
@@ -13132,7 +13132,7 @@ export const KALIMANTAN_SELATAN: PostalCodeData[] = [
     "district": "Bungur",
     "districtCode": "6305040",
     "village": "Bungur",
-    "villageCode": "",
+    "villageCode": "6305040011",
     "postalCode": "71153"
   },
   {
@@ -13165,7 +13165,7 @@ export const KALIMANTAN_SELATAN: PostalCodeData[] = [
     "district": "Bungur",
     "districtCode": "6305040",
     "village": "Purut",
-    "villageCode": "",
+    "villageCode": "6305040008",
     "postalCode": "71153"
   },
   {
@@ -13539,7 +13539,7 @@ export const KALIMANTAN_SELATAN: PostalCodeData[] = [
     "district": "Candi Laras Selatan",
     "districtCode": "6305090",
     "village": "Baringin A.",
-    "villageCode": "",
+    "villageCode": "6305090008",
     "postalCode": "71162"
   },
   {
@@ -13561,7 +13561,7 @@ export const KALIMANTAN_SELATAN: PostalCodeData[] = [
     "district": "Candi Laras Utara",
     "districtCode": "6305100",
     "village": "Keladan",
-    "villageCode": "",
+    "villageCode": "6305100001",
     "postalCode": "71171"
   },
   {
@@ -13583,7 +13583,7 @@ export const KALIMANTAN_SELATAN: PostalCodeData[] = [
     "district": "Candi Laras Utara",
     "districtCode": "6305100",
     "village": "Buas-buas",
-    "villageCode": "",
+    "villageCode": "6305100012",
     "postalCode": "71171"
   },
   {
@@ -13594,7 +13594,7 @@ export const KALIMANTAN_SELATAN: PostalCodeData[] = [
     "district": "Candi Laras Utara",
     "districtCode": "6305100",
     "village": "Sungai Selai Hilir",
-    "villageCode": "",
+    "villageCode": "6305100002",
     "postalCode": "71171"
   },
   {
@@ -13616,7 +13616,7 @@ export const KALIMANTAN_SELATAN: PostalCodeData[] = [
     "district": "Candi Laras Utara",
     "districtCode": "6305100",
     "village": "Buas-buas Hilir",
-    "villageCode": "",
+    "villageCode": "6305100011",
     "postalCode": "71171"
   },
   {
@@ -13660,7 +13660,7 @@ export const KALIMANTAN_SELATAN: PostalCodeData[] = [
     "district": "Candi Laras Utara",
     "districtCode": "6305100",
     "village": "Sungai Selai",
-    "villageCode": "",
+    "villageCode": "6305100002",
     "postalCode": "71171"
   },
   {
@@ -13858,7 +13858,7 @@ export const KALIMANTAN_SELATAN: PostalCodeData[] = [
     "district": "Binuang",
     "districtCode": "6305010",
     "village": "Pulaupinang Utara",
-    "villageCode": "",
+    "villageCode": "6306100012",
     "postalCode": "71183"
   },
   {
@@ -14133,7 +14133,7 @@ export const KALIMANTAN_SELATAN: PostalCodeData[] = [
     "district": "Daha Utara",
     "districtCode": "6306100",
     "village": "Balah Paikat",
-    "villageCode": "",
+    "villageCode": "6306100007",
     "postalCode": "71253"
   },
   {
@@ -14639,7 +14639,7 @@ export const KALIMANTAN_SELATAN: PostalCodeData[] = [
     "district": "Sungai Raya",
     "districtCode": "6306060",
     "village": "Bumi Berkat",
-    "villageCode": "",
+    "villageCode": "6306060001",
     "postalCode": "71271"
   },
   {
@@ -14815,7 +14815,7 @@ export const KALIMANTAN_SELATAN: PostalCodeData[] = [
     "district": "Loksado",
     "districtCode": "6306020",
     "village": "Ulang",
-    "villageCode": "",
+    "villageCode": "6306020012",
     "postalCode": "71282"
   },
   {
@@ -14936,7 +14936,7 @@ export const KALIMANTAN_SELATAN: PostalCodeData[] = [
     "district": "Angkinang",
     "districtCode": "6306040",
     "village": "Telaga Sili-Sili",
-    "villageCode": "",
+    "villageCode": "6306040002",
     "postalCode": "71291"
   },
   {
@@ -15497,7 +15497,7 @@ export const KALIMANTAN_SELATAN: PostalCodeData[] = [
     "district": "Pandawan",
     "districtCode": "6307080",
     "village": "Mahang Sungai Hanyar",
-    "villageCode": "",
+    "villageCode": "6307080016",
     "postalCode": "71352"
   },
   {
@@ -15585,7 +15585,7 @@ export const KALIMANTAN_SELATAN: PostalCodeData[] = [
     "district": "Labuan Amas Selatan",
     "districtCode": "6307060",
     "village": "Banua Kepayang",
-    "villageCode": "",
+    "villageCode": "6307060017",
     "postalCode": "71361"
   },
   {
@@ -15783,7 +15783,7 @@ export const KALIMANTAN_SELATAN: PostalCodeData[] = [
     "district": "Labuan Amas Utara",
     "districtCode": "6307070",
     "village": "Parumahan",
-    "villageCode": "",
+    "villageCode": "6307070003",
     "postalCode": "71362"
   },
   {
@@ -15805,7 +15805,7 @@ export const KALIMANTAN_SELATAN: PostalCodeData[] = [
     "district": "Labuan Amas Utara",
     "districtCode": "6307070",
     "village": "Tungkup",
-    "villageCode": "",
+    "villageCode": "6307070021",
     "postalCode": "71362"
   },
   {
@@ -15915,7 +15915,7 @@ export const KALIMANTAN_SELATAN: PostalCodeData[] = [
     "district": "Haruyan",
     "districtCode": "6307010",
     "village": "Lok Buntar",
-    "villageCode": "",
+    "villageCode": "6307010005",
     "postalCode": "71363"
   },
   {
@@ -15959,7 +15959,7 @@ export const KALIMANTAN_SELATAN: PostalCodeData[] = [
     "district": "Haruyan",
     "districtCode": "6307010",
     "village": "Pengambau Hilir Luar",
-    "villageCode": "",
+    "villageCode": "6307010001",
     "postalCode": "71363"
   },
   {
@@ -16091,7 +16091,7 @@ export const KALIMANTAN_SELATAN: PostalCodeData[] = [
     "district": "Hantakan",
     "districtCode": "6307030",
     "village": "Murung B",
-    "villageCode": "",
+    "villageCode": "6307030012",
     "postalCode": "71372"
   },
   {
@@ -16322,7 +16322,7 @@ export const KALIMANTAN_SELATAN: PostalCodeData[] = [
     "district": "Amuntai Tengah",
     "districtCode": "6308050",
     "village": "Pinangkara",
-    "villageCode": "",
+    "villageCode": "6308050002",
     "postalCode": "71419"
   },
   {
@@ -16344,7 +16344,7 @@ export const KALIMANTAN_SELATAN: PostalCodeData[] = [
     "district": "Amuntai Tengah",
     "districtCode": "6308050",
     "village": "Kota Raden Hulu",
-    "villageCode": "",
+    "villageCode": "6308050013",
     "postalCode": "71419"
   },
   {
@@ -16476,7 +16476,7 @@ export const KALIMANTAN_SELATAN: PostalCodeData[] = [
     "district": "Amuntai Tengah",
     "districtCode": "6308050",
     "village": "Danau Cermin",
-    "villageCode": "",
+    "villageCode": "6308050001",
     "postalCode": "71419"
   },
   {
@@ -16630,7 +16630,7 @@ export const KALIMANTAN_SELATAN: PostalCodeData[] = [
     "district": "Banjang",
     "districtCode": "6308060",
     "village": "Pelanjungan Sari",
-    "villageCode": "",
+    "villageCode": "6308060005",
     "postalCode": "71451"
   },
   {
@@ -16674,7 +16674,7 @@ export const KALIMANTAN_SELATAN: PostalCodeData[] = [
     "district": "Banjang",
     "districtCode": "6308060",
     "village": "Danau Terati",
-    "villageCode": "",
+    "villageCode": "6308060016",
     "postalCode": "71451"
   },
   {
@@ -16751,7 +16751,7 @@ export const KALIMANTAN_SELATAN: PostalCodeData[] = [
     "district": "Amuntai Selatan",
     "districtCode": "6308040",
     "village": "Ujung Murung",
-    "villageCode": "",
+    "villageCode": "6308040005",
     "postalCode": "71452"
   },
   {
@@ -17004,7 +17004,7 @@ export const KALIMANTAN_SELATAN: PostalCodeData[] = [
     "district": "Danau Panggang",
     "districtCode": "6308010",
     "village": "Longkong",
-    "villageCode": "",
+    "villageCode": "6308010012",
     "postalCode": "71453"
   },
   {
@@ -17411,7 +17411,7 @@ export const KALIMANTAN_SELATAN: PostalCodeData[] = [
     "district": "Sungai Pandan",
     "districtCode": "6308030",
     "village": "Teluk Betung",
-    "villageCode": "",
+    "villageCode": "6308030025",
     "postalCode": "71455"
   },
   {
@@ -17994,7 +17994,7 @@ export const KALIMANTAN_SELATAN: PostalCodeData[] = [
     "district": "Amuntai Utara",
     "districtCode": "6308070",
     "village": "Guntung",
-    "villageCode": "",
+    "villageCode": "6308070043",
     "postalCode": "71471"
   },
   {
@@ -18258,7 +18258,7 @@ export const KALIMANTAN_SELATAN: PostalCodeData[] = [
     "district": "Haur Gading",
     "districtCode": "6308071",
     "village": "Palimbang Sari",
-    "villageCode": "",
+    "villageCode": "6308071005",
     "postalCode": "71472"
   },
   {
@@ -18280,7 +18280,7 @@ export const KALIMANTAN_SELATAN: PostalCodeData[] = [
     "district": "Haur Gading",
     "districtCode": "6308071",
     "village": "Lok Suga",
-    "villageCode": "",
+    "villageCode": "6308071004",
     "postalCode": "71472"
   },
   {
@@ -19127,7 +19127,7 @@ export const KALIMANTAN_SELATAN: PostalCodeData[] = [
     "district": "Haruai",
     "districtCode": "6309080",
     "village": "Suput",
-    "villageCode": "",
+    "villageCode": "6309080009",
     "postalCode": "71572"
   },
   {
@@ -19479,7 +19479,7 @@ export const KALIMANTAN_SELATAN: PostalCodeData[] = [
     "district": "Bintang Ara",
     "districtCode": "6309081",
     "village": "Burum",
-    "villageCode": "",
+    "villageCode": "6309081005",
     "postalCode": "71576"
   },
   {
@@ -19567,7 +19567,7 @@ export const KALIMANTAN_SELATAN: PostalCodeData[] = [
     "district": "Simpang Empat",
     "districtCode": "6310052",
     "village": "Bersujud",
-    "villageCode": "",
+    "villageCode": "6310052011",
     "postalCode": "72221"
   },
   {
@@ -19589,7 +19589,7 @@ export const KALIMANTAN_SELATAN: PostalCodeData[] = [
     "district": "Simpang Empat",
     "districtCode": "6310052",
     "village": "Kupang Berkah Jaya",
-    "villageCode": "",
+    "villageCode": "6310052015",
     "postalCode": "72221"
   },
   {
@@ -19611,7 +19611,7 @@ export const KALIMANTAN_SELATAN: PostalCodeData[] = [
     "district": "Simpang Empat",
     "districtCode": "6310052",
     "village": "Pulau Burung",
-    "villageCode": "",
+    "villageCode": "6310052008",
     "postalCode": "72221"
   },
   {
@@ -19644,7 +19644,7 @@ export const KALIMANTAN_SELATAN: PostalCodeData[] = [
     "district": "Simpang Empat",
     "districtCode": "6310052",
     "village": "Plajau Mulia",
-    "villageCode": "",
+    "villageCode": "6310052014",
     "postalCode": "72221"
   },
   {
@@ -19754,7 +19754,7 @@ export const KALIMANTAN_SELATAN: PostalCodeData[] = [
     "district": "Mantewe",
     "districtCode": "6310053",
     "village": "Mentawakan Mulia",
-    "villageCode": "",
+    "villageCode": "6310053011",
     "postalCode": "72271"
   },
   {
@@ -20216,7 +20216,7 @@ export const KALIMANTAN_SELATAN: PostalCodeData[] = [
     "district": "Kusan Hilir",
     "districtCode": "6310010",
     "village": "Pagaruyung",
-    "villageCode": "",
+    "villageCode": "6310010009",
     "postalCode": "72273"
   },
   {
@@ -20238,7 +20238,7 @@ export const KALIMANTAN_SELATAN: PostalCodeData[] = [
     "district": "Kusan Hilir",
     "districtCode": "6310010",
     "village": "Sungai Lembu",
-    "villageCode": "",
+    "villageCode": "6310010005",
     "postalCode": "72273"
   },
   {
@@ -20326,7 +20326,7 @@ export const KALIMANTAN_SELATAN: PostalCodeData[] = [
     "district": "Kusan Hilir",
     "districtCode": "6310010",
     "village": "Gusunge",
-    "villageCode": "",
+    "villageCode": "6310010006",
     "postalCode": "72273"
   },
   {
@@ -20491,7 +20491,7 @@ export const KALIMANTAN_SELATAN: PostalCodeData[] = [
     "district": "Satui",
     "districtCode": "6310030",
     "village": "Beruntung Raya",
-    "villageCode": "",
+    "villageCode": "6310030028",
     "postalCode": "72275"
   },
   {
@@ -20557,7 +20557,7 @@ export const KALIMANTAN_SELATAN: PostalCodeData[] = [
     "district": "Satui",
     "districtCode": "6310030",
     "village": "Makmur Jaya",
-    "villageCode": "",
+    "villageCode": "6310030030",
     "postalCode": "72275"
   },
   {
@@ -20590,7 +20590,7 @@ export const KALIMANTAN_SELATAN: PostalCodeData[] = [
     "district": "Satui",
     "districtCode": "6310030",
     "village": "Sido Rejo",
-    "villageCode": "",
+    "villageCode": "6310030027",
     "postalCode": "72275"
   },
   {
@@ -20744,7 +20744,7 @@ export const KALIMANTAN_SELATAN: PostalCodeData[] = [
     "district": "Karang Bintang",
     "districtCode": "6310051",
     "village": "Karang Nunggal",
-    "villageCode": "",
+    "villageCode": "6310051012",
     "postalCode": "72278"
   },
   {
@@ -20876,7 +20876,7 @@ export const KALIMANTAN_SELATAN: PostalCodeData[] = [
     "district": "Paringin",
     "districtCode": "6311040",
     "village": "Sungai Ketapi",
-    "villageCode": "",
+    "villageCode": "6311040019",
     "postalCode": "71611"
   },
   {
@@ -20964,7 +20964,7 @@ export const KALIMANTAN_SELATAN: PostalCodeData[] = [
     "district": "Paringin",
     "districtCode": "6311040",
     "village": "Lamida Bawah",
-    "villageCode": "",
+    "villageCode": "6311040001",
     "postalCode": "71611"
   },
   {
@@ -21272,7 +21272,7 @@ export const KALIMANTAN_SELATAN: PostalCodeData[] = [
     "district": "Paringin Selatan",
     "districtCode": "6311041",
     "village": "Galumbang",
-    "villageCode": "",
+    "villageCode": "6311041010",
     "postalCode": "71662"
   },
   {
@@ -21382,7 +21382,7 @@ export const KALIMANTAN_SELATAN: PostalCodeData[] = [
     "district": "Tebing Tinggi",
     "districtCode": "6311031",
     "village": "Simpang Nadong",
-    "villageCode": "",
+    "villageCode": "6311031008",
     "postalCode": "71664"
   },
   {
@@ -21437,7 +21437,7 @@ export const KALIMANTAN_SELATAN: PostalCodeData[] = [
     "district": "Tebing Tinggi",
     "districtCode": "6311031",
     "village": "Sungsum",
-    "villageCode": "",
+    "villageCode": "6311031002",
     "postalCode": "71664"
   },
   {
@@ -22020,7 +22020,7 @@ export const KALIMANTAN_SELATAN: PostalCodeData[] = [
     "district": "Halong",
     "districtCode": "6311060",
     "village": "Puyun",
-    "villageCode": "",
+    "villageCode": "6311060018",
     "postalCode": "71666"
   },
   {
@@ -22053,7 +22053,7 @@ export const KALIMANTAN_SELATAN: PostalCodeData[] = [
     "district": "Halong",
     "districtCode": "6311060",
     "village": "Buntu Pilanduk",
-    "villageCode": "",
+    "villageCode": "6311060006",
     "postalCode": "71666"
   },
   {
@@ -22086,7 +22086,7 @@ export const KALIMANTAN_SELATAN: PostalCodeData[] = [
     "district": "Halong",
     "districtCode": "6311060",
     "village": "Uren",
-    "villageCode": "",
+    "villageCode": "6311060007",
     "postalCode": "71666"
   },
   {

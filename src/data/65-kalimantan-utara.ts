@@ -196,7 +196,7 @@ export const KALIMANTAN_UTARA: PostalCodeData[] = [
     "district": "Tanjung Palas",
     "districtCode": "6502040",
     "village": "Gunung Putih",
-    "villageCode": "",
+    "villageCode": "6502040006",
     "postalCode": "77252"
   },
   {
@@ -702,7 +702,7 @@ export const KALIMANTAN_UTARA: PostalCodeData[] = [
     "district": "Sekatak",
     "districtCode": "6502090",
     "village": "Turung",
-    "villageCode": "",
+    "villageCode": "6502090019",
     "postalCode": "77263"
   },
   {
@@ -999,7 +999,7 @@ export const KALIMANTAN_UTARA: PostalCodeData[] = [
     "district": "Lumbis Ogong",
     "districtCode": "6504030",
     "village": "Bulu Mengolom",
-    "villageCode": "",
+    "villageCode": "6504030004",
     "postalCode": "77457"
   },
   {
@@ -1329,7 +1329,7 @@ export const KALIMANTAN_UTARA: PostalCodeData[] = [
     "district": "Betayau",
     "districtCode": "6503030",
     "village": "Buong Baru",
-    "villageCode": "",
+    "villageCode": "6503030006",
     "postalCode": "77653"
   },
   {
@@ -1406,7 +1406,7 @@ export const KALIMANTAN_UTARA: PostalCodeData[] = [
     "district": "Malinau Utara",
     "districtCode": "6501130",
     "village": "Seruyung",
-    "villageCode": "",
+    "villageCode": "6501130012",
     "postalCode": "77551"
   },
   {
@@ -1417,7 +1417,7 @@ export const KALIMANTAN_UTARA: PostalCodeData[] = [
     "district": "Malinau Utara",
     "districtCode": "6501130",
     "village": "Respen Tubu",
-    "villageCode": "",
+    "villageCode": "6501130003",
     "postalCode": "77551"
   },
   {
@@ -1439,7 +1439,7 @@ export const KALIMANTAN_UTARA: PostalCodeData[] = [
     "district": "Malinau Utara",
     "districtCode": "6501130",
     "village": "Lubak Manis",
-    "villageCode": "",
+    "villageCode": "6501130006",
     "postalCode": "77551"
   },
   {
@@ -1791,7 +1791,7 @@ export const KALIMANTAN_UTARA: PostalCodeData[] = [
     "district": "Malinau Selatan Hulu",
     "districtCode": "6501080",
     "village": "Metut",
-    "villageCode": "",
+    "villageCode": "6501080004",
     "postalCode": "77553"
   },
   {
@@ -1846,7 +1846,7 @@ export const KALIMANTAN_UTARA: PostalCodeData[] = [
     "district": "Malinau Selatan Hulu",
     "districtCode": "6501080",
     "village": "Nahakramo",
-    "villageCode": "",
+    "villageCode": "6501080003",
     "postalCode": "77553"
   },
   {
@@ -1989,7 +1989,7 @@ export const KALIMANTAN_UTARA: PostalCodeData[] = [
     "district": "Mentarang Hulu",
     "districtCode": "6501120",
     "village": "Lung Sulit",
-    "villageCode": "",
+    "villageCode": "6501120007",
     "postalCode": "77556"
   },
   {
@@ -2000,7 +2000,7 @@ export const KALIMANTAN_UTARA: PostalCodeData[] = [
     "district": "Mentarang Hulu",
     "districtCode": "6501120",
     "village": "Lung Fala",
-    "villageCode": "",
+    "villageCode": "6501120004",
     "postalCode": "77556"
   },
   {
@@ -2011,7 +2011,7 @@ export const KALIMANTAN_UTARA: PostalCodeData[] = [
     "district": "Mentarang Hulu",
     "districtCode": "6501120",
     "village": "Lung Kebinu",
-    "villageCode": "",
+    "villageCode": "6501120006",
     "postalCode": "77556"
   },
   {
@@ -2022,7 +2022,7 @@ export const KALIMANTAN_UTARA: PostalCodeData[] = [
     "district": "Mentarang Hulu",
     "districtCode": "6501120",
     "village": "Lung Mekatip",
-    "villageCode": "",
+    "villageCode": "6501120005",
     "postalCode": "77556"
   },
   {
@@ -2033,7 +2033,7 @@ export const KALIMANTAN_UTARA: PostalCodeData[] = [
     "district": "Mentarang Hulu",
     "districtCode": "6501120",
     "village": "Lung Simau",
-    "villageCode": "",
+    "villageCode": "6501120003",
     "postalCode": "77556"
   },
   {
@@ -2044,7 +2044,7 @@ export const KALIMANTAN_UTARA: PostalCodeData[] = [
     "district": "Mentarang Hulu",
     "districtCode": "6501120",
     "village": "Lung Barang",
-    "villageCode": "",
+    "villageCode": "6501120002",
     "postalCode": "77556"
   },
   {
@@ -2055,7 +2055,7 @@ export const KALIMANTAN_UTARA: PostalCodeData[] = [
     "district": "Mentarang Hulu",
     "districtCode": "6501120",
     "village": "Lung Semamu",
-    "villageCode": "",
+    "villageCode": "6501120001",
     "postalCode": "77556"
   },
   {
@@ -2110,7 +2110,7 @@ export const KALIMANTAN_UTARA: PostalCodeData[] = [
     "district": "Pujungan",
     "districtCode": "6501050",
     "village": "Long Jelet",
-    "villageCode": "",
+    "villageCode": "6501050002",
     "postalCode": "77562"
   },
   {
@@ -2187,7 +2187,7 @@ export const KALIMANTAN_UTARA: PostalCodeData[] = [
     "district": "Bahau Hulu",
     "districtCode": "6501060",
     "village": "Long Kemuat",
-    "villageCode": "",
+    "villageCode": "6501060004",
     "postalCode": "77563"
   },
   {
@@ -2220,7 +2220,7 @@ export const KALIMANTAN_UTARA: PostalCodeData[] = [
     "district": "Kayan Hilir",
     "districtCode": "6501040",
     "village": "Long Metun",
-    "villageCode": "",
+    "villageCode": "6501040001",
     "postalCode": "77571"
   },
   {
@@ -2341,7 +2341,7 @@ export const KALIMANTAN_UTARA: PostalCodeData[] = [
     "district": "Kayan Selatan",
     "districtCode": "6501020",
     "village": "Sungai Barang",
-    "villageCode": "",
+    "villageCode": "6501020002",
     "postalCode": "77573"
   },
   {
@@ -2462,7 +2462,7 @@ export const KALIMANTAN_UTARA: PostalCodeData[] = [
     "district": "Sesayap",
     "districtCode": "6503020",
     "village": "Sedulun",
-    "villageCode": "",
+    "villageCode": "6503020001",
     "postalCode": "77611"
   },
   {
@@ -2495,7 +2495,7 @@ export const KALIMANTAN_UTARA: PostalCodeData[] = [
     "district": "Muruk Rian",
     "districtCode": "6503010",
     "village": "Seputuk",
-    "villageCode": "",
+    "villageCode": "6503010002",
     "postalCode": "77651"
   },
   {
@@ -2561,7 +2561,7 @@ export const KALIMANTAN_UTARA: PostalCodeData[] = [
     "district": "Sesayap Hilir",
     "districtCode": "6503040",
     "village": "Menjelutung",
-    "villageCode": "",
+    "villageCode": "6503040007",
     "postalCode": "77652"
   },
   {
@@ -2814,7 +2814,7 @@ export const KALIMANTAN_UTARA: PostalCodeData[] = [
     "district": "Sei Menggaris",
     "districtCode": "6504090",
     "village": "Srinanti",
-    "villageCode": "",
+    "villageCode": "6504090003",
     "postalCode": "77427"
   },
   {
@@ -2924,7 +2924,7 @@ export const KALIMANTAN_UTARA: PostalCodeData[] = [
     "district": "Sebatik Utara",
     "districtCode": "6504160",
     "village": "Sungai Pancang",
-    "villageCode": "",
+    "villageCode": "6504160002",
     "postalCode": "77437"
   },
   {
@@ -3067,7 +3067,7 @@ export const KALIMANTAN_UTARA: PostalCodeData[] = [
     "district": "Sembakung",
     "districtCode": "6504060",
     "village": "Tujung",
-    "villageCode": "",
+    "villageCode": "6504060004",
     "postalCode": "77453"
   },
   {
@@ -3122,7 +3122,7 @@ export const KALIMANTAN_UTARA: PostalCodeData[] = [
     "district": "Sembakung",
     "districtCode": "6504060",
     "village": "Pelaju",
-    "villageCode": "",
+    "villageCode": "6504060009",
     "postalCode": "77453"
   },
   {
@@ -3364,7 +3364,7 @@ export const KALIMANTAN_UTARA: PostalCodeData[] = [
     "district": "Krayan",
     "districtCode": "6504020",
     "village": "Buduk Tumu",
-    "villageCode": "",
+    "villageCode": "6504020034",
     "postalCode": "77456"
   },
   {
@@ -3672,7 +3672,7 @@ export const KALIMANTAN_UTARA: PostalCodeData[] = [
     "district": "Krayan Barat",
     "districtCode": "6504022",
     "village": "Liang Aliq",
-    "villageCode": "",
+    "villageCode": "6504022016",
     "postalCode": "77456"
   },
   {
@@ -3705,7 +3705,7 @@ export const KALIMANTAN_UTARA: PostalCodeData[] = [
     "district": "Krayan Barat",
     "districtCode": "6504022",
     "village": "Sembudud",
-    "villageCode": "",
+    "villageCode": "6504022024",
     "postalCode": "77456"
   },
   {
@@ -3859,7 +3859,7 @@ export const KALIMANTAN_UTARA: PostalCodeData[] = [
     "district": "Krayan Barat",
     "districtCode": "6504022",
     "village": "Buduk Kubul",
-    "villageCode": "",
+    "villageCode": "6504022008",
     "postalCode": "77456"
   },
   {
@@ -3870,7 +3870,7 @@ export const KALIMANTAN_UTARA: PostalCodeData[] = [
     "district": "Krayan Barat",
     "districtCode": "6504022",
     "village": "Lembudud",
-    "villageCode": "",
+    "villageCode": "6504022011",
     "postalCode": "77456"
   },
   {
@@ -4013,7 +4013,7 @@ export const KALIMANTAN_UTARA: PostalCodeData[] = [
     "district": "Lumbis",
     "districtCode": "6504040",
     "village": "Bulan-Bulan",
-    "villageCode": "",
+    "villageCode": "6504040016",
     "postalCode": "77457"
   },
   {
@@ -4167,7 +4167,7 @@ export const KALIMANTAN_UTARA: PostalCodeData[] = [
     "district": "Lumbis",
     "districtCode": "6504040",
     "village": "Dabulon",
-    "villageCode": "",
+    "villageCode": "6504040010",
     "postalCode": "77457"
   },
   {
@@ -4200,7 +4200,7 @@ export const KALIMANTAN_UTARA: PostalCodeData[] = [
     "district": "Lumbis",
     "districtCode": "6504040",
     "village": "Sangkub",
-    "villageCode": "",
+    "villageCode": "6504040001",
     "postalCode": "77457"
   },
   {
@@ -4288,7 +4288,7 @@ export const KALIMANTAN_UTARA: PostalCodeData[] = [
     "district": "Lumbis",
     "districtCode": "6504040",
     "village": "Tubus",
-    "villageCode": "",
+    "villageCode": "6504040021",
     "postalCode": "77457"
   },
   {
@@ -4299,7 +4299,7 @@ export const KALIMANTAN_UTARA: PostalCodeData[] = [
     "district": "Lumbis Ogong",
     "districtCode": "6504030",
     "village": "Ubol Alung",
-    "villageCode": "",
+    "villageCode": "6504030007",
     "postalCode": "77457"
   },
   {
@@ -4310,7 +4310,7 @@ export const KALIMANTAN_UTARA: PostalCodeData[] = [
     "district": "Lumbis Ogong",
     "districtCode": "6504030",
     "village": "Ubol Sulok",
-    "villageCode": "",
+    "villageCode": "6504030006",
     "postalCode": "77457"
   },
   {
@@ -4332,7 +4332,7 @@ export const KALIMANTAN_UTARA: PostalCodeData[] = [
     "district": "Lumbis Ogong",
     "districtCode": "6504030",
     "village": "Sinampila I",
-    "villageCode": "",
+    "villageCode": "6504030020",
     "postalCode": "77457"
   },
   {
@@ -4354,7 +4354,7 @@ export const KALIMANTAN_UTARA: PostalCodeData[] = [
     "district": "Lumbis Ogong",
     "districtCode": "6504030",
     "village": "Sinampila II",
-    "villageCode": "",
+    "villageCode": "6504030020",
     "postalCode": "77457"
   },
   {
@@ -4365,7 +4365,7 @@ export const KALIMANTAN_UTARA: PostalCodeData[] = [
     "district": "Lumbis Ogong",
     "districtCode": "6504030",
     "village": "Kalambuku",
-    "villageCode": "",
+    "villageCode": "6504030014",
     "postalCode": "77457"
   },
   {
@@ -4376,7 +4376,7 @@ export const KALIMANTAN_UTARA: PostalCodeData[] = [
     "district": "Lumbis Ogong",
     "districtCode": "6504030",
     "village": "Tumantalas",
-    "villageCode": "",
+    "villageCode": "6504030027",
     "postalCode": "77457"
   },
   {
@@ -4442,7 +4442,7 @@ export const KALIMANTAN_UTARA: PostalCodeData[] = [
     "district": "Lumbis Ogong",
     "districtCode": "6504030",
     "village": "Jukup",
-    "villageCode": "",
+    "villageCode": "6504030012",
     "postalCode": "77457"
   },
   {
@@ -4475,7 +4475,7 @@ export const KALIMANTAN_UTARA: PostalCodeData[] = [
     "district": "Lumbis Ogong",
     "districtCode": "6504030",
     "village": "Nansapan",
-    "villageCode": "",
+    "villageCode": "6504030008",
     "postalCode": "77457"
   },
   {
@@ -4926,7 +4926,7 @@ export const KALIMANTAN_UTARA: PostalCodeData[] = [
     "district": "Sebuku",
     "districtCode": "6504070",
     "village": "Lulu",
-    "villageCode": "",
+    "villageCode": "6504070002",
     "postalCode": "77491"
   },
   {
@@ -5025,7 +5025,7 @@ export const KALIMANTAN_UTARA: PostalCodeData[] = [
     "district": "Tulin Onsoi",
     "districtCode": "6504080",
     "village": "Kalunsayan",
-    "villageCode": "",
+    "villageCode": "6504080008",
     "postalCode": "77491"
   },
   {
@@ -5058,7 +5058,7 @@ export const KALIMANTAN_UTARA: PostalCodeData[] = [
     "district": "Tulin Onsoi",
     "districtCode": "6504080",
     "village": "Balatikon",
-    "villageCode": "",
+    "villageCode": "6504080001",
     "postalCode": "77491"
   },
   {
