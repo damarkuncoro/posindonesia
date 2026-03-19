@@ -141,7 +141,7 @@ export const JAWA_BARAT: PostalCodeData[] = [
     "district": "Tempuran",
     "districtCode": "3215130",
     "village": "Jayanegara",
-    "villageCode": "",
+    "villageCode": "3215130008",
     "postalCode": "41385"
   },
   {
@@ -372,7 +372,7 @@ export const JAWA_BARAT: PostalCodeData[] = [
     "district": "Wanayasa",
     "districtCode": "3214080",
     "village": "Sumurugul",
-    "villageCode": "",
+    "villageCode": "3214080006",
     "postalCode": "41174"
   },
   {
@@ -438,7 +438,7 @@ export const JAWA_BARAT: PostalCodeData[] = [
     "district": "Cilamaya Kulon",
     "districtCode": "3215082",
     "village": "Sumurgede",
-    "villageCode": "",
+    "villageCode": "3215082012",
     "postalCode": "41386"
   },
   {
@@ -779,7 +779,7 @@ export const JAWA_BARAT: PostalCodeData[] = [
     "district": "Cingambul",
     "districtCode": "3210031",
     "village": "Cimanggu",
-    "villageCode": "",
+    "villageCode": "3210031008",
     "postalCode": "45467"
   },
   {
@@ -1076,7 +1076,7 @@ export const JAWA_BARAT: PostalCodeData[] = [
     "district": "Pagaden Barat",
     "districtCode": "3213141",
     "village": "Munjul",
-    "villageCode": "",
+    "villageCode": "3213141005",
     "postalCode": "41274"
   },
   {
@@ -1087,7 +1087,7 @@ export const JAWA_BARAT: PostalCodeData[] = [
     "district": "Cilaku",
     "districtCode": "3203140",
     "village": "Munjul",
-    "villageCode": "",
+    "villageCode": "3203140009",
     "postalCode": "43285"
   },
   {
@@ -1109,7 +1109,7 @@ export const JAWA_BARAT: PostalCodeData[] = [
     "district": "Majalengka",
     "districtCode": "3210070",
     "village": "Munjul",
-    "villageCode": "",
+    "villageCode": "3210070013",
     "postalCode": "45417"
   },
   {
@@ -1395,7 +1395,7 @@ export const JAWA_BARAT: PostalCodeData[] = [
     "district": "Cipayung",
     "districtCode": "3276021",
     "village": "Ratu Jaya",
-    "villageCode": "",
+    "villageCode": "3276021004",
     "postalCode": "16445"
   },
   {
@@ -1450,7 +1450,7 @@ export const JAWA_BARAT: PostalCodeData[] = [
     "district": "Bogor Barat",
     "districtCode": "3271050",
     "village": "Menteng",
-    "villageCode": "",
+    "villageCode": "3271050006",
     "postalCode": "16111"
   },
   {
@@ -1736,7 +1736,7 @@ export const JAWA_BARAT: PostalCodeData[] = [
     "district": "Bogor Barat",
     "districtCode": "3271050",
     "village": "Curug Mekar",
-    "villageCode": "",
+    "villageCode": "3271050016",
     "postalCode": "16113"
   },
   {
@@ -1747,7 +1747,7 @@ export const JAWA_BARAT: PostalCodeData[] = [
     "district": "Bogor Barat",
     "districtCode": "3271050",
     "village": "Curug",
-    "villageCode": "",
+    "villageCode": "3271050015",
     "postalCode": "16113"
   },
   {
@@ -1769,7 +1769,7 @@ export const JAWA_BARAT: PostalCodeData[] = [
     "district": "Bogor Barat",
     "districtCode": "3271050",
     "village": "Situ Gede",
-    "villageCode": "",
+    "villageCode": "3215040002",
     "postalCode": "16115"
   },
   {
@@ -1956,7 +1956,7 @@ export const JAWA_BARAT: PostalCodeData[] = [
     "district": "Bogor Tengah",
     "districtCode": "3271040",
     "village": "Babakan Pasar",
-    "villageCode": "",
+    "villageCode": "3271040005",
     "postalCode": "16126"
   },
   {
@@ -1989,7 +1989,7 @@ export const JAWA_BARAT: PostalCodeData[] = [
     "district": "Bogor Tengah",
     "districtCode": "3271040",
     "village": "Sempur",
-    "villageCode": "",
+    "villageCode": "3271040006",
     "postalCode": "16129"
   },
   {
@@ -2000,7 +2000,7 @@ export const JAWA_BARAT: PostalCodeData[] = [
     "district": "Bogor Selatan",
     "districtCode": "3271010",
     "village": "Batu Tulis",
-    "villageCode": "",
+    "villageCode": "3215020001",
     "postalCode": "16131"
   },
   {
@@ -2121,7 +2121,7 @@ export const JAWA_BARAT: PostalCodeData[] = [
     "district": "Bogor Selatan",
     "districtCode": "3271010",
     "village": "Genteng",
-    "villageCode": "",
+    "villageCode": "3271010004",
     "postalCode": "16137"
   },
   {
@@ -2253,7 +2253,7 @@ export const JAWA_BARAT: PostalCodeData[] = [
     "district": "Bogor Utara",
     "districtCode": "3271030",
     "village": "Tegal Gundil",
-    "villageCode": "",
+    "villageCode": "3210150013",
     "postalCode": "16152"
   },
   {
@@ -2275,7 +2275,7 @@ export const JAWA_BARAT: PostalCodeData[] = [
     "district": "Bogor Utara",
     "districtCode": "3271030",
     "village": "Tanah Baru",
-    "villageCode": "",
+    "villageCode": "3211031007",
     "postalCode": "16154"
   },
   {
@@ -2517,7 +2517,7 @@ export const JAWA_BARAT: PostalCodeData[] = [
     "district": "Ranca Bungur",
     "districtCode": "",
     "village": "Mekarsari",
-    "villageCode": "",
+    "villageCode": "3203240009",
     "postalCode": "16256"
   },
   {
@@ -3914,7 +3914,7 @@ export const JAWA_BARAT: PostalCodeData[] = [
     "district": "Ciampea",
     "districtCode": "",
     "village": "Benteng",
-    "villageCode": "",
+    "villageCode": "3214110010",
     "postalCode": "16629"
   },
   {
@@ -7214,7 +7214,7 @@ export const JAWA_BARAT: PostalCodeData[] = [
     "district": "Warudoyong",
     "districtCode": "3272030",
     "village": "Benteng",
-    "villageCode": "",
+    "villageCode": "3272030004",
     "postalCode": "43132"
   },
   {
@@ -11493,7 +11493,7 @@ export const JAWA_BARAT: PostalCodeData[] = [
     "district": "Cianjur",
     "districtCode": "3203200",
     "village": "Sawahgede",
-    "villageCode": "",
+    "villageCode": "3203200008",
     "postalCode": "43212"
   },
   {
@@ -11559,7 +11559,7 @@ export const JAWA_BARAT: PostalCodeData[] = [
     "district": "Cianjur",
     "districtCode": "3203200",
     "village": "Limbangansari",
-    "villageCode": "",
+    "villageCode": "3203200009",
     "postalCode": "43218"
   },
   {
@@ -12263,7 +12263,7 @@ export const JAWA_BARAT: PostalCodeData[] = [
     "district": "Cibeber",
     "districtCode": "3203120",
     "village": "Selagedang",
-    "villageCode": "",
+    "villageCode": "3203120007",
     "postalCode": "43262"
   },
   {
@@ -14749,7 +14749,7 @@ export const JAWA_BARAT: PostalCodeData[] = [
     "district": "Sukaluyu",
     "districtCode": "3203150",
     "village": "Sidangraja",
-    "villageCode": "",
+    "villageCode": "3203240017",
     "postalCode": "43284"
   },
   {
@@ -14793,7 +14793,7 @@ export const JAWA_BARAT: PostalCodeData[] = [
     "district": "Cilaku",
     "districtCode": "3203140",
     "village": "Cibinonghilir",
-    "villageCode": "",
+    "villageCode": "3203140006",
     "postalCode": "43285"
   },
   {
@@ -14925,7 +14925,7 @@ export const JAWA_BARAT: PostalCodeData[] = [
     "district": "Haurwangi",
     "districtCode": "3203161",
     "village": "Mekarwangi/Sukatani",
-    "villageCode": "",
+    "villageCode": "3203161002",
     "postalCode": "43286"
   },
   {
@@ -15068,7 +15068,7 @@ export const JAWA_BARAT: PostalCodeData[] = [
     "district": "Cikalongkulon",
     "districtCode": "3203240",
     "village": "Ciramagirang",
-    "villageCode": "",
+    "villageCode": "3203240016",
     "postalCode": "43291"
   },
   {
@@ -15607,7 +15607,7 @@ export const JAWA_BARAT: PostalCodeData[] = [
     "district": "Cidadap",
     "districtCode": "3273260",
     "village": "Ledeng",
-    "villageCode": "",
+    "villageCode": "3273260003",
     "postalCode": "40143"
   },
   {
@@ -16509,7 +16509,7 @@ export const JAWA_BARAT: PostalCodeData[] = [
     "district": "Regol",
     "districtCode": "3273060",
     "village": "Pungkur",
-    "villageCode": "",
+    "villageCode": "3273060006",
     "postalCode": "40252"
   },
   {
@@ -16652,7 +16652,7 @@ export const JAWA_BARAT: PostalCodeData[] = [
     "district": "Bandung Kidul",
     "districtCode": "3273080",
     "village": "Mengger",
-    "villageCode": "",
+    "villageCode": "3273080002",
     "postalCode": "40267"
   },
   {
@@ -16751,7 +16751,7 @@ export const JAWA_BARAT: PostalCodeData[] = [
     "district": "Batununggal",
     "districtCode": "3273160",
     "village": "Gumuruh",
-    "villageCode": "",
+    "villageCode": "3273160001",
     "postalCode": "40275"
   },
   {
@@ -20689,7 +20689,7 @@ export const JAWA_BARAT: PostalCodeData[] = [
     "district": "Parongpong",
     "districtCode": "3217110",
     "village": "Cihanjuangrahayu",
-    "villageCode": "",
+    "villageCode": "3217110005",
     "postalCode": "40759"
   },
   {
@@ -22185,7 +22185,7 @@ export const JAWA_BARAT: PostalCodeData[] = [
     "district": "Leles",
     "districtCode": "3205240",
     "village": "Leles",
-    "villageCode": "",
+    "villageCode": "3205240008",
     "postalCode": "44152"
   },
   {
@@ -24396,7 +24396,7 @@ export const JAWA_BARAT: PostalCodeData[] = [
     "district": "Pameungpeuk",
     "districtCode": "3205070",
     "village": "Bojong Kidul",
-    "villageCode": "",
+    "villageCode": "3205070006",
     "postalCode": "44175"
   },
   {
@@ -24649,7 +24649,7 @@ export const JAWA_BARAT: PostalCodeData[] = [
     "district": "Peundeuy",
     "districtCode": "3205100",
     "village": "Peundeuy",
-    "villageCode": "",
+    "villageCode": "3205100005",
     "postalCode": "44178"
   },
   {
@@ -25089,7 +25089,7 @@ export const JAWA_BARAT: PostalCodeData[] = [
     "district": "Karangpawitan",
     "districtCode": "3205200",
     "village": "Suci Kaler",
-    "villageCode": "",
+    "villageCode": "3205200002",
     "postalCode": "44182"
   },
   {
@@ -25419,7 +25419,7 @@ export const JAWA_BARAT: PostalCodeData[] = [
     "district": "Cibatu",
     "districtCode": "3205260",
     "village": "Keresek",
-    "villageCode": "",
+    "villageCode": "3205260006",
     "postalCode": "44185"
   },
   {
@@ -27300,7 +27300,7 @@ export const JAWA_BARAT: PostalCodeData[] = [
     "district": "Kawalu",
     "districtCode": "3278010",
     "village": "Urug",
-    "villageCode": "",
+    "villageCode": "3278010002",
     "postalCode": "46145"
   },
   {
@@ -31194,7 +31194,7 @@ export const JAWA_BARAT: PostalCodeData[] = [
     "district": "Ciamis",
     "districtCode": "3207210",
     "village": "Benteng",
-    "villageCode": "",
+    "villageCode": "3207210009",
     "postalCode": "46217"
   },
   {
@@ -31909,7 +31909,7 @@ export const JAWA_BARAT: PostalCodeData[] = [
     "district": "Lumbung",
     "districtCode": "3207281",
     "village": "Lumbung",
-    "villageCode": "",
+    "villageCode": "3207281004",
     "postalCode": "46258"
   },
   {
@@ -32558,7 +32558,7 @@ export const JAWA_BARAT: PostalCodeData[] = [
     "district": "Sindangkasih",
     "districtCode": "3207221",
     "village": "Gunungcupu",
-    "villageCode": "",
+    "villageCode": "3207221005",
     "postalCode": "46268"
   },
   {
@@ -32767,7 +32767,7 @@ export const JAWA_BARAT: PostalCodeData[] = [
     "district": "Sukadana",
     "districtCode": "3207200",
     "village": "Bunter",
-    "villageCode": "",
+    "villageCode": "3207200002",
     "postalCode": "46272"
   },
   {
@@ -32998,7 +32998,7 @@ export const JAWA_BARAT: PostalCodeData[] = [
     "district": "Cimaragas",
     "districtCode": "3207140",
     "village": "Beber",
-    "villageCode": "",
+    "villageCode": "3207140003",
     "postalCode": "46281"
   },
   {
@@ -33746,7 +33746,7 @@ export const JAWA_BARAT: PostalCodeData[] = [
     "district": "Cisaga",
     "districtCode": "3207160",
     "village": "Kepel",
-    "villageCode": "",
+    "villageCode": "3207160003",
     "postalCode": "46291"
   },
   {
@@ -34527,7 +34527,7 @@ export const JAWA_BARAT: PostalCodeData[] = [
     "district": "Jalaksana",
     "districtCode": "3208160",
     "village": "Manis Kidul",
-    "villageCode": "",
+    "villageCode": "3210200007",
     "postalCode": "45554"
   },
   {
@@ -34549,7 +34549,7 @@ export const JAWA_BARAT: PostalCodeData[] = [
     "district": "Jalaksana",
     "districtCode": "3208160",
     "village": "Manis Lor",
-    "villageCode": "",
+    "villageCode": "3213120007",
     "postalCode": "45554"
   },
   {
@@ -37233,7 +37233,7 @@ export const JAWA_BARAT: PostalCodeData[] = [
     "district": "Cilebak",
     "districtCode": "3208051",
     "village": "Bungurberes",
-    "villageCode": "",
+    "villageCode": "3208051003",
     "postalCode": "45585"
   },
   {
@@ -37783,7 +37783,7 @@ export const JAWA_BARAT: PostalCodeData[] = [
     "district": "Ciawigebang",
     "districtCode": "3208100",
     "village": "Karamatmulya",
-    "villageCode": "",
+    "villageCode": "3208100007",
     "postalCode": "45591"
   },
   {
@@ -37981,7 +37981,7 @@ export const JAWA_BARAT: PostalCodeData[] = [
     "district": "Cidahu",
     "districtCode": "3208090",
     "village": "Bunder",
-    "villageCode": "",
+    "villageCode": "3208090006",
     "postalCode": "45595"
   },
   {
@@ -38003,7 +38003,7 @@ export const JAWA_BARAT: PostalCodeData[] = [
     "district": "Cidahu",
     "districtCode": "3208090",
     "village": "Cihideung Girang",
-    "villageCode": "",
+    "villageCode": "3214010018",
     "postalCode": "45595"
   },
   {
@@ -38168,7 +38168,7 @@ export const JAWA_BARAT: PostalCodeData[] = [
     "district": "Kejaksan",
     "districtCode": "3274050",
     "village": "Kesenden",
-    "villageCode": "",
+    "villageCode": "3274050004",
     "postalCode": "45121"
   },
   {
@@ -42964,7 +42964,7 @@ export const JAWA_BARAT: PostalCodeData[] = [
     "district": "Majalengka",
     "districtCode": "3210070",
     "village": "Kulur",
-    "villageCode": "",
+    "villageCode": "3210070003",
     "postalCode": "45412"
   },
   {
@@ -43206,7 +43206,7 @@ export const JAWA_BARAT: PostalCodeData[] = [
     "district": "Kadipaten",
     "districtCode": "3210170",
     "village": "Heuleut",
-    "villageCode": "",
+    "villageCode": "3210170002",
     "postalCode": "45452"
   },
   {
@@ -43261,7 +43261,7 @@ export const JAWA_BARAT: PostalCodeData[] = [
     "district": "Dawuan",
     "districtCode": "3210150",
     "village": "Genteng",
-    "villageCode": "",
+    "villageCode": "3210041001",
     "postalCode": "45453"
   },
   {
@@ -43767,7 +43767,7 @@ export const JAWA_BARAT: PostalCodeData[] = [
     "district": "Ligung",
     "districtCode": "3210200",
     "village": "Buntu",
-    "villageCode": "",
+    "villageCode": "3210200006",
     "postalCode": "45456"
   },
   {
@@ -45098,7 +45098,7 @@ export const JAWA_BARAT: PostalCodeData[] = [
     "district": "Lemahsugih",
     "districtCode": "3210010",
     "village": "Kepuh",
-    "villageCode": "",
+    "villageCode": "3210010014",
     "postalCode": "45465"
   },
   {
@@ -45538,7 +45538,7 @@ export const JAWA_BARAT: PostalCodeData[] = [
     "district": "Banjaran",
     "districtCode": "3210041",
     "village": "Sunia Baru",
-    "villageCode": "",
+    "villageCode": "3210041007",
     "postalCode": "45468"
   },
   {
@@ -45923,7 +45923,7 @@ export const JAWA_BARAT: PostalCodeData[] = [
     "district": "Rajagaluh",
     "districtCode": "3210100",
     "village": "Kumbung",
-    "villageCode": "",
+    "villageCode": "3210100007",
     "postalCode": "45472"
   },
   {
@@ -46121,7 +46121,7 @@ export const JAWA_BARAT: PostalCodeData[] = [
     "district": "Leuwimunding",
     "districtCode": "3210120",
     "village": "Heuleut",
-    "villageCode": "",
+    "villageCode": "3210120010",
     "postalCode": "45473"
   },
   {
@@ -46220,7 +46220,7 @@ export const JAWA_BARAT: PostalCodeData[] = [
     "district": "Sindangwangi",
     "districtCode": "3210110",
     "village": "Ujungberung",
-    "villageCode": "",
+    "villageCode": "3210110008",
     "postalCode": "45474"
   },
   {
@@ -46264,7 +46264,7 @@ export const JAWA_BARAT: PostalCodeData[] = [
     "district": "Sindangwangi",
     "districtCode": "3210110",
     "village": "Jerukleueut",
-    "villageCode": "",
+    "villageCode": "3210110005",
     "postalCode": "45474"
   },
   {
@@ -47375,7 +47375,7 @@ export const JAWA_BARAT: PostalCodeData[] = [
     "district": "Ganeas",
     "districtCode": "3211061",
     "village": "Cikonengkulon",
-    "villageCode": "",
+    "villageCode": "3211061004",
     "postalCode": "45356"
   },
   {
@@ -49014,7 +49014,7 @@ export const JAWA_BARAT: PostalCodeData[] = [
     "district": "Tomo",
     "districtCode": "3211120",
     "village": "Bugel",
-    "villageCode": "",
+    "villageCode": "3211120010",
     "postalCode": "45382"
   },
   {
@@ -49344,7 +49344,7 @@ export const JAWA_BARAT: PostalCodeData[] = [
     "district": "Buahdua",
     "districtCode": "3211180",
     "village": "Gendereh",
-    "villageCode": "",
+    "villageCode": "3211180009",
     "postalCode": "45392"
   },
   {
@@ -49652,7 +49652,7 @@ export const JAWA_BARAT: PostalCodeData[] = [
     "district": "Indramayu",
     "districtCode": "3212150",
     "village": "Dukuh",
-    "villageCode": "",
+    "villageCode": "3212150003",
     "postalCode": "45215"
   },
   {
@@ -50191,7 +50191,7 @@ export const JAWA_BARAT: PostalCodeData[] = [
     "district": "Losarang",
     "districtCode": "3212180",
     "village": "Jumbleng",
-    "villageCode": "",
+    "villageCode": "3212180007",
     "postalCode": "45253"
   },
   {
@@ -50224,7 +50224,7 @@ export const JAWA_BARAT: PostalCodeData[] = [
     "district": "Losarang",
     "districtCode": "3212180",
     "village": "Muntur",
-    "villageCode": "",
+    "villageCode": "3212180011",
     "postalCode": "45253"
   },
   {
@@ -50312,7 +50312,7 @@ export const JAWA_BARAT: PostalCodeData[] = [
     "district": "Kandanghaur",
     "districtCode": "3212190",
     "village": "Curug",
-    "villageCode": "",
+    "villageCode": "3212190001",
     "postalCode": "45254"
   },
   {
@@ -50521,7 +50521,7 @@ export const JAWA_BARAT: PostalCodeData[] = [
     "district": "Anjatan",
     "districtCode": "3212210",
     "village": "Kedungwungu",
-    "villageCode": "",
+    "villageCode": "3212210005",
     "postalCode": "45256"
   },
   {
@@ -50532,7 +50532,7 @@ export const JAWA_BARAT: PostalCodeData[] = [
     "district": "Anjatan",
     "districtCode": "3212210",
     "village": "Bugis Tua",
-    "villageCode": "",
+    "villageCode": "3212210003",
     "postalCode": "45256"
   },
   {
@@ -50664,7 +50664,7 @@ export const JAWA_BARAT: PostalCodeData[] = [
     "district": "Patrol",
     "districtCode": "3212221",
     "village": "Patrol Lor",
-    "villageCode": "",
+    "villageCode": "3212221002",
     "postalCode": "45258"
   },
   {
@@ -50730,7 +50730,7 @@ export const JAWA_BARAT: PostalCodeData[] = [
     "district": "Patrol",
     "districtCode": "3212221",
     "village": "Bugel",
-    "villageCode": "",
+    "villageCode": "3212221005",
     "postalCode": "45258"
   },
   {
@@ -50895,7 +50895,7 @@ export const JAWA_BARAT: PostalCodeData[] = [
     "district": "Lelea",
     "districtCode": "3212050",
     "village": "Nunuk",
-    "villageCode": "",
+    "villageCode": "3212050003",
     "postalCode": "45261"
   },
   {
@@ -50917,7 +50917,7 @@ export const JAWA_BARAT: PostalCodeData[] = [
     "district": "Lelea",
     "districtCode": "3212050",
     "village": "Tempel",
-    "villageCode": "",
+    "villageCode": "3212050004",
     "postalCode": "45261"
   },
   {
@@ -50928,7 +50928,7 @@ export const JAWA_BARAT: PostalCodeData[] = [
     "district": "Lelea",
     "districtCode": "3212050",
     "village": "Cempeh",
-    "villageCode": "",
+    "villageCode": "3212050010",
     "postalCode": "45261"
   },
   {
@@ -50939,7 +50939,7 @@ export const JAWA_BARAT: PostalCodeData[] = [
     "district": "Lelea",
     "districtCode": "3212050",
     "village": "Tugu",
-    "villageCode": "",
+    "villageCode": "3212050002",
     "postalCode": "45261"
   },
   {
@@ -51555,7 +51555,7 @@ export const JAWA_BARAT: PostalCodeData[] = [
     "district": "Widasari",
     "districtCode": "3212070",
     "village": "Bunder",
-    "villageCode": "",
+    "villageCode": "3212070010",
     "postalCode": "45271"
   },
   {
@@ -51676,7 +51676,7 @@ export const JAWA_BARAT: PostalCodeData[] = [
     "district": "Bangodua",
     "districtCode": "3212060",
     "village": "Beduyut",
-    "villageCode": "",
+    "villageCode": "3212060016",
     "postalCode": "45272"
   },
   {
@@ -51863,7 +51863,7 @@ export const JAWA_BARAT: PostalCodeData[] = [
     "district": "Jatibarang",
     "districtCode": "3212130",
     "village": "Kebulen",
-    "villageCode": "",
+    "villageCode": "3212130007",
     "postalCode": "45273"
   },
   {
@@ -51896,7 +51896,7 @@ export const JAWA_BARAT: PostalCodeData[] = [
     "district": "Kertasemaya",
     "districtCode": "3212080",
     "village": "Larangan Jambe",
-    "villageCode": "",
+    "villageCode": "3212080011",
     "postalCode": "45274"
   },
   {
@@ -52248,7 +52248,7 @@ export const JAWA_BARAT: PostalCodeData[] = [
     "district": "Sliyeg",
     "districtCode": "3212120",
     "village": "Sliyeg Lor",
-    "villageCode": "",
+    "villageCode": "3212120008",
     "postalCode": "45281"
   },
   {
@@ -52292,7 +52292,7 @@ export const JAWA_BARAT: PostalCodeData[] = [
     "district": "Sliyeg",
     "districtCode": "3212120",
     "village": "Tugukidul",
-    "villageCode": "",
+    "villageCode": "3212120013",
     "postalCode": "45281"
   },
   {
@@ -52391,7 +52391,7 @@ export const JAWA_BARAT: PostalCodeData[] = [
     "district": "Sliyeg",
     "districtCode": "3212120",
     "village": "Tugu",
-    "villageCode": "",
+    "villageCode": "3212120012",
     "postalCode": "45281"
   },
   {
@@ -52534,7 +52534,7 @@ export const JAWA_BARAT: PostalCodeData[] = [
     "district": "Karangampel",
     "districtCode": "3212100",
     "village": "Mundu",
-    "villageCode": "",
+    "villageCode": "3212100017",
     "postalCode": "45283"
   },
   {
@@ -52677,7 +52677,7 @@ export const JAWA_BARAT: PostalCodeData[] = [
     "district": "Krangkeng",
     "districtCode": "3212090",
     "village": "Kedungwungu",
-    "villageCode": "",
+    "villageCode": "3212090006",
     "postalCode": "45284"
   },
   {
@@ -52710,7 +52710,7 @@ export const JAWA_BARAT: PostalCodeData[] = [
     "district": "Krangkeng",
     "districtCode": "3212090",
     "village": "Srengseng",
-    "villageCode": "",
+    "villageCode": "3212090007",
     "postalCode": "45284"
   },
   {
@@ -52820,7 +52820,7 @@ export const JAWA_BARAT: PostalCodeData[] = [
     "district": "Balongan",
     "districtCode": "3212140",
     "village": "Sudimampir Lor",
-    "villageCode": "",
+    "villageCode": "3212140008",
     "postalCode": "45285"
   },
   {
@@ -52908,7 +52908,7 @@ export const JAWA_BARAT: PostalCodeData[] = [
     "district": "Kedokan Bunder",
     "districtCode": "3212101",
     "village": "Kedokanbunderwetan",
-    "villageCode": "",
+    "villageCode": "3212101004",
     "postalCode": "45286"
   },
   {
@@ -53128,7 +53128,7 @@ export const JAWA_BARAT: PostalCodeData[] = [
     "district": "Pagaden",
     "districtCode": "3213140",
     "village": "Gunungsembung",
-    "villageCode": "",
+    "villageCode": "3213140004",
     "postalCode": "41252"
   },
   {
@@ -53480,7 +53480,7 @@ export const JAWA_BARAT: PostalCodeData[] = [
     "district": "Ciasem",
     "districtCode": "3213180",
     "village": "Dukuh",
-    "villageCode": "",
+    "villageCode": "3213180003",
     "postalCode": "41256"
   },
   {
@@ -53898,7 +53898,7 @@ export const JAWA_BARAT: PostalCodeData[] = [
     "district": "Purwadadi",
     "districtCode": "3213120",
     "village": "Belendung",
-    "villageCode": "",
+    "villageCode": "3213120002",
     "postalCode": "41261"
   },
   {
@@ -53909,7 +53909,7 @@ export const JAWA_BARAT: PostalCodeData[] = [
     "district": "Purwadadi",
     "districtCode": "3213120",
     "village": "Prapatan",
-    "villageCode": "",
+    "villageCode": "3213060009",
     "postalCode": "41261"
   },
   {
@@ -54118,7 +54118,7 @@ export const JAWA_BARAT: PostalCodeData[] = [
     "district": "Cikaum",
     "districtCode": "3213130",
     "village": "Kawunganten",
-    "villageCode": "",
+    "villageCode": "3213130001",
     "postalCode": "41264"
   },
   {
@@ -54294,7 +54294,7 @@ export const JAWA_BARAT: PostalCodeData[] = [
     "district": "Pusakajaya",
     "districtCode": "3213201",
     "village": "Bojongtengah",
-    "villageCode": "",
+    "villageCode": "3215040016",
     "postalCode": "41266"
   },
   {
@@ -54943,7 +54943,7 @@ export const JAWA_BARAT: PostalCodeData[] = [
     "district": "Jalancagak",
     "districtCode": "3213020",
     "village": "Curugrendeng",
-    "villageCode": "",
+    "villageCode": "3213020007",
     "postalCode": "41281"
   },
   {
@@ -54976,7 +54976,7 @@ export const JAWA_BARAT: PostalCodeData[] = [
     "district": "Sagalaherang",
     "districtCode": "3213010",
     "village": "Sagalaherang Kidul",
-    "villageCode": "",
+    "villageCode": "3213010005",
     "postalCode": "41282"
   },
   {
@@ -55020,7 +55020,7 @@ export const JAWA_BARAT: PostalCodeData[] = [
     "district": "Sagalaherang",
     "districtCode": "3213010",
     "village": "Leles",
-    "villageCode": "",
+    "villageCode": "3213010011",
     "postalCode": "41282"
   },
   {
@@ -55966,7 +55966,7 @@ export const JAWA_BARAT: PostalCodeData[] = [
     "district": "Plered",
     "districtCode": "3214040",
     "village": "Sempur",
-    "villageCode": "",
+    "villageCode": "3214040016",
     "postalCode": "41162"
   },
   {
@@ -55999,7 +55999,7 @@ export const JAWA_BARAT: PostalCodeData[] = [
     "district": "Plered",
     "districtCode": "3214040",
     "village": "Plered",
-    "villageCode": "",
+    "villageCode": "3214040007",
     "postalCode": "41162"
   },
   {
@@ -56857,7 +56857,7 @@ export const JAWA_BARAT: PostalCodeData[] = [
     "district": "Pasawahan",
     "districtCode": "3214090",
     "village": "Pasawahananyar",
-    "villageCode": "",
+    "villageCode": "3214090011",
     "postalCode": "41172"
   },
   {
@@ -56934,7 +56934,7 @@ export const JAWA_BARAT: PostalCodeData[] = [
     "district": "Pasawahan",
     "districtCode": "3214090",
     "village": "Sawahkulon",
-    "villageCode": "",
+    "villageCode": "3214090013",
     "postalCode": "41172"
   },
   {
@@ -57253,7 +57253,7 @@ export const JAWA_BARAT: PostalCodeData[] = [
     "district": "Kiarapedes",
     "districtCode": "3214081",
     "village": "Parakangarokgek",
-    "villageCode": "",
+    "villageCode": "3214081002",
     "postalCode": "41175"
   },
   {
@@ -57803,7 +57803,7 @@ export const JAWA_BARAT: PostalCodeData[] = [
     "district": "Karawang Timur",
     "districtCode": "3215112",
     "village": "Plawad",
-    "villageCode": "",
+    "villageCode": "3215112007",
     "postalCode": "41327"
   },
   {
@@ -58155,7 +58155,7 @@ export const JAWA_BARAT: PostalCodeData[] = [
     "district": "Pedes",
     "districtCode": "3215160",
     "village": "Rangdumulya",
-    "villageCode": "",
+    "villageCode": "3215160011",
     "postalCode": "41353"
   },
   {
@@ -58254,7 +58254,7 @@ export const JAWA_BARAT: PostalCodeData[] = [
     "district": "Pedes",
     "districtCode": "3215160",
     "village": "Kendaljaya",
-    "villageCode": "",
+    "villageCode": "3215160016",
     "postalCode": "41353"
   },
   {
@@ -58320,7 +58320,7 @@ export const JAWA_BARAT: PostalCodeData[] = [
     "district": "Batujaya",
     "districtCode": "3215190",
     "village": "Karyabhakti",
-    "villageCode": "",
+    "villageCode": "3215190006",
     "postalCode": "41354"
   },
   {
@@ -58430,7 +58430,7 @@ export const JAWA_BARAT: PostalCodeData[] = [
     "district": "Pakisjaya",
     "districtCode": "3215200",
     "village": "Telukbuyung",
-    "villageCode": "",
+    "villageCode": "3215200002",
     "postalCode": "41355"
   },
   {
@@ -58606,7 +58606,7 @@ export const JAWA_BARAT: PostalCodeData[] = [
     "district": "Cibuaya",
     "districtCode": "3215170",
     "village": "Kedungjeruk",
-    "villageCode": "",
+    "villageCode": "3215170005",
     "postalCode": "41356"
   },
   {
@@ -59255,7 +59255,7 @@ export const JAWA_BARAT: PostalCodeData[] = [
     "district": "Klari",
     "districtCode": "3215040",
     "village": "Duren",
-    "villageCode": "",
+    "villageCode": "3215040013",
     "postalCode": "41371"
   },
   {
@@ -59750,7 +59750,7 @@ export const JAWA_BARAT: PostalCodeData[] = [
     "district": "Banyusari",
     "districtCode": "3215071",
     "village": "Gempol Kolot",
-    "villageCode": "",
+    "villageCode": "3215071006",
     "postalCode": "41375"
   },
   {
@@ -60454,7 +60454,7 @@ export const JAWA_BARAT: PostalCodeData[] = [
     "district": "Lemahabang",
     "districtCode": "3215090",
     "village": "Pulokalapa",
-    "villageCode": "",
+    "villageCode": "3215090009",
     "postalCode": "41383"
   },
   {
@@ -61048,7 +61048,7 @@ export const JAWA_BARAT: PostalCodeData[] = [
     "district": "Bekasi Utara",
     "districtCode": "3275070",
     "village": "Teluk Pucung",
-    "villageCode": "",
+    "villageCode": "3275070005",
     "postalCode": "17121"
   },
   {
@@ -61169,7 +61169,7 @@ export const JAWA_BARAT: PostalCodeData[] = [
     "district": "Bekasi Barat",
     "districtCode": "3275060",
     "village": "Bintarajaya",
-    "villageCode": "",
+    "villageCode": "3275060002",
     "postalCode": "17136"
   },
   {
@@ -63809,7 +63809,7 @@ export const JAWA_BARAT: PostalCodeData[] = [
     "district": "Padaherang",
     "districtCode": "3218090",
     "village": "Kedungwuluh",
-    "villageCode": "",
+    "villageCode": "3218090011",
     "postalCode": "46584"
   },
   {
@@ -64656,7 +64656,7 @@ export const JAWA_BARAT: PostalCodeData[] = [
     "district": "Cimanggis",
     "districtCode": "3276040",
     "village": "Tugu",
-    "villageCode": "",
+    "villageCode": "3276040012",
     "postalCode": "16451"
   },
   {
@@ -64700,7 +64700,7 @@ export const JAWA_BARAT: PostalCodeData[] = [
     "district": "Cimanggis",
     "districtCode": "3276040",
     "village": "Curug",
-    "villageCode": "",
+    "villageCode": "3276040007",
     "postalCode": "16453"
   },
   {
@@ -64744,7 +64744,7 @@ export const JAWA_BARAT: PostalCodeData[] = [
     "district": "Tapos",
     "districtCode": "3276041",
     "village": "Leuwinanggung",
-    "villageCode": "",
+    "villageCode": "3276041004",
     "postalCode": "16463"
   },
   {
@@ -64854,7 +64854,7 @@ export const JAWA_BARAT: PostalCodeData[] = [
     "district": "Sawangan",
     "districtCode": "3276010",
     "village": "Sawangan",
-    "villageCode": "",
+    "villageCode": "3276010006",
     "postalCode": "16511"
   },
   {
@@ -64931,7 +64931,7 @@ export const JAWA_BARAT: PostalCodeData[] = [
     "district": "Bojongsari",
     "districtCode": "3276011",
     "village": "Bojongsari",
-    "villageCode": "",
+    "villageCode": "3276011003",
     "postalCode": "16521"
   },
   {
@@ -64975,7 +64975,7 @@ export const JAWA_BARAT: PostalCodeData[] = [
     "district": "Bojongsari",
     "districtCode": "3276011",
     "village": "Curug",
-    "villageCode": "",
+    "villageCode": "3276011005",
     "postalCode": "16525"
   },
   {
@@ -65041,7 +65041,7 @@ export const JAWA_BARAT: PostalCodeData[] = [
     "district": "Limo",
     "districtCode": "3276060",
     "village": "Krukut",
-    "villageCode": "",
+    "villageCode": "3276060003",
     "postalCode": "16534"
   },
   {

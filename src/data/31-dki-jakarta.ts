@@ -141,7 +141,7 @@ export const DKI_JAKARTA: PostalCodeData[] = [
     "district": "Cipayung",
     "districtCode": "3172030",
     "village": "Munjul",
-    "villageCode": "",
+    "villageCode": "3172030003",
     "postalCode": "13850"
   },
   {
@@ -240,7 +240,7 @@ export const DKI_JAKARTA: PostalCodeData[] = [
     "district": "Kebayoran Baru",
     "districtCode": "3171060",
     "village": "Gunung",
-    "villageCode": "",
+    "villageCode": "3171060007",
     "postalCode": "12120"
   },
   {
@@ -1142,7 +1142,7 @@ export const DKI_JAKARTA: PostalCodeData[] = [
     "district": "Duren Sawit",
     "districtCode": "3172070",
     "village": "Klender",
-    "villageCode": "",
+    "villageCode": "3172070007",
     "postalCode": "13470"
   },
   {
@@ -1230,7 +1230,7 @@ export const DKI_JAKARTA: PostalCodeData[] = [
     "district": "Makasar",
     "districtCode": "3172040",
     "village": "Halim Perdana Kusuma",
-    "villageCode": "",
+    "villageCode": "3172040004",
     "postalCode": "13610"
   },
   {
@@ -1395,7 +1395,7 @@ export const DKI_JAKARTA: PostalCodeData[] = [
     "district": "Cipayung",
     "districtCode": "3172030",
     "village": "Ceger",
-    "villageCode": "",
+    "villageCode": "3172030007",
     "postalCode": "13820"
   },
   {
@@ -1450,7 +1450,7 @@ export const DKI_JAKARTA: PostalCodeData[] = [
     "district": "Cipayung",
     "districtCode": "3172030",
     "village": "Setu",
-    "villageCode": "",
+    "villageCode": "3172030005",
     "postalCode": "13880"
   },
   {
@@ -1527,7 +1527,7 @@ export const DKI_JAKARTA: PostalCodeData[] = [
     "district": "Cakung",
     "districtCode": "3172080",
     "village": "Ujung Menteng",
-    "villageCode": "",
+    "villageCode": "3172080004",
     "postalCode": "13960"
   },
   {
@@ -1670,7 +1670,7 @@ export const DKI_JAKARTA: PostalCodeData[] = [
     "district": "Menteng",
     "districtCode": "3173020",
     "village": "Menteng",
-    "villageCode": "",
+    "villageCode": "3173020001",
     "postalCode": "10310"
   },
   {
@@ -1725,7 +1725,7 @@ export const DKI_JAKARTA: PostalCodeData[] = [
     "district": "Senen",
     "districtCode": "3173030",
     "village": "Senen",
-    "villageCode": "",
+    "villageCode": "3173030005",
     "postalCode": "10410"
   },
   {
@@ -1780,7 +1780,7 @@ export const DKI_JAKARTA: PostalCodeData[] = [
     "district": "Senen",
     "districtCode": "3173030",
     "village": "Bungur",
-    "villageCode": "",
+    "villageCode": "3173030006",
     "postalCode": "10460"
   },
   {
@@ -2022,7 +2022,7 @@ export const DKI_JAKARTA: PostalCodeData[] = [
     "district": "Taman Sari",
     "districtCode": "3174060",
     "village": "Krukut",
-    "villageCode": "",
+    "villageCode": "3174060001",
     "postalCode": "11140"
   },
   {
@@ -2451,7 +2451,7 @@ export const DKI_JAKARTA: PostalCodeData[] = [
     "district": "Kembangan",
     "districtCode": "3174010",
     "village": "Srengseng",
-    "villageCode": "",
+    "villageCode": "3174010002",
     "postalCode": "11630"
   },
   {

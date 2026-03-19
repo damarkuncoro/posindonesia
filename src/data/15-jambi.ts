@@ -229,7 +229,7 @@ export const JAMBI: PostalCodeData[] = [
     "district": "Telanaipura",
     "districtCode": "1571050",
     "village": "Aur Kenali",
-    "villageCode": "",
+    "villageCode": "1571050012",
     "postalCode": "36122"
   },
   {
@@ -339,7 +339,7 @@ export const JAMBI: PostalCodeData[] = [
     "district": "Kota Baru",
     "districtCode": "1571010",
     "village": "Kenali Asam",
-    "villageCode": "",
+    "villageCode": "1571010005",
     "postalCode": "36128"
   },
   {
@@ -361,7 +361,7 @@ export const JAMBI: PostalCodeData[] = [
     "district": "Kota Baru",
     "districtCode": "1571010",
     "village": "Talang Gulo",
-    "villageCode": "",
+    "villageCode": "1571010008",
     "postalCode": "36128"
   },
   {
@@ -394,7 +394,7 @@ export const JAMBI: PostalCodeData[] = [
     "district": "Alam Barajo",
     "districtCode": "1571011",
     "village": "Simpang Rimbo",
-    "villageCode": "",
+    "villageCode": "1571011006",
     "postalCode": "36129"
   },
   {
@@ -416,7 +416,7 @@ export const JAMBI: PostalCodeData[] = [
     "district": "Alam Barajo",
     "districtCode": "1571011",
     "village": "Pinang Merah",
-    "villageCode": "",
+    "villageCode": "1571011007",
     "postalCode": "36129"
   },
   {
@@ -603,7 +603,7 @@ export const JAMBI: PostalCodeData[] = [
     "district": "Paal Merah",
     "districtCode": "1571021",
     "village": "Payo Selincah",
-    "villageCode": "",
+    "villageCode": "1571021005",
     "postalCode": "36148"
   },
   {
@@ -614,7 +614,7 @@ export const JAMBI: PostalCodeData[] = [
     "district": "Jambi Timur",
     "districtCode": "1571080",
     "village": "Sijenjang",
-    "villageCode": "",
+    "villageCode": "1571080010",
     "postalCode": "36149"
   },
   {
@@ -680,7 +680,7 @@ export const JAMBI: PostalCodeData[] = [
     "district": "Jambi Selatan",
     "districtCode": "1571020",
     "village": "Thehok",
-    "villageCode": "",
+    "villageCode": "1571020007",
     "postalCode": "36156"
   },
   {
@@ -724,7 +724,7 @@ export const JAMBI: PostalCodeData[] = [
     "district": "Paal Merah",
     "districtCode": "1571021",
     "village": "Bakung Jaya",
-    "villageCode": "",
+    "villageCode": "1571021006",
     "postalCode": "36159"
   },
   {
@@ -1065,7 +1065,7 @@ export const JAMBI: PostalCodeData[] = [
     "district": "Jambi Luar Kota",
     "districtCode": "1505050",
     "village": "Muaro Pijoan",
-    "villageCode": "",
+    "villageCode": "1505050006",
     "postalCode": "36361"
   },
   {
@@ -1252,7 +1252,7 @@ export const JAMBI: PostalCodeData[] = [
     "district": "Mestong",
     "districtCode": "1505010",
     "village": "Tanjung Pauh Km. 39",
-    "villageCode": "",
+    "villageCode": "1505010029",
     "postalCode": "36364"
   },
   {
@@ -1384,7 +1384,7 @@ export const JAMBI: PostalCodeData[] = [
     "district": "Mestong",
     "districtCode": "1505010",
     "village": "Tanjung Pauh Km. 32",
-    "villageCode": "",
+    "villageCode": "1505010031",
     "postalCode": "36364"
   },
   {
@@ -1417,7 +1417,7 @@ export const JAMBI: PostalCodeData[] = [
     "district": "Sungai Bahar",
     "districtCode": "1505011",
     "village": "Marga Manunggal Jaya",
-    "villageCode": "",
+    "villageCode": "1505011010",
     "postalCode": "36365"
   },
   {
@@ -2242,7 +2242,7 @@ export const JAMBI: PostalCodeData[] = [
     "district": "Sungai Gelam",
     "districtCode": "1505021",
     "village": "Trimulya Jaya",
-    "villageCode": "",
+    "villageCode": "1505021012",
     "postalCode": "36374"
   },
   {
@@ -2616,7 +2616,7 @@ export const JAMBI: PostalCodeData[] = [
     "district": "VII Koto",
     "districtCode": "1508041",
     "village": "Tanjung Pucuk Jambi",
-    "villageCode": "",
+    "villageCode": "1508041001",
     "postalCode": "37559"
   },
   {
@@ -2803,7 +2803,7 @@ export const JAMBI: PostalCodeData[] = [
     "district": "Batang Merangin",
     "districtCode": "1501020",
     "village": "Baru Pulau Sangkar",
-    "villageCode": "",
+    "villageCode": "1501020009",
     "postalCode": "37175"
   },
   {
@@ -3177,7 +3177,7 @@ export const JAMBI: PostalCodeData[] = [
     "district": "Danau Kerinci",
     "districtCode": "1501040",
     "village": "Kota Baru Sanggaran Agung",
-    "villageCode": "",
+    "villageCode": "1501040001",
     "postalCode": "37172"
   },
   {
@@ -3518,7 +3518,7 @@ export const JAMBI: PostalCodeData[] = [
     "district": "Air Hangat Barat",
     "districtCode": "1501073",
     "village": "Air Panas",
-    "villageCode": "",
+    "villageCode": "1501073008",
     "postalCode": "37161"
   },
   {
@@ -3683,7 +3683,7 @@ export const JAMBI: PostalCodeData[] = [
     "district": "Air Hangat",
     "districtCode": "1501070",
     "village": "Baru Semurup",
-    "villageCode": "",
+    "villageCode": "1501070029",
     "postalCode": "37161"
   },
   {
@@ -3980,7 +3980,7 @@ export const JAMBI: PostalCodeData[] = [
     "district": "Air Hangat Timur",
     "districtCode": "1501071",
     "village": "Baru Sungai Tutung",
-    "villageCode": "",
+    "villageCode": "1501071009",
     "postalCode": "37171"
   },
   {
@@ -4574,7 +4574,7 @@ export const JAMBI: PostalCodeData[] = [
     "district": "Mandiangin",
     "districtCode": "1503060",
     "village": "Kertopati",
-    "villageCode": "",
+    "villageCode": "1503060010",
     "postalCode": "37492"
   },
   {
@@ -4772,7 +4772,7 @@ export const JAMBI: PostalCodeData[] = [
     "district": "Pangkalan Jambu",
     "districtCode": "1502052",
     "village": "Tiga Alur",
-    "villageCode": "",
+    "villageCode": "1502052003",
     "postalCode": "37363"
   },
   {
@@ -6433,7 +6433,7 @@ export const JAMBI: PostalCodeData[] = [
     "district": "Batang Asai",
     "districtCode": "1503010",
     "village": "Kasiro Hilir",
-    "villageCode": "",
+    "villageCode": "1503010014",
     "postalCode": "37485"
   },
   {
@@ -6477,7 +6477,7 @@ export const JAMBI: PostalCodeData[] = [
     "district": "Batang Asai",
     "districtCode": "1503010",
     "village": "Bukit Sulah",
-    "villageCode": "",
+    "villageCode": "1503010021",
     "postalCode": "37485"
   },
   {
@@ -6961,7 +6961,7 @@ export const JAMBI: PostalCodeData[] = [
     "district": "Bram Itam",
     "districtCode": "1507031",
     "village": "Bram Itam Kiri",
-    "villageCode": "",
+    "villageCode": "1507031002",
     "postalCode": "36551"
   },
   {
@@ -6983,7 +6983,7 @@ export const JAMBI: PostalCodeData[] = [
     "district": "Bram Itam",
     "districtCode": "1507031",
     "village": "Bram Itam Kanan",
-    "villageCode": "",
+    "villageCode": "1507031001",
     "postalCode": "36551"
   },
   {
@@ -8160,7 +8160,7 @@ export const JAMBI: PostalCodeData[] = [
     "district": "Muara Sabak Timur",
     "districtCode": "1506032",
     "village": "Alang-Alang",
-    "villageCode": "",
+    "villageCode": "1506032007",
     "postalCode": "36719"
   },
   {
@@ -8380,7 +8380,7 @@ export const JAMBI: PostalCodeData[] = [
     "district": "Mendahara",
     "districtCode": "1506010",
     "village": "Bakti Idaman",
-    "villageCode": "",
+    "villageCode": "1506010014",
     "postalCode": "36764"
   },
   {
@@ -8743,7 +8743,7 @@ export const JAMBI: PostalCodeData[] = [
     "district": "Rantau Rasau",
     "districtCode": "1506040",
     "village": "Karya Bakti",
-    "villageCode": "",
+    "villageCode": "1506040014",
     "postalCode": "36772"
   },
   {
@@ -8776,7 +8776,7 @@ export const JAMBI: PostalCodeData[] = [
     "district": "Rantau Rasau",
     "districtCode": "1506040",
     "village": "Tri Mulyo",
-    "villageCode": "",
+    "villageCode": "1506040016",
     "postalCode": "36772"
   },
   {
@@ -9348,7 +9348,7 @@ export const JAMBI: PostalCodeData[] = [
     "district": "Bathin VIII",
     "districtCode": "1503041",
     "village": "Tanjunggagak",
-    "villageCode": "",
+    "villageCode": "1503041010",
     "postalCode": "37481"
   },
   {
@@ -9601,7 +9601,7 @@ export const JAMBI: PostalCodeData[] = [
     "district": "Tanah Kampung",
     "districtCode": "1572010",
     "village": "Baru Debai",
-    "villageCode": "",
+    "villageCode": "1572010001",
     "postalCode": "37121"
   },
   {
@@ -10085,7 +10085,7 @@ export const JAMBI: PostalCodeData[] = [
     "district": "Air Hitam",
     "districtCode": "1503051",
     "village": "Desa Baru",
-    "villageCode": "",
+    "villageCode": "1503051002",
     "postalCode": "37493"
   },
   {
@@ -10250,7 +10250,7 @@ export const JAMBI: PostalCodeData[] = [
     "district": "Tabir Barat",
     "districtCode": "1502067",
     "village": "Muara Langeh",
-    "villageCode": "",
+    "villageCode": "1502067014",
     "postalCode": "37365"
   },
   {
@@ -10932,7 +10932,7 @@ export const JAMBI: PostalCodeData[] = [
     "district": "Bangko",
     "districtCode": "1502040",
     "village": "Pasar Atas",
-    "villageCode": "",
+    "villageCode": "1502040014",
     "postalCode": "37312"
   },
   {
@@ -10987,7 +10987,7 @@ export const JAMBI: PostalCodeData[] = [
     "district": "Bangko",
     "districtCode": "1502040",
     "village": "Mudo",
-    "villageCode": "",
+    "villageCode": "1502040019",
     "postalCode": "37319"
   },
   {

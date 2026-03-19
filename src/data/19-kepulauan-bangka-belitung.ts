@@ -185,7 +185,7 @@ export const KEPULAUAN_BANGKA_BELITUNG: PostalCodeData[] = [
     "district": "Sungai Selan",
     "districtCode": "1904030",
     "village": "Sarang Mandi",
-    "villageCode": "",
+    "villageCode": "1904030009",
     "postalCode": "33675"
   },
   {
@@ -262,7 +262,7 @@ export const KEPULAUAN_BANGKA_BELITUNG: PostalCodeData[] = [
     "district": "Tempilang",
     "districtCode": "1903020",
     "village": "Tanjung Niur",
-    "villageCode": "",
+    "villageCode": "1903020001",
     "postalCode": "33365"
   },
   {
@@ -471,7 +471,7 @@ export const KEPULAUAN_BANGKA_BELITUNG: PostalCodeData[] = [
     "district": "Sungai Selan",
     "districtCode": "1904030",
     "village": "Tanjung Pura",
-    "villageCode": "",
+    "villageCode": "1904030015",
     "postalCode": "33675"
   },
   {
@@ -526,7 +526,7 @@ export const KEPULAUAN_BANGKA_BELITUNG: PostalCodeData[] = [
     "district": "Merawang",
     "districtCode": "1901080",
     "village": "Batu Rusa",
-    "villageCode": "",
+    "villageCode": "1901080014",
     "postalCode": "33272"
   },
   {
@@ -669,7 +669,7 @@ export const KEPULAUAN_BANGKA_BELITUNG: PostalCodeData[] = [
     "district": "Pangkalan Baru",
     "districtCode": "1904020",
     "village": "Benteng",
-    "villageCode": "",
+    "villageCode": "1904020007",
     "postalCode": "33684"
   },
   {
@@ -680,7 +680,7 @@ export const KEPULAUAN_BANGKA_BELITUNG: PostalCodeData[] = [
     "district": "Pangkalan Baru",
     "districtCode": "1904020",
     "village": "Dul",
-    "villageCode": "",
+    "villageCode": "1904020009",
     "postalCode": "33684"
   },
   {
@@ -691,7 +691,7 @@ export const KEPULAUAN_BANGKA_BELITUNG: PostalCodeData[] = [
     "district": "Pangkalan Baru",
     "districtCode": "1904020",
     "village": "Air Mesu",
-    "villageCode": "",
+    "villageCode": "1904020008",
     "postalCode": "33684"
   },
   {
@@ -746,7 +746,7 @@ export const KEPULAUAN_BANGKA_BELITUNG: PostalCodeData[] = [
     "district": "Pangkalan Baru",
     "districtCode": "1904020",
     "village": "Beluluk",
-    "villageCode": "",
+    "villageCode": "1904020014",
     "postalCode": "33684"
   },
   {
@@ -757,7 +757,7 @@ export const KEPULAUAN_BANGKA_BELITUNG: PostalCodeData[] = [
     "district": "Pangkalan Baru",
     "districtCode": "1904020",
     "village": "Jeruk",
-    "villageCode": "",
+    "villageCode": "1904020013",
     "postalCode": "33684"
   },
   {
@@ -768,7 +768,7 @@ export const KEPULAUAN_BANGKA_BELITUNG: PostalCodeData[] = [
     "district": "Pangkalan Baru",
     "districtCode": "1904020",
     "village": "Air Mesu Timur",
-    "villageCode": "",
+    "villageCode": "1904020008",
     "postalCode": "33684"
   },
   {
@@ -911,7 +911,7 @@ export const KEPULAUAN_BANGKA_BELITUNG: PostalCodeData[] = [
     "district": "Bakam",
     "districtCode": "1901092",
     "village": "Tiang Tarah",
-    "villageCode": "",
+    "villageCode": "1901092004",
     "postalCode": "33252"
   },
   {
@@ -944,7 +944,7 @@ export const KEPULAUAN_BANGKA_BELITUNG: PostalCodeData[] = [
     "district": "Bakam",
     "districtCode": "1901092",
     "village": "Bukit Layang",
-    "villageCode": "",
+    "villageCode": "1901092009",
     "postalCode": "33252"
   },
   {
@@ -1021,7 +1021,7 @@ export const KEPULAUAN_BANGKA_BELITUNG: PostalCodeData[] = [
     "district": "Riau Silip",
     "districtCode": "1901131",
     "village": "Pugul",
-    "villageCode": "",
+    "villageCode": "1901131003",
     "postalCode": "33253"
   },
   {
@@ -1142,7 +1142,7 @@ export const KEPULAUAN_BANGKA_BELITUNG: PostalCodeData[] = [
     "district": "Belinyu",
     "districtCode": "1901130",
     "village": "Lumut",
-    "villageCode": "",
+    "villageCode": "1901130009",
     "postalCode": "33254"
   },
   {
@@ -1362,7 +1362,7 @@ export const KEPULAUAN_BANGKA_BELITUNG: PostalCodeData[] = [
     "district": "Merawang",
     "districtCode": "1901080",
     "village": "Balun Ijuk",
-    "villageCode": "",
+    "villageCode": "1901080012",
     "postalCode": "33272"
   },
   {
@@ -1406,7 +1406,7 @@ export const KEPULAUAN_BANGKA_BELITUNG: PostalCodeData[] = [
     "district": "Mendo Barat",
     "districtCode": "1901070",
     "village": "Zed",
-    "villageCode": "",
+    "villageCode": "1901070012",
     "postalCode": "33273"
   },
   {
@@ -1417,7 +1417,7 @@ export const KEPULAUAN_BANGKA_BELITUNG: PostalCodeData[] = [
     "district": "Mendo Barat",
     "districtCode": "1901070",
     "village": "Paya Benua",
-    "villageCode": "",
+    "villageCode": "1901070010",
     "postalCode": "33273"
   },
   {
@@ -1428,7 +1428,7 @@ export const KEPULAUAN_BANGKA_BELITUNG: PostalCodeData[] = [
     "district": "Mendo Barat",
     "districtCode": "1901070",
     "village": "Air Duren",
-    "villageCode": "",
+    "villageCode": "1901070007",
     "postalCode": "33273"
   },
   {
@@ -1439,7 +1439,7 @@ export const KEPULAUAN_BANGKA_BELITUNG: PostalCodeData[] = [
     "district": "Mendo Barat",
     "districtCode": "1901070",
     "village": "Mendo",
-    "villageCode": "",
+    "villageCode": "1901070009",
     "postalCode": "33273"
   },
   {
@@ -1516,7 +1516,7 @@ export const KEPULAUAN_BANGKA_BELITUNG: PostalCodeData[] = [
     "district": "Mendo Barat",
     "districtCode": "1901070",
     "village": "Cengkong Abang",
-    "villageCode": "",
+    "villageCode": "1901070006",
     "postalCode": "33273"
   },
   {
@@ -1560,7 +1560,7 @@ export const KEPULAUAN_BANGKA_BELITUNG: PostalCodeData[] = [
     "district": "Puding Besar",
     "districtCode": "1901081",
     "village": "Kota Waringin",
-    "villageCode": "",
+    "villageCode": "1901081001",
     "postalCode": "33279"
   },
   {
@@ -1582,7 +1582,7 @@ export const KEPULAUAN_BANGKA_BELITUNG: PostalCodeData[] = [
     "district": "Puding Besar",
     "districtCode": "1901081",
     "village": "Puding Besar",
-    "villageCode": "",
+    "villageCode": "1901081006",
     "postalCode": "33279"
   },
   {
@@ -1626,7 +1626,7 @@ export const KEPULAUAN_BANGKA_BELITUNG: PostalCodeData[] = [
     "district": "Mentok",
     "districtCode": "1903030",
     "village": "Menjelang",
-    "villageCode": "",
+    "villageCode": "1903030011",
     "postalCode": "33311"
   },
   {
@@ -1637,7 +1637,7 @@ export const KEPULAUAN_BANGKA_BELITUNG: PostalCodeData[] = [
     "district": "Mentok",
     "districtCode": "1903030",
     "village": "Keranggan",
-    "villageCode": "",
+    "villageCode": "1903030010",
     "postalCode": "33311"
   },
   {
@@ -1659,7 +1659,7 @@ export const KEPULAUAN_BANGKA_BELITUNG: PostalCodeData[] = [
     "district": "Mentok",
     "districtCode": "1903030",
     "village": "Air Limau",
-    "villageCode": "",
+    "villageCode": "1903030009",
     "postalCode": "33314"
   },
   {
@@ -1681,7 +1681,7 @@ export const KEPULAUAN_BANGKA_BELITUNG: PostalCodeData[] = [
     "district": "Mentok",
     "districtCode": "1903030",
     "village": "Belo Laut",
-    "villageCode": "",
+    "villageCode": "1903030001",
     "postalCode": "33316"
   },
   {
@@ -1780,7 +1780,7 @@ export const KEPULAUAN_BANGKA_BELITUNG: PostalCodeData[] = [
     "district": "Jebus",
     "districtCode": "1903050",
     "village": "Jebus",
-    "villageCode": "",
+    "villageCode": "1903050001",
     "postalCode": "33362"
   },
   {
@@ -1791,7 +1791,7 @@ export const KEPULAUAN_BANGKA_BELITUNG: PostalCodeData[] = [
     "district": "Jebus",
     "districtCode": "1903050",
     "village": "Ranggi Asam",
-    "villageCode": "",
+    "villageCode": "1903050009",
     "postalCode": "33362"
   },
   {
@@ -1846,7 +1846,7 @@ export const KEPULAUAN_BANGKA_BELITUNG: PostalCodeData[] = [
     "district": "Parittiga",
     "districtCode": "1903051",
     "village": "Semulut",
-    "villageCode": "",
+    "villageCode": "1903051002",
     "postalCode": "33363"
   },
   {
@@ -1879,7 +1879,7 @@ export const KEPULAUAN_BANGKA_BELITUNG: PostalCodeData[] = [
     "district": "Parittiga",
     "districtCode": "1903051",
     "village": "Puput",
-    "villageCode": "",
+    "villageCode": "1903051006",
     "postalCode": "33363"
   },
   {
@@ -2022,7 +2022,7 @@ export const KEPULAUAN_BANGKA_BELITUNG: PostalCodeData[] = [
     "district": "Kelapa",
     "districtCode": "1903010",
     "village": "Kayu Arang",
-    "villageCode": "",
+    "villageCode": "1903010010",
     "postalCode": "33364"
   },
   {
@@ -2033,7 +2033,7 @@ export const KEPULAUAN_BANGKA_BELITUNG: PostalCodeData[] = [
     "district": "Kelapa",
     "districtCode": "1903010",
     "village": "Pusuk",
-    "villageCode": "",
+    "villageCode": "1903010015",
     "postalCode": "33364"
   },
   {
@@ -2066,7 +2066,7 @@ export const KEPULAUAN_BANGKA_BELITUNG: PostalCodeData[] = [
     "district": "Tempilang",
     "districtCode": "1903020",
     "village": "Benteng Kota",
-    "villageCode": "",
+    "villageCode": "1903020002",
     "postalCode": "33365"
   },
   {
@@ -2363,7 +2363,7 @@ export const KEPULAUAN_BANGKA_BELITUNG: PostalCodeData[] = [
     "district": "Koba",
     "districtCode": "1904010",
     "village": "Guntung",
-    "villageCode": "",
+    "villageCode": "1904010008",
     "postalCode": "33615"
   },
   {
@@ -2385,7 +2385,7 @@ export const KEPULAUAN_BANGKA_BELITUNG: PostalCodeData[] = [
     "district": "Koba",
     "districtCode": "1904010",
     "village": "Terentang III",
-    "villageCode": "",
+    "villageCode": "1904010009",
     "postalCode": "33616"
   },
   {
@@ -2407,7 +2407,7 @@ export const KEPULAUAN_BANGKA_BELITUNG: PostalCodeData[] = [
     "district": "Koba",
     "districtCode": "1904010",
     "village": "Kurau (Timur)",
-    "villageCode": "",
+    "villageCode": "1904040003",
     "postalCode": "33617"
   },
   {
@@ -2451,7 +2451,7 @@ export const KEPULAUAN_BANGKA_BELITUNG: PostalCodeData[] = [
     "district": "Simpang Katis",
     "districtCode": "1904040",
     "village": "Teru",
-    "villageCode": "",
+    "villageCode": "1904040005",
     "postalCode": "33674"
   },
   {
@@ -2594,7 +2594,7 @@ export const KEPULAUAN_BANGKA_BELITUNG: PostalCodeData[] = [
     "district": "Sungai Selan",
     "districtCode": "1904030",
     "village": "Munggu",
-    "villageCode": "",
+    "villageCode": "1904030010",
     "postalCode": "33675"
   },
   {
@@ -2660,7 +2660,7 @@ export const KEPULAUAN_BANGKA_BELITUNG: PostalCodeData[] = [
     "district": "Namang",
     "districtCode": "1904021",
     "village": "Jelutung",
-    "villageCode": "",
+    "villageCode": "1904021003",
     "postalCode": "33685"
   },
   {
@@ -2737,7 +2737,7 @@ export const KEPULAUAN_BANGKA_BELITUNG: PostalCodeData[] = [
     "district": "Lubuk Besar",
     "districtCode": "1904011",
     "village": "Kulur",
-    "villageCode": "",
+    "villageCode": "1904011001",
     "postalCode": "33686"
   },
   {
@@ -2770,7 +2770,7 @@ export const KEPULAUAN_BANGKA_BELITUNG: PostalCodeData[] = [
     "district": "Lubuk Besar",
     "districtCode": "1904011",
     "village": "Trubus",
-    "villageCode": "",
+    "villageCode": "1904011003",
     "postalCode": "33686"
   },
   {
@@ -3078,7 +3078,7 @@ export const KEPULAUAN_BANGKA_BELITUNG: PostalCodeData[] = [
     "district": "Payung",
     "districtCode": "1905010",
     "village": "Bedengung",
-    "villageCode": "",
+    "villageCode": "1905010005",
     "postalCode": "33778"
   },
   {
@@ -3210,7 +3210,7 @@ export const KEPULAUAN_BANGKA_BELITUNG: PostalCodeData[] = [
     "district": "Air Gegas",
     "districtCode": "1905040",
     "village": "Tepus",
-    "villageCode": "",
+    "villageCode": "1905040003",
     "postalCode": "33782"
   },
   {
@@ -3298,7 +3298,7 @@ export const KEPULAUAN_BANGKA_BELITUNG: PostalCodeData[] = [
     "district": "Lepar Pongok",
     "districtCode": "1905050",
     "village": "Penutuk",
-    "villageCode": "",
+    "villageCode": "1905050001",
     "postalCode": "33791"
   },
   {
@@ -3309,7 +3309,7 @@ export const KEPULAUAN_BANGKA_BELITUNG: PostalCodeData[] = [
     "district": "Lepar Pongok",
     "districtCode": "1905050",
     "village": "Kumbung",
-    "villageCode": "",
+    "villageCode": "1905050005",
     "postalCode": "33791"
   },
   {
@@ -3430,7 +3430,7 @@ export const KEPULAUAN_BANGKA_BELITUNG: PostalCodeData[] = [
     "district": "Badau",
     "districtCode": "1902061",
     "village": "Cerucuk",
-    "villageCode": "",
+    "villageCode": "1902061003",
     "postalCode": "33453"
   },
   {
@@ -3452,7 +3452,7 @@ export const KEPULAUAN_BANGKA_BELITUNG: PostalCodeData[] = [
     "district": "Badau",
     "districtCode": "1902061",
     "village": "Kacang Butor",
-    "villageCode": "",
+    "villageCode": "1902061005",
     "postalCode": "33453"
   },
   {
@@ -3573,7 +3573,7 @@ export const KEPULAUAN_BANGKA_BELITUNG: PostalCodeData[] = [
     "district": "Sijuk",
     "districtCode": "1902062",
     "village": "Air Seruk",
-    "villageCode": "",
+    "villageCode": "1902062003",
     "postalCode": "33454"
   },
   {
@@ -3749,7 +3749,7 @@ export const KEPULAUAN_BANGKA_BELITUNG: PostalCodeData[] = [
     "district": "Dendang",
     "districtCode": "1906010",
     "village": "Nyuruk",
-    "villageCode": "",
+    "villageCode": "1906010006",
     "postalCode": "33561"
   },
   {
@@ -3892,7 +3892,7 @@ export const KEPULAUAN_BANGKA_BELITUNG: PostalCodeData[] = [
     "district": "Kelapa Kampit",
     "districtCode": "1906040",
     "village": "Senyubuk",
-    "villageCode": "",
+    "villageCode": "1906040004",
     "postalCode": "33571"
   },
   {

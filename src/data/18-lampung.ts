@@ -31,7 +31,7 @@ export const LAMPUNG: PostalCodeData[] = [
     "district": "Banjit",
     "districtCode": "1807010",
     "village": "Bali Sadar",
-    "villageCode": "",
+    "villageCode": "1807010017",
     "postalCode": "34766"
   },
   {
@@ -779,7 +779,7 @@ export const LAMPUNG: PostalCodeData[] = [
     "district": "Bekri",
     "districtCode": "1805041",
     "village": "Sinar Banten",
-    "villageCode": "",
+    "villageCode": "1805041006",
     "postalCode": "34277"
   },
   {
@@ -966,7 +966,7 @@ export const LAMPUNG: PostalCodeData[] = [
     "district": "Bahuga",
     "districtCode": "1807050",
     "village": "Bumi Agung Wates",
-    "villageCode": "",
+    "villageCode": "1807050023",
     "postalCode": "34763"
   },
   {
@@ -2583,7 +2583,7 @@ export const LAMPUNG: PostalCodeData[] = [
     "district": "Banyumas",
     "districtCode": "1810070",
     "village": "Sinar Mulya",
-    "villageCode": "",
+    "villageCode": "1810070009",
     "postalCode": "35374"
   },
   {
@@ -2759,7 +2759,7 @@ export const LAMPUNG: PostalCodeData[] = [
     "district": "Tulang Bawang Tengah",
     "districtCode": "1812030",
     "village": "Mekar Asri",
-    "villageCode": "",
+    "villageCode": "1812030021",
     "postalCode": "34419"
   },
   {
@@ -2814,7 +2814,7 @@ export const LAMPUNG: PostalCodeData[] = [
     "district": "Tulang Bawang Tengah",
     "districtCode": "1812030",
     "village": "Marga Asri",
-    "villageCode": "",
+    "villageCode": "1812030022",
     "postalCode": "34419"
   },
   {
@@ -2880,7 +2880,7 @@ export const LAMPUNG: PostalCodeData[] = [
     "district": "Way Kenanga",
     "districtCode": "1812080",
     "village": "Sido Agung",
-    "villageCode": "",
+    "villageCode": "1812080010",
     "postalCode": "34484"
   },
   {
@@ -3529,7 +3529,7 @@ export const LAMPUNG: PostalCodeData[] = [
     "district": "Tulang Bawang Udik",
     "districtCode": "1812010",
     "village": "Kagungan Ratu Agung",
-    "villageCode": "",
+    "villageCode": "1812010011",
     "postalCode": "34491"
   },
   {
@@ -3540,7 +3540,7 @@ export const LAMPUNG: PostalCodeData[] = [
     "district": "Tulang Bawang Udik",
     "districtCode": "1812010",
     "village": "Karta Raya",
-    "villageCode": "",
+    "villageCode": "1812010015",
     "postalCode": "34491"
   },
   {
@@ -3551,7 +3551,7 @@ export const LAMPUNG: PostalCodeData[] = [
     "district": "Tulang Bawang Udik",
     "districtCode": "1812010",
     "village": "Gading Kencana",
-    "villageCode": "",
+    "villageCode": "1812010020",
     "postalCode": "34491"
   },
   {
@@ -3573,7 +3573,7 @@ export const LAMPUNG: PostalCodeData[] = [
     "district": "Tulang Bawang Udik",
     "districtCode": "1812010",
     "village": "Karta Tanjung Selamat",
-    "villageCode": "",
+    "villageCode": "1812010015",
     "postalCode": "34491"
   },
   {
@@ -5212,7 +5212,7 @@ export const LAMPUNG: PostalCodeData[] = [
     "district": "Kalianda",
     "districtCode": "1803110",
     "village": "Merak Belatung",
-    "villageCode": "",
+    "villageCode": "1804092009",
     "postalCode": "35519"
   },
   {
@@ -6862,7 +6862,7 @@ export const LAMPUNG: PostalCodeData[] = [
     "district": "Metro Selatan",
     "districtCode": "1872011",
     "village": "Sumbersari Bantul",
-    "villageCode": "",
+    "villageCode": "1872011001",
     "postalCode": "34139"
   },
   {
@@ -6950,7 +6950,7 @@ export const LAMPUNG: PostalCodeData[] = [
     "district": "Bandar Mataram",
     "districtCode": "1805101",
     "village": "Sumber Rejeki Mataram",
-    "villageCode": "",
+    "villageCode": "1805101012",
     "postalCode": "34269"
   },
   {
@@ -8127,7 +8127,7 @@ export const LAMPUNG: PostalCodeData[] = [
     "district": "Bandar Mataram",
     "districtCode": "1805101",
     "village": "Uman Agung Mataram",
-    "villageCode": "",
+    "villageCode": "1805101001",
     "postalCode": "34269"
   },
   {
@@ -9667,7 +9667,7 @@ export const LAMPUNG: PostalCodeData[] = [
     "district": "Panjang",
     "districtCode": "1871030",
     "village": "Srengsem",
-    "villageCode": "",
+    "villageCode": "1871030001",
     "postalCode": "35242"
   },
   {
@@ -10118,7 +10118,7 @@ export const LAMPUNG: PostalCodeData[] = [
     "district": "Batanghari Nuban",
     "districtCode": "1804092",
     "village": "Gedung Dalem",
-    "villageCode": "",
+    "villageCode": "1804092005",
     "postalCode": "34373"
   },
   {
@@ -10184,7 +10184,7 @@ export const LAMPUNG: PostalCodeData[] = [
     "district": "Batanghari Nuban",
     "districtCode": "1804092",
     "village": "Kedaton I",
-    "villageCode": "",
+    "villageCode": "1804092009",
     "postalCode": "34373"
   },
   {
@@ -10206,7 +10206,7 @@ export const LAMPUNG: PostalCodeData[] = [
     "district": "Batanghari Nuban",
     "districtCode": "1804092",
     "village": "Kedaton II",
-    "villageCode": "",
+    "villageCode": "1804092009",
     "postalCode": "34373"
   },
   {
@@ -10261,7 +10261,7 @@ export const LAMPUNG: PostalCodeData[] = [
     "district": "Batanghari",
     "districtCode": "1804020",
     "village": "Balekencono",
-    "villageCode": "",
+    "villageCode": "1804020002",
     "postalCode": "34381"
   },
   {
@@ -10800,7 +10800,7 @@ export const LAMPUNG: PostalCodeData[] = [
     "district": "Talang Padang",
     "districtCode": "1802040",
     "village": "Suka Negeri Jaya",
-    "villageCode": "",
+    "villageCode": "1802040035",
     "postalCode": "35677"
   },
   {
@@ -11086,7 +11086,7 @@ export const LAMPUNG: PostalCodeData[] = [
     "district": "Way Bungur",
     "districtCode": "1804121",
     "village": "Tanjung Qencono",
-    "villageCode": "",
+    "villageCode": "1804121005",
     "postalCode": "34372"
   },
   {
@@ -13605,7 +13605,7 @@ export const LAMPUNG: PostalCodeData[] = [
     "district": "Mataram Baru",
     "districtCode": "1804071",
     "village": "Way Areng",
-    "villageCode": "",
+    "villageCode": "1804071007",
     "postalCode": "34399"
   },
   {
@@ -13781,7 +13781,7 @@ export const LAMPUNG: PostalCodeData[] = [
     "district": "Negeri Katon",
     "districtCode": "1809060",
     "village": "Grujugan Baru",
-    "villageCode": "",
+    "villageCode": "1809060021",
     "postalCode": "35353"
   },
   {
@@ -14067,7 +14067,7 @@ export const LAMPUNG: PostalCodeData[] = [
     "district": "Gunung Sugih",
     "districtCode": "1805040",
     "village": "Gunung S. Raya",
-    "villageCode": "",
+    "villageCode": "1804010004",
     "postalCode": "34211"
   },
   {
@@ -14804,7 +14804,7 @@ export const LAMPUNG: PostalCodeData[] = [
     "district": "Seputih Mataram",
     "districtCode": "1805100",
     "village": "Varia Agung Mataram",
-    "villageCode": "",
+    "villageCode": "1805100008",
     "postalCode": "34264"
   },
   {
@@ -16377,7 +16377,7 @@ export const LAMPUNG: PostalCodeData[] = [
     "district": "Sukadana",
     "districtCode": "1804090",
     "village": "Putra Aji II",
-    "villageCode": "",
+    "villageCode": "1804090026",
     "postalCode": "34319"
   },
   {
@@ -16663,7 +16663,7 @@ export const LAMPUNG: PostalCodeData[] = [
     "district": "Labuhan Ratu",
     "districtCode": "1804082",
     "village": "Labuhan Ratu III",
-    "villageCode": "",
+    "villageCode": "1804082005",
     "postalCode": "34375"
   },
   {
@@ -16685,7 +16685,7 @@ export const LAMPUNG: PostalCodeData[] = [
     "district": "Labuhan Ratu",
     "districtCode": "1804082",
     "village": "Labuhan Ratu VI",
-    "villageCode": "",
+    "villageCode": "1804082004",
     "postalCode": "34375"
   },
   {
@@ -16696,7 +16696,7 @@ export const LAMPUNG: PostalCodeData[] = [
     "district": "Labuhan Ratu",
     "districtCode": "1804082",
     "village": "Labuhan Ratu IV",
-    "villageCode": "",
+    "villageCode": "1804082005",
     "postalCode": "34375"
   },
   {
@@ -16718,7 +16718,7 @@ export const LAMPUNG: PostalCodeData[] = [
     "district": "Labuhan Ratu",
     "districtCode": "1804082",
     "village": "Labuhan Ratu V",
-    "villageCode": "",
+    "villageCode": "1804082004",
     "postalCode": "34375"
   },
   {
@@ -17026,7 +17026,7 @@ export const LAMPUNG: PostalCodeData[] = [
     "district": "Sekampung Udik",
     "districtCode": "1804050",
     "village": "Toba",
-    "villageCode": "",
+    "villageCode": "1804050010",
     "postalCode": "34383"
   },
   {
@@ -17356,7 +17356,7 @@ export const LAMPUNG: PostalCodeData[] = [
     "district": "Gunung Pelindung",
     "districtCode": "1804074",
     "village": "Way Mili",
-    "villageCode": "",
+    "villageCode": "1804074004",
     "postalCode": "34387"
   },
   {
@@ -17917,7 +17917,7 @@ export const LAMPUNG: PostalCodeData[] = [
     "district": "Labuhan Maringgai",
     "districtCode": "1804070",
     "village": "Labuhan Maringgai",
-    "villageCode": "",
+    "villageCode": "1804070015",
     "postalCode": "34398"
   },
   {
@@ -18126,7 +18126,7 @@ export const LAMPUNG: PostalCodeData[] = [
     "district": "Kotabumi Selatan",
     "districtCode": "1806042",
     "village": "Curup Guruh",
-    "villageCode": "",
+    "villageCode": "1806042007",
     "postalCode": "34529"
   },
   {
@@ -18324,7 +18324,7 @@ export const LAMPUNG: PostalCodeData[] = [
     "district": "Sungkai Selatan",
     "districtCode": "1806070",
     "village": "Karang Rejo I",
-    "villageCode": "",
+    "villageCode": "1806070021",
     "postalCode": "34554"
   },
   {
@@ -20942,7 +20942,7 @@ export const LAMPUNG: PostalCodeData[] = [
     "district": "Candipuro",
     "districtCode": "1803101",
     "village": "Titiwangi",
-    "villageCode": "",
+    "villageCode": "1803101004",
     "postalCode": "35556"
   },
   {
@@ -22812,7 +22812,7 @@ export const LAMPUNG: PostalCodeData[] = [
     "district": "Padang Cermin",
     "districtCode": "1809020",
     "village": "Dantar",
-    "villageCode": "",
+    "villageCode": "1809020048",
     "postalCode": "35451"
   },
   {

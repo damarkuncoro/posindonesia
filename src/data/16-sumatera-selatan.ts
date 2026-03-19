@@ -218,7 +218,7 @@ export const SUMATERA_SELATAN: PostalCodeData[] = [
     "district": "Madang Suku II",
     "districtCode": "1609040",
     "village": "Kota Negara Timur",
-    "villageCode": "",
+    "villageCode": "1609040018",
     "postalCode": "32366"
   },
   {
@@ -405,7 +405,7 @@ export const SUMATERA_SELATAN: PostalCodeData[] = [
     "district": "Tanah Abang",
     "districtCode": "1612020",
     "village": "Tanah Abang Jaya",
-    "villageCode": "",
+    "villageCode": "1612020005",
     "postalCode": "31265"
   },
   {
@@ -1164,7 +1164,7 @@ export const SUMATERA_SELATAN: PostalCodeData[] = [
     "district": "Baturaja Barat",
     "districtCode": "",
     "village": "Talang Jawa",
-    "villageCode": "",
+    "villageCode": "1604120060",
     "postalCode": "32122"
   },
   {
@@ -1483,7 +1483,7 @@ export const SUMATERA_SELATAN: PostalCodeData[] = [
     "district": "Kikim Barat",
     "districtCode": "1604111",
     "village": "Purworejo",
-    "villageCode": "",
+    "villageCode": "1604111015",
     "postalCode": "31455"
   },
   {
@@ -2836,7 +2836,7 @@ export const SUMATERA_SELATAN: PostalCodeData[] = [
     "district": "Sumber Harta",
     "districtCode": "1605032",
     "village": "Sukarami Jaya",
-    "villageCode": "",
+    "villageCode": "1605032008",
     "postalCode": "31671"
   },
   {
@@ -3430,7 +3430,7 @@ export const SUMATERA_SELATAN: PostalCodeData[] = [
     "district": "Kikim Timur",
     "districtCode": "1604112",
     "village": "Patikal Lama",
-    "villageCode": "",
+    "villageCode": "1604112016",
     "postalCode": "31452"
   },
   {
@@ -3441,7 +3441,7 @@ export const SUMATERA_SELATAN: PostalCodeData[] = [
     "district": "Kikim Timur",
     "districtCode": "1604112",
     "village": "Patikal Baru",
-    "villageCode": "",
+    "villageCode": "1604112014",
     "postalCode": "31452"
   },
   {
@@ -3562,7 +3562,7 @@ export const SUMATERA_SELATAN: PostalCodeData[] = [
     "district": "Mesuji",
     "districtCode": "1602020",
     "village": "Kembang Jajar",
-    "villageCode": "",
+    "villageCode": "1602020018",
     "postalCode": "30681"
   },
   {
@@ -3749,7 +3749,7 @@ export const SUMATERA_SELATAN: PostalCodeData[] = [
     "district": "Muara Kelingi",
     "districtCode": "1605070",
     "village": "Bingin Janggut",
-    "villageCode": "",
+    "villageCode": "1605070036",
     "postalCode": "31663"
   },
   {
@@ -3936,7 +3936,7 @@ export const SUMATERA_SELATAN: PostalCodeData[] = [
     "district": "Sematang Borang",
     "districtCode": "1671071",
     "village": "Lebung Gajah",
-    "villageCode": "",
+    "villageCode": "1671071001",
     "postalCode": "30166"
   },
   {
@@ -4431,7 +4431,7 @@ export const SUMATERA_SELATAN: PostalCodeData[] = [
     "district": "Sekayu",
     "districtCode": "1606040",
     "village": "Sungai Batang",
-    "villageCode": "",
+    "villageCode": "1606040003",
     "postalCode": "30719"
   },
   {
@@ -4717,7 +4717,7 @@ export const SUMATERA_SELATAN: PostalCodeData[] = [
     "district": "Lubuk Batang",
     "districtCode": "1601091",
     "village": "Karta Mulya",
-    "villageCode": "",
+    "villageCode": "1604113014",
     "postalCode": "32192"
   },
   {
@@ -5014,7 +5014,7 @@ export const SUMATERA_SELATAN: PostalCodeData[] = [
     "district": "Lubuk Keliat",
     "districtCode": "1610012",
     "village": "Talang Tengah Darat",
-    "villageCode": "",
+    "villageCode": "1610012006",
     "postalCode": "30663"
   },
   {
@@ -5619,7 +5619,7 @@ export const SUMATERA_SELATAN: PostalCodeData[] = [
     "district": "Lahat",
     "districtCode": "1604120",
     "village": "Talang Jawa",
-    "villageCode": "",
+    "villageCode": "1606022004",
     "postalCode": "31416"
   },
   {
@@ -6158,7 +6158,7 @@ export const SUMATERA_SELATAN: PostalCodeData[] = [
     "district": "Banding Agung",
     "districtCode": "1608020",
     "village": "Talang Merbau",
-    "villageCode": "",
+    "villageCode": "1608020033",
     "postalCode": "32274"
   },
   {
@@ -6862,7 +6862,7 @@ export const SUMATERA_SELATAN: PostalCodeData[] = [
     "district": "Tanjung Lubuk",
     "districtCode": "1602050",
     "village": "Sukamulya",
-    "villageCode": "",
+    "villageCode": "1671071003",
     "postalCode": "30671"
   },
   {
@@ -7071,7 +7071,7 @@ export const SUMATERA_SELATAN: PostalCodeData[] = [
     "district": "Lempuing Jaya",
     "districtCode": "1602011",
     "village": "Tanjung Sari I",
-    "villageCode": "",
+    "villageCode": "1602011012",
     "postalCode": "30682"
   },
   {
@@ -7214,7 +7214,7 @@ export const SUMATERA_SELATAN: PostalCodeData[] = [
     "district": "Plakat Tinggi",
     "districtCode": "1606022",
     "village": "Tanjung Kaputran",
-    "villageCode": "",
+    "villageCode": "1606022013",
     "postalCode": "30757"
   },
   {
@@ -8798,7 +8798,7 @@ export const SUMATERA_SELATAN: PostalCodeData[] = [
     "district": "Tebing Tinggi",
     "districtCode": "1611070",
     "village": "Tanjungkupang",
-    "villageCode": "",
+    "villageCode": "1611070025",
     "postalCode": "31819"
   },
   {
@@ -9634,7 +9634,7 @@ export const SUMATERA_SELATAN: PostalCodeData[] = [
     "district": "Tugumulyo",
     "districtCode": "1605040",
     "village": "B. Srikaton",
-    "villageCode": "",
+    "villageCode": "1605040004",
     "postalCode": "31662"
   },
   {
@@ -10558,7 +10558,7 @@ export const SUMATERA_SELATAN: PostalCodeData[] = [
     "district": "Babat Toman",
     "districtCode": "1606020",
     "village": "Toman Baru",
-    "villageCode": "",
+    "villageCode": "1606020027",
     "postalCode": "30763"
   },
   {
@@ -10800,7 +10800,7 @@ export const SUMATERA_SELATAN: PostalCodeData[] = [
     "district": "Kota Agung",
     "districtCode": "1604040",
     "village": "Mutar Alam Baru",
-    "villageCode": "",
+    "villageCode": "1605090009",
     "postalCode": "31462"
   },
   {
@@ -11196,7 +11196,7 @@ export const SUMATERA_SELATAN: PostalCodeData[] = [
     "district": "Martapura",
     "districtCode": "1609010",
     "village": "Kotabaru Selatan",
-    "villageCode": "",
+    "villageCode": "1609010023",
     "postalCode": "32319"
   },
   {
@@ -11207,7 +11207,7 @@ export const SUMATERA_SELATAN: PostalCodeData[] = [
     "district": "Martapura",
     "districtCode": "1609010",
     "village": "Kotabaru Barat",
-    "villageCode": "",
+    "villageCode": "1609010021",
     "postalCode": "32319"
   },
   {
@@ -11636,7 +11636,7 @@ export const SUMATERA_SELATAN: PostalCodeData[] = [
     "district": "Lubuk Linggau Selatan II",
     "districtCode": "",
     "village": "Marga Mulya",
-    "villageCode": "",
+    "villageCode": "1604112028",
     "postalCode": "31633"
   },
   {
@@ -11658,7 +11658,7 @@ export const SUMATERA_SELATAN: PostalCodeData[] = [
     "district": "Lubuk Linggau Selatan II",
     "districtCode": "",
     "village": "Tanah Periuk",
-    "villageCode": "",
+    "villageCode": "1605050025",
     "postalCode": "31634"
   },
   {
@@ -12912,7 +12912,7 @@ export const SUMATERA_SELATAN: PostalCodeData[] = [
     "district": "Lempuing Jaya",
     "districtCode": "1602011",
     "village": "Muara Burnai I",
-    "villageCode": "",
+    "villageCode": "1602011005",
     "postalCode": "30682"
   },
   {
@@ -13506,7 +13506,7 @@ export const SUMATERA_SELATAN: PostalCodeData[] = [
     "district": "Prabumulih Timur",
     "districtCode": "1672020",
     "village": "Muara Dua Barat",
-    "villageCode": "",
+    "villageCode": "1672020004",
     "postalCode": "31113"
   },
   {
@@ -14419,7 +14419,7 @@ export const SUMATERA_SELATAN: PostalCodeData[] = [
     "district": "Muara Enim",
     "districtCode": "1603050",
     "village": "Pasar I Muara Enim",
-    "villageCode": "",
+    "villageCode": "1603050004",
     "postalCode": "31311"
   },
   {
@@ -14452,7 +14452,7 @@ export const SUMATERA_SELATAN: PostalCodeData[] = [
     "district": "Muara Enim",
     "districtCode": "1603050",
     "village": "Pasar II Muara Enim",
-    "villageCode": "",
+    "villageCode": "1603050004",
     "postalCode": "31314"
   },
   {
@@ -14463,7 +14463,7 @@ export const SUMATERA_SELATAN: PostalCodeData[] = [
     "district": "Muara Enim",
     "districtCode": "1603050",
     "village": "Pasar III Muara Enim",
-    "villageCode": "",
+    "villageCode": "1603050004",
     "postalCode": "31314"
   },
   {
@@ -14848,7 +14848,7 @@ export const SUMATERA_SELATAN: PostalCodeData[] = [
     "district": "Panang Enim",
     "districtCode": "",
     "village": "Lambur",
-    "villageCode": "",
+    "villageCode": "1672031006",
     "postalCode": "31355"
   },
   {
@@ -14903,7 +14903,7 @@ export const SUMATERA_SELATAN: PostalCodeData[] = [
     "district": "Panang Enim",
     "districtCode": "",
     "village": "Sukaraja",
-    "villageCode": "",
+    "villageCode": "1672021003",
     "postalCode": "31355"
   },
   {
@@ -15343,7 +15343,7 @@ export const SUMATERA_SELATAN: PostalCodeData[] = [
     "district": "Gumay Ulu",
     "districtCode": "1604052",
     "village": "Trans SP II Padang Muara Dua",
-    "villageCode": "",
+    "villageCode": "1604052001",
     "postalCode": "31465"
   },
   {
@@ -15398,7 +15398,7 @@ export const SUMATERA_SELATAN: PostalCodeData[] = [
     "district": "Jarai",
     "districtCode": "1604060",
     "village": "Muara Tawi",
-    "villageCode": "",
+    "villageCode": "1604060041",
     "postalCode": "31491"
   },
   {
@@ -16366,7 +16366,7 @@ export const SUMATERA_SELATAN: PostalCodeData[] = [
     "district": "Muara Dua Kisam",
     "districtCode": "",
     "village": "Sukananti",
-    "villageCode": "",
+    "villageCode": "1610030021",
     "postalCode": "32272"
   },
   {
@@ -16839,7 +16839,7 @@ export const SUMATERA_SELATAN: PostalCodeData[] = [
     "district": "Plakat Tinggi",
     "districtCode": "1606022",
     "village": "Sialang Agung",
-    "villageCode": "",
+    "villageCode": "1606022011",
     "postalCode": "30757"
   },
   {
@@ -16872,7 +16872,7 @@ export const SUMATERA_SELATAN: PostalCodeData[] = [
     "district": "Plakat Tinggi",
     "districtCode": "1606022",
     "village": "Warga Mulya",
-    "villageCode": "",
+    "villageCode": "1606022012",
     "postalCode": "30757"
   },
   {
@@ -16883,7 +16883,7 @@ export const SUMATERA_SELATAN: PostalCodeData[] = [
     "district": "Plakat Tinggi",
     "districtCode": "1606022",
     "village": "Cinta Karya",
-    "villageCode": "",
+    "villageCode": "1606022010",
     "postalCode": "30757"
   },
   {
@@ -16927,7 +16927,7 @@ export const SUMATERA_SELATAN: PostalCodeData[] = [
     "district": "Plakat Tinggi",
     "districtCode": "1606022",
     "village": "Sido Mukti",
-    "villageCode": "",
+    "villageCode": "1606022005",
     "postalCode": "30757"
   },
   {
@@ -16938,7 +16938,7 @@ export const SUMATERA_SELATAN: PostalCodeData[] = [
     "district": "Plakat Tinggi",
     "districtCode": "1606022",
     "village": "Air Putih Ulu",
-    "villageCode": "",
+    "villageCode": "1606022009",
     "postalCode": "30757"
   },
   {
@@ -16960,7 +16960,7 @@ export const SUMATERA_SELATAN: PostalCodeData[] = [
     "district": "Plakat Tinggi",
     "districtCode": "1606022",
     "village": "Bukit Indah",
-    "villageCode": "",
+    "villageCode": "1606022008",
     "postalCode": "30757"
   },
   {
@@ -17081,7 +17081,7 @@ export const SUMATERA_SELATAN: PostalCodeData[] = [
     "district": "Pemulutan Selatan",
     "districtCode": "1610051",
     "village": "Ulak Aurstanding",
-    "villageCode": "",
+    "villageCode": "1610051009",
     "postalCode": "30653"
   },
   {
@@ -17433,7 +17433,7 @@ export const SUMATERA_SELATAN: PostalCodeData[] = [
     "district": "Prabumulih Timur",
     "districtCode": "1672020",
     "village": "Gunung Ibul Selatan",
-    "villageCode": "",
+    "villageCode": "1672020006",
     "postalCode": "31113"
   },
   {
@@ -17664,7 +17664,7 @@ export const SUMATERA_SELATAN: PostalCodeData[] = [
     "district": "Kikim Selatan",
     "districtCode": "1604113",
     "village": "Jaga Baya",
-    "villageCode": "",
+    "villageCode": "1604113009",
     "postalCode": "31456"
   },
   {
@@ -17719,7 +17719,7 @@ export const SUMATERA_SELATAN: PostalCodeData[] = [
     "district": "Merapi Selatan",
     "districtCode": "1604133",
     "village": "Lubuk Pedaro",
-    "villageCode": "",
+    "villageCode": "1604133007",
     "postalCode": "31473"
   },
   {
@@ -17950,7 +17950,7 @@ export const SUMATERA_SELATAN: PostalCodeData[] = [
     "district": "Selangit",
     "districtCode": "1605031",
     "village": "Taba Rena",
-    "villageCode": "",
+    "villageCode": "1605031004",
     "postalCode": "31651"
   },
   {
@@ -18093,7 +18093,7 @@ export const SUMATERA_SELATAN: PostalCodeData[] = [
     "district": "Tiga Dihaji",
     "districtCode": "1608061",
     "village": "Kuripan II",
-    "villageCode": "",
+    "villageCode": "1608061006",
     "postalCode": "32252"
   },
   {
@@ -18742,7 +18742,7 @@ export const SUMATERA_SELATAN: PostalCodeData[] = [
     "district": "Banding Agung",
     "districtCode": "1608020",
     "village": "Sipatuhu II",
-    "villageCode": "",
+    "villageCode": "1608020021",
     "postalCode": "32274"
   },
   {
@@ -20832,7 +20832,7 @@ export const SUMATERA_SELATAN: PostalCodeData[] = [
     "district": "Pengandonan",
     "districtCode": "1601080",
     "village": "Ujanmas",
-    "villageCode": "",
+    "villageCode": "1604040005",
     "postalCode": "32155"
   },
   {
@@ -21349,7 +21349,7 @@ export const SUMATERA_SELATAN: PostalCodeData[] = [
     "district": "Peninjauan",
     "districtCode": "1601090",
     "village": "Penilikan",
-    "villageCode": "",
+    "villageCode": "1601090032",
     "postalCode": "32191"
   },
   {
@@ -21778,7 +21778,7 @@ export const SUMATERA_SELATAN: PostalCodeData[] = [
     "district": "Buay Madang",
     "districtCode": "1609030",
     "village": "Muda Sentosa",
-    "villageCode": "",
+    "villageCode": "1609030049",
     "postalCode": "32361"
   },
   {
@@ -21866,7 +21866,7 @@ export const SUMATERA_SELATAN: PostalCodeData[] = [
     "district": "Buay Madang",
     "districtCode": "1609030",
     "village": "Sridadi",
-    "villageCode": "",
+    "villageCode": "1609030007",
     "postalCode": "32361"
   },
   {
@@ -21943,7 +21943,7 @@ export const SUMATERA_SELATAN: PostalCodeData[] = [
     "district": "Madang Suku I",
     "districtCode": "1609050",
     "village": "Harjo Mulyo Jaya",
-    "villageCode": "",
+    "villageCode": "1609050012",
     "postalCode": "32362"
   },
   {
@@ -22141,7 +22141,7 @@ export const SUMATERA_SELATAN: PostalCodeData[] = [
     "district": "Buay Pemuka Bangsa Raja",
     "districtCode": "1609032",
     "village": "Pandan Sari III",
-    "villageCode": "",
+    "villageCode": "1609032003",
     "postalCode": "32364"
   },
   {
@@ -22515,7 +22515,7 @@ export const SUMATERA_SELATAN: PostalCodeData[] = [
     "district": "Madang Suku III",
     "districtCode": "1609041",
     "village": "Karya Makmur",
-    "villageCode": "",
+    "villageCode": "1609041006",
     "postalCode": "32368"
   },
   {
@@ -23978,7 +23978,7 @@ export const SUMATERA_SELATAN: PostalCodeData[] = [
     "district": "Kayu Agung",
     "districtCode": "1602060",
     "village": "Jua-jua",
-    "villageCode": "",
+    "villageCode": "1602060007",
     "postalCode": "30616"
   },
   {
@@ -24011,7 +24011,7 @@ export const SUMATERA_SELATAN: PostalCodeData[] = [
     "district": "Kayu Agung",
     "districtCode": "1602060",
     "village": "Serigeni",
-    "villageCode": "",
+    "villageCode": "1602060020",
     "postalCode": "30618"
   },
   {
@@ -25397,7 +25397,7 @@ export const SUMATERA_SELATAN: PostalCodeData[] = [
     "district": "Lempuing Jaya",
     "districtCode": "1602011",
     "village": "Rantau Durian I",
-    "villageCode": "",
+    "villageCode": "1602011008",
     "postalCode": "30682"
   },
   {
@@ -25573,7 +25573,7 @@ export const SUMATERA_SELATAN: PostalCodeData[] = [
     "district": "Sungai Menang",
     "districtCode": "1602021",
     "village": "Pinang Indah",
-    "villageCode": "",
+    "villageCode": "1602021011",
     "postalCode": "30683"
   },
   {
@@ -25958,7 +25958,7 @@ export const SUMATERA_SELATAN: PostalCodeData[] = [
     "district": "Lahat",
     "districtCode": "1604120",
     "village": "RD. PJKA",
-    "villageCode": "",
+    "villageCode": "1604120033",
     "postalCode": "31417"
   },
   {
@@ -26024,7 +26024,7 @@ export const SUMATERA_SELATAN: PostalCodeData[] = [
     "district": "Lahat",
     "districtCode": "1604120",
     "village": "Giri Mulya",
-    "villageCode": "",
+    "villageCode": "1604120058",
     "postalCode": "31419"
   },
   {
@@ -26145,7 +26145,7 @@ export const SUMATERA_SELATAN: PostalCodeData[] = [
     "district": "Kikim Timur",
     "districtCode": "1604112",
     "village": "Padu Raksa",
-    "villageCode": "",
+    "villageCode": "1604112011",
     "postalCode": "31452"
   },
   {
@@ -26332,7 +26332,7 @@ export const SUMATERA_SELATAN: PostalCodeData[] = [
     "district": "Kikim Timur",
     "districtCode": "1604112",
     "village": "Purwaraja",
-    "villageCode": "",
+    "villageCode": "1604112030",
     "postalCode": "31452"
   },
   {
@@ -27091,7 +27091,7 @@ export const SUMATERA_SELATAN: PostalCodeData[] = [
     "district": "Pagar Gunung",
     "districtCode": "1604051",
     "village": "Germidar Ulu",
-    "villageCode": "",
+    "villageCode": "1604051007",
     "postalCode": "31466"
   },
   {
@@ -27157,7 +27157,7 @@ export const SUMATERA_SELATAN: PostalCodeData[] = [
     "district": "Pagar Gunung",
     "districtCode": "1604051",
     "village": "Germidar Ilir",
-    "villageCode": "",
+    "villageCode": "1604051008",
     "postalCode": "31466"
   },
   {
@@ -27520,7 +27520,7 @@ export const SUMATERA_SELATAN: PostalCodeData[] = [
     "district": "Jarai",
     "districtCode": "1604060",
     "village": "Lubuk Saung",
-    "villageCode": "",
+    "villageCode": "1604060006",
     "postalCode": "31491"
   },
   {
@@ -28543,7 +28543,7 @@ export const SUMATERA_SELATAN: PostalCodeData[] = [
     "district": "Karang Dapo",
     "districtCode": "1613050",
     "village": "Karang Dapo II",
-    "villageCode": "",
+    "villageCode": "1613050003",
     "postalCode": "31658"
   },
   {
@@ -29060,7 +29060,7 @@ export const SUMATERA_SELATAN: PostalCodeData[] = [
     "district": "Suka Karya",
     "districtCode": "1605061",
     "village": "Yudha Karya Bakti",
-    "villageCode": "",
+    "villageCode": "1605061006",
     "postalCode": "31668"
   },
   {
@@ -29313,7 +29313,7 @@ export const SUMATERA_SELATAN: PostalCodeData[] = [
     "district": "Sekayu",
     "districtCode": "1606040",
     "village": "Lumpatan 2",
-    "villageCode": "",
+    "villageCode": "1606040009",
     "postalCode": "30719"
   },
   {
@@ -30644,7 +30644,7 @@ export const SUMATERA_SELATAN: PostalCodeData[] = [
     "district": "Lais",
     "districtCode": "1606041",
     "village": "Epil Barat",
-    "villageCode": "",
+    "villageCode": "1606041013",
     "postalCode": "30761"
   },
   {
@@ -31117,7 +31117,7 @@ export const SUMATERA_SELATAN: PostalCodeData[] = [
     "district": "Pemulutan",
     "districtCode": "1610050",
     "village": "Aurstanding",
-    "villageCode": "",
+    "villageCode": "1610050016",
     "postalCode": "30653"
   },
   {
@@ -31909,7 +31909,7 @@ export const SUMATERA_SELATAN: PostalCodeData[] = [
     "district": "Rambang Kuang",
     "districtCode": "1610011",
     "village": "Suka Tangai",
-    "villageCode": "",
+    "villageCode": "1610011007",
     "postalCode": "30663"
   },
   {
@@ -31975,7 +31975,7 @@ export const SUMATERA_SELATAN: PostalCodeData[] = [
     "district": "Rambang Kuang",
     "districtCode": "1610011",
     "village": "Tangai/Sukananti",
-    "villageCode": "",
+    "villageCode": "1610011007",
     "postalCode": "30663"
   },
   {
@@ -32778,7 +32778,7 @@ export const SUMATERA_SELATAN: PostalCodeData[] = [
     "district": "Abab",
     "districtCode": "1612030",
     "village": "Prambatan",
-    "villageCode": "",
+    "villageCode": "1612030003",
     "postalCode": "31264"
   },
   {
@@ -33735,7 +33735,7 @@ export const SUMATERA_SELATAN: PostalCodeData[] = [
     "district": "Prabumulih Timur",
     "districtCode": "1672020",
     "village": "Arimbi Jaya",
-    "villageCode": "",
+    "villageCode": "1672020015",
     "postalCode": "31111"
   },
   {
@@ -33757,7 +33757,7 @@ export const SUMATERA_SELATAN: PostalCodeData[] = [
     "district": "Prabumulih Timur",
     "districtCode": "1672020",
     "village": "Gunung Ibul Timur",
-    "villageCode": "",
+    "villageCode": "1672020006",
     "postalCode": "31113"
   },
   {
@@ -33768,7 +33768,7 @@ export const SUMATERA_SELATAN: PostalCodeData[] = [
     "district": "Prabumulih Timur",
     "districtCode": "1672020",
     "village": "Gunung Ibul Utara",
-    "villageCode": "",
+    "villageCode": "1672020006",
     "postalCode": "31113"
   },
   {
@@ -33812,7 +33812,7 @@ export const SUMATERA_SELATAN: PostalCodeData[] = [
     "district": "Prabumulih Utara",
     "districtCode": "1672031",
     "village": "Pasar Prabumulih II",
-    "villageCode": "",
+    "villageCode": "1672031002",
     "postalCode": "31121"
   },
   {
@@ -33823,7 +33823,7 @@ export const SUMATERA_SELATAN: PostalCodeData[] = [
     "district": "Prabumulih Utara",
     "districtCode": "1672031",
     "village": "Pasar Prabumulih I",
-    "villageCode": "",
+    "villageCode": "1672031002",
     "postalCode": "31121"
   },
   {
@@ -33845,7 +33845,7 @@ export const SUMATERA_SELATAN: PostalCodeData[] = [
     "district": "Prabumulih Utara",
     "districtCode": "1672031",
     "village": "Sidogede",
-    "villageCode": "",
+    "villageCode": "1672031007",
     "postalCode": "31125"
   },
   {
@@ -33911,7 +33911,7 @@ export const SUMATERA_SELATAN: PostalCodeData[] = [
     "district": "Prabumulih Barat",
     "districtCode": "1672030",
     "village": "Tebing Tanah Puteh",
-    "villageCode": "",
+    "villageCode": "1672030013",
     "postalCode": "31129"
   },
   {
@@ -33922,7 +33922,7 @@ export const SUMATERA_SELATAN: PostalCodeData[] = [
     "district": "Prabumulih Barat",
     "districtCode": "1672030",
     "village": "Payuputat",
-    "villageCode": "",
+    "villageCode": "1672030011",
     "postalCode": "31129"
   },
   {

@@ -108,7 +108,7 @@ export const RIAU: PostalCodeData[] = [
     "district": "Kuantan Mudik",
     "districtCode": "1401010",
     "village": "Pasar Lubuk Jambi",
-    "villageCode": "",
+    "villageCode": "1401010012",
     "postalCode": "29564"
   },
   {
@@ -284,7 +284,7 @@ export const RIAU: PostalCodeData[] = [
     "district": "Rakit Kulim",
     "districtCode": "1402031",
     "village": "Sungai Ekok",
-    "villageCode": "",
+    "villageCode": "1402031018",
     "postalCode": "29372"
   },
   {
@@ -482,7 +482,7 @@ export const RIAU: PostalCodeData[] = [
     "district": "Kampar Kiri",
     "districtCode": "1406010",
     "village": "Muara Selayah",
-    "villageCode": "",
+    "villageCode": "1406010014",
     "postalCode": "28471"
   },
   {
@@ -1472,7 +1472,7 @@ export const RIAU: PostalCodeData[] = [
     "district": "Pasir Penyu",
     "districtCode": "1402040",
     "village": "Kembang Harum Beras Hilir",
-    "villageCode": "",
+    "villageCode": "1402040018",
     "postalCode": "29352"
   },
   {
@@ -1868,7 +1868,7 @@ export const RIAU: PostalCodeData[] = [
     "district": "Bandar Laksamana",
     "districtCode": "1408022",
     "village": "Api-Api",
-    "villageCode": "",
+    "villageCode": "1408022003",
     "postalCode": "28761"
   },
   {
@@ -2902,7 +2902,7 @@ export const RIAU: PostalCodeData[] = [
     "district": "Talang Muandau",
     "districtCode": "1408013",
     "village": "Kotopaitberingin",
-    "villageCode": "",
+    "villageCode": "1408013002",
     "postalCode": "28765"
   },
   {
@@ -3870,7 +3870,7 @@ export const RIAU: PostalCodeData[] = [
     "district": "Benai",
     "districtCode": "1401040",
     "village": "Tanjungsimandolak",
-    "villageCode": "",
+    "villageCode": "1401040007",
     "postalCode": "29552"
   },
   {
@@ -3903,7 +3903,7 @@ export const RIAU: PostalCodeData[] = [
     "district": "Kuantan Hilir Seberang",
     "districtCode": "1401053",
     "village": "Tanjungpisang",
-    "villageCode": "",
+    "villageCode": "1401053010",
     "postalCode": "29557"
   },
   {
@@ -3914,7 +3914,7 @@ export const RIAU: PostalCodeData[] = [
     "district": "Hulu Kuantan",
     "districtCode": "1401011",
     "village": "Tanjungmedang",
-    "villageCode": "",
+    "villageCode": "1401011010",
     "postalCode": "29565"
   },
   {
@@ -4409,7 +4409,7 @@ export const RIAU: PostalCodeData[] = [
     "district": "Lubuk Batu Jaya",
     "districtCode": "1402043",
     "village": "Sei Beras Beras",
-    "villageCode": "",
+    "villageCode": "1402043001",
     "postalCode": "29358"
   },
   {
@@ -4607,7 +4607,7 @@ export const RIAU: PostalCodeData[] = [
     "district": "Sukajadi",
     "districtCode": "1471060",
     "village": "Pulau Karomah",
-    "villageCode": "",
+    "villageCode": "1471060008",
     "postalCode": "28127"
   },
   {
@@ -4915,7 +4915,7 @@ export const RIAU: PostalCodeData[] = [
     "district": "Rumbai",
     "districtCode": "1471080",
     "village": "Limbungan Baru",
-    "villageCode": "",
+    "villageCode": "1471080016",
     "postalCode": "28261"
   },
   {
@@ -4959,7 +4959,7 @@ export const RIAU: PostalCodeData[] = [
     "district": "Rumbai",
     "districtCode": "1471080",
     "village": "Lembah Damai",
-    "villageCode": "",
+    "villageCode": "1471080015",
     "postalCode": "28263"
   },
   {
@@ -5014,7 +5014,7 @@ export const RIAU: PostalCodeData[] = [
     "district": "Rumbai",
     "districtCode": "1471080",
     "village": "Meranti Pandak",
-    "villageCode": "",
+    "villageCode": "1471080014",
     "postalCode": "28266"
   },
   {
@@ -5850,7 +5850,7 @@ export const RIAU: PostalCodeData[] = [
     "district": "Kuantan Hilir",
     "districtCode": "1401050",
     "village": "Pasar Baru",
-    "villageCode": "",
+    "villageCode": "1401050036",
     "postalCode": "29561"
   },
   {
@@ -6829,7 +6829,7 @@ export const RIAU: PostalCodeData[] = [
     "district": "Hulu Kuantan",
     "districtCode": "1401011",
     "village": "Serosa",
-    "villageCode": "",
+    "villageCode": "1401011011",
     "postalCode": "29565"
   },
   {
@@ -7071,7 +7071,7 @@ export const RIAU: PostalCodeData[] = [
     "district": "Kuantan Tengah",
     "districtCode": "1401030",
     "village": "Seberang Taluk Hilir",
-    "villageCode": "",
+    "villageCode": "1401030004",
     "postalCode": "29519"
   },
   {
@@ -7181,7 +7181,7 @@ export const RIAU: PostalCodeData[] = [
     "district": "Kuantan Tengah",
     "districtCode": "1401030",
     "village": "Pulau Godang Kari",
-    "villageCode": "",
+    "villageCode": "1401030020",
     "postalCode": "29519"
   },
   {
@@ -8138,7 +8138,7 @@ export const RIAU: PostalCodeData[] = [
     "district": "Kuantan Hilir",
     "districtCode": "1401050",
     "village": "Pasar Usang",
-    "villageCode": "",
+    "villageCode": "1401050023",
     "postalCode": "29561"
   },
   {
@@ -8875,7 +8875,7 @@ export const RIAU: PostalCodeData[] = [
     "district": "Pasir Penyu",
     "districtCode": "1402040",
     "village": "Air Molek",
-    "villageCode": "",
+    "villageCode": "1402040009",
     "postalCode": "29352"
   },
   {
@@ -9062,7 +9062,7 @@ export const RIAU: PostalCodeData[] = [
     "district": "Lirik",
     "districtCode": "1402041",
     "village": "Lambang Sari I, II, III",
-    "villageCode": "",
+    "villageCode": "1402041010",
     "postalCode": "29353"
   },
   {
@@ -9436,7 +9436,7 @@ export const RIAU: PostalCodeData[] = [
     "district": "Rengat",
     "districtCode": "1402060",
     "village": "Sekip Hilir Jumat",
-    "villageCode": "",
+    "villageCode": "1402060009",
     "postalCode": "29318"
   },
   {
@@ -10492,7 +10492,7 @@ export const RIAU: PostalCodeData[] = [
     "district": "Tempuling",
     "districtCode": "1403070",
     "village": "Tempuling Jaya",
-    "villageCode": "",
+    "villageCode": "1403070009",
     "postalCode": "29262"
   },
   {
@@ -11273,7 +11273,7 @@ export const RIAU: PostalCodeData[] = [
     "district": "Pelangiran",
     "districtCode": "1403121",
     "village": "Tegal Rejo",
-    "villageCode": "",
+    "villageCode": "1403121009",
     "postalCode": "29257"
   },
   {
@@ -11625,7 +11625,7 @@ export const RIAU: PostalCodeData[] = [
     "district": "Pangkalan Kerinci",
     "districtCode": "1404011",
     "village": "Pangkalan Kerinci Timur Agung",
-    "villageCode": "",
+    "villageCode": "1404011008",
     "postalCode": "28312"
   },
   {
@@ -12021,7 +12021,7 @@ export const RIAU: PostalCodeData[] = [
     "district": "Bunut",
     "districtCode": "1404030",
     "village": "Pangkalan Bunut Terap",
-    "villageCode": "",
+    "villageCode": "1404030010",
     "postalCode": "28383"
   },
   {
@@ -14903,7 +14903,7 @@ export const RIAU: PostalCodeData[] = [
     "district": "Tapung",
     "districtCode": "1406040",
     "village": "Kenantan",
-    "villageCode": "",
+    "villageCode": "1406040005",
     "postalCode": "28464"
   },
   {
@@ -14947,7 +14947,7 @@ export const RIAU: PostalCodeData[] = [
     "district": "Tapung",
     "districtCode": "1406040",
     "village": "Sungai Putih",
-    "villageCode": "",
+    "villageCode": "1406040008",
     "postalCode": "28464"
   },
   {
@@ -15365,7 +15365,7 @@ export const RIAU: PostalCodeData[] = [
     "district": "Bangkinang Kota",
     "districtCode": "1406050",
     "village": "Langgini Sialang",
-    "villageCode": "",
+    "villageCode": "1406050002",
     "postalCode": "28412"
   },
   {
@@ -15464,7 +15464,7 @@ export const RIAU: PostalCodeData[] = [
     "district": "Bangkinang",
     "districtCode": "1406051",
     "village": "Laboy Jaya",
-    "villageCode": "",
+    "villageCode": "1406051006",
     "postalCode": "28455"
   },
   {
@@ -17103,7 +17103,7 @@ export const RIAU: PostalCodeData[] = [
     "district": "Kepenuhan",
     "districtCode": "1407060",
     "village": "Kepenuhan Barat Sei Rokan Jaya",
-    "villageCode": "",
+    "villageCode": "1407060005",
     "postalCode": "28559"
   },
   {
@@ -18324,7 +18324,7 @@ export const RIAU: PostalCodeData[] = [
     "district": "Pujud",
     "districtCode": "1409011",
     "village": "Siarang-arang",
-    "villageCode": "",
+    "villageCode": "1409011005",
     "postalCode": "28983"
   },
   {

@@ -889,7 +889,7 @@ export const KEPULAUAN_RIAU: PostalCodeData[] = [
     "district": "Bunguran Timur",
     "districtCode": "2103050",
     "village": "Batu Hitam",
-    "villageCode": "",
+    "villageCode": "2103050017",
     "postalCode": "29711"
   },
   {
@@ -1087,7 +1087,7 @@ export const KEPULAUAN_RIAU: PostalCodeData[] = [
     "district": "Belat",
     "districtCode": "2101024",
     "village": "Sebele",
-    "villageCode": "",
+    "villageCode": "2101024004",
     "postalCode": "29660"
   },
   {
@@ -1142,7 +1142,7 @@ export const KEPULAUAN_RIAU: PostalCodeData[] = [
     "district": "Belat",
     "districtCode": "2101024",
     "village": "Lebuh",
-    "villageCode": "",
+    "villageCode": "2101024002",
     "postalCode": "29660"
   },
   {
@@ -1186,7 +1186,7 @@ export const KEPULAUAN_RIAU: PostalCodeData[] = [
     "district": "Karimun",
     "districtCode": "2101030",
     "village": "Lubuk Semut",
-    "villageCode": "",
+    "villageCode": "2101030009",
     "postalCode": "29661"
   },
   {
@@ -1230,7 +1230,7 @@ export const KEPULAUAN_RIAU: PostalCodeData[] = [
     "district": "Kundur",
     "districtCode": "2101020",
     "village": "Lubuk",
-    "villageCode": "",
+    "villageCode": "2101020006",
     "postalCode": "29662"
   },
   {
@@ -1252,7 +1252,7 @@ export const KEPULAUAN_RIAU: PostalCodeData[] = [
     "district": "Kundur",
     "districtCode": "2101020",
     "village": "Sebesi",
-    "villageCode": "",
+    "villageCode": "2101020004",
     "postalCode": "29662"
   },
   {
@@ -1318,7 +1318,7 @@ export const KEPULAUAN_RIAU: PostalCodeData[] = [
     "district": "Kundur Barat",
     "districtCode": "2101022",
     "village": "Gemuruh",
-    "villageCode": "",
+    "villageCode": "2101022005",
     "postalCode": "29662"
   },
   {
@@ -1351,7 +1351,7 @@ export const KEPULAUAN_RIAU: PostalCodeData[] = [
     "district": "Kundur Barat",
     "districtCode": "2101022",
     "village": "Kundur",
-    "villageCode": "",
+    "villageCode": "2101022003",
     "postalCode": "29662"
   },
   {
@@ -1395,7 +1395,7 @@ export const KEPULAUAN_RIAU: PostalCodeData[] = [
     "district": "Moro",
     "districtCode": "2101010",
     "village": "Pulaumoro",
-    "villageCode": "",
+    "villageCode": "2101010003",
     "postalCode": "29663"
   },
   {
@@ -1494,7 +1494,7 @@ export const KEPULAUAN_RIAU: PostalCodeData[] = [
     "district": "Buru",
     "districtCode": "2101031",
     "village": "Buru",
-    "villageCode": "",
+    "villageCode": "2101031002",
     "postalCode": "29664"
   },
   {
@@ -1890,7 +1890,7 @@ export const KEPULAUAN_RIAU: PostalCodeData[] = [
     "district": "Seri Kuala Lobam",
     "districtCode": "2102052",
     "village": "Busung",
-    "villageCode": "",
+    "villageCode": "2102052002",
     "postalCode": "29154"
   },
   {
@@ -2011,7 +2011,7 @@ export const KEPULAUAN_RIAU: PostalCodeData[] = [
     "district": "Tambelan",
     "districtCode": "2102070",
     "village": "Kukup",
-    "villageCode": "",
+    "villageCode": "2102070007",
     "postalCode": "29193"
   },
   {
@@ -2088,7 +2088,7 @@ export const KEPULAUAN_RIAU: PostalCodeData[] = [
     "district": "Mantang",
     "districtCode": "2102062",
     "village": "Dendun",
-    "villageCode": "",
+    "villageCode": "2102062004",
     "postalCode": "29194"
   },
   {
@@ -2154,7 +2154,7 @@ export const KEPULAUAN_RIAU: PostalCodeData[] = [
     "district": "Bunguran Timur",
     "districtCode": "2103050",
     "village": "Ranai Kota",
-    "villageCode": "",
+    "villageCode": "2103050003",
     "postalCode": "29711"
   },
   {
@@ -2253,7 +2253,7 @@ export const KEPULAUAN_RIAU: PostalCodeData[] = [
     "district": "Pulau Tiga Barat",
     "districtCode": "2103045",
     "village": "Setumuk",
-    "villageCode": "",
+    "villageCode": "2103045003",
     "postalCode": "29753"
   },
   {
@@ -2374,7 +2374,7 @@ export const KEPULAUAN_RIAU: PostalCodeData[] = [
     "district": "Bunguran Timur Laut",
     "districtCode": "2103051",
     "village": "Ceruk",
-    "villageCode": "",
+    "villageCode": "2103051001",
     "postalCode": "29761"
   },
   {
@@ -2814,7 +2814,7 @@ export const KEPULAUAN_RIAU: PostalCodeData[] = [
     "district": "Lingga",
     "districtCode": "2104030",
     "village": "Daik Sepincan",
-    "villageCode": "",
+    "villageCode": "2104030008",
     "postalCode": "29811"
   },
   {
@@ -2924,7 +2924,7 @@ export const KEPULAUAN_RIAU: PostalCodeData[] = [
     "district": "Lingga",
     "districtCode": "2104030",
     "village": "Kelumu",
-    "villageCode": "",
+    "villageCode": "2104030004",
     "postalCode": "29819"
   },
   {
@@ -2935,7 +2935,7 @@ export const KEPULAUAN_RIAU: PostalCodeData[] = [
     "district": "Lingga",
     "districtCode": "2104030",
     "village": "Nerekeh",
-    "villageCode": "",
+    "villageCode": "2104030017",
     "postalCode": "29819"
   },
   {
@@ -2990,7 +2990,7 @@ export const KEPULAUAN_RIAU: PostalCodeData[] = [
     "district": "Lingga Timur",
     "districtCode": "2104032",
     "village": "Kudung",
-    "villageCode": "",
+    "villageCode": "2104032006",
     "postalCode": "29852"
   },
   {
@@ -3012,7 +3012,7 @@ export const KEPULAUAN_RIAU: PostalCodeData[] = [
     "district": "Lingga Timur",
     "districtCode": "2104032",
     "village": "Belungkur",
-    "villageCode": "",
+    "villageCode": "2104032007",
     "postalCode": "29854"
   },
   {
@@ -3023,7 +3023,7 @@ export const KEPULAUAN_RIAU: PostalCodeData[] = [
     "district": "Lingga Timur",
     "districtCode": "2104032",
     "village": "Teluk",
-    "villageCode": "",
+    "villageCode": "2104032008",
     "postalCode": "29854"
   },
   {
@@ -3034,7 +3034,7 @@ export const KEPULAUAN_RIAU: PostalCodeData[] = [
     "district": "Lingga Utara",
     "districtCode": "2104040",
     "village": "Resun",
-    "villageCode": "",
+    "villageCode": "2104040003",
     "postalCode": "29854"
   },
   {
@@ -3749,7 +3749,7 @@ export const KEPULAUAN_RIAU: PostalCodeData[] = [
     "district": "Jemaja",
     "districtCode": "2105010",
     "village": "Letung",
-    "villageCode": "",
+    "villageCode": "2105010005",
     "postalCode": "29992"
   },
   {
@@ -3991,7 +3991,7 @@ export const KEPULAUAN_RIAU: PostalCodeData[] = [
     "district": "Siantan Timur",
     "districtCode": "2105050",
     "village": "Temburun",
-    "villageCode": "",
+    "villageCode": "2105050006",
     "postalCode": "29996"
   },
   {

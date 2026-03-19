@@ -75,7 +75,7 @@ export const BENGKULU: PostalCodeData[] = [
     "district": "Teluk Segara",
     "districtCode": "1771030",
     "village": "Sumur Meleleh",
-    "villageCode": "",
+    "villageCode": "1771030005",
     "postalCode": "38113"
   },
   {
@@ -108,7 +108,7 @@ export const BENGKULU: PostalCodeData[] = [
     "district": "Teluk Segara",
     "districtCode": "1771030",
     "village": "Berkas",
-    "villageCode": "",
+    "villageCode": "1771030006",
     "postalCode": "38114"
   },
   {
@@ -152,7 +152,7 @@ export const BENGKULU: PostalCodeData[] = [
     "district": "Teluk Segara",
     "districtCode": "1771030",
     "village": "Jitra",
-    "villageCode": "",
+    "villageCode": "1771030008",
     "postalCode": "38115"
   },
   {
@@ -185,7 +185,7 @@ export const BENGKULU: PostalCodeData[] = [
     "district": "Teluk Segara",
     "districtCode": "1771030",
     "village": "Kebun Roos",
-    "villageCode": "",
+    "villageCode": "1771030012",
     "postalCode": "38117"
   },
   {
@@ -317,7 +317,7 @@ export const BENGKULU: PostalCodeData[] = [
     "district": "Sungai Serut",
     "districtCode": "1771031",
     "village": "Sukamerindu",
-    "villageCode": "",
+    "villageCode": "1771031005",
     "postalCode": "38133"
   },
   {
@@ -449,7 +449,7 @@ export const BENGKULU: PostalCodeData[] = [
     "district": "Gading Cempaka",
     "districtCode": "1771020",
     "village": "Lingkar Barat",
-    "villageCode": "",
+    "villageCode": "1771020027",
     "postalCode": "38229"
   },
   {
@@ -460,7 +460,7 @@ export const BENGKULU: PostalCodeData[] = [
     "district": "Gading Cempaka",
     "districtCode": "1771020",
     "village": "Sidomulyo",
-    "villageCode": "",
+    "villageCode": "1771020001",
     "postalCode": "38229"
   },
   {
@@ -526,7 +526,7 @@ export const BENGKULU: PostalCodeData[] = [
     "district": "Ratu Samban",
     "districtCode": "1771022",
     "village": "Kebun Geran",
-    "villageCode": "",
+    "villageCode": "1771022007",
     "postalCode": "38235"
   },
   {
@@ -1296,7 +1296,7 @@ export const BENGKULU: PostalCodeData[] = [
     "district": "Ulok Kupai",
     "districtCode": "1703092",
     "village": "Bangun Karya",
-    "villageCode": "",
+    "villageCode": "1703092009",
     "postalCode": "38364"
   },
   {
@@ -1307,7 +1307,7 @@ export const BENGKULU: PostalCodeData[] = [
     "district": "Pondok Kelapa",
     "districtCode": "1709050",
     "village": "Talang Boseng",
-    "villageCode": "",
+    "villageCode": "1709050015",
     "postalCode": "38371"
   },
   {
@@ -1384,7 +1384,7 @@ export const BENGKULU: PostalCodeData[] = [
     "district": "Pondok Kelapa",
     "districtCode": "1709050",
     "village": "Pagar Dewa",
-    "villageCode": "",
+    "villageCode": "1709050018",
     "postalCode": "38371"
   },
   {
@@ -2451,7 +2451,7 @@ export const BENGKULU: PostalCodeData[] = [
     "district": "Bang Haji",
     "districtCode": "1709061",
     "village": "Sekayun Hilir",
-    "villageCode": "",
+    "villageCode": "1709061001",
     "postalCode": "38393"
   },
   {
@@ -2682,7 +2682,7 @@ export const BENGKULU: PostalCodeData[] = [
     "district": "Pondok Kubang",
     "districtCode": "1709051",
     "village": "Dusun Anyar",
-    "villageCode": "",
+    "villageCode": "1709051003",
     "postalCode": "38394"
   },
   {
@@ -3452,7 +3452,7 @@ export const BENGKULU: PostalCodeData[] = [
     "district": "Kedurang",
     "districtCode": "1701042",
     "village": "Suka Nanti",
-    "villageCode": "",
+    "villageCode": "1701042017",
     "postalCode": "38553"
   },
   {
@@ -3749,7 +3749,7 @@ export const BENGKULU: PostalCodeData[] = [
     "district": "Bunga Mas",
     "districtCode": "1701043",
     "village": "Gindo Suli",
-    "villageCode": "",
+    "villageCode": "1701043004",
     "postalCode": "38557"
   },
   {
@@ -4354,7 +4354,7 @@ export const BENGKULU: PostalCodeData[] = [
     "district": "Ulu Manna",
     "districtCode": "1701062",
     "village": "Air Tenam Dalam",
-    "villageCode": "",
+    "villageCode": "1701062010",
     "postalCode": "38579"
   },
   {
@@ -4618,7 +4618,7 @@ export const BENGKULU: PostalCodeData[] = [
     "district": "Kota Arga Makmur",
     "districtCode": "1703060",
     "village": "Karang Anyar I",
-    "villageCode": "",
+    "villageCode": "1703060023",
     "postalCode": "38611"
   },
   {
@@ -4761,7 +4761,7 @@ export const BENGKULU: PostalCodeData[] = [
     "district": "Air Padang",
     "districtCode": "1703073",
     "village": "Balam",
-    "villageCode": "",
+    "villageCode": "1703073009",
     "postalCode": "38652"
   },
   {
@@ -5531,7 +5531,7 @@ export const BENGKULU: PostalCodeData[] = [
     "district": "Putri Hijau",
     "districtCode": "1703100",
     "village": "Kota Bani",
-    "villageCode": "",
+    "villageCode": "1703100005",
     "postalCode": "38662"
   },
   {
@@ -5641,7 +5641,7 @@ export const BENGKULU: PostalCodeData[] = [
     "district": "Napal Putih",
     "districtCode": "1703091",
     "village": "Jabi",
-    "villageCode": "",
+    "villageCode": "1703091007",
     "postalCode": "38663"
   },
   {
@@ -5817,7 +5817,7 @@ export const BENGKULU: PostalCodeData[] = [
     "district": "Air Napal",
     "districtCode": "1703051",
     "village": "Pukur",
-    "villageCode": "",
+    "villageCode": "1703051012",
     "postalCode": "38673"
   },
   {
@@ -5949,7 +5949,7 @@ export const BENGKULU: PostalCodeData[] = [
     "district": "Kerkap",
     "districtCode": "1703050",
     "village": "Banyumas",
-    "villageCode": "",
+    "villageCode": "1703050042",
     "postalCode": "38674"
   },
   {
@@ -6279,7 +6279,7 @@ export const BENGKULU: PostalCodeData[] = [
     "district": "Hulu Palik",
     "districtCode": "1703053",
     "village": "Taba Padang R",
-    "villageCode": "",
+    "villageCode": "1703053006",
     "postalCode": "38676"
   },
   {
@@ -6356,7 +6356,7 @@ export const BENGKULU: PostalCodeData[] = [
     "district": "Hulu Palik",
     "districtCode": "1703053",
     "village": "Kota Lekat",
-    "villageCode": "",
+    "villageCode": "1703053001",
     "postalCode": "38676"
   },
   {
@@ -6422,7 +6422,7 @@ export const BENGKULU: PostalCodeData[] = [
     "district": "Hulu Palik",
     "districtCode": "1703053",
     "village": "Batu Raja R",
-    "villageCode": "",
+    "villageCode": "1703053010",
     "postalCode": "38676"
   },
   {
@@ -7236,7 +7236,7 @@ export const BENGKULU: PostalCodeData[] = [
     "district": "Semidang Alas",
     "districtCode": "1705020",
     "village": "Renah Gajah Mati I",
-    "villageCode": "",
+    "villageCode": "1705020017",
     "postalCode": "38873"
   },
   {
@@ -7291,7 +7291,7 @@ export const BENGKULU: PostalCodeData[] = [
     "district": "Kaur Selatan",
     "districtCode": "1704030",
     "village": "Bandar Bintuhan",
-    "villageCode": "",
+    "villageCode": "1704030018",
     "postalCode": "38911"
   },
   {
@@ -8149,7 +8149,7 @@ export const BENGKULU: PostalCodeData[] = [
     "district": "Kaur Utara",
     "districtCode": "1704070",
     "village": "Tanjung Betung",
-    "villageCode": "",
+    "villageCode": "1704070034",
     "postalCode": "38954"
   },
   {
@@ -8182,7 +8182,7 @@ export const BENGKULU: PostalCodeData[] = [
     "district": "Tanjung Kemuning",
     "districtCode": "1704060",
     "village": "Tanjung Kemuning",
-    "villageCode": "",
+    "villageCode": "1704060007",
     "postalCode": "38955"
   },
   {
@@ -8204,7 +8204,7 @@ export const BENGKULU: PostalCodeData[] = [
     "district": "Tanjung Kemuning",
     "districtCode": "1704060",
     "village": "Tanjung Aur",
-    "villageCode": "",
+    "villageCode": "1704060005",
     "postalCode": "38955"
   },
   {
@@ -8270,7 +8270,7 @@ export const BENGKULU: PostalCodeData[] = [
     "district": "Tanjung Kemuning",
     "districtCode": "1704060",
     "village": "Pelajaran",
-    "villageCode": "",
+    "villageCode": "1704060010",
     "postalCode": "38955"
   },
   {
@@ -8314,7 +8314,7 @@ export const BENGKULU: PostalCodeData[] = [
     "district": "Tanjung Kemuning",
     "districtCode": "1704060",
     "village": "Tanjung Iman",
-    "villageCode": "",
+    "villageCode": "1704060009",
     "postalCode": "38955"
   },
   {
@@ -8369,7 +8369,7 @@ export const BENGKULU: PostalCodeData[] = [
     "district": "Tanjung Kemuning",
     "districtCode": "1704060",
     "village": "Selika",
-    "villageCode": "",
+    "villageCode": "1704060008",
     "postalCode": "38955"
   },
   {
@@ -8644,7 +8644,7 @@ export const BENGKULU: PostalCodeData[] = [
     "district": "Sindang Beliti Ulu",
     "districtCode": "1702033",
     "village": "Tanjung Herang",
-    "villageCode": "",
+    "villageCode": "1702033008",
     "postalCode": "39185"
   },
   {
@@ -10745,7 +10745,7 @@ export const BENGKULU: PostalCodeData[] = [
     "district": "Padang Guci Hilir",
     "districtCode": "1704071",
     "village": "Air Kering",
-    "villageCode": "",
+    "villageCode": "1704071003",
     "postalCode": "38957"
   },
   {
@@ -10789,7 +10789,7 @@ export const BENGKULU: PostalCodeData[] = [
     "district": "Padang Guci Hulu",
     "districtCode": "1704073",
     "village": "Bungin Tambun",
-    "villageCode": "",
+    "villageCode": "1704073006",
     "postalCode": "38959"
   },
   {
