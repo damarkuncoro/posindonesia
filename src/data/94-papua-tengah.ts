@@ -130,7 +130,7 @@ export const PAPUA_TENGAH: PostalCodeData[] = [
     "district": "Samofa",
     "districtCode": "9409060",
     "village": "Sumberker",
-    "villageCode": "",
+    "villageCode": "9409060002",
     "postalCode": "98156"
   },
   {
@@ -218,7 +218,7 @@ export const PAPUA_TENGAH: PostalCodeData[] = [
     "district": "Sarmi Timur",
     "districtCode": "9419051",
     "village": "Waskey/ Tanjung Batu",
-    "villageCode": "",
+    "villageCode": "9419051005",
     "postalCode": "99377"
   },
   {
@@ -229,7 +229,7 @@ export const PAPUA_TENGAH: PostalCodeData[] = [
     "district": "Sarmi Timur",
     "districtCode": "9419051",
     "village": "Tanjung Batu",
-    "villageCode": "",
+    "villageCode": "9419051014",
     "postalCode": "99377"
   },
   {
@@ -273,7 +273,7 @@ export const PAPUA_TENGAH: PostalCodeData[] = [
     "district": "Towe",
     "districtCode": "9420011",
     "village": "Jember",
-    "villageCode": "",
+    "villageCode": "9420011008",
     "postalCode": "99466"
   },
   {
@@ -3419,7 +3419,7 @@ export const PAPUA_TENGAH: PostalCodeData[] = [
     "district": "Yapen Timur",
     "districtCode": "9408040",
     "village": "Sere Sere",
-    "villageCode": "",
+    "villageCode": "9408040018",
     "postalCode": "98252"
   },
   {
@@ -3496,7 +3496,7 @@ export const PAPUA_TENGAH: PostalCodeData[] = [
     "district": "Yapen Timur",
     "districtCode": "9408040",
     "village": "Wabo",
-    "villageCode": "",
+    "villageCode": "9408040012",
     "postalCode": "98252"
   },
   {
@@ -3716,7 +3716,7 @@ export const PAPUA_TENGAH: PostalCodeData[] = [
     "district": "Pulau Kurudu",
     "districtCode": "9408044",
     "village": "Kurudu",
-    "villageCode": "",
+    "villageCode": "9408044005",
     "postalCode": "98252"
   },
   {
@@ -3837,7 +3837,7 @@ export const PAPUA_TENGAH: PostalCodeData[] = [
     "district": "Angkaisera",
     "districtCode": "9408050",
     "village": "Roipi Dua",
-    "villageCode": "",
+    "villageCode": "9408050015",
     "postalCode": "98255"
   },
   {
@@ -4013,7 +4013,7 @@ export const PAPUA_TENGAH: PostalCodeData[] = [
     "district": "Yapen Selatan",
     "districtCode": "9408060",
     "village": "Turu",
-    "villageCode": "",
+    "villageCode": "9408060017",
     "postalCode": "98211"
   },
   {
@@ -4145,7 +4145,7 @@ export const PAPUA_TENGAH: PostalCodeData[] = [
     "district": "Kosiwo",
     "districtCode": "9408061",
     "village": "Ariepi Dua",
-    "villageCode": "",
+    "villageCode": "9408061005",
     "postalCode": "98215"
   },
   {
@@ -4607,7 +4607,7 @@ export const PAPUA_TENGAH: PostalCodeData[] = [
     "district": "Pulau Yerui",
     "districtCode": "9408072",
     "village": "Umpeki",
-    "villageCode": "",
+    "villageCode": "9408072005",
     "postalCode": "98253"
   },
   {
@@ -4684,7 +4684,7 @@ export const PAPUA_TENGAH: PostalCodeData[] = [
     "district": "Poom",
     "districtCode": "9408080",
     "village": "Serewen",
-    "villageCode": "",
+    "villageCode": "9408080003",
     "postalCode": "98254"
   },
   {
@@ -4893,7 +4893,7 @@ export const PAPUA_TENGAH: PostalCodeData[] = [
     "district": "Numfor Barat",
     "districtCode": "9409010",
     "village": "Pomdori",
-    "villageCode": "",
+    "villageCode": "9409010022",
     "postalCode": "98172"
   },
   {
@@ -5025,7 +5025,7 @@ export const PAPUA_TENGAH: PostalCodeData[] = [
     "district": "Orkeri",
     "districtCode": "9409011",
     "village": "Masyarah",
-    "villageCode": "",
+    "villageCode": "9409011002",
     "postalCode": "98172"
   },
   {
@@ -5190,7 +5190,7 @@ export const PAPUA_TENGAH: PostalCodeData[] = [
     "district": "Bruyadori",
     "districtCode": "9409021",
     "village": "Amberparem",
-    "villageCode": "",
+    "villageCode": "9409021005",
     "postalCode": "98171"
   },
   {
@@ -5839,7 +5839,7 @@ export const PAPUA_TENGAH: PostalCodeData[] = [
     "district": "Biak Timur",
     "districtCode": "9409040",
     "village": "Sunde",
-    "villageCode": "",
+    "villageCode": "9409040019",
     "postalCode": "98152"
   },
   {
@@ -5850,7 +5850,7 @@ export const PAPUA_TENGAH: PostalCodeData[] = [
     "district": "Biak Timur",
     "districtCode": "9409040",
     "village": "Sepse",
-    "villageCode": "",
+    "villageCode": "9409040020",
     "postalCode": "98152"
   },
   {
@@ -6103,7 +6103,7 @@ export const PAPUA_TENGAH: PostalCodeData[] = [
     "district": "Biak Kota",
     "districtCode": "9409050",
     "village": "Yenures",
-    "villageCode": "",
+    "villageCode": "9409050023",
     "postalCode": "98117"
   },
   {
@@ -6367,7 +6367,7 @@ export const PAPUA_TENGAH: PostalCodeData[] = [
     "district": "Samofa",
     "districtCode": "9409060",
     "village": "Mansinyas",
-    "villageCode": "",
+    "villageCode": "9409060015",
     "postalCode": "98156"
   },
   {
@@ -6378,7 +6378,7 @@ export const PAPUA_TENGAH: PostalCodeData[] = [
     "district": "Samofa",
     "districtCode": "9409060",
     "village": "Snerbo",
-    "villageCode": "",
+    "villageCode": "9409060018",
     "postalCode": "98156"
   },
   {
@@ -6400,7 +6400,7 @@ export const PAPUA_TENGAH: PostalCodeData[] = [
     "district": "Samofa",
     "districtCode": "9409060",
     "village": "Anjareuw",
-    "villageCode": "",
+    "villageCode": "9409060017",
     "postalCode": "98156"
   },
   {
@@ -6499,7 +6499,7 @@ export const PAPUA_TENGAH: PostalCodeData[] = [
     "district": "Yendidori",
     "districtCode": "9409070",
     "village": "Urfu",
-    "villageCode": "",
+    "villageCode": "9409070004",
     "postalCode": "98155"
   },
   {
@@ -6741,7 +6741,7 @@ export const PAPUA_TENGAH: PostalCodeData[] = [
     "district": "Biak Utara",
     "districtCode": "9409080",
     "village": "Nermnu",
-    "villageCode": "",
+    "villageCode": "9409080014",
     "postalCode": "98153"
   },
   {
@@ -6939,7 +6939,7 @@ export const PAPUA_TENGAH: PostalCodeData[] = [
     "district": "Andey",
     "districtCode": "9409081",
     "village": "Sup Mbrur",
-    "villageCode": "",
+    "villageCode": "9409081008",
     "postalCode": "98157"
   },
   {
@@ -7225,7 +7225,7 @@ export const PAPUA_TENGAH: PostalCodeData[] = [
     "district": "Yawosi",
     "districtCode": "9409091",
     "village": "Fanindi",
-    "villageCode": "",
+    "villageCode": "9409091003",
     "postalCode": "98157"
   },
   {
@@ -7302,7 +7302,7 @@ export const PAPUA_TENGAH: PostalCodeData[] = [
     "district": "Bondifuar",
     "districtCode": "9409092",
     "village": "Wandos",
-    "villageCode": "",
+    "villageCode": "9409092003",
     "postalCode": "98157"
   },
   {
@@ -7313,7 +7313,7 @@ export const PAPUA_TENGAH: PostalCodeData[] = [
     "district": "Bondifuar",
     "districtCode": "9409092",
     "village": "Syurdori",
-    "villageCode": "",
+    "villageCode": "9409092005",
     "postalCode": "98157"
   },
   {
@@ -7324,7 +7324,7 @@ export const PAPUA_TENGAH: PostalCodeData[] = [
     "district": "Bondifuar",
     "districtCode": "9409092",
     "village": "Doubo",
-    "villageCode": "",
+    "villageCode": "9409092004",
     "postalCode": "98157"
   },
   {
@@ -7687,7 +7687,7 @@ export const PAPUA_TENGAH: PostalCodeData[] = [
     "district": "Swandiwe",
     "districtCode": "9409101",
     "village": "Wombrisau",
-    "villageCode": "",
+    "villageCode": "9409101009",
     "postalCode": "98154"
   },
   {
@@ -10393,7 +10393,7 @@ export const PAPUA_TENGAH: PostalCodeData[] = [
     "district": "Muara Tami",
     "districtCode": "9471010",
     "village": "Holtekamp",
-    "villageCode": "",
+    "villageCode": "9471010002",
     "postalCode": "99156"
   },
   {
@@ -10415,7 +10415,7 @@ export const PAPUA_TENGAH: PostalCodeData[] = [
     "district": "Muara Tami",
     "districtCode": "9471010",
     "village": "Mosso",
-    "villageCode": "",
+    "villageCode": "9471010008",
     "postalCode": "99158"
   },
   {
@@ -13308,7 +13308,7 @@ export const PAPUA_TENGAH: PostalCodeData[] = [
     "district": "Mannem",
     "districtCode": "9420043",
     "village": "Yamara",
-    "villageCode": "",
+    "villageCode": "9420043005",
     "postalCode": "99468"
   },
   {
@@ -14771,7 +14771,7 @@ export const PAPUA_TENGAH: PostalCodeData[] = [
     "district": "Supiori Selatan",
     "districtCode": "9427010",
     "village": "Biniki",
-    "villageCode": "",
+    "villageCode": "9427010010",
     "postalCode": "98161"
   },
   {
@@ -15024,7 +15024,7 @@ export const PAPUA_TENGAH: PostalCodeData[] = [
     "district": "Sarmi Selatan",
     "districtCode": "9419052",
     "village": "Amsira",
-    "villageCode": "",
+    "villageCode": "9419052006",
     "postalCode": "99378"
   },
   {
@@ -15046,7 +15046,7 @@ export const PAPUA_TENGAH: PostalCodeData[] = [
     "district": "Sarmi Selatan",
     "districtCode": "9419052",
     "village": "Wapo",
-    "villageCode": "",
+    "villageCode": "9419052005",
     "postalCode": "99378"
   },
   {
@@ -15057,7 +15057,7 @@ export const PAPUA_TENGAH: PostalCodeData[] = [
     "district": "Sarmi Selatan",
     "districtCode": "9419052",
     "village": "Siaratesa",
-    "villageCode": "",
+    "villageCode": "9419052007",
     "postalCode": "99378"
   },
   {
@@ -20051,7 +20051,7 @@ export const PAPUA_TENGAH: PostalCodeData[] = [
     "district": "Skanto",
     "districtCode": "9420050",
     "village": "Wulukubun",
-    "villageCode": "",
+    "villageCode": "9420050003",
     "postalCode": "99469"
   },
   {

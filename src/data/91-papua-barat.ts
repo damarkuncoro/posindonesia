@@ -97,7 +97,7 @@ export const PAPUA_BARAT: PostalCodeData[] = [
     "district": "Manimeri",
     "districtCode": "9104051",
     "village": "Banjar Ausoy",
-    "villageCode": "",
+    "villageCode": "9104051002",
     "postalCode": "98552"
   },
   {
@@ -218,7 +218,7 @@ export const PAPUA_BARAT: PostalCodeData[] = [
     "district": "Masni",
     "districtCode": "9105170",
     "village": "Sumber Boga",
-    "villageCode": "",
+    "villageCode": "9105170014",
     "postalCode": "98357"
   },
   {
@@ -680,7 +680,7 @@ export const PAPUA_BARAT: PostalCodeData[] = [
     "district": "Meyado",
     "districtCode": "9104081",
     "village": "Barma Baru",
-    "villageCode": "",
+    "villageCode": "9104081002",
     "postalCode": "98564"
   },
   {
@@ -1384,7 +1384,7 @@ export const PAPUA_BARAT: PostalCodeData[] = [
     "district": "Roon",
     "districtCode": "9103041",
     "village": "Yende",
-    "villageCode": "",
+    "villageCode": "9103041007",
     "postalCode": "98599"
   },
   {
@@ -1593,7 +1593,7 @@ export const PAPUA_BARAT: PostalCodeData[] = [
     "district": "Kuri Wamesa",
     "districtCode": "9103022",
     "village": "Dusner",
-    "villageCode": "",
+    "villageCode": "9103022004",
     "postalCode": "98596"
   },
   {
@@ -1615,7 +1615,7 @@ export const PAPUA_BARAT: PostalCodeData[] = [
     "district": "Kambrau",
     "districtCode": "9102031",
     "village": "Wamesa",
-    "villageCode": "",
+    "villageCode": "9102031002",
     "postalCode": "98672"
   },
   {
@@ -1637,7 +1637,7 @@ export const PAPUA_BARAT: PostalCodeData[] = [
     "district": "Buruway",
     "districtCode": "9102010",
     "village": "Yarona",
-    "villageCode": "",
+    "villageCode": "9102010004",
     "postalCode": "98676"
   },
   {
@@ -1736,7 +1736,7 @@ export const PAPUA_BARAT: PostalCodeData[] = [
     "district": "Yamor",
     "districtCode": "9102041",
     "village": "Ure",
-    "villageCode": "",
+    "villageCode": "9102041006",
     "postalCode": "98677"
   },
   {
@@ -1758,7 +1758,7 @@ export const PAPUA_BARAT: PostalCodeData[] = [
     "district": "Yamor",
     "districtCode": "9102041",
     "village": "Omba Pamuku",
-    "villageCode": "",
+    "villageCode": "9102041002",
     "postalCode": "98677"
   },
   {
@@ -1780,7 +1780,7 @@ export const PAPUA_BARAT: PostalCodeData[] = [
     "district": "Yamor",
     "districtCode": "9102041",
     "village": "Wagoha",
-    "villageCode": "",
+    "villageCode": "9102041004",
     "postalCode": "98677"
   },
   {
@@ -2319,7 +2319,7 @@ export const PAPUA_BARAT: PostalCodeData[] = [
     "district": "Masni",
     "districtCode": "9105170",
     "village": "Bowi Subur",
-    "villageCode": "",
+    "villageCode": "9105170012",
     "postalCode": "98357"
   },
   {
@@ -2759,7 +2759,7 @@ export const PAPUA_BARAT: PostalCodeData[] = [
     "district": "Manokwari Selatan",
     "districtCode": "9105144",
     "village": "Masyepi",
-    "villageCode": "",
+    "villageCode": "9105144020",
     "postalCode": "98315"
   },
   {
@@ -2770,7 +2770,7 @@ export const PAPUA_BARAT: PostalCodeData[] = [
     "district": "Manokwari Selatan",
     "districtCode": "9105144",
     "village": "Wasai",
-    "villageCode": "",
+    "villageCode": "9105144016",
     "postalCode": "98315"
   },
   {
@@ -2814,7 +2814,7 @@ export const PAPUA_BARAT: PostalCodeData[] = [
     "district": "Manokwari Selatan",
     "districtCode": "9105144",
     "village": "Ngunimbouw",
-    "villageCode": "",
+    "villageCode": "9105144024",
     "postalCode": "98315"
   },
   {
@@ -2836,7 +2836,7 @@ export const PAPUA_BARAT: PostalCodeData[] = [
     "district": "Manokwari Selatan",
     "districtCode": "9105144",
     "village": "Warswami",
-    "villageCode": "",
+    "villageCode": "9105144002",
     "postalCode": "98315"
   },
   {
@@ -2858,7 +2858,7 @@ export const PAPUA_BARAT: PostalCodeData[] = [
     "district": "Manokwari Selatan",
     "districtCode": "9105144",
     "village": "Dobut",
-    "villageCode": "",
+    "villageCode": "9105144022",
     "postalCode": "98315"
   },
   {
@@ -2869,7 +2869,7 @@ export const PAPUA_BARAT: PostalCodeData[] = [
     "district": "Manokwari Selatan",
     "districtCode": "9105144",
     "village": "Warmomi",
-    "villageCode": "",
+    "villageCode": "9105144017",
     "postalCode": "98315"
   },
   {
@@ -2880,7 +2880,7 @@ export const PAPUA_BARAT: PostalCodeData[] = [
     "district": "Manokwari Selatan",
     "districtCode": "9105144",
     "village": "Waluri",
-    "villageCode": "",
+    "villageCode": "9105144015",
     "postalCode": "98315"
   },
   {
@@ -2891,7 +2891,7 @@ export const PAPUA_BARAT: PostalCodeData[] = [
     "district": "Manokwari Selatan",
     "districtCode": "9105144",
     "village": "Anggresi",
-    "villageCode": "",
+    "villageCode": "9105144007",
     "postalCode": "98315"
   },
   {
@@ -2957,7 +2957,7 @@ export const PAPUA_BARAT: PostalCodeData[] = [
     "district": "Oransbari",
     "districtCode": "9111060",
     "village": "Margo Rukun",
-    "villageCode": "",
+    "villageCode": "9111060005",
     "postalCode": "98353"
   },
   {
@@ -2968,7 +2968,7 @@ export const PAPUA_BARAT: PostalCodeData[] = [
     "district": "Oransbari",
     "districtCode": "9111060",
     "village": "Masabui II",
-    "villageCode": "",
+    "villageCode": "9111060013",
     "postalCode": "98353"
   },
   {
@@ -3067,7 +3067,7 @@ export const PAPUA_BARAT: PostalCodeData[] = [
     "district": "Ransiki",
     "districtCode": "9111050",
     "village": "Yamboi",
-    "villageCode": "",
+    "villageCode": "9111050011",
     "postalCode": "98355"
   },
   {
@@ -3100,7 +3100,7 @@ export const PAPUA_BARAT: PostalCodeData[] = [
     "district": "Ransiki",
     "districtCode": "9111050",
     "village": "Ransiki",
-    "villageCode": "",
+    "villageCode": "9111050004",
     "postalCode": "98355"
   },
   {
@@ -3144,7 +3144,7 @@ export const PAPUA_BARAT: PostalCodeData[] = [
     "district": "Ransiki",
     "districtCode": "9111050",
     "village": "Tobou",
-    "villageCode": "",
+    "villageCode": "9111050005",
     "postalCode": "98355"
   },
   {
@@ -3155,7 +3155,7 @@ export const PAPUA_BARAT: PostalCodeData[] = [
     "district": "Ransiki",
     "districtCode": "9111050",
     "village": "Abreso",
-    "villageCode": "",
+    "villageCode": "9111050003",
     "postalCode": "98355"
   },
   {
@@ -3166,7 +3166,7 @@ export const PAPUA_BARAT: PostalCodeData[] = [
     "district": "Ransiki",
     "districtCode": "9111050",
     "village": "Nuhuwei",
-    "villageCode": "",
+    "villageCode": "9111050012",
     "postalCode": "98355"
   },
   {
@@ -3177,7 +3177,7 @@ export const PAPUA_BARAT: PostalCodeData[] = [
     "district": "Ransiki",
     "districtCode": "9111050",
     "village": "Wamcei",
-    "villageCode": "",
+    "villageCode": "9111050009",
     "postalCode": "98355"
   },
   {
@@ -3320,7 +3320,7 @@ export const PAPUA_BARAT: PostalCodeData[] = [
     "district": "Dataran Isim",
     "districtCode": "9111020",
     "village": "Umohousi",
-    "villageCode": "",
+    "villageCode": "9111020004",
     "postalCode": "98386"
   },
   {
@@ -3331,7 +3331,7 @@ export const PAPUA_BARAT: PostalCodeData[] = [
     "district": "Dataran Isim",
     "districtCode": "9111020",
     "village": "Tohosta",
-    "villageCode": "",
+    "villageCode": "9111020008",
     "postalCode": "98386"
   },
   {
@@ -3419,7 +3419,7 @@ export const PAPUA_BARAT: PostalCodeData[] = [
     "district": "Dataran Isim",
     "districtCode": "9111020",
     "village": "Hugomot",
-    "villageCode": "",
+    "villageCode": "9111020006",
     "postalCode": "98386"
   },
   {
@@ -3441,7 +3441,7 @@ export const PAPUA_BARAT: PostalCodeData[] = [
     "district": "Dataran Isim",
     "districtCode": "9111020",
     "village": "Tubes",
-    "villageCode": "",
+    "villageCode": "9111020002",
     "postalCode": "98386"
   },
   {
@@ -3573,7 +3573,7 @@ export const PAPUA_BARAT: PostalCodeData[] = [
     "district": "Momi Waren",
     "districtCode": "9111040",
     "village": "Dembek",
-    "villageCode": "",
+    "villageCode": "9111040007",
     "postalCode": "98388"
   },
   {
@@ -3584,7 +3584,7 @@ export const PAPUA_BARAT: PostalCodeData[] = [
     "district": "Momi Waren",
     "districtCode": "9111040",
     "village": "Nij",
-    "villageCode": "",
+    "villageCode": "9111040003",
     "postalCode": "98388"
   },
   {
@@ -5674,7 +5674,7 @@ export const PAPUA_BARAT: PostalCodeData[] = [
     "district": "Kaimana",
     "districtCode": "9102030",
     "village": "Krooy",
-    "villageCode": "",
+    "villageCode": "9102030011",
     "postalCode": "98671"
   },
   {
@@ -5740,7 +5740,7 @@ export const PAPUA_BARAT: PostalCodeData[] = [
     "district": "Kaimana",
     "districtCode": "9102030",
     "village": "Coa",
-    "villageCode": "",
+    "villageCode": "9102030013",
     "postalCode": "98671"
   },
   {
@@ -5773,7 +5773,7 @@ export const PAPUA_BARAT: PostalCodeData[] = [
     "district": "Kambrau",
     "districtCode": "9102031",
     "village": "Kooy",
-    "villageCode": "",
+    "villageCode": "9102031001",
     "postalCode": "98672"
   },
   {
@@ -5795,7 +5795,7 @@ export const PAPUA_BARAT: PostalCodeData[] = [
     "district": "Kambrau",
     "districtCode": "9102031",
     "village": "Ubia Sermuku",
-    "villageCode": "",
+    "villageCode": "9102031005",
     "postalCode": "98672"
   },
   {
@@ -6081,7 +6081,7 @@ export const PAPUA_BARAT: PostalCodeData[] = [
     "district": "Teluk Arguni Bawah",
     "districtCode": "9102021",
     "village": "Wermenu",
-    "villageCode": "",
+    "villageCode": "9102021008",
     "postalCode": "98674"
   },
   {
@@ -6103,7 +6103,7 @@ export const PAPUA_BARAT: PostalCodeData[] = [
     "district": "Teluk Arguni Bawah",
     "districtCode": "9102021",
     "village": "Sumun",
-    "villageCode": "",
+    "villageCode": "9102021013",
     "postalCode": "98674"
   },
   {
@@ -6125,7 +6125,7 @@ export const PAPUA_BARAT: PostalCodeData[] = [
     "district": "Teluk Arguni Bawah",
     "districtCode": "9102021",
     "village": "Kufuriyai",
-    "villageCode": "",
+    "villageCode": "9102021006",
     "postalCode": "98674"
   },
   {
@@ -6136,7 +6136,7 @@ export const PAPUA_BARAT: PostalCodeData[] = [
     "district": "Teluk Arguni Bawah",
     "districtCode": "9102021",
     "village": "Inari",
-    "villageCode": "",
+    "villageCode": "9102021002",
     "postalCode": "98674"
   },
   {
@@ -6180,7 +6180,7 @@ export const PAPUA_BARAT: PostalCodeData[] = [
     "district": "Teluk Arguni Bawah",
     "districtCode": "9102021",
     "village": "Egerwara",
-    "villageCode": "",
+    "villageCode": "9102021009",
     "postalCode": "98674"
   },
   {
@@ -6191,7 +6191,7 @@ export const PAPUA_BARAT: PostalCodeData[] = [
     "district": "Teluk Arguni Bawah",
     "districtCode": "9102021",
     "village": "Urisa",
-    "villageCode": "",
+    "villageCode": "9102021003",
     "postalCode": "98674"
   },
   {
@@ -6279,7 +6279,7 @@ export const PAPUA_BARAT: PostalCodeData[] = [
     "district": "Buruway",
     "districtCode": "9102010",
     "village": "Edor",
-    "villageCode": "",
+    "villageCode": "9102010010",
     "postalCode": "98676"
   },
   {
@@ -6301,7 +6301,7 @@ export const PAPUA_BARAT: PostalCodeData[] = [
     "district": "Buruway",
     "districtCode": "9102010",
     "village": "Hia",
-    "villageCode": "",
+    "villageCode": "9102010005",
     "postalCode": "98676"
   },
   {
@@ -6323,7 +6323,7 @@ export const PAPUA_BARAT: PostalCodeData[] = [
     "district": "Buruway",
     "districtCode": "9102010",
     "village": "Tairi",
-    "villageCode": "",
+    "villageCode": "9102010006",
     "postalCode": "98676"
   },
   {
@@ -6345,7 +6345,7 @@ export const PAPUA_BARAT: PostalCodeData[] = [
     "district": "Buruway",
     "districtCode": "9102010",
     "village": "Gaka",
-    "villageCode": "",
+    "villageCode": "9102010008",
     "postalCode": "98676"
   },
   {
@@ -6466,7 +6466,7 @@ export const PAPUA_BARAT: PostalCodeData[] = [
     "district": "Rumberpon",
     "districtCode": "9103070",
     "village": "Isenebuay",
-    "villageCode": "",
+    "villageCode": "9103070002",
     "postalCode": "98585"
   },
   {
@@ -6906,7 +6906,7 @@ export const PAPUA_BARAT: PostalCodeData[] = [
     "district": "Naikere",
     "districtCode": "9103010",
     "village": "Oyaa",
-    "villageCode": "",
+    "villageCode": "9103010003",
     "postalCode": "98595"
   },
   {
@@ -7104,7 +7104,7 @@ export const PAPUA_BARAT: PostalCodeData[] = [
     "district": "Manimeri",
     "districtCode": "9104051",
     "village": "Waraitama",
-    "villageCode": "",
+    "villageCode": "9104051003",
     "postalCode": "98552"
   },
   {
@@ -7115,7 +7115,7 @@ export const PAPUA_BARAT: PostalCodeData[] = [
     "district": "Manimeri",
     "districtCode": "9104051",
     "village": "Bumi Saniari",
-    "villageCode": "",
+    "villageCode": "9104051001",
     "postalCode": "98552"
   },
   {
@@ -7126,7 +7126,7 @@ export const PAPUA_BARAT: PostalCodeData[] = [
     "district": "Manimeri",
     "districtCode": "9104051",
     "village": "Korano Jaya",
-    "villageCode": "",
+    "villageCode": "9104051006",
     "postalCode": "98552"
   },
   {
@@ -7170,7 +7170,7 @@ export const PAPUA_BARAT: PostalCodeData[] = [
     "district": "Dataran Beimes",
     "districtCode": "9104053",
     "village": "Huss",
-    "villageCode": "",
+    "villageCode": "9104053005",
     "postalCode": "98553"
   },
   {
@@ -7445,7 +7445,7 @@ export const PAPUA_BARAT: PostalCodeData[] = [
     "district": "Kamundan",
     "districtCode": "9104071",
     "village": "Kalitami I",
-    "villageCode": "",
+    "villageCode": "9104071001",
     "postalCode": "98559"
   },
   {
@@ -7456,7 +7456,7 @@ export const PAPUA_BARAT: PostalCodeData[] = [
     "district": "Merdey",
     "districtCode": "9104090",
     "village": "Mogromus",
-    "villageCode": "",
+    "villageCode": "9104090019",
     "postalCode": "98561"
   },
   {
@@ -7467,7 +7467,7 @@ export const PAPUA_BARAT: PostalCodeData[] = [
     "district": "Merdey",
     "districtCode": "9104090",
     "village": "Meryeb",
-    "villageCode": "",
+    "villageCode": "9104090008",
     "postalCode": "98561"
   },
   {
@@ -7489,7 +7489,7 @@ export const PAPUA_BARAT: PostalCodeData[] = [
     "district": "Merdey",
     "districtCode": "9104090",
     "village": "Merdey",
-    "villageCode": "",
+    "villageCode": "9104090009",
     "postalCode": "98561"
   },
   {
@@ -7621,7 +7621,7 @@ export const PAPUA_BARAT: PostalCodeData[] = [
     "district": "Biscoop",
     "districtCode": "9104091",
     "village": "Menyembru",
-    "villageCode": "",
+    "villageCode": "9104091003",
     "postalCode": "98562"
   },
   {
@@ -7731,7 +7731,7 @@ export const PAPUA_BARAT: PostalCodeData[] = [
     "district": "Babo",
     "districtCode": "9104020",
     "village": "Irarutu III",
-    "villageCode": "",
+    "villageCode": "9104020009",
     "postalCode": "98571"
   },
   {
@@ -7797,7 +7797,7 @@ export const PAPUA_BARAT: PostalCodeData[] = [
     "district": "Fafurwar",
     "districtCode": "9104010",
     "village": "Fruata/Irowutu II",
-    "villageCode": "",
+    "villageCode": "9104010001",
     "postalCode": "98574"
   },
   {
@@ -7852,7 +7852,7 @@ export const PAPUA_BARAT: PostalCodeData[] = [
     "district": "Kaitaro",
     "districtCode": "9104023",
     "village": "Warga Nusa I",
-    "villageCode": "",
+    "villageCode": "9104023003",
     "postalCode": "98575"
   },
   {
@@ -7874,7 +7874,7 @@ export const PAPUA_BARAT: PostalCodeData[] = [
     "district": "Kaitaro",
     "districtCode": "9104023",
     "village": "Suga",
-    "villageCode": "",
+    "villageCode": "9104023005",
     "postalCode": "98575"
   },
   {
@@ -7918,7 +7918,7 @@ export const PAPUA_BARAT: PostalCodeData[] = [
     "district": "Kuri",
     "districtCode": "9104030",
     "village": "Sarbe",
-    "villageCode": "",
+    "villageCode": "9104030001",
     "postalCode": "98576"
   },
   {
@@ -7929,7 +7929,7 @@ export const PAPUA_BARAT: PostalCodeData[] = [
     "district": "Kuri",
     "districtCode": "9104030",
     "village": "Naramasa",
-    "villageCode": "",
+    "villageCode": "9104030002",
     "postalCode": "98576"
   },
   {
@@ -8050,7 +8050,7 @@ export const PAPUA_BARAT: PostalCodeData[] = [
     "district": "Manokwari Timur",
     "districtCode": "9105142",
     "village": "Susweni",
-    "villageCode": "",
+    "villageCode": "9105142006",
     "postalCode": "98313"
   },
   {
@@ -8138,7 +8138,7 @@ export const PAPUA_BARAT: PostalCodeData[] = [
     "district": "Manokwari Utara",
     "districtCode": "9105143",
     "village": "Asai",
-    "villageCode": "",
+    "villageCode": "9105143012",
     "postalCode": "98316"
   },
   {
@@ -8149,7 +8149,7 @@ export const PAPUA_BARAT: PostalCodeData[] = [
     "district": "Manokwari Utara",
     "districtCode": "9105143",
     "village": "Tanah Rubuh",
-    "villageCode": "",
+    "villageCode": "9105143011",
     "postalCode": "98316"
   },
   {
@@ -8171,7 +8171,7 @@ export const PAPUA_BARAT: PostalCodeData[] = [
     "district": "Manokwari Utara",
     "districtCode": "9105143",
     "village": "Sairo",
-    "villageCode": "",
+    "villageCode": "9105143004",
     "postalCode": "98316"
   },
   {
@@ -8259,7 +8259,7 @@ export const PAPUA_BARAT: PostalCodeData[] = [
     "district": "Manokwari Utara",
     "districtCode": "9105143",
     "village": "Indou Oufa",
-    "villageCode": "",
+    "villageCode": "9105143025",
     "postalCode": "98316"
   },
   {
@@ -8325,7 +8325,7 @@ export const PAPUA_BARAT: PostalCodeData[] = [
     "district": "Manokwari Utara",
     "districtCode": "9105143",
     "village": "Meyunfoka",
-    "villageCode": "",
+    "villageCode": "9105143007",
     "postalCode": "98316"
   },
   {
@@ -8677,7 +8677,7 @@ export const PAPUA_BARAT: PostalCodeData[] = [
     "district": "Warmare",
     "districtCode": "9105110",
     "village": "Indonbey",
-    "villageCode": "",
+    "villageCode": "9105110021",
     "postalCode": "98352"
   },
   {
@@ -8754,7 +8754,7 @@ export const PAPUA_BARAT: PostalCodeData[] = [
     "district": "Warmare",
     "districtCode": "9105110",
     "village": "Guentuy",
-    "villageCode": "",
+    "villageCode": "9105110016",
     "postalCode": "98352"
   },
   {
@@ -8765,7 +8765,7 @@ export const PAPUA_BARAT: PostalCodeData[] = [
     "district": "Warmare",
     "districtCode": "9105110",
     "village": "Duwin",
-    "villageCode": "",
+    "villageCode": "9105110015",
     "postalCode": "98352"
   },
   {
@@ -8776,7 +8776,7 @@ export const PAPUA_BARAT: PostalCodeData[] = [
     "district": "Warmare",
     "districtCode": "9105110",
     "village": "Umcen",
-    "villageCode": "",
+    "villageCode": "9105110007",
     "postalCode": "98352"
   },
   {
@@ -8875,7 +8875,7 @@ export const PAPUA_BARAT: PostalCodeData[] = [
     "district": "Warmare",
     "districtCode": "9105110",
     "village": "Sotea",
-    "villageCode": "",
+    "villageCode": "9105110014",
     "postalCode": "98352"
   },
   {
@@ -8897,7 +8897,7 @@ export const PAPUA_BARAT: PostalCodeData[] = [
     "district": "Warmare",
     "districtCode": "9105110",
     "village": "Meny",
-    "villageCode": "",
+    "villageCode": "9105110004",
     "postalCode": "98352"
   },
   {
@@ -8941,7 +8941,7 @@ export const PAPUA_BARAT: PostalCodeData[] = [
     "district": "Warmare",
     "districtCode": "9105110",
     "village": "Iboisrati",
-    "villageCode": "",
+    "villageCode": "9105110017",
     "postalCode": "98352"
   },
   {
@@ -8985,7 +8985,7 @@ export const PAPUA_BARAT: PostalCodeData[] = [
     "district": "Prafi",
     "districtCode": "9105120",
     "village": "Prafi Mulya",
-    "villageCode": "",
+    "villageCode": "9105120006",
     "postalCode": "98356"
   },
   {
@@ -9007,7 +9007,7 @@ export const PAPUA_BARAT: PostalCodeData[] = [
     "district": "Prafi",
     "districtCode": "9105120",
     "village": "Mebji",
-    "villageCode": "",
+    "villageCode": "9105120017",
     "postalCode": "98356"
   },
   {
@@ -9051,7 +9051,7 @@ export const PAPUA_BARAT: PostalCodeData[] = [
     "district": "Prafi",
     "districtCode": "9105120",
     "village": "Umbuy",
-    "villageCode": "",
+    "villageCode": "9105120006",
     "postalCode": "98356"
   },
   {
@@ -9128,7 +9128,7 @@ export const PAPUA_BARAT: PostalCodeData[] = [
     "district": "Prafi",
     "districtCode": "9105120",
     "village": "Uhyehebrig",
-    "villageCode": "",
+    "villageCode": "9105120006",
     "postalCode": "98356"
   },
   {
@@ -9282,7 +9282,7 @@ export const PAPUA_BARAT: PostalCodeData[] = [
     "district": "Masni",
     "districtCode": "9105170",
     "village": "Yonsoribo",
-    "villageCode": "",
+    "villageCode": "9105170044",
     "postalCode": "98357"
   },
   {
@@ -9337,7 +9337,7 @@ export const PAPUA_BARAT: PostalCodeData[] = [
     "district": "Masni",
     "districtCode": "9105170",
     "village": "Yensum",
-    "villageCode": "",
+    "villageCode": "9105170025",
     "postalCode": "98357"
   },
   {
@@ -9403,7 +9403,7 @@ export const PAPUA_BARAT: PostalCodeData[] = [
     "district": "Masni",
     "districtCode": "9105170",
     "village": "Mansaburi",
-    "villageCode": "",
+    "villageCode": "9105170023",
     "postalCode": "98357"
   },
   {
@@ -9491,7 +9491,7 @@ export const PAPUA_BARAT: PostalCodeData[] = [
     "district": "Sidey",
     "districtCode": "9105171",
     "village": "Womnowi",
-    "villageCode": "",
+    "villageCode": "9105171009",
     "postalCode": "98376"
   },
   {
@@ -9535,7 +9535,7 @@ export const PAPUA_BARAT: PostalCodeData[] = [
     "district": "Sidey",
     "districtCode": "9105171",
     "village": "Kassi",
-    "villageCode": "",
+    "villageCode": "9105171006",
     "postalCode": "98376"
   },
   {
@@ -17114,7 +17114,7 @@ export const PAPUA_BARAT: PostalCodeData[] = [
     "district": "Anggi",
     "districtCode": "9112050",
     "village": "Hungku",
-    "villageCode": "",
+    "villageCode": "9112050005",
     "postalCode": "98354"
   },
   {
@@ -17147,7 +17147,7 @@ export const PAPUA_BARAT: PostalCodeData[] = [
     "district": "Anggi",
     "districtCode": "9112050",
     "village": "Mentubey",
-    "villageCode": "",
+    "villageCode": "9112050011",
     "postalCode": "98354"
   },
   {
@@ -17158,7 +17158,7 @@ export const PAPUA_BARAT: PostalCodeData[] = [
     "district": "Anggi",
     "districtCode": "9112050",
     "village": "Uper",
-    "villageCode": "",
+    "villageCode": "9112050009",
     "postalCode": "98354"
   },
   {
@@ -17202,7 +17202,7 @@ export const PAPUA_BARAT: PostalCodeData[] = [
     "district": "Anggi",
     "districtCode": "9112050",
     "village": "Igembai",
-    "villageCode": "",
+    "villageCode": "9112050007",
     "postalCode": "98354"
   },
   {
@@ -17213,7 +17213,7 @@ export const PAPUA_BARAT: PostalCodeData[] = [
     "district": "Anggi",
     "districtCode": "9112050",
     "village": "Ullong",
-    "villageCode": "",
+    "villageCode": "9112050013",
     "postalCode": "98354"
   },
   {
@@ -17235,7 +17235,7 @@ export const PAPUA_BARAT: PostalCodeData[] = [
     "district": "Anggi",
     "districtCode": "9112050",
     "village": "Srubey",
-    "villageCode": "",
+    "villageCode": "9112050012",
     "postalCode": "98354"
   },
   {
@@ -17664,7 +17664,7 @@ export const PAPUA_BARAT: PostalCodeData[] = [
     "district": "Hingk",
     "districtCode": "9112070",
     "village": "Minyeimemud",
-    "villageCode": "",
+    "villageCode": "9112070010",
     "postalCode": "98359"
   },
   {
@@ -17686,7 +17686,7 @@ export const PAPUA_BARAT: PostalCodeData[] = [
     "district": "Hingk",
     "districtCode": "9112070",
     "village": "Tingwoikiou",
-    "villageCode": "",
+    "villageCode": "9112070015",
     "postalCode": "98359"
   },
   {
@@ -17697,7 +17697,7 @@ export const PAPUA_BARAT: PostalCodeData[] = [
     "district": "Hingk",
     "districtCode": "9112070",
     "village": "Humeisi",
-    "villageCode": "",
+    "villageCode": "9112070018",
     "postalCode": "98359"
   },
   {
@@ -17708,7 +17708,7 @@ export const PAPUA_BARAT: PostalCodeData[] = [
     "district": "Hingk",
     "districtCode": "9112070",
     "village": "Tigaucomti",
-    "villageCode": "",
+    "villageCode": "9112070027",
     "postalCode": "98359"
   },
   {
@@ -17730,7 +17730,7 @@ export const PAPUA_BARAT: PostalCodeData[] = [
     "district": "Hingk",
     "districtCode": "9112070",
     "village": "Mbrande",
-    "villageCode": "",
+    "villageCode": "9112070016",
     "postalCode": "98359"
   },
   {
@@ -17741,7 +17741,7 @@ export const PAPUA_BARAT: PostalCodeData[] = [
     "district": "Hingk",
     "districtCode": "9112070",
     "village": "Kwok Dua",
-    "villageCode": "",
+    "villageCode": "9112070026",
     "postalCode": "98359"
   },
   {
@@ -17752,7 +17752,7 @@ export const PAPUA_BARAT: PostalCodeData[] = [
     "district": "Hingk",
     "districtCode": "9112070",
     "village": "Manggot",
-    "villageCode": "",
+    "villageCode": "9112070001",
     "postalCode": "98359"
   },
   {
@@ -17774,7 +17774,7 @@ export const PAPUA_BARAT: PostalCodeData[] = [
     "district": "Hingk",
     "districtCode": "9112070",
     "village": "Haktiebou",
-    "villageCode": "",
+    "villageCode": "9112070022",
     "postalCode": "98359"
   },
   {
@@ -17785,7 +17785,7 @@ export const PAPUA_BARAT: PostalCodeData[] = [
     "district": "Hingk",
     "districtCode": "9112070",
     "village": "Ngimoubri",
-    "villageCode": "",
+    "villageCode": "9112070006",
     "postalCode": "98359"
   },
   {
@@ -17818,7 +17818,7 @@ export const PAPUA_BARAT: PostalCodeData[] = [
     "district": "Hingk",
     "districtCode": "9112070",
     "village": "Gueipimbai",
-    "villageCode": "",
+    "villageCode": "9112070028",
     "postalCode": "98359"
   },
   {
@@ -17862,7 +17862,7 @@ export const PAPUA_BARAT: PostalCodeData[] = [
     "district": "Hingk",
     "districtCode": "9112070",
     "village": "Liehak",
-    "villageCode": "",
+    "villageCode": "9112070008",
     "postalCode": "98359"
   },
   {
@@ -17873,7 +17873,7 @@ export const PAPUA_BARAT: PostalCodeData[] = [
     "district": "Hingk",
     "districtCode": "9112070",
     "village": "Umcep",
-    "villageCode": "",
+    "villageCode": "9112070013",
     "postalCode": "98359"
   },
   {
@@ -17895,7 +17895,7 @@ export const PAPUA_BARAT: PostalCodeData[] = [
     "district": "Hingk",
     "districtCode": "9112070",
     "village": "Ikimabou",
-    "villageCode": "",
+    "villageCode": "9112070020",
     "postalCode": "98359"
   },
   {
@@ -17917,7 +17917,7 @@ export const PAPUA_BARAT: PostalCodeData[] = [
     "district": "Hingk",
     "districtCode": "9112070",
     "village": "Kwok Satu",
-    "villageCode": "",
+    "villageCode": "9112070025",
     "postalCode": "98359"
   },
   {
@@ -17928,7 +17928,7 @@ export const PAPUA_BARAT: PostalCodeData[] = [
     "district": "Hingk",
     "districtCode": "9112070",
     "village": "Guwei Uti",
-    "villageCode": "",
+    "villageCode": "9112070017",
     "postalCode": "98359"
   },
   {
@@ -17950,7 +17950,7 @@ export const PAPUA_BARAT: PostalCodeData[] = [
     "district": "Hingk",
     "districtCode": "9112070",
     "village": "Aryon",
-    "villageCode": "",
+    "villageCode": "9112070023",
     "postalCode": "98359"
   },
   {
@@ -17983,7 +17983,7 @@ export const PAPUA_BARAT: PostalCodeData[] = [
     "district": "Testega",
     "districtCode": "9112100",
     "village": "Jigja",
-    "villageCode": "",
+    "villageCode": "9112100009",
     "postalCode": "98377"
   },
   {
@@ -18027,7 +18027,7 @@ export const PAPUA_BARAT: PostalCodeData[] = [
     "district": "Testega",
     "districtCode": "9112100",
     "village": "Meifowoska",
-    "villageCode": "",
+    "villageCode": "9112100011",
     "postalCode": "98377"
   },
   {
@@ -18038,7 +18038,7 @@ export const PAPUA_BARAT: PostalCodeData[] = [
     "district": "Testega",
     "districtCode": "9112100",
     "village": "Meifokeda",
-    "villageCode": "",
+    "villageCode": "9112100005",
     "postalCode": "98377"
   },
   {
@@ -18060,7 +18060,7 @@ export const PAPUA_BARAT: PostalCodeData[] = [
     "district": "Testega",
     "districtCode": "9112100",
     "village": "Asai Dua",
-    "villageCode": "",
+    "villageCode": "9112100007",
     "postalCode": "98377"
   },
   {
@@ -18093,7 +18093,7 @@ export const PAPUA_BARAT: PostalCodeData[] = [
     "district": "Testega",
     "districtCode": "9112100",
     "village": "Meijugjijigja",
-    "villageCode": "",
+    "villageCode": "9112100009",
     "postalCode": "98377"
   },
   {
@@ -18104,7 +18104,7 @@ export const PAPUA_BARAT: PostalCodeData[] = [
     "district": "Testega",
     "districtCode": "9112100",
     "village": "Meimersa",
-    "villageCode": "",
+    "villageCode": "9112100013",
     "postalCode": "98377"
   },
   {
@@ -18126,7 +18126,7 @@ export const PAPUA_BARAT: PostalCodeData[] = [
     "district": "Testega",
     "districtCode": "9112100",
     "village": "Dumbrey",
-    "villageCode": "",
+    "villageCode": "9112100008",
     "postalCode": "98377"
   },
   {
@@ -18148,7 +18148,7 @@ export const PAPUA_BARAT: PostalCodeData[] = [
     "district": "Catubouw",
     "districtCode": "9112090",
     "village": "Bigwaimud",
-    "villageCode": "",
+    "villageCode": "9112090005",
     "postalCode": "98378"
   },
   {
@@ -18159,7 +18159,7 @@ export const PAPUA_BARAT: PostalCodeData[] = [
     "district": "Catubouw",
     "districtCode": "9112090",
     "village": "Coijut",
-    "villageCode": "",
+    "villageCode": "9112090004",
     "postalCode": "98378"
   },
   {
@@ -18170,7 +18170,7 @@ export const PAPUA_BARAT: PostalCodeData[] = [
     "district": "Catubouw",
     "districtCode": "9112090",
     "village": "Mihou",
-    "villageCode": "",
+    "villageCode": "9112090009",
     "postalCode": "98378"
   },
   {
@@ -18181,7 +18181,7 @@ export const PAPUA_BARAT: PostalCodeData[] = [
     "district": "Catubouw",
     "districtCode": "9112090",
     "village": "Binggrayud",
-    "villageCode": "",
+    "villageCode": "9112090013",
     "postalCode": "98378"
   },
   {
@@ -18214,7 +18214,7 @@ export const PAPUA_BARAT: PostalCodeData[] = [
     "district": "Catubouw",
     "districtCode": "9112090",
     "village": "Ndabouw",
-    "villageCode": "",
+    "villageCode": "9112090017",
     "postalCode": "98378"
   },
   {
@@ -18236,7 +18236,7 @@ export const PAPUA_BARAT: PostalCodeData[] = [
     "district": "Catubouw",
     "districtCode": "9112090",
     "village": "Timtouw",
-    "villageCode": "",
+    "villageCode": "9112090008",
     "postalCode": "98378"
   },
   {
@@ -18258,7 +18258,7 @@ export const PAPUA_BARAT: PostalCodeData[] = [
     "district": "Catubouw",
     "districtCode": "9112090",
     "village": "Sugemeh",
-    "villageCode": "",
+    "villageCode": "9112090019",
     "postalCode": "98378"
   },
   {
@@ -18280,7 +18280,7 @@ export const PAPUA_BARAT: PostalCodeData[] = [
     "district": "Catubouw",
     "districtCode": "9112090",
     "village": "Catubouw",
-    "villageCode": "",
+    "villageCode": "9112090010",
     "postalCode": "98378"
   },
   {
@@ -18302,7 +18302,7 @@ export const PAPUA_BARAT: PostalCodeData[] = [
     "district": "Catubouw",
     "districtCode": "9112090",
     "village": "Ijigreg",
-    "villageCode": "",
+    "villageCode": "9112090007",
     "postalCode": "98378"
   },
   {
@@ -18324,7 +18324,7 @@ export const PAPUA_BARAT: PostalCodeData[] = [
     "district": "Catubouw",
     "districtCode": "9112090",
     "village": "Mieycomti",
-    "villageCode": "",
+    "villageCode": "9112090003",
     "postalCode": "98378"
   },
   {
@@ -18357,7 +18357,7 @@ export const PAPUA_BARAT: PostalCodeData[] = [
     "district": "Catubouw",
     "districtCode": "9112090",
     "village": "Mihij",
-    "villageCode": "",
+    "villageCode": "9112090015",
     "postalCode": "98378"
   },
   {
@@ -18368,7 +18368,7 @@ export const PAPUA_BARAT: PostalCodeData[] = [
     "district": "Didohu",
     "districtCode": "9112010",
     "village": "Sirgemeh",
-    "villageCode": "",
+    "villageCode": "9112010007",
     "postalCode": "98381"
   },
   {
@@ -18456,7 +18456,7 @@ export const PAPUA_BARAT: PostalCodeData[] = [
     "district": "Didohu",
     "districtCode": "9112010",
     "village": "Sneremer",
-    "villageCode": "",
+    "villageCode": "9112010002",
     "postalCode": "98381"
   },
   {
@@ -18489,7 +18489,7 @@ export const PAPUA_BARAT: PostalCodeData[] = [
     "district": "Didohu",
     "districtCode": "9112010",
     "village": "Demdamei",
-    "villageCode": "",
+    "villageCode": "9112010008",
     "postalCode": "98381"
   },
   {
@@ -18511,7 +18511,7 @@ export const PAPUA_BARAT: PostalCodeData[] = [
     "district": "Didohu",
     "districtCode": "9112010",
     "village": "Tomstir",
-    "villageCode": "",
+    "villageCode": "9112010013",
     "postalCode": "98381"
   },
   {
@@ -18522,7 +18522,7 @@ export const PAPUA_BARAT: PostalCodeData[] = [
     "district": "Taige",
     "districtCode": "9112060",
     "village": "Siskedowo",
-    "villageCode": "",
+    "villageCode": "9112060002",
     "postalCode": "98382"
   },
   {
@@ -18544,7 +18544,7 @@ export const PAPUA_BARAT: PostalCodeData[] = [
     "district": "Taige",
     "districtCode": "9112060",
     "village": "Deurohu",
-    "villageCode": "",
+    "villageCode": "9112060005",
     "postalCode": "98382"
   },
   {
@@ -18577,7 +18577,7 @@ export const PAPUA_BARAT: PostalCodeData[] = [
     "district": "Taige",
     "districtCode": "9112060",
     "village": "Awigau",
-    "villageCode": "",
+    "villageCode": "9112060010",
     "postalCode": "98382"
   },
   {
@@ -18588,7 +18588,7 @@ export const PAPUA_BARAT: PostalCodeData[] = [
     "district": "Taige",
     "districtCode": "9112060",
     "village": "Genyu",
-    "villageCode": "",
+    "villageCode": "9112060008",
     "postalCode": "98382"
   },
   {
@@ -18599,7 +18599,7 @@ export const PAPUA_BARAT: PostalCodeData[] = [
     "district": "Taige",
     "districtCode": "9112060",
     "village": "Ansum",
-    "villageCode": "",
+    "villageCode": "9112060006",
     "postalCode": "98382"
   },
   {
@@ -18665,7 +18665,7 @@ export const PAPUA_BARAT: PostalCodeData[] = [
     "district": "Membey",
     "districtCode": "9112040",
     "village": "Imbeisba",
-    "villageCode": "",
+    "villageCode": "9112040004",
     "postalCode": "98383"
   },
   {
@@ -18676,7 +18676,7 @@ export const PAPUA_BARAT: PostalCodeData[] = [
     "district": "Membey",
     "districtCode": "9112040",
     "village": "Membey",
-    "villageCode": "",
+    "villageCode": "9112040005",
     "postalCode": "98383"
   },
   {
@@ -18687,7 +18687,7 @@ export const PAPUA_BARAT: PostalCodeData[] = [
     "district": "Membey",
     "districtCode": "9112040",
     "village": "Inyebuow",
-    "villageCode": "",
+    "villageCode": "9112040003",
     "postalCode": "98383"
   },
   {
@@ -18709,7 +18709,7 @@ export const PAPUA_BARAT: PostalCodeData[] = [
     "district": "Anggi Gida",
     "districtCode": "9112030",
     "village": "Sisrang",
-    "villageCode": "",
+    "villageCode": "9112030006",
     "postalCode": "98383"
   },
   {
@@ -18720,7 +18720,7 @@ export const PAPUA_BARAT: PostalCodeData[] = [
     "district": "Anggi Gida",
     "districtCode": "9112030",
     "village": "Krobut",
-    "villageCode": "",
+    "villageCode": "9112030007",
     "postalCode": "98384"
   },
   {
@@ -18731,7 +18731,7 @@ export const PAPUA_BARAT: PostalCodeData[] = [
     "district": "Anggi Gida",
     "districtCode": "9112030",
     "village": "Tubyam",
-    "villageCode": "",
+    "villageCode": "9112030002",
     "postalCode": "98384"
   },
   {
@@ -18742,7 +18742,7 @@ export const PAPUA_BARAT: PostalCodeData[] = [
     "district": "Anggi Gida",
     "districtCode": "9112030",
     "village": "Sakumi",
-    "villageCode": "",
+    "villageCode": "9112030008",
     "postalCode": "98384"
   },
   {
@@ -18764,7 +18764,7 @@ export const PAPUA_BARAT: PostalCodeData[] = [
     "district": "Anggi Gida",
     "districtCode": "9112030",
     "village": "Ngisrow",
-    "villageCode": "",
+    "villageCode": "9112030005",
     "postalCode": "98384"
   },
   {
@@ -18797,7 +18797,7 @@ export const PAPUA_BARAT: PostalCodeData[] = [
     "district": "Sururey",
     "districtCode": "9112020",
     "village": "Sururey",
-    "villageCode": "",
+    "villageCode": "9112020006",
     "postalCode": "98385"
   },
   {
@@ -18841,7 +18841,7 @@ export const PAPUA_BARAT: PostalCodeData[] = [
     "district": "Sururey",
     "districtCode": "9112020",
     "village": "Dugahani",
-    "villageCode": "",
+    "villageCode": "9112020002",
     "postalCode": "98385"
   },
   {
