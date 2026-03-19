@@ -9,7 +9,7 @@ export const SULAWESI_BARAT: PostalCodeData[] = [
     "district": "Luyo",
     "districtCode": "7602031",
     "village": "Sambali Wali",
-    "villageCode": "",
+    "villageCode": "7602031001",
     "postalCode": "91357"
   },
   {
@@ -658,7 +658,7 @@ export const SULAWESI_BARAT: PostalCodeData[] = [
     "district": "Mamuju",
     "districtCode": "7604020",
     "village": "Batu Pannu",
-    "villageCode": "",
+    "villageCode": "7604020010",
     "postalCode": "91511"
   },
   {
@@ -790,7 +790,7 @@ export const SULAWESI_BARAT: PostalCodeData[] = [
     "district": "Banggae Timur",
     "districtCode": "7601011",
     "village": "Baruga Dhua",
-    "villageCode": "",
+    "villageCode": "7601011004",
     "postalCode": "91411"
   },
   {
@@ -889,7 +889,7 @@ export const SULAWESI_BARAT: PostalCodeData[] = [
     "district": "Tabulahan",
     "districtCode": "7603100",
     "village": "Peu",
-    "villageCode": "",
+    "villageCode": "7603100015",
     "postalCode": "91372"
   },
   {
@@ -1131,7 +1131,7 @@ export const SULAWESI_BARAT: PostalCodeData[] = [
     "district": "Tabang",
     "districtCode": "7603040",
     "village": "Kalama",
-    "villageCode": "",
+    "villageCode": "7603040006",
     "postalCode": "91364"
   },
   {
@@ -1241,7 +1241,7 @@ export const SULAWESI_BARAT: PostalCodeData[] = [
     "district": "Tobadak",
     "districtCode": "7606030",
     "village": "Saloadak",
-    "villageCode": "",
+    "villageCode": "7606030003",
     "postalCode": "91463"
   },
   {
@@ -1307,7 +1307,7 @@ export const SULAWESI_BARAT: PostalCodeData[] = [
     "district": "Banggae",
     "districtCode": "7601010",
     "village": "Pangali Ali",
-    "villageCode": "",
+    "villageCode": "7601010003",
     "postalCode": "91411"
   },
   {
@@ -1549,7 +1549,7 @@ export const SULAWESI_BARAT: PostalCodeData[] = [
     "district": "Pamboang",
     "districtCode": "7601020",
     "village": "Adolang Dhua",
-    "villageCode": "",
+    "villageCode": "7601020006",
     "postalCode": "91451"
   },
   {
@@ -1637,7 +1637,7 @@ export const SULAWESI_BARAT: PostalCodeData[] = [
     "district": "Pamboang",
     "districtCode": "7601020",
     "village": "Betteng",
-    "villageCode": "",
+    "villageCode": "7601020005",
     "postalCode": "91451"
   },
   {
@@ -1703,7 +1703,7 @@ export const SULAWESI_BARAT: PostalCodeData[] = [
     "district": "Sendana",
     "districtCode": "7601030",
     "village": "Mosso Dhua",
-    "villageCode": "",
+    "villageCode": "7601030002",
     "postalCode": "91452"
   },
   {
@@ -1758,7 +1758,7 @@ export const SULAWESI_BARAT: PostalCodeData[] = [
     "district": "Sendana",
     "districtCode": "7601030",
     "village": "Leppangang",
-    "villageCode": "",
+    "villageCode": "7601030020",
     "postalCode": "91452"
   },
   {
@@ -2066,7 +2066,7 @@ export const SULAWESI_BARAT: PostalCodeData[] = [
     "district": "Tubo Sendana",
     "districtCode": "7601033",
     "village": "Bonde bonde",
-    "villageCode": "",
+    "villageCode": "7601033006",
     "postalCode": "91455"
   },
   {
@@ -2253,7 +2253,7 @@ export const SULAWESI_BARAT: PostalCodeData[] = [
     "district": "Matakali",
     "districtCode": "7602043",
     "village": "Bunga-Bunga",
-    "villageCode": "",
+    "villageCode": "7602043008",
     "postalCode": "91342"
   },
   {
@@ -2308,7 +2308,7 @@ export const SULAWESI_BARAT: PostalCodeData[] = [
     "district": "Tapango",
     "districtCode": "7602042",
     "village": "Bussu",
-    "villageCode": "",
+    "villageCode": "7602042001",
     "postalCode": "91343"
   },
   {
@@ -2429,7 +2429,7 @@ export const SULAWESI_BARAT: PostalCodeData[] = [
     "district": "Matangnga",
     "districtCode": "7602061",
     "village": "Baba Tapua",
-    "villageCode": "",
+    "villageCode": "7602061002",
     "postalCode": "91344"
   },
   {
@@ -2583,7 +2583,7 @@ export const SULAWESI_BARAT: PostalCodeData[] = [
     "district": "Mapilli",
     "districtCode": "7602041",
     "village": "Bonne Bonne",
-    "villageCode": "",
+    "villageCode": "7602041004",
     "postalCode": "91345"
   },
   {
@@ -2594,7 +2594,7 @@ export const SULAWESI_BARAT: PostalCodeData[] = [
     "district": "Mapilli",
     "districtCode": "7602041",
     "village": "Buku",
-    "villageCode": "",
+    "villageCode": "7602041001",
     "postalCode": "91345"
   },
   {
@@ -2880,7 +2880,7 @@ export const SULAWESI_BARAT: PostalCodeData[] = [
     "district": "Wonomulyo",
     "districtCode": "7602040",
     "village": "Galeson",
-    "villageCode": "",
+    "villageCode": "7602040022",
     "postalCode": "91352"
   },
   {
@@ -2968,7 +2968,7 @@ export const SULAWESI_BARAT: PostalCodeData[] = [
     "district": "Campalagian",
     "districtCode": "7602030",
     "village": "Katumbangan Lemo",
-    "villageCode": "",
+    "villageCode": "7602030009",
     "postalCode": "91353"
   },
   {
@@ -2990,7 +2990,7 @@ export const SULAWESI_BARAT: PostalCodeData[] = [
     "district": "Campalagian",
     "districtCode": "7602030",
     "village": "Lagi-Agi",
-    "villageCode": "",
+    "villageCode": "7602030017",
     "postalCode": "91353"
   },
   {
@@ -3078,7 +3078,7 @@ export const SULAWESI_BARAT: PostalCodeData[] = [
     "district": "Campalagian",
     "districtCode": "7602030",
     "village": "Kenje",
-    "villageCode": "",
+    "villageCode": "7602030003",
     "postalCode": "91353"
   },
   {
@@ -3177,7 +3177,7 @@ export const SULAWESI_BARAT: PostalCodeData[] = [
     "district": "Tinambung",
     "districtCode": "7602010",
     "village": "Tangnga Tangnga",
-    "villageCode": "",
+    "villageCode": "7602010003",
     "postalCode": "91354"
   },
   {
@@ -3485,7 +3485,7 @@ export const SULAWESI_BARAT: PostalCodeData[] = [
     "district": "Luyo",
     "districtCode": "7602031",
     "village": "Tenggelang",
-    "villageCode": "",
+    "villageCode": "7602031002",
     "postalCode": "91357"
   },
   {
@@ -3650,7 +3650,7 @@ export const SULAWESI_BARAT: PostalCodeData[] = [
     "district": "Balanipa",
     "districtCode": "7602011",
     "village": "Galung Tuluk",
-    "villageCode": "",
+    "villageCode": "7602011003",
     "postalCode": "91359"
   },
   {
@@ -4200,7 +4200,7 @@ export const SULAWESI_BARAT: PostalCodeData[] = [
     "district": "Sesenapadang",
     "districtCode": "7603070",
     "village": "Lisuan Ada",
-    "villageCode": "",
+    "villageCode": "7603070008",
     "postalCode": "91365"
   },
   {
@@ -4277,7 +4277,7 @@ export const SULAWESI_BARAT: PostalCodeData[] = [
     "district": "Balla",
     "districtCode": "7603061",
     "village": "Balla Tumuka",
-    "villageCode": "",
+    "villageCode": "7603061001",
     "postalCode": "91366"
   },
   {
@@ -4695,7 +4695,7 @@ export const SULAWESI_BARAT: PostalCodeData[] = [
     "district": "Bambang",
     "districtCode": "7603081",
     "village": "Mokallang",
-    "villageCode": "",
+    "villageCode": "7603081008",
     "postalCode": "91371"
   },
   {
@@ -4805,7 +4805,7 @@ export const SULAWESI_BARAT: PostalCodeData[] = [
     "district": "Bambang",
     "districtCode": "7603081",
     "village": "Salukepopok",
-    "villageCode": "",
+    "villageCode": "7603081013",
     "postalCode": "91371"
   },
   {
@@ -5146,7 +5146,7 @@ export const SULAWESI_BARAT: PostalCodeData[] = [
     "district": "Karossa",
     "districtCode": "7606050",
     "village": "Lara",
-    "villageCode": "",
+    "villageCode": "7606050004",
     "postalCode": "91460"
   },
   {
@@ -5168,7 +5168,7 @@ export const SULAWESI_BARAT: PostalCodeData[] = [
     "district": "Karossa",
     "districtCode": "7606050",
     "village": "Salubiro",
-    "villageCode": "",
+    "villageCode": "7606050003",
     "postalCode": "91460"
   },
   {
@@ -5179,7 +5179,7 @@ export const SULAWESI_BARAT: PostalCodeData[] = [
     "district": "Karossa",
     "districtCode": "7606050",
     "village": "Kayu Calla",
-    "villageCode": "",
+    "villageCode": "7606050009",
     "postalCode": "91460"
   },
   {
@@ -5190,7 +5190,7 @@ export const SULAWESI_BARAT: PostalCodeData[] = [
     "district": "Karossa",
     "districtCode": "7606050",
     "village": "Suka Maju",
-    "villageCode": "",
+    "villageCode": "7606050005",
     "postalCode": "91460"
   },
   {
@@ -5300,7 +5300,7 @@ export const SULAWESI_BARAT: PostalCodeData[] = [
     "district": "Budong-Budong",
     "districtCode": "7606020",
     "village": "Lumu",
-    "villageCode": "",
+    "villageCode": "7606020001",
     "postalCode": "91461"
   },
   {
@@ -5311,7 +5311,7 @@ export const SULAWESI_BARAT: PostalCodeData[] = [
     "district": "Budong-Budong",
     "districtCode": "7606020",
     "village": "Kire",
-    "villageCode": "",
+    "villageCode": "7606020006",
     "postalCode": "91461"
   },
   {
@@ -5344,7 +5344,7 @@ export const SULAWESI_BARAT: PostalCodeData[] = [
     "district": "Budong-Budong",
     "districtCode": "7606020",
     "village": "Pasapa",
-    "villageCode": "",
+    "villageCode": "7606020011",
     "postalCode": "91461"
   },
   {
@@ -5388,7 +5388,7 @@ export const SULAWESI_BARAT: PostalCodeData[] = [
     "district": "Pangale",
     "districtCode": "7606010",
     "village": "Kuo",
-    "villageCode": "",
+    "villageCode": "7606010009",
     "postalCode": "91462"
   },
   {
@@ -5399,7 +5399,7 @@ export const SULAWESI_BARAT: PostalCodeData[] = [
     "district": "Pangale",
     "districtCode": "7606010",
     "village": "Polo Camba",
-    "villageCode": "",
+    "villageCode": "7606010007",
     "postalCode": "91462"
   },
   {
@@ -5410,7 +5410,7 @@ export const SULAWESI_BARAT: PostalCodeData[] = [
     "district": "Pangale",
     "districtCode": "7606010",
     "village": "Polo Pangale",
-    "villageCode": "",
+    "villageCode": "7606010001",
     "postalCode": "91462"
   },
   {
@@ -5509,7 +5509,7 @@ export const SULAWESI_BARAT: PostalCodeData[] = [
     "district": "Topoyo",
     "districtCode": "7606040",
     "village": "Kabubu",
-    "villageCode": "",
+    "villageCode": "7606040005",
     "postalCode": "91464"
   },
   {
@@ -5553,7 +5553,7 @@ export const SULAWESI_BARAT: PostalCodeData[] = [
     "district": "Topoyo",
     "districtCode": "7606040",
     "village": "Tumbu",
-    "villageCode": "",
+    "villageCode": "7606040006",
     "postalCode": "91464"
   },
   {
@@ -6092,7 +6092,7 @@ export const SULAWESI_BARAT: PostalCodeData[] = [
     "district": "Kalumpang",
     "districtCode": "7604040",
     "village": "Lasa",
-    "villageCode": "",
+    "villageCode": "7604040013",
     "postalCode": "91560"
   },
   {
@@ -6147,7 +6147,7 @@ export const SULAWESI_BARAT: PostalCodeData[] = [
     "district": "Kalukku",
     "districtCode": "7604030",
     "village": "Keang",
-    "villageCode": "",
+    "villageCode": "7604030003",
     "postalCode": "91561"
   },
   {
@@ -6213,7 +6213,7 @@ export const SULAWESI_BARAT: PostalCodeData[] = [
     "district": "Kalukku",
     "districtCode": "7604030",
     "village": "Belang Belang",
-    "villageCode": "",
+    "villageCode": "7604030008",
     "postalCode": "91561"
   },
   {
@@ -6235,7 +6235,7 @@ export const SULAWESI_BARAT: PostalCodeData[] = [
     "district": "Kalukku",
     "districtCode": "7604030",
     "village": "Beru-Beru",
-    "villageCode": "",
+    "villageCode": "7604030006",
     "postalCode": "91561"
   },
   {
@@ -6312,7 +6312,7 @@ export const SULAWESI_BARAT: PostalCodeData[] = [
     "district": "Bonehau",
     "districtCode": "7604041",
     "village": "Kinatang",
-    "villageCode": "",
+    "villageCode": "7604041011",
     "postalCode": "91562"
   },
   {
@@ -6400,7 +6400,7 @@ export const SULAWESI_BARAT: PostalCodeData[] = [
     "district": "Sampaga",
     "districtCode": "7604032",
     "village": "Bunde",
-    "villageCode": "",
+    "villageCode": "7604032004",
     "postalCode": "91563"
   },
   {
@@ -6433,7 +6433,7 @@ export const SULAWESI_BARAT: PostalCodeData[] = [
     "district": "Tommo",
     "districtCode": "7604033",
     "village": "Tamejarra",
-    "villageCode": "",
+    "villageCode": "7604033006",
     "postalCode": "91564"
   },
   {
@@ -6455,7 +6455,7 @@ export const SULAWESI_BARAT: PostalCodeData[] = [
     "district": "Tommo",
     "districtCode": "7604033",
     "village": "Kakullasang",
-    "villageCode": "",
+    "villageCode": "7604033008",
     "postalCode": "91564"
   },
   {
@@ -6620,7 +6620,7 @@ export const SULAWESI_BARAT: PostalCodeData[] = [
     "district": "Papalang",
     "districtCode": "7604031",
     "village": "Salukayu",
-    "villageCode": "",
+    "villageCode": "7604031004",
     "postalCode": "91565"
   },
   {
@@ -6642,7 +6642,7 @@ export const SULAWESI_BARAT: PostalCodeData[] = [
     "district": "Papalang",
     "districtCode": "7604031",
     "village": "Toabo",
-    "villageCode": "",
+    "villageCode": "7604031005",
     "postalCode": "91565"
   },
   {

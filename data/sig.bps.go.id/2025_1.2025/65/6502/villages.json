@@ -1,0 +1,42 @@
+[
+  {
+    "kode": "6502010",
+    "nama": "PESO"
+  },
+  {
+    "kode": "6502020",
+    "nama": "PESO HILIR"
+  },
+  {
+    "kode": "6502030",
+    "nama": "TANJUNG PALAS BARAT"
+  },
+  {
+    "kode": "6502040",
+    "nama": "TANJUNG PALAS"
+  },
+  {
+    "kode": "6502050",
+    "nama": "TANJUNG SELOR"
+  },
+  {
+    "kode": "6502060",
+    "nama": "TANJUNG PALAS TIMUR"
+  },
+  {
+    "kode": "6502070",
+    "nama": "TANJUNG PALAS TENGAH"
+  },
+  {
+    "kode": "6502080",
+    "nama": "TANJUNG PALAS UTARA"
+  },
+  {
+    "kode": "6502090",
+    "nama": "SEKATAK"
+  },
+  {
+    "kode": "6502100",
+    "nama": "BUNYU"
+  }
+]

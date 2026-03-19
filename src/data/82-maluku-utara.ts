@@ -20,7 +20,7 @@ export const MALUKU_UTARA: PostalCodeData[] = [
     "district": "Sahu",
     "districtCode": "8201100",
     "village": "Balisoang",
-    "villageCode": "",
+    "villageCode": "8201100005",
     "postalCode": "97753"
   },
   {
@@ -119,7 +119,7 @@ export const MALUKU_UTARA: PostalCodeData[] = [
     "district": "Morotai Timur",
     "districtCode": "8207020",
     "village": "Sambiki Tua",
-    "villageCode": "",
+    "villageCode": "8207020001",
     "postalCode": "97775"
   },
   {
@@ -383,7 +383,7 @@ export const MALUKU_UTARA: PostalCodeData[] = [
     "district": "Maba Tengah",
     "districtCode": "8206041",
     "village": "Dorolamo",
-    "villageCode": "",
+    "villageCode": "8206041008",
     "postalCode": "97868"
   },
   {
@@ -636,7 +636,7 @@ export const MALUKU_UTARA: PostalCodeData[] = [
     "district": "Patani Utara",
     "districtCode": "8202043",
     "village": "Tepeleo Batudua",
-    "villageCode": "",
+    "villageCode": "8202043002",
     "postalCode": "97859"
   },
   {
@@ -1142,7 +1142,7 @@ export const MALUKU_UTARA: PostalCodeData[] = [
     "district": "Jailolo",
     "districtCode": "8201090",
     "village": "Tedeng",
-    "villageCode": "",
+    "villageCode": "8201090040",
     "postalCode": "97752"
   },
   {
@@ -1252,7 +1252,7 @@ export const MALUKU_UTARA: PostalCodeData[] = [
     "district": "Jailolo",
     "districtCode": "8201090",
     "village": "Bobo Jiko",
-    "villageCode": "",
+    "villageCode": "8201090029",
     "postalCode": "97752"
   },
   {
@@ -1351,7 +1351,7 @@ export const MALUKU_UTARA: PostalCodeData[] = [
     "district": "Sahu",
     "districtCode": "8201100",
     "village": "Dere",
-    "villageCode": "",
+    "villageCode": "8201100034",
     "postalCode": "97753"
   },
   {
@@ -1384,7 +1384,7 @@ export const MALUKU_UTARA: PostalCodeData[] = [
     "district": "Sahu",
     "districtCode": "8201100",
     "village": "Worat-worat",
-    "villageCode": "",
+    "villageCode": "8201100017",
     "postalCode": "97753"
   },
   {
@@ -1417,7 +1417,7 @@ export const MALUKU_UTARA: PostalCodeData[] = [
     "district": "Sahu",
     "districtCode": "8201100",
     "village": "Susupu",
-    "villageCode": "",
+    "villageCode": "8201100002",
     "postalCode": "97753"
   },
   {
@@ -1582,7 +1582,7 @@ export const MALUKU_UTARA: PostalCodeData[] = [
     "district": "Ibu",
     "districtCode": "8201130",
     "village": "Tongute Ternate Selatan",
-    "villageCode": "",
+    "villageCode": "8201130020",
     "postalCode": "97754"
   },
   {
@@ -2121,7 +2121,7 @@ export const MALUKU_UTARA: PostalCodeData[] = [
     "district": "Jailolo Selatan",
     "districtCode": "8201091",
     "village": "Akelamo Cinga-Cinga",
-    "villageCode": "",
+    "villageCode": "8201091031",
     "postalCode": "97757"
   },
   {
@@ -2154,7 +2154,7 @@ export const MALUKU_UTARA: PostalCodeData[] = [
     "district": "Jailolo Selatan",
     "districtCode": "8201091",
     "village": "Tetewang Joronga",
-    "villageCode": "",
+    "villageCode": "8201091030",
     "postalCode": "97757"
   },
   {
@@ -2165,7 +2165,7 @@ export const MALUKU_UTARA: PostalCodeData[] = [
     "district": "Jailolo Selatan",
     "districtCode": "8201091",
     "village": "Akesahu Madutu",
-    "villageCode": "",
+    "villageCode": "8201091032",
     "postalCode": "97757"
   },
   {
@@ -2264,7 +2264,7 @@ export const MALUKU_UTARA: PostalCodeData[] = [
     "district": "Jailolo Selatan",
     "districtCode": "8201091",
     "village": "Bobaneigo Madihutu",
-    "villageCode": "",
+    "villageCode": "8201091029",
     "postalCode": "97757"
   },
   {
@@ -2275,7 +2275,7 @@ export const MALUKU_UTARA: PostalCodeData[] = [
     "district": "Jailolo Selatan",
     "districtCode": "8201091",
     "village": "Tewe",
-    "villageCode": "",
+    "villageCode": "8201091003",
     "postalCode": "97757"
   },
   {
@@ -2506,7 +2506,7 @@ export const MALUKU_UTARA: PostalCodeData[] = [
     "district": "Ibu Selatan",
     "districtCode": "8201131",
     "village": "Jere",
-    "villageCode": "",
+    "villageCode": "8201131007",
     "postalCode": "97758"
   },
   {
@@ -2781,7 +2781,7 @@ export const MALUKU_UTARA: PostalCodeData[] = [
     "district": "Weda",
     "districtCode": "8202030",
     "village": "Were",
-    "villageCode": "",
+    "villageCode": "8202030007",
     "postalCode": "97853"
   },
   {
@@ -3188,7 +3188,7 @@ export const MALUKU_UTARA: PostalCodeData[] = [
     "district": "Weda Timur",
     "districtCode": "8202034",
     "village": "Yeke",
-    "villageCode": "",
+    "villageCode": "8202034001",
     "postalCode": "97858"
   },
   {
@@ -3573,7 +3573,7 @@ export const MALUKU_UTARA: PostalCodeData[] = [
     "district": "Mangoli Timur",
     "districtCode": "8203030",
     "village": "Naflo",
-    "villageCode": "",
+    "villageCode": "8203030009",
     "postalCode": "97984"
   },
   {
@@ -3650,7 +3650,7 @@ export const MALUKU_UTARA: PostalCodeData[] = [
     "district": "Mangoli Tengah",
     "districtCode": "8203031",
     "village": "Jere",
-    "villageCode": "",
+    "villageCode": "8203031009",
     "postalCode": "97985"
   },
   {
@@ -3771,7 +3771,7 @@ export const MALUKU_UTARA: PostalCodeData[] = [
     "district": "Sanana Utara",
     "districtCode": "8203023",
     "village": "Fukweu",
-    "villageCode": "",
+    "villageCode": "8203023002",
     "postalCode": "97994"
   },
   {
@@ -3815,7 +3815,7 @@ export const MALUKU_UTARA: PostalCodeData[] = [
     "district": "Sanana Utara",
     "districtCode": "8203023",
     "village": "Man-Gega",
-    "villageCode": "",
+    "villageCode": "8203023005",
     "postalCode": "97994"
   },
   {
@@ -3925,7 +3925,7 @@ export const MALUKU_UTARA: PostalCodeData[] = [
     "district": "Sanana",
     "districtCode": "8203020",
     "village": "Fatcei",
-    "villageCode": "",
+    "villageCode": "8203020022",
     "postalCode": "97995"
   },
   {
@@ -4409,7 +4409,7 @@ export const MALUKU_UTARA: PostalCodeData[] = [
     "district": "Bacan Selatan",
     "districtCode": "8204033",
     "village": "Kubung",
-    "villageCode": "",
+    "villageCode": "8204033004",
     "postalCode": "97912"
   },
   {
@@ -4464,7 +4464,7 @@ export const MALUKU_UTARA: PostalCodeData[] = [
     "district": "Bacan Timur Tengah",
     "districtCode": "8204042",
     "village": "Tawa",
-    "villageCode": "",
+    "villageCode": "8204042001",
     "postalCode": "97913"
   },
   {
@@ -4574,7 +4574,7 @@ export const MALUKU_UTARA: PostalCodeData[] = [
     "district": "Bacan Timur",
     "districtCode": "8204040",
     "village": "Goro-Goro",
-    "villageCode": "",
+    "villageCode": "8204040016",
     "postalCode": "97914"
   },
   {
@@ -4761,7 +4761,7 @@ export const MALUKU_UTARA: PostalCodeData[] = [
     "district": "Bacan Barat",
     "districtCode": "8204050",
     "village": "Wiring",
-    "villageCode": "",
+    "villageCode": "8204050001",
     "postalCode": "97916"
   },
   {
@@ -4772,7 +4772,7 @@ export const MALUKU_UTARA: PostalCodeData[] = [
     "district": "Bacan Barat",
     "districtCode": "8204050",
     "village": "Nang",
-    "villageCode": "",
+    "villageCode": "8204050028",
     "postalCode": "97916"
   },
   {
@@ -4871,7 +4871,7 @@ export const MALUKU_UTARA: PostalCodeData[] = [
     "district": "Mandioli Selatan",
     "districtCode": "8204031",
     "village": "Lele",
-    "villageCode": "",
+    "villageCode": "8204031006",
     "postalCode": "97921"
   },
   {
@@ -4959,7 +4959,7 @@ export const MALUKU_UTARA: PostalCodeData[] = [
     "district": "Mandioli Utara",
     "districtCode": "8204032",
     "village": "Pelita",
-    "villageCode": "",
+    "villageCode": "8204032004",
     "postalCode": "97922"
   },
   {
@@ -5157,7 +5157,7 @@ export const MALUKU_UTARA: PostalCodeData[] = [
     "district": "Kasiruta Timur",
     "districtCode": "8204052",
     "village": "Tutuhu",
-    "villageCode": "",
+    "villageCode": "8204052008",
     "postalCode": "97925"
   },
   {
@@ -5168,7 +5168,7 @@ export const MALUKU_UTARA: PostalCodeData[] = [
     "district": "Kasiruta Timur",
     "districtCode": "8204052",
     "village": "Marituso",
-    "villageCode": "",
+    "villageCode": "8207030010",
     "postalCode": "97925"
   },
   {
@@ -5179,7 +5179,7 @@ export const MALUKU_UTARA: PostalCodeData[] = [
     "district": "Kasiruta Timur",
     "districtCode": "8204052",
     "village": "Tawa",
-    "villageCode": "",
+    "villageCode": "8204052001",
     "postalCode": "97925"
   },
   {
@@ -5212,7 +5212,7 @@ export const MALUKU_UTARA: PostalCodeData[] = [
     "district": "Kasiruta Timur",
     "districtCode": "8204052",
     "village": "Jeret",
-    "villageCode": "",
+    "villageCode": "8204052007",
     "postalCode": "97925"
   },
   {
@@ -5520,7 +5520,7 @@ export const MALUKU_UTARA: PostalCodeData[] = [
     "district": "Kayoa Selatan",
     "districtCode": "8204062",
     "village": "Ngute-Ngute",
-    "villageCode": "",
+    "villageCode": "8204062003",
     "postalCode": "97934"
   },
   {
@@ -5542,7 +5542,7 @@ export const MALUKU_UTARA: PostalCodeData[] = [
     "district": "Kayoa Selatan",
     "districtCode": "8204062",
     "village": "Posi-Posi",
-    "villageCode": "",
+    "villageCode": "8204062002",
     "postalCode": "97934"
   },
   {
@@ -5696,7 +5696,7 @@ export const MALUKU_UTARA: PostalCodeData[] = [
     "district": "Pulau Makian",
     "districtCode": "8204070",
     "village": "Suma",
-    "villageCode": "",
+    "villageCode": "8204070008",
     "postalCode": "97941"
   },
   {
@@ -5729,7 +5729,7 @@ export const MALUKU_UTARA: PostalCodeData[] = [
     "district": "Makian Barat",
     "districtCode": "8204071",
     "village": "Talapaon",
-    "villageCode": "",
+    "villageCode": "8204071005",
     "postalCode": "97942"
   },
   {
@@ -6301,7 +6301,7 @@ export const MALUKU_UTARA: PostalCodeData[] = [
     "district": "Gane Barat Selatan",
     "districtCode": "8204081",
     "village": "Sekely",
-    "villageCode": "",
+    "villageCode": "8204081002",
     "postalCode": "97957"
   },
   {
@@ -6433,7 +6433,7 @@ export const MALUKU_UTARA: PostalCodeData[] = [
     "district": "Obi",
     "districtCode": "8204020",
     "village": "Air Mangga Indah",
-    "villageCode": "",
+    "villageCode": "8204020022",
     "postalCode": "97961"
   },
   {
@@ -6466,7 +6466,7 @@ export const MALUKU_UTARA: PostalCodeData[] = [
     "district": "Obi Selatan",
     "districtCode": "8204010",
     "village": "Fluk",
-    "villageCode": "",
+    "villageCode": "8204010005",
     "postalCode": "97962"
   },
   {
@@ -6543,7 +6543,7 @@ export const MALUKU_UTARA: PostalCodeData[] = [
     "district": "Obi Timur",
     "districtCode": "8204022",
     "village": "Sum",
-    "villageCode": "",
+    "villageCode": "8204022001",
     "postalCode": "97963"
   },
   {
@@ -6554,7 +6554,7 @@ export const MALUKU_UTARA: PostalCodeData[] = [
     "district": "Obi Timur",
     "districtCode": "8204022",
     "village": "Susepe",
-    "villageCode": "",
+    "villageCode": "8204022003",
     "postalCode": "97963"
   },
   {
@@ -6741,7 +6741,7 @@ export const MALUKU_UTARA: PostalCodeData[] = [
     "district": "Galela",
     "districtCode": "8205050",
     "village": "Pune",
-    "villageCode": "",
+    "villageCode": "8205050006",
     "postalCode": "97741"
   },
   {
@@ -6752,7 +6752,7 @@ export const MALUKU_UTARA: PostalCodeData[] = [
     "district": "Galela",
     "districtCode": "8205050",
     "village": "Soa-Sio",
-    "villageCode": "",
+    "villageCode": "8205050007",
     "postalCode": "97741"
   },
   {
@@ -6972,7 +6972,7 @@ export const MALUKU_UTARA: PostalCodeData[] = [
     "district": "Tobelo Tengah",
     "districtCode": "8205041",
     "village": "Kali Upa",
-    "villageCode": "",
+    "villageCode": "8205041002",
     "postalCode": "97743"
   },
   {
@@ -7071,7 +7071,7 @@ export const MALUKU_UTARA: PostalCodeData[] = [
     "district": "Galela Selatan",
     "districtCode": "8205051",
     "village": "Togawabesi",
-    "villageCode": "",
+    "villageCode": "8205051005",
     "postalCode": "97745"
   },
   {
@@ -7225,7 +7225,7 @@ export const MALUKU_UTARA: PostalCodeData[] = [
     "district": "Galela Utara",
     "districtCode": "8205053",
     "village": "Jere",
-    "villageCode": "",
+    "villageCode": "8205053011",
     "postalCode": "97747"
   },
   {
@@ -7346,7 +7346,7 @@ export const MALUKU_UTARA: PostalCodeData[] = [
     "district": "Loloda Utara",
     "districtCode": "8205060",
     "village": "Apule",
-    "villageCode": "",
+    "villageCode": "8205060001",
     "postalCode": "97748"
   },
   {
@@ -7379,7 +7379,7 @@ export const MALUKU_UTARA: PostalCodeData[] = [
     "district": "Loloda Utara",
     "districtCode": "8205060",
     "village": "Teru-Teru",
-    "villageCode": "",
+    "villageCode": "8205060016",
     "postalCode": "97748"
   },
   {
@@ -7478,7 +7478,7 @@ export const MALUKU_UTARA: PostalCodeData[] = [
     "district": "Loloda Utara",
     "districtCode": "8205060",
     "village": "Supu",
-    "villageCode": "",
+    "villageCode": "8205060011",
     "postalCode": "97748"
   },
   {
@@ -7698,7 +7698,7 @@ export const MALUKU_UTARA: PostalCodeData[] = [
     "district": "Tobelo",
     "districtCode": "8205040",
     "village": "MKCM",
-    "villageCode": "",
+    "villageCode": "8205040023",
     "postalCode": "97762"
   },
   {
@@ -7731,7 +7731,7 @@ export const MALUKU_UTARA: PostalCodeData[] = [
     "district": "Tobelo",
     "districtCode": "8205040",
     "village": "Kakara",
-    "villageCode": "",
+    "villageCode": "8205040021",
     "postalCode": "97762"
   },
   {
@@ -7863,7 +7863,7 @@ export const MALUKU_UTARA: PostalCodeData[] = [
     "district": "Kao",
     "districtCode": "8205020",
     "village": "Kusu Lofra",
-    "villageCode": "",
+    "villageCode": "8205020009",
     "postalCode": "97764"
   },
   {
@@ -7907,7 +7907,7 @@ export const MALUKU_UTARA: PostalCodeData[] = [
     "district": "Kao",
     "districtCode": "8205020",
     "village": "Kusu",
-    "villageCode": "",
+    "villageCode": "8205020009",
     "postalCode": "97764"
   },
   {
@@ -7984,7 +7984,7 @@ export const MALUKU_UTARA: PostalCodeData[] = [
     "district": "Kao",
     "districtCode": "8205020",
     "village": "Kukumutuk",
-    "villageCode": "",
+    "villageCode": "8205020020",
     "postalCode": "97764"
   },
   {
@@ -8050,7 +8050,7 @@ export const MALUKU_UTARA: PostalCodeData[] = [
     "district": "Malifut",
     "districtCode": "8205010",
     "village": "Wangeotek",
-    "villageCode": "",
+    "villageCode": "8272050010",
     "postalCode": "97765"
   },
   {
@@ -8094,7 +8094,7 @@ export const MALUKU_UTARA: PostalCodeData[] = [
     "district": "Malifut",
     "districtCode": "8205010",
     "village": "Sabaleh",
-    "villageCode": "",
+    "villageCode": "8205010027",
     "postalCode": "97765"
   },
   {
@@ -8105,7 +8105,7 @@ export const MALUKU_UTARA: PostalCodeData[] = [
     "district": "Malifut",
     "districtCode": "8205010",
     "village": "Ngofa Bobawa",
-    "villageCode": "",
+    "villageCode": "8205010024",
     "postalCode": "97765"
   },
   {
@@ -8127,7 +8127,7 @@ export const MALUKU_UTARA: PostalCodeData[] = [
     "district": "Malifut",
     "districtCode": "8205010",
     "village": "Sosol/Malifut",
-    "villageCode": "",
+    "villageCode": "8205010030",
     "postalCode": "97765"
   },
   {
@@ -8325,7 +8325,7 @@ export const MALUKU_UTARA: PostalCodeData[] = [
     "district": "Kao Teluk",
     "districtCode": "8205011",
     "village": "Dum-Dum",
-    "villageCode": "",
+    "villageCode": "8205011006",
     "postalCode": "97766"
   },
   {
@@ -8622,7 +8622,7 @@ export const MALUKU_UTARA: PostalCodeData[] = [
     "district": "Tobelo Selatan",
     "districtCode": "8205030",
     "village": "Kupa-kupa Selatan",
-    "villageCode": "",
+    "villageCode": "8205030017",
     "postalCode": "97768"
   },
   {
@@ -8754,7 +8754,7 @@ export const MALUKU_UTARA: PostalCodeData[] = [
     "district": "Maba",
     "districtCode": "8206040",
     "village": "Pekaulan",
-    "villageCode": "",
+    "villageCode": "8206040016",
     "postalCode": "97861"
   },
   {
@@ -9458,7 +9458,7 @@ export const MALUKU_UTARA: PostalCodeData[] = [
     "district": "Wasile Utara",
     "districtCode": "8206033",
     "village": "Labi-Labi",
-    "villageCode": "",
+    "villageCode": "8206033002",
     "postalCode": "97867"
   },
   {
@@ -9535,7 +9535,7 @@ export const MALUKU_UTARA: PostalCodeData[] = [
     "district": "Maba Tengah",
     "districtCode": "8206041",
     "village": "Maratana",
-    "villageCode": "",
+    "villageCode": "8206041007",
     "postalCode": "97868"
   },
   {
@@ -9645,7 +9645,7 @@ export const MALUKU_UTARA: PostalCodeData[] = [
     "district": "Maba Utara",
     "districtCode": "8206042",
     "village": "Jara-jara",
-    "villageCode": "",
+    "villageCode": "8206042007",
     "postalCode": "97868"
   },
   {
@@ -9700,7 +9700,7 @@ export const MALUKU_UTARA: PostalCodeData[] = [
     "district": "Maba Utara",
     "districtCode": "8206042",
     "village": "Patlean",
-    "villageCode": "",
+    "villageCode": "8206042012",
     "postalCode": "97868"
   },
   {
@@ -10041,7 +10041,7 @@ export const MALUKU_UTARA: PostalCodeData[] = [
     "district": "Morotai Selatan",
     "districtCode": "8207010",
     "village": "Galo-Galo",
-    "villageCode": "",
+    "villageCode": "8207010006",
     "postalCode": "97771"
   },
   {
@@ -10151,7 +10151,7 @@ export const MALUKU_UTARA: PostalCodeData[] = [
     "district": "Morotai Utara",
     "districtCode": "8207050",
     "village": "Bere-bere",
-    "villageCode": "",
+    "villageCode": "8207050007",
     "postalCode": "97772"
   },
   {
@@ -10338,7 +10338,7 @@ export const MALUKU_UTARA: PostalCodeData[] = [
     "district": "Morotai Selatan Barat",
     "districtCode": "8207030",
     "village": "Ngele-ngele Besar",
-    "villageCode": "",
+    "villageCode": "8207030006",
     "postalCode": "97773"
   },
   {
@@ -10360,7 +10360,7 @@ export const MALUKU_UTARA: PostalCodeData[] = [
     "district": "Morotai Selatan Barat",
     "districtCode": "8207030",
     "village": "Ngele-Ngele Kecil",
-    "villageCode": "",
+    "villageCode": "8207030004",
     "postalCode": "97773"
   },
   {
@@ -10580,7 +10580,7 @@ export const MALUKU_UTARA: PostalCodeData[] = [
     "district": "Morotai Timur",
     "districtCode": "8207020",
     "village": "Buho-Buho",
-    "villageCode": "",
+    "villageCode": "8207020007",
     "postalCode": "97775"
   },
   {
@@ -10932,7 +10932,7 @@ export const MALUKU_UTARA: PostalCodeData[] = [
     "district": "Taliabu Timur",
     "districtCode": "8208050",
     "village": "Penu",
-    "villageCode": "",
+    "villageCode": "8208050002",
     "postalCode": "97973"
   },
   {
@@ -11086,7 +11086,7 @@ export const MALUKU_UTARA: PostalCodeData[] = [
     "district": "Tabona",
     "districtCode": "8208030",
     "village": "Peleng",
-    "villageCode": "",
+    "villageCode": "8208030004",
     "postalCode": "97974"
   },
   {
@@ -11152,7 +11152,7 @@ export const MALUKU_UTARA: PostalCodeData[] = [
     "district": "Taliabu Utara",
     "districtCode": "8208060",
     "village": "Bua Mbono",
-    "villageCode": "",
+    "villageCode": "8208060019",
     "postalCode": "97977"
   },
   {
@@ -11207,7 +11207,7 @@ export const MALUKU_UTARA: PostalCodeData[] = [
     "district": "Taliabu Utara",
     "districtCode": "8208060",
     "village": "Nunu",
-    "villageCode": "",
+    "villageCode": "8208060003",
     "postalCode": "97977"
   },
   {
@@ -11262,7 +11262,7 @@ export const MALUKU_UTARA: PostalCodeData[] = [
     "district": "Taliabu Utara",
     "districtCode": "8208060",
     "village": "Dege",
-    "villageCode": "",
+    "villageCode": "8208060012",
     "postalCode": "97977"
   },
   {
@@ -11295,7 +11295,7 @@ export const MALUKU_UTARA: PostalCodeData[] = [
     "district": "Taliabu Utara",
     "districtCode": "8208060",
     "village": "Ufung",
-    "villageCode": "",
+    "villageCode": "8208060001",
     "postalCode": "97977"
   },
   {
@@ -11328,7 +11328,7 @@ export const MALUKU_UTARA: PostalCodeData[] = [
     "district": "Taliabu Barat Laut",
     "districtCode": "8208080",
     "village": "Nggele",
-    "villageCode": "",
+    "villageCode": "8208080005",
     "postalCode": "97978"
   },
   {
@@ -11372,7 +11372,7 @@ export const MALUKU_UTARA: PostalCodeData[] = [
     "district": "Lede",
     "districtCode": "8208070",
     "village": "Lede",
-    "villageCode": "",
+    "villageCode": "8208070001",
     "postalCode": "97979"
   },
   {
@@ -11559,7 +11559,7 @@ export const MALUKU_UTARA: PostalCodeData[] = [
     "district": "Kota Ternate Tengah",
     "districtCode": "8271021",
     "village": "Tongole",
-    "villageCode": "",
+    "villageCode": "8271021016",
     "postalCode": "97714"
   },
   {
@@ -11801,7 +11801,7 @@ export const MALUKU_UTARA: PostalCodeData[] = [
     "district": "Kota Ternate Utara",
     "districtCode": "8271030",
     "village": "Dufa-Dufa",
-    "villageCode": "",
+    "villageCode": "8271030013",
     "postalCode": "97727"
   },
   {
@@ -11933,7 +11933,7 @@ export const MALUKU_UTARA: PostalCodeData[] = [
     "district": "Pulau Ternate",
     "districtCode": "8271010",
     "village": "Afe Taduma",
-    "villageCode": "",
+    "villageCode": "8271010011",
     "postalCode": "97731"
   },
   {
@@ -12340,7 +12340,7 @@ export const MALUKU_UTARA: PostalCodeData[] = [
     "district": "Tidore Utara",
     "districtCode": "8272020",
     "village": "Rum",
-    "villageCode": "",
+    "villageCode": "8272020007",
     "postalCode": "97821"
   },
   {
@@ -12758,7 +12758,7 @@ export const MALUKU_UTARA: PostalCodeData[] = [
     "district": "Oba Tengah",
     "districtCode": "8272051",
     "village": "Yehu",
-    "villageCode": "",
+    "villageCode": "8272051010",
     "postalCode": "97839"
   },
   {
@@ -12835,7 +12835,7 @@ export const MALUKU_UTARA: PostalCodeData[] = [
     "district": "Oba",
     "districtCode": "8272040",
     "village": "Gita",
-    "villageCode": "",
+    "villageCode": "8272040006",
     "postalCode": "97842"
   },
   {
@@ -13011,7 +13011,7 @@ export const MALUKU_UTARA: PostalCodeData[] = [
     "district": "Oba Selatan",
     "districtCode": "8272041",
     "village": "Nuku",
-    "villageCode": "",
+    "villageCode": "8272041006",
     "postalCode": "97849"
   },
   {

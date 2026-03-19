@@ -207,7 +207,7 @@ export const MALUKU: PostalCodeData[] = [
     "district": "Pulau Panjang",
     "districtCode": "8107014",
     "village": "Perik Basaranggi",
-    "villageCode": "",
+    "villageCode": "8107014005",
     "postalCode": "97591"
   },
   {
@@ -229,7 +229,7 @@ export const MALUKU: PostalCodeData[] = [
     "district": "Dawelor Dawera",
     "districtCode": "8108082",
     "village": "Wiratan",
-    "villageCode": "",
+    "villageCode": "8108082005",
     "postalCode": "97451"
   },
   {
@@ -262,7 +262,7 @@ export const MALUKU: PostalCodeData[] = [
     "district": "Dawelor Dawera",
     "districtCode": "8108082",
     "village": "Watuwei",
-    "villageCode": "",
+    "villageCode": "8108082004",
     "postalCode": "97451"
   },
   {
@@ -570,7 +570,7 @@ export const MALUKU: PostalCodeData[] = [
     "district": "Aru Utara Timur Batuley",
     "districtCode": "8105032",
     "village": "Kumul",
-    "villageCode": "",
+    "villageCode": "8105032004",
     "postalCode": "97683"
   },
   {
@@ -603,7 +603,7 @@ export const MALUKU: PostalCodeData[] = [
     "district": "Aru Utara Timur Batuley",
     "districtCode": "8105032",
     "village": "Sewer",
-    "villageCode": "",
+    "villageCode": "8105032006",
     "postalCode": "97683"
   },
   {
@@ -801,7 +801,7 @@ export const MALUKU: PostalCodeData[] = [
     "district": "Damer",
     "districtCode": "8108050",
     "village": "Kumur",
-    "villageCode": "",
+    "villageCode": "8108050004",
     "postalCode": "97441"
   },
   {
@@ -812,7 +812,7 @@ export const MALUKU: PostalCodeData[] = [
     "district": "Damer",
     "districtCode": "8108050",
     "village": "Wulur",
-    "villageCode": "",
+    "villageCode": "8108050001",
     "postalCode": "97441"
   },
   {
@@ -889,7 +889,7 @@ export const MALUKU: PostalCodeData[] = [
     "district": "Pulau Masela",
     "districtCode": "8108081",
     "village": "Telalora",
-    "villageCode": "",
+    "villageCode": "8108081004",
     "postalCode": "97451"
   },
   {
@@ -1208,7 +1208,7 @@ export const MALUKU: PostalCodeData[] = [
     "district": "Pulau Wetang",
     "districtCode": "8108071",
     "village": "Upuhupun",
-    "villageCode": "",
+    "villageCode": "8108071003",
     "postalCode": "97452"
   },
   {
@@ -1670,7 +1670,7 @@ export const MALUKU: PostalCodeData[] = [
     "district": "Kepulauan Romang",
     "districtCode": "8108022",
     "village": "Jerusu",
-    "villageCode": "",
+    "villageCode": "8108022001",
     "postalCode": "97454"
   },
   {
@@ -1681,7 +1681,7 @@ export const MALUKU: PostalCodeData[] = [
     "district": "Kisar Utara",
     "districtCode": "8108021",
     "village": "Purpura",
-    "villageCode": "",
+    "villageCode": "8108021002",
     "postalCode": "97454"
   },
   {
@@ -1714,7 +1714,7 @@ export const MALUKU: PostalCodeData[] = [
     "district": "Wetar Barat",
     "districtCode": "8108011",
     "village": "Ustutun",
-    "villageCode": "",
+    "villageCode": "8108011001",
     "postalCode": "97455"
   },
   {
@@ -1802,7 +1802,7 @@ export const MALUKU: PostalCodeData[] = [
     "district": "Wetar Timur",
     "districtCode": "8108013",
     "village": "Kahilin",
-    "villageCode": "",
+    "villageCode": "8108013004",
     "postalCode": "97455"
   },
   {
@@ -2132,7 +2132,7 @@ export const MALUKU: PostalCodeData[] = [
     "district": "Leihitu",
     "districtCode": "8103110",
     "village": "Ureng",
-    "villageCode": "",
+    "villageCode": "8103110005",
     "postalCode": "97543"
   },
   {
@@ -2220,7 +2220,7 @@ export const MALUKU: PostalCodeData[] = [
     "district": "Salahutu",
     "districtCode": "8103100",
     "village": "Tulehu",
-    "villageCode": "",
+    "villageCode": "8103100004",
     "postalCode": "97544"
   },
   {
@@ -2253,7 +2253,7 @@ export const MALUKU: PostalCodeData[] = [
     "district": "Salahutu",
     "districtCode": "8103100",
     "village": "Tengah Tengah",
-    "villageCode": "",
+    "villageCode": "8103100003",
     "postalCode": "97544"
   },
   {
@@ -2429,7 +2429,7 @@ export const MALUKU: PostalCodeData[] = [
     "district": "Saparua Timur",
     "districtCode": "8103082",
     "village": "Siri Sori Islam",
-    "villageCode": "",
+    "villageCode": "8103082003",
     "postalCode": "97546"
   },
   {
@@ -2484,7 +2484,7 @@ export const MALUKU: PostalCodeData[] = [
     "district": "Saparua Timur",
     "districtCode": "8103082",
     "village": "Siri Sori Amalatu",
-    "villageCode": "",
+    "villageCode": "8103082003",
     "postalCode": "97546"
   },
   {
@@ -2517,7 +2517,7 @@ export const MALUKU: PostalCodeData[] = [
     "district": "Saparua",
     "districtCode": "8103080",
     "village": "Kulur",
-    "villageCode": "",
+    "villageCode": "8103080018",
     "postalCode": "97546"
   },
   {
@@ -2858,7 +2858,7 @@ export const MALUKU: PostalCodeData[] = [
     "district": "Teluk Elpaputih",
     "districtCode": "8103052",
     "village": "Sahulauw",
-    "villageCode": "",
+    "villageCode": "8103052004",
     "postalCode": "97551"
   },
   {
@@ -3001,7 +3001,7 @@ export const MALUKU: PostalCodeData[] = [
     "district": "Amahai",
     "districtCode": "8103050",
     "village": "Nuweletetu",
-    "villageCode": "",
+    "villageCode": "8103050027",
     "postalCode": "97552"
   },
   {
@@ -3628,7 +3628,7 @@ export const MALUKU: PostalCodeData[] = [
     "district": "Seram Utara",
     "districtCode": "8103140",
     "village": "Kanikeh",
-    "villageCode": "",
+    "villageCode": "8103140012",
     "postalCode": "97557"
   },
   {
@@ -3760,7 +3760,7 @@ export const MALUKU: PostalCodeData[] = [
     "district": "Teon Nila Serua",
     "districtCode": "8103060",
     "village": "Bumey",
-    "villageCode": "",
+    "villageCode": "8103060006",
     "postalCode": "97558"
   },
   {
@@ -3870,7 +3870,7 @@ export const MALUKU: PostalCodeData[] = [
     "district": "Teon Nila Serua",
     "districtCode": "8103060",
     "village": "Lesluru",
-    "villageCode": "",
+    "villageCode": "8103060013",
     "postalCode": "97558"
   },
   {
@@ -4046,7 +4046,7 @@ export const MALUKU: PostalCodeData[] = [
     "district": "Kei Besar",
     "districtCode": "8102020",
     "village": "Depur",
-    "villageCode": "",
+    "villageCode": "8102020026",
     "postalCode": "97641"
   },
   {
@@ -4057,7 +4057,7 @@ export const MALUKU: PostalCodeData[] = [
     "district": "Kei Besar",
     "districtCode": "8102020",
     "village": "Waur Tahit",
-    "villageCode": "",
+    "villageCode": "8102020020",
     "postalCode": "97641"
   },
   {
@@ -4101,7 +4101,7 @@ export const MALUKU: PostalCodeData[] = [
     "district": "Kei Besar",
     "districtCode": "8102020",
     "village": "Ngurdu",
-    "villageCode": "",
+    "villageCode": "8102020056",
     "postalCode": "97641"
   },
   {
@@ -4838,7 +4838,7 @@ export const MALUKU: PostalCodeData[] = [
     "district": "Kei Besar Selatan Barat",
     "districtCode": "8102024",
     "village": "Feer",
-    "villageCode": "",
+    "villageCode": "8102024001",
     "postalCode": "97642"
   },
   {
@@ -5135,7 +5135,7 @@ export const MALUKU: PostalCodeData[] = [
     "district": "Kei Besar Utara Timur",
     "districtCode": "8102021",
     "village": "Ur",
-    "villageCode": "",
+    "villageCode": "8102021011",
     "postalCode": "97643"
   },
   {
@@ -5542,7 +5542,7 @@ export const MALUKU: PostalCodeData[] = [
     "district": "Hoat Sorbay",
     "districtCode": "8102014",
     "village": "Evu",
-    "villageCode": "",
+    "villageCode": "8102014006",
     "postalCode": "97651"
   },
   {
@@ -5652,7 +5652,7 @@ export const MALUKU: PostalCodeData[] = [
     "district": "Manyeuw",
     "districtCode": "8102015",
     "village": "Debut",
-    "villageCode": "",
+    "villageCode": "8102015002",
     "postalCode": "97651"
   },
   {
@@ -5773,7 +5773,7 @@ export const MALUKU: PostalCodeData[] = [
     "district": "Kei Kecil Timur Selatan",
     "districtCode": "8102016",
     "village": "Danar Lumefar",
-    "villageCode": "",
+    "villageCode": "8102016006",
     "postalCode": "97656"
   },
   {
@@ -5784,7 +5784,7 @@ export const MALUKU: PostalCodeData[] = [
     "district": "Kei Kecil Timur Selatan",
     "districtCode": "8102016",
     "village": "Ngurwul",
-    "villageCode": "",
+    "villageCode": "8102016010",
     "postalCode": "97656"
   },
   {
@@ -5795,7 +5795,7 @@ export const MALUKU: PostalCodeData[] = [
     "district": "Kei Kecil Timur Selatan",
     "districtCode": "8102016",
     "village": "Uf",
-    "villageCode": "",
+    "villageCode": "8102016003",
     "postalCode": "97656"
   },
   {
@@ -5806,7 +5806,7 @@ export const MALUKU: PostalCodeData[] = [
     "district": "Kei Kecil Timur Selatan",
     "districtCode": "8102016",
     "village": "Danar Ohoiseb",
-    "villageCode": "",
+    "villageCode": "8102016001",
     "postalCode": "97656"
   },
   {
@@ -5850,7 +5850,7 @@ export const MALUKU: PostalCodeData[] = [
     "district": "Kei Kecil Timur Selatan",
     "districtCode": "8102016",
     "village": "Elaar Ngursoin",
-    "villageCode": "",
+    "villageCode": "8102016007",
     "postalCode": "97656"
   },
   {
@@ -5949,7 +5949,7 @@ export const MALUKU: PostalCodeData[] = [
     "district": "Kei Kecil Timur",
     "districtCode": "8102013",
     "village": "Tenbuk",
-    "villageCode": "",
+    "villageCode": "8102013016",
     "postalCode": "97656"
   },
   {
@@ -6026,7 +6026,7 @@ export const MALUKU: PostalCodeData[] = [
     "district": "Kei Kecil Timur",
     "districtCode": "8102013",
     "village": "Denwet",
-    "villageCode": "",
+    "villageCode": "8102013017",
     "postalCode": "97656"
   },
   {
@@ -7082,7 +7082,7 @@ export const MALUKU: PostalCodeData[] = [
     "district": "Waeapo",
     "districtCode": "8104021",
     "village": "Gogorea",
-    "villageCode": "",
+    "villageCode": "8104021032",
     "postalCode": "97374"
   },
   {
@@ -7170,7 +7170,7 @@ export const MALUKU: PostalCodeData[] = [
     "district": "Waplau",
     "districtCode": "8104022",
     "village": "Waepotih",
-    "villageCode": "",
+    "villageCode": "8104022001",
     "postalCode": "97372"
   },
   {
@@ -7214,7 +7214,7 @@ export const MALUKU: PostalCodeData[] = [
     "district": "Teluk Kaiely",
     "districtCode": "8104024",
     "village": "Kaiely",
-    "villageCode": "",
+    "villageCode": "8104024002",
     "postalCode": "97374"
   },
   {
@@ -7412,7 +7412,7 @@ export const MALUKU: PostalCodeData[] = [
     "district": "Lolong Guba",
     "districtCode": "8104026",
     "village": "Lele",
-    "villageCode": "",
+    "villageCode": "8104026003",
     "postalCode": "97374"
   },
   {
@@ -7522,7 +7522,7 @@ export const MALUKU: PostalCodeData[] = [
     "district": "Lilialy",
     "districtCode": "8104027",
     "village": "Ubung",
-    "villageCode": "",
+    "villageCode": "8104027005",
     "postalCode": "97371"
   },
   {
@@ -7555,7 +7555,7 @@ export const MALUKU: PostalCodeData[] = [
     "district": "Air Buaya",
     "districtCode": "8104030",
     "village": "Waepure",
-    "villageCode": "",
+    "villageCode": "8104030005",
     "postalCode": "97373"
   },
   {
@@ -7599,7 +7599,7 @@ export const MALUKU: PostalCodeData[] = [
     "district": "Air Buaya",
     "districtCode": "8104030",
     "village": "Waemangit",
-    "villageCode": "",
+    "villageCode": "8104030004",
     "postalCode": "97373"
   },
   {
@@ -7632,7 +7632,7 @@ export const MALUKU: PostalCodeData[] = [
     "district": "Fena Leisela",
     "districtCode": "8104031",
     "village": "Waekose",
-    "villageCode": "",
+    "villageCode": "8104031012",
     "postalCode": "97373"
   },
   {
@@ -7643,7 +7643,7 @@ export const MALUKU: PostalCodeData[] = [
     "district": "Fena Leisela",
     "districtCode": "8104031",
     "village": "Waelana-lana",
-    "villageCode": "",
+    "villageCode": "8104031005",
     "postalCode": "97373"
   },
   {
@@ -7654,7 +7654,7 @@ export const MALUKU: PostalCodeData[] = [
     "district": "Fena Leisela",
     "districtCode": "8104031",
     "village": "Waenibe",
-    "villageCode": "",
+    "villageCode": "8104031013",
     "postalCode": "97373"
   },
   {
@@ -7709,7 +7709,7 @@ export const MALUKU: PostalCodeData[] = [
     "district": "Fena Leisela",
     "districtCode": "8104031",
     "village": "Waedanga",
-    "villageCode": "",
+    "villageCode": "8104031008",
     "postalCode": "97373"
   },
   {
@@ -7775,7 +7775,7 @@ export const MALUKU: PostalCodeData[] = [
     "district": "Aru Selatan Utara",
     "districtCode": "8105012",
     "village": "Lutur",
-    "villageCode": "",
+    "villageCode": "8105012003",
     "postalCode": "97691"
   },
   {
@@ -7830,7 +7830,7 @@ export const MALUKU: PostalCodeData[] = [
     "district": "Aru Selatan",
     "districtCode": "8105010",
     "village": "Kalar-Kalar",
-    "villageCode": "",
+    "villageCode": "8105010021",
     "postalCode": "97692"
   },
   {
@@ -7841,7 +7841,7 @@ export const MALUKU: PostalCodeData[] = [
     "district": "Aru Selatan",
     "districtCode": "8105010",
     "village": "Lor-lor",
-    "villageCode": "",
+    "villageCode": "8105010024",
     "postalCode": "97692"
   },
   {
@@ -8017,7 +8017,7 @@ export const MALUKU: PostalCodeData[] = [
     "district": "Aru Selatan Timur",
     "districtCode": "8105011",
     "village": "Beltubur",
-    "villageCode": "",
+    "villageCode": "8105011005",
     "postalCode": "97693"
   },
   {
@@ -8556,7 +8556,7 @@ export const MALUKU: PostalCodeData[] = [
     "district": "Pulau-Pulau Aru",
     "districtCode": "8105030",
     "village": "Lau-Lau",
-    "villageCode": "",
+    "villageCode": "8105030075",
     "postalCode": "97681"
   },
   {
@@ -8611,7 +8611,7 @@ export const MALUKU: PostalCodeData[] = [
     "district": "Pulau-Pulau Aru",
     "districtCode": "8105030",
     "village": "Tungu",
-    "villageCode": "",
+    "villageCode": "8105030089",
     "postalCode": "97681"
   },
   {
@@ -8842,7 +8842,7 @@ export const MALUKU: PostalCodeData[] = [
     "district": "Sir-Sir",
     "districtCode": "8105033",
     "village": "Goda-Goda",
-    "villageCode": "",
+    "villageCode": "8105033009",
     "postalCode": "97681"
   },
   {
@@ -8941,7 +8941,7 @@ export const MALUKU: PostalCodeData[] = [
     "district": "Huamual Belakang",
     "districtCode": "8106010",
     "village": "Allang Asaude",
-    "villageCode": "",
+    "villageCode": "8106010014",
     "postalCode": "97572"
   },
   {
@@ -9007,7 +9007,7 @@ export const MALUKU: PostalCodeData[] = [
     "district": "Kepulauan Manipa",
     "districtCode": "8106011",
     "village": "Tomalehu Barat",
-    "villageCode": "",
+    "villageCode": "8106011003",
     "postalCode": "97579"
   },
   {
@@ -9051,7 +9051,7 @@ export const MALUKU: PostalCodeData[] = [
     "district": "Kepulauan Manipa",
     "districtCode": "8106011",
     "village": "Tomalehu Timur",
-    "villageCode": "",
+    "villageCode": "8106011004",
     "postalCode": "97579"
   },
   {
@@ -9073,7 +9073,7 @@ export const MALUKU: PostalCodeData[] = [
     "district": "Seram Barat",
     "districtCode": "8106020",
     "village": "Kawa",
-    "villageCode": "",
+    "villageCode": "8106020021",
     "postalCode": "97561"
   },
   {
@@ -9084,7 +9084,7 @@ export const MALUKU: PostalCodeData[] = [
     "district": "Seram Barat",
     "districtCode": "8106020",
     "village": "Kaibobo",
-    "villageCode": "",
+    "villageCode": "8106020015",
     "postalCode": "97561"
   },
   {
@@ -9106,7 +9106,7 @@ export const MALUKU: PostalCodeData[] = [
     "district": "Seram Barat",
     "districtCode": "8106020",
     "village": "Eti",
-    "villageCode": "",
+    "villageCode": "8106020016",
     "postalCode": "97561"
   },
   {
@@ -9150,7 +9150,7 @@ export const MALUKU: PostalCodeData[] = [
     "district": "Huamual",
     "districtCode": "8106021",
     "village": "Luhu",
-    "villageCode": "",
+    "villageCode": "8106021003",
     "postalCode": "97571"
   },
   {
@@ -9172,7 +9172,7 @@ export const MALUKU: PostalCodeData[] = [
     "district": "Huamual",
     "districtCode": "8106021",
     "village": "Kulur",
-    "villageCode": "",
+    "villageCode": "8106021001",
     "postalCode": "97571"
   },
   {
@@ -9227,7 +9227,7 @@ export const MALUKU: PostalCodeData[] = [
     "district": "Kairatu Barat",
     "districtCode": "8106031",
     "village": "Waisamu",
-    "villageCode": "",
+    "villageCode": "8106031004",
     "postalCode": "97564"
   },
   {
@@ -9238,7 +9238,7 @@ export const MALUKU: PostalCodeData[] = [
     "district": "Kairatu Barat",
     "districtCode": "8106031",
     "village": "Nuruwe",
-    "villageCode": "",
+    "villageCode": "8106031003",
     "postalCode": "97564"
   },
   {
@@ -9359,7 +9359,7 @@ export const MALUKU: PostalCodeData[] = [
     "district": "Inamosol",
     "districtCode": "8106032",
     "village": "Rumberu",
-    "villageCode": "",
+    "villageCode": "8106032001",
     "postalCode": "97567"
   },
   {
@@ -9535,7 +9535,7 @@ export const MALUKU: PostalCodeData[] = [
     "district": "Elpaputih",
     "districtCode": "8106034",
     "village": "Abio Ahiolo",
-    "villageCode": "",
+    "villageCode": "8106034002",
     "postalCode": "97568"
   },
   {
@@ -9557,7 +9557,7 @@ export const MALUKU: PostalCodeData[] = [
     "district": "Taniwel",
     "districtCode": "8106040",
     "village": "Nukuhai",
-    "villageCode": "",
+    "villageCode": "8106040018",
     "postalCode": "97562"
   },
   {
@@ -9590,7 +9590,7 @@ export const MALUKU: PostalCodeData[] = [
     "district": "Taniwel",
     "districtCode": "8106040",
     "village": "Lohiasapalewa",
-    "villageCode": "",
+    "villageCode": "8106040002",
     "postalCode": "97562"
   },
   {
@@ -9623,7 +9623,7 @@ export const MALUKU: PostalCodeData[] = [
     "district": "Taniwel",
     "districtCode": "8106040",
     "village": "Murnaten",
-    "villageCode": "",
+    "villageCode": "8106040007",
     "postalCode": "97562"
   },
   {
@@ -9645,7 +9645,7 @@ export const MALUKU: PostalCodeData[] = [
     "district": "Taniwel",
     "districtCode": "8106040",
     "village": "Hulung",
-    "villageCode": "",
+    "villageCode": "8106040016",
     "postalCode": "97562"
   },
   {
@@ -9678,7 +9678,7 @@ export const MALUKU: PostalCodeData[] = [
     "district": "Taniwel",
     "districtCode": "8106040",
     "village": "Uweth",
-    "villageCode": "",
+    "villageCode": "8106040015",
     "postalCode": "97562"
   },
   {
@@ -9700,7 +9700,7 @@ export const MALUKU: PostalCodeData[] = [
     "district": "Taniwel",
     "districtCode": "8106040",
     "village": "Kasieh",
-    "villageCode": "",
+    "villageCode": "8106040017",
     "postalCode": "97562"
   },
   {
@@ -9755,7 +9755,7 @@ export const MALUKU: PostalCodeData[] = [
     "district": "Taniwel Timur",
     "districtCode": "8106041",
     "village": "Sohuwe",
-    "villageCode": "",
+    "villageCode": "8106041001",
     "postalCode": "97563"
   },
   {
@@ -9799,7 +9799,7 @@ export const MALUKU: PostalCodeData[] = [
     "district": "Taniwel Timur",
     "districtCode": "8106041",
     "village": "Makububui",
-    "villageCode": "",
+    "villageCode": "8106041007",
     "postalCode": "97563"
   },
   {
@@ -9854,7 +9854,7 @@ export const MALUKU: PostalCodeData[] = [
     "district": "Taniwel Timur",
     "districtCode": "8106041",
     "village": "Lumahpelu",
-    "villageCode": "",
+    "villageCode": "8106041009",
     "postalCode": "97563"
   },
   {
@@ -9942,7 +9942,7 @@ export const MALUKU: PostalCodeData[] = [
     "district": "Pulau Gorom",
     "districtCode": "8107010",
     "village": "Sikaro Kataloka",
-    "villageCode": "",
+    "villageCode": "8107010019",
     "postalCode": "97593"
   },
   {
@@ -10085,7 +10085,7 @@ export const MALUKU: PostalCodeData[] = [
     "district": "Pulau Gorom",
     "districtCode": "8107010",
     "village": "Arewang",
-    "villageCode": "",
+    "villageCode": "8107010038",
     "postalCode": "97593"
   },
   {
@@ -10371,7 +10371,7 @@ export const MALUKU: PostalCodeData[] = [
     "district": "Teor",
     "districtCode": "8107012",
     "village": "Lapang Kampung Jawa",
-    "villageCode": "",
+    "villageCode": "8107012008",
     "postalCode": "97596"
   },
   {
@@ -10382,7 +10382,7 @@ export const MALUKU: PostalCodeData[] = [
     "district": "Teor",
     "districtCode": "8107012",
     "village": "Ker Ker",
-    "villageCode": "",
+    "villageCode": "8107012007",
     "postalCode": "97596"
   },
   {
@@ -10393,7 +10393,7 @@ export const MALUKU: PostalCodeData[] = [
     "district": "Teor",
     "districtCode": "8107012",
     "village": "Kampung Tengah Wermaf",
-    "villageCode": "",
+    "villageCode": "8107012004",
     "postalCode": "97596"
   },
   {
@@ -10492,7 +10492,7 @@ export const MALUKU: PostalCodeData[] = [
     "district": "Gorom Timur",
     "districtCode": "8107013",
     "village": "Kota Sirih",
-    "villageCode": "",
+    "villageCode": "8107013008",
     "postalCode": "97592"
   },
   {
@@ -10569,7 +10569,7 @@ export const MALUKU: PostalCodeData[] = [
     "district": "Gorom Timur",
     "districtCode": "8107013",
     "village": "Miran Kilian",
-    "villageCode": "",
+    "villageCode": "8107013013",
     "postalCode": "97592"
   },
   {
@@ -10723,7 +10723,7 @@ export const MALUKU: PostalCodeData[] = [
     "district": "Pulau Panjang",
     "districtCode": "8107014",
     "village": "Pulau Panjang",
-    "villageCode": "",
+    "villageCode": "8107014002",
     "postalCode": "97591"
   },
   {
@@ -10745,7 +10745,7 @@ export const MALUKU: PostalCodeData[] = [
     "district": "Pulau Panjang",
     "districtCode": "8107014",
     "village": "Ruku Ruku",
-    "villageCode": "",
+    "villageCode": "8107014004",
     "postalCode": "97591"
   },
   {
@@ -10767,7 +10767,7 @@ export const MALUKU: PostalCodeData[] = [
     "district": "Seram Timur",
     "districtCode": "8107020",
     "village": "Kellu",
-    "villageCode": "",
+    "villageCode": "8107020024",
     "postalCode": "97594"
   },
   {
@@ -10877,7 +10877,7 @@ export const MALUKU: PostalCodeData[] = [
     "district": "Seram Timur",
     "districtCode": "8107020",
     "village": "Geser",
-    "villageCode": "",
+    "villageCode": "8107020023",
     "postalCode": "97594"
   },
   {
@@ -11185,7 +11185,7 @@ export const MALUKU: PostalCodeData[] = [
     "district": "Kilmury",
     "districtCode": "8107022",
     "village": "Undur",
-    "villageCode": "",
+    "villageCode": "8107022008",
     "postalCode": "97585"
   },
   {
@@ -11262,7 +11262,7 @@ export const MALUKU: PostalCodeData[] = [
     "district": "Kian Darat",
     "districtCode": "8107024",
     "village": "Watu Watu",
-    "villageCode": "",
+    "villageCode": "8107024005",
     "postalCode": "97594"
   },
   {
@@ -11350,7 +11350,7 @@ export const MALUKU: PostalCodeData[] = [
     "district": "Werinama",
     "districtCode": "8107030",
     "village": "Tum",
-    "villageCode": "",
+    "villageCode": "8107030009",
     "postalCode": "97584"
   },
   {
@@ -11614,7 +11614,7 @@ export const MALUKU: PostalCodeData[] = [
     "district": "Bula",
     "districtCode": "8107040",
     "village": "Bula Air Fatolo",
-    "villageCode": "",
+    "villageCode": "8107040006",
     "postalCode": "97581"
   },
   {
@@ -11724,7 +11724,7 @@ export const MALUKU: PostalCodeData[] = [
     "district": "Bula Barat",
     "districtCode": "8107041",
     "village": "Banggoi",
-    "villageCode": "",
+    "villageCode": "8107041006",
     "postalCode": "97582"
   },
   {
@@ -11966,7 +11966,7 @@ export const MALUKU: PostalCodeData[] = [
     "district": "Kepala Madan",
     "districtCode": "8109010",
     "village": "Emguhen",
-    "villageCode": "",
+    "villageCode": "8109010013",
     "postalCode": "97354"
   },
   {
@@ -11999,7 +11999,7 @@ export const MALUKU: PostalCodeData[] = [
     "district": "Kepala Madan",
     "districtCode": "8109010",
     "village": "Bala-bala",
-    "villageCode": "",
+    "villageCode": "8109010014",
     "postalCode": "97354"
   },
   {
@@ -12164,7 +12164,7 @@ export const MALUKU: PostalCodeData[] = [
     "district": "Leksula",
     "districtCode": "8109020",
     "village": "Wahaolon",
-    "villageCode": "",
+    "villageCode": "8109020025",
     "postalCode": "97353"
   },
   {
@@ -12186,7 +12186,7 @@ export const MALUKU: PostalCodeData[] = [
     "district": "Leksula",
     "districtCode": "8109020",
     "village": "Waenamaolon",
-    "villageCode": "",
+    "villageCode": "8109020029",
     "postalCode": "97353"
   },
   {
@@ -12241,7 +12241,7 @@ export const MALUKU: PostalCodeData[] = [
     "district": "Fena Fafan",
     "districtCode": "8109021",
     "village": "Waeken",
-    "villageCode": "",
+    "villageCode": "8109021010",
     "postalCode": "97351"
   },
   {
@@ -12252,7 +12252,7 @@ export const MALUKU: PostalCodeData[] = [
     "district": "Fena Fafan",
     "districtCode": "8109021",
     "village": "Uneth",
-    "villageCode": "",
+    "villageCode": "8109021006",
     "postalCode": "97351"
   },
   {
@@ -12417,7 +12417,7 @@ export const MALUKU: PostalCodeData[] = [
     "district": "Namrole",
     "districtCode": "8109030",
     "village": "Leku",
-    "villageCode": "",
+    "villageCode": "8109030006",
     "postalCode": "97351"
   },
   {
@@ -12428,7 +12428,7 @@ export const MALUKU: PostalCodeData[] = [
     "district": "Namrole",
     "districtCode": "8109030",
     "village": "Tikbary",
-    "villageCode": "",
+    "villageCode": "8109030016",
     "postalCode": "97351"
   },
   {
@@ -12472,7 +12472,7 @@ export const MALUKU: PostalCodeData[] = [
     "district": "Namrole",
     "districtCode": "8109030",
     "village": "Elfule",
-    "villageCode": "",
+    "villageCode": "8109030005",
     "postalCode": "97351"
   },
   {
@@ -12582,7 +12582,7 @@ export const MALUKU: PostalCodeData[] = [
     "district": "Nusaniwe",
     "districtCode": "8171010",
     "village": "Benteng",
-    "villageCode": "",
+    "villageCode": "8171010006",
     "postalCode": "97117"
   },
   {
@@ -12934,7 +12934,7 @@ export const MALUKU: PostalCodeData[] = [
     "district": "Kur Selatan",
     "districtCode": "8172011",
     "village": "Niela",
-    "villageCode": "",
+    "villageCode": "8172011006",
     "postalCode": "97627"
   },
   {
@@ -13055,7 +13055,7 @@ export const MALUKU: PostalCodeData[] = [
     "district": "Pulau Dullah Utara",
     "districtCode": "8172030",
     "village": "Dullah",
-    "villageCode": "",
+    "villageCode": "8172030007",
     "postalCode": "97615"
   },
   {

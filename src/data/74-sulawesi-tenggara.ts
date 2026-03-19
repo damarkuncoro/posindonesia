@@ -460,7 +460,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Parigi",
     "districtCode": "7402020",
     "village": "Labulu Bulu",
-    "villageCode": "",
+    "villageCode": "7402020018",
     "postalCode": "93663"
   },
   {
@@ -526,7 +526,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Sangia Wambulu",
     "districtCode": "7414070",
     "village": "Baruta Analalaki",
-    "villageCode": "",
+    "villageCode": "7414070006",
     "postalCode": "93764"
   },
   {
@@ -570,7 +570,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Poleang Barat",
     "districtCode": "7406061",
     "village": "Bulumanai",
-    "villageCode": "",
+    "villageCode": "7406061009",
     "postalCode": "93772"
   },
   {
@@ -933,7 +933,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Kabaena Selatan",
     "districtCode": "7406012",
     "village": "Puu Nunu",
-    "villageCode": "",
+    "villageCode": "7406012004",
     "postalCode": "93782"
   },
   {
@@ -1109,7 +1109,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Kabaena Utara",
     "districtCode": "7406011",
     "village": "Larolanu",
-    "villageCode": "",
+    "villageCode": "7406011006",
     "postalCode": "93785"
   },
   {
@@ -1208,7 +1208,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Landawe",
     "districtCode": "7410071",
     "village": "Laumoso",
-    "villageCode": "",
+    "villageCode": "7410071009",
     "postalCode": "93342"
   },
   {
@@ -1230,7 +1230,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Landawe",
     "districtCode": "7410071",
     "village": "Hialu",
-    "villageCode": "",
+    "villageCode": "7410071001",
     "postalCode": "93342"
   },
   {
@@ -1252,7 +1252,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Landawe",
     "districtCode": "7410071",
     "village": "Hialu Utama",
-    "villageCode": "",
+    "villageCode": "7410071001",
     "postalCode": "93342"
   },
   {
@@ -1263,7 +1263,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Landawe",
     "districtCode": "7410071",
     "village": "Mata Benua",
-    "villageCode": "",
+    "villageCode": "7410071002",
     "postalCode": "93342"
   },
   {
@@ -1274,7 +1274,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Landawe",
     "districtCode": "7410071",
     "village": "Polo-polora",
-    "villageCode": "",
+    "villageCode": "7410071005",
     "postalCode": "93342"
   },
   {
@@ -1384,7 +1384,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Wawonii Barat",
     "districtCode": "7412070",
     "village": "Langara Tanjung Batu",
-    "villageCode": "",
+    "villageCode": "7412070016",
     "postalCode": "93491"
   },
   {
@@ -1670,7 +1670,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Batukara",
     "districtCode": "7402112",
     "village": "Bone Bone",
-    "villageCode": "",
+    "villageCode": "7402112004",
     "postalCode": "93675"
   },
   {
@@ -1769,7 +1769,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Batu Atas",
     "districtCode": "7415010",
     "village": "Batu Atas Timur",
-    "villageCode": "",
+    "villageCode": "7415010004",
     "postalCode": "93739"
   },
   {
@@ -1813,7 +1813,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Batu Atas",
     "districtCode": "7415010",
     "village": "Batuatas Liwu",
-    "villageCode": "",
+    "villageCode": "7415010001",
     "postalCode": "93739"
   },
   {
@@ -1835,7 +1835,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Siompu",
     "districtCode": "7415060",
     "village": "Batuawu",
-    "villageCode": "",
+    "villageCode": "7415060011",
     "postalCode": "93739"
   },
   {
@@ -1879,7 +1879,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Laonti",
     "districtCode": "7405060",
     "village": "Batu Jaya",
-    "villageCode": "",
+    "villageCode": "7405060005",
     "postalCode": "93892"
   },
   {
@@ -1923,7 +1923,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Batu Putih",
     "districtCode": "7408060",
     "village": "Parung Lampe",
-    "villageCode": "",
+    "villageCode": "7408060015",
     "postalCode": "93955"
   },
   {
@@ -2077,7 +2077,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Baruga",
     "districtCode": "7471011",
     "village": "Lepo Lepo",
-    "villageCode": "",
+    "villageCode": "7471011002",
     "postalCode": "93116"
   },
   {
@@ -2198,7 +2198,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Lapandewa",
     "districtCode": "7415020",
     "village": "Gaya Baru",
-    "villageCode": "",
+    "villageCode": "7415020014",
     "postalCode": "93731"
   },
   {
@@ -2495,7 +2495,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Kabangka",
     "districtCode": "7402031",
     "village": "Komba Komba",
-    "villageCode": "",
+    "villageCode": "7402031001",
     "postalCode": "93664"
   },
   {
@@ -2638,7 +2638,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Wabula",
     "districtCode": "7401062",
     "village": "Wabula Satu",
-    "villageCode": "",
+    "villageCode": "7401062002",
     "postalCode": "93732"
   },
   {
@@ -2704,7 +2704,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Sabulakoa",
     "districtCode": "7405102",
     "village": "Talumbinga",
-    "villageCode": "",
+    "villageCode": "7405102007",
     "postalCode": "93872"
   },
   {
@@ -2858,7 +2858,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Anggalomoare",
     "districtCode": "7403104",
     "village": "Lakome",
-    "villageCode": "",
+    "villageCode": "7403104004",
     "postalCode": "93455"
   },
   {
@@ -3023,7 +3023,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Kadia",
     "districtCode": "7471013",
     "village": "Bende",
-    "villageCode": "",
+    "villageCode": "7471013005",
     "postalCode": "93118"
   },
   {
@@ -3034,7 +3034,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Oheo",
     "districtCode": "7410052",
     "village": "Bendewuta",
-    "villageCode": "",
+    "villageCode": "7410011012",
     "postalCode": "93341"
   },
   {
@@ -3078,7 +3078,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Wundulako",
     "districtCode": "7404030",
     "village": "Bende",
-    "villageCode": "",
+    "villageCode": "7404030012",
     "postalCode": "93561"
   },
   {
@@ -3177,7 +3177,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Lawa",
     "districtCode": "7413060",
     "village": "Wamelai",
-    "villageCode": "",
+    "villageCode": "7413060010",
     "postalCode": "93652"
   },
   {
@@ -3265,7 +3265,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Wolo",
     "districtCode": "7404070",
     "village": "Muara Lapao-Pao",
-    "villageCode": "",
+    "villageCode": "7404070012",
     "postalCode": "93557"
   },
   {
@@ -3441,7 +3441,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Wangi-Wangi",
     "districtCode": "7407040",
     "village": "Wapia-pia",
-    "villageCode": "",
+    "villageCode": "7407040031",
     "postalCode": "93791"
   },
   {
@@ -3848,7 +3848,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Tomia",
     "districtCode": "7407020",
     "village": "Waiti",
-    "villageCode": "",
+    "villageCode": "7407020001",
     "postalCode": "93793"
   },
   {
@@ -3925,7 +3925,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Binongko",
     "districtCode": "7407010",
     "village": "Kampo Kampo",
-    "villageCode": "",
+    "villageCode": "7407010008",
     "postalCode": "93794"
   },
   {
@@ -4332,7 +4332,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Tomia Timur",
     "districtCode": "7407021",
     "village": "Dete",
-    "villageCode": "",
+    "villageCode": "7407021009",
     "postalCode": "93797"
   },
   {
@@ -4376,7 +4376,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Tomia Timur",
     "districtCode": "7407021",
     "village": "Wawaotimu",
-    "villageCode": "",
+    "villageCode": "7407021008",
     "postalCode": "93797"
   },
   {
@@ -4717,7 +4717,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Wakorumba Selatan",
     "districtCode": "7402090",
     "village": "Pure",
-    "villageCode": "",
+    "villageCode": "7402090010",
     "postalCode": "93674"
   },
   {
@@ -4728,7 +4728,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Wakorumba Selatan",
     "districtCode": "7402090",
     "village": "Labunia",
-    "villageCode": "",
+    "villageCode": "7402090012",
     "postalCode": "93674"
   },
   {
@@ -5014,7 +5014,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Siompu",
     "districtCode": "7415060",
     "village": "Nggulanggula",
-    "villageCode": "",
+    "villageCode": "7415060012",
     "postalCode": "93739"
   },
   {
@@ -5113,7 +5113,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Batauga",
     "districtCode": "7415040",
     "village": "Poogalampa",
-    "villageCode": "",
+    "villageCode": "7415040009",
     "postalCode": "93752"
   },
   {
@@ -5234,7 +5234,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Sampolawa",
     "districtCode": "7415030",
     "village": "Bahari Dua",
-    "villageCode": "",
+    "villageCode": "7415030011",
     "postalCode": "93753"
   },
   {
@@ -5245,7 +5245,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Sampolawa",
     "districtCode": "7415030",
     "village": "Bahari Tiga",
-    "villageCode": "",
+    "villageCode": "7415030011",
     "postalCode": "93753"
   },
   {
@@ -5256,7 +5256,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Sampolawa",
     "districtCode": "7415030",
     "village": "Lipu Mangau",
-    "villageCode": "",
+    "villageCode": "7415030023",
     "postalCode": "93753"
   },
   {
@@ -5278,7 +5278,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Sampolawa",
     "districtCode": "7415030",
     "village": "Jaya Bakti",
-    "villageCode": "",
+    "villageCode": "7415030009",
     "postalCode": "93753"
   },
   {
@@ -5289,7 +5289,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Sampolawa",
     "districtCode": "7415030",
     "village": "Gunung Sejuk",
-    "villageCode": "",
+    "villageCode": "7415030019",
     "postalCode": "93753"
   },
   {
@@ -5641,7 +5641,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Andoolo Barat",
     "districtCode": "7405022",
     "village": "Mataupe",
-    "villageCode": "",
+    "villageCode": "7405022009",
     "postalCode": "93818"
   },
   {
@@ -5663,7 +5663,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Andoolo",
     "districtCode": "7405020",
     "village": "Punggapu",
-    "villageCode": "",
+    "villageCode": "7405020031",
     "postalCode": "93818"
   },
   {
@@ -5718,7 +5718,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Andoolo Barat",
     "districtCode": "7405022",
     "village": "Bekenggasu",
-    "villageCode": "",
+    "villageCode": "7405022008",
     "postalCode": "93819"
   },
   {
@@ -5773,7 +5773,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Baito",
     "districtCode": "7405032",
     "village": "Amosara",
-    "villageCode": "",
+    "villageCode": "7410051013",
     "postalCode": "93852"
   },
   {
@@ -5861,7 +5861,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Benua",
     "districtCode": "7405111",
     "village": "Awalo",
-    "villageCode": "",
+    "villageCode": "7405111014",
     "postalCode": "93861"
   },
   {
@@ -6246,7 +6246,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Basala",
     "districtCode": "7405112",
     "village": "Lere",
-    "villageCode": "",
+    "villageCode": "7405112002",
     "postalCode": "93863"
   },
   {
@@ -6279,7 +6279,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Basala",
     "districtCode": "7405112",
     "village": "Polo Pololi",
-    "villageCode": "",
+    "villageCode": "7405112008",
     "postalCode": "93863"
   },
   {
@@ -6290,7 +6290,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Lalembuu",
     "districtCode": "7405011",
     "village": "Mondoke",
-    "villageCode": "",
+    "villageCode": "7405011015",
     "postalCode": "93864"
   },
   {
@@ -6400,7 +6400,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Lalembuu",
     "districtCode": "7405011",
     "village": "Teteinea",
-    "villageCode": "",
+    "villageCode": "7405011011",
     "postalCode": "93864"
   },
   {
@@ -6411,7 +6411,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Lalembuu",
     "districtCode": "7405011",
     "village": "Mokupa Jaya",
-    "villageCode": "",
+    "villageCode": "7405011008",
     "postalCode": "93864"
   },
   {
@@ -6455,7 +6455,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Lalembuu",
     "districtCode": "7405011",
     "village": "Lalouesamba",
-    "villageCode": "",
+    "villageCode": "7405011019",
     "postalCode": "93864"
   },
   {
@@ -6708,7 +6708,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Landono",
     "districtCode": "7405100",
     "village": "Landono Dua",
-    "villageCode": "",
+    "villageCode": "7405100009",
     "postalCode": "93873"
   },
   {
@@ -6939,7 +6939,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Wolasi",
     "districtCode": "7405081",
     "village": "Leleka",
-    "villageCode": "",
+    "villageCode": "7405081001",
     "postalCode": "93875"
   },
   {
@@ -7192,7 +7192,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Mowila",
     "districtCode": "7405101",
     "village": "Ranombayasa",
-    "villageCode": "",
+    "villageCode": "7405101011",
     "postalCode": "93876"
   },
   {
@@ -7588,7 +7588,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Buke",
     "districtCode": "7405021",
     "village": "Wulele Jaya",
-    "villageCode": "",
+    "villageCode": "7405021014",
     "postalCode": "93884"
   },
   {
@@ -7643,7 +7643,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Buke",
     "districtCode": "7405021",
     "village": "Buke",
-    "villageCode": "",
+    "villageCode": "7405021004",
     "postalCode": "93884"
   },
   {
@@ -7687,7 +7687,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Buke",
     "districtCode": "7405021",
     "village": "Adayu Indah",
-    "villageCode": "",
+    "villageCode": "7405021013",
     "postalCode": "93884"
   },
   {
@@ -7731,7 +7731,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Buke",
     "districtCode": "7405021",
     "village": "Puudaria",
-    "villageCode": "",
+    "villageCode": "7405021002",
     "postalCode": "93884"
   },
   {
@@ -7742,7 +7742,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Tinanggea",
     "districtCode": "7405010",
     "village": "Ngapaah",
-    "villageCode": "",
+    "villageCode": "7405010008",
     "postalCode": "93885"
   },
   {
@@ -7940,7 +7940,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Tinanggea",
     "districtCode": "7405010",
     "village": "Panggoosi",
-    "villageCode": "",
+    "villageCode": "7405010042",
     "postalCode": "93885"
   },
   {
@@ -7951,7 +7951,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Tinanggea",
     "districtCode": "7405010",
     "village": "Palotawo",
-    "villageCode": "",
+    "villageCode": "7405010017",
     "postalCode": "93885"
   },
   {
@@ -8226,7 +8226,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Laeya",
     "districtCode": "7405041",
     "village": "Ombu Ombu Jaya",
-    "villageCode": "",
+    "villageCode": "7405041009",
     "postalCode": "93887"
   },
   {
@@ -8259,7 +8259,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Laeya",
     "districtCode": "7405041",
     "village": "Rambu Rambu",
-    "villageCode": "",
+    "villageCode": "7405041007",
     "postalCode": "93887"
   },
   {
@@ -8435,7 +8435,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Moramo",
     "districtCode": "7405070",
     "village": "Ranooha Raya",
-    "villageCode": "",
+    "villageCode": "7405070041",
     "postalCode": "93891"
   },
   {
@@ -8556,7 +8556,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Laonti",
     "districtCode": "7405060",
     "village": "Rumbi-Rumbia",
-    "villageCode": "",
+    "villageCode": "7405060019",
     "postalCode": "93892"
   },
   {
@@ -8600,7 +8600,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Laonti",
     "districtCode": "7405060",
     "village": "Puudirangga",
-    "villageCode": "",
+    "villageCode": "7410010010",
     "postalCode": "93892"
   },
   {
@@ -8633,7 +8633,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Laonti",
     "districtCode": "7405060",
     "village": "Tue Tue",
-    "villageCode": "",
+    "villageCode": "7405060008",
     "postalCode": "93892"
   },
   {
@@ -8644,7 +8644,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Laonti",
     "districtCode": "7405060",
     "village": "Sangi Sangi",
-    "villageCode": "",
+    "villageCode": "7405060009",
     "postalCode": "93892"
   },
   {
@@ -8688,7 +8688,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Kolono",
     "districtCode": "7405050",
     "village": "Sawa",
-    "villageCode": "",
+    "villageCode": "7405050009",
     "postalCode": "93893"
   },
   {
@@ -8985,7 +8985,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Kolono Timur",
     "districtCode": "7405051",
     "village": "Ulunese",
-    "villageCode": "",
+    "villageCode": "7405051009",
     "postalCode": "93894"
   },
   {
@@ -9161,7 +9161,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Asera",
     "districtCode": "7410050",
     "village": "Alaa Wanggudu",
-    "villageCode": "",
+    "villageCode": "7410050008",
     "postalCode": "93311"
   },
   {
@@ -9194,7 +9194,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Asera",
     "districtCode": "7410050",
     "village": "Kota Mulya",
-    "villageCode": "",
+    "villageCode": "7410050052",
     "postalCode": "93311"
   },
   {
@@ -9227,7 +9227,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Asera",
     "districtCode": "7410050",
     "village": "Asera",
-    "villageCode": "",
+    "villageCode": "7410050015",
     "postalCode": "93311"
   },
   {
@@ -9381,7 +9381,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Lasolo Kepulauan",
     "districtCode": "7410032",
     "village": "Labengki",
-    "villageCode": "",
+    "villageCode": "7410032003",
     "postalCode": "93341"
   },
   {
@@ -9502,7 +9502,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Oheo",
     "districtCode": "7410052",
     "village": "Tadoloiyo Trans",
-    "villageCode": "",
+    "villageCode": "7410052009",
     "postalCode": "93341"
   },
   {
@@ -9513,7 +9513,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Oheo",
     "districtCode": "7410052",
     "village": "Tadoloiyo",
-    "villageCode": "",
+    "villageCode": "7410052009",
     "postalCode": "93341"
   },
   {
@@ -9579,7 +9579,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Wawolesea",
     "districtCode": "7410031",
     "village": "Kampoh Bunga",
-    "villageCode": "",
+    "villageCode": "7410031002",
     "postalCode": "93342"
   },
   {
@@ -9623,7 +9623,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Wiwirano",
     "districtCode": "7410070",
     "village": "Wacumelewe",
-    "villageCode": "",
+    "villageCode": "7410070018",
     "postalCode": "93342"
   },
   {
@@ -9634,7 +9634,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Wiwirano",
     "districtCode": "7410070",
     "village": "Wawonsangi",
-    "villageCode": "",
+    "villageCode": "7410070021",
     "postalCode": "93342"
   },
   {
@@ -9722,7 +9722,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Wiwirano",
     "districtCode": "7410070",
     "village": "Lamparinga",
-    "villageCode": "",
+    "villageCode": "7410070008",
     "postalCode": "93342"
   },
   {
@@ -9777,7 +9777,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Langgikima",
     "districtCode": "7410060",
     "village": "Tobimeita",
-    "villageCode": "",
+    "villageCode": "7410060005",
     "postalCode": "93343"
   },
   {
@@ -9799,7 +9799,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Langgikima",
     "districtCode": "7410060",
     "village": "Langgikima",
-    "villageCode": "",
+    "villageCode": "7410060002",
     "postalCode": "93343"
   },
   {
@@ -9854,7 +9854,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Langgikima",
     "districtCode": "7410060",
     "village": "Sarimukti",
-    "villageCode": "",
+    "villageCode": "7410060001",
     "postalCode": "93343"
   },
   {
@@ -10052,7 +10052,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Lasolo",
     "districtCode": "7410030",
     "village": "Tokowuta",
-    "villageCode": "",
+    "villageCode": "7410030057",
     "postalCode": "93352"
   },
   {
@@ -10118,7 +10118,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Lasolo",
     "districtCode": "7410030",
     "village": "Tinobu",
-    "villageCode": "",
+    "villageCode": "7410030034",
     "postalCode": "93352"
   },
   {
@@ -10393,7 +10393,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Lembo",
     "districtCode": "7410020",
     "village": "Alo Alo",
-    "villageCode": "",
+    "villageCode": "7410020009",
     "postalCode": "93354"
   },
   {
@@ -10470,7 +10470,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Sawa",
     "districtCode": "7410010",
     "village": "Pudonggala Utama",
-    "villageCode": "",
+    "villageCode": "7410010008",
     "postalCode": "93355"
   },
   {
@@ -10503,7 +10503,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Sawa",
     "districtCode": "7410010",
     "village": "Tudungano",
-    "villageCode": "",
+    "villageCode": "7410010034",
     "postalCode": "93355"
   },
   {
@@ -10591,7 +10591,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Motui",
     "districtCode": "7410011",
     "village": "Poni Poniki",
-    "villageCode": "",
+    "villageCode": "7410011004",
     "postalCode": "93356"
   },
   {
@@ -10899,7 +10899,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Asinua",
     "districtCode": "7403183",
     "village": "Nekudu",
-    "villageCode": "",
+    "villageCode": "7403183003",
     "postalCode": "93416"
   },
   {
@@ -11141,7 +11141,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Konawe",
     "districtCode": "7403152",
     "village": "Asinowowo",
-    "villageCode": "",
+    "villageCode": "7403152011",
     "postalCode": "93451"
   },
   {
@@ -11218,7 +11218,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Konawe",
     "districtCode": "7403152",
     "village": "Uete",
-    "villageCode": "",
+    "villageCode": "7403152009",
     "postalCode": "93451"
   },
   {
@@ -11273,7 +11273,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Abuki",
     "districtCode": "7403180",
     "village": "Epeeya",
-    "villageCode": "",
+    "villageCode": "7403102014",
     "postalCode": "93452"
   },
   {
@@ -11350,7 +11350,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Abuki",
     "districtCode": "7403180",
     "village": "Kasuwura Indah",
-    "villageCode": "",
+    "villageCode": "7403180043",
     "postalCode": "93452"
   },
   {
@@ -11592,7 +11592,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Tongauna",
     "districtCode": "7403182",
     "village": "Sendang Mulya Sari",
-    "villageCode": "",
+    "villageCode": "7403182002",
     "postalCode": "93454"
   },
   {
@@ -11658,7 +11658,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Tongauna Utara",
     "districtCode": "7403185",
     "village": "Puundombi",
-    "villageCode": "",
+    "villageCode": "7403185005",
     "postalCode": "93454"
   },
   {
@@ -11746,7 +11746,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Morosi",
     "districtCode": "7403105",
     "village": "Besu",
-    "villageCode": "",
+    "villageCode": "7403105003",
     "postalCode": "93456"
   },
   {
@@ -11757,7 +11757,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Morosi",
     "districtCode": "7403105",
     "village": "Paku",
-    "villageCode": "",
+    "villageCode": "7403105004",
     "postalCode": "93456"
   },
   {
@@ -11823,7 +11823,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Morosi",
     "districtCode": "7403105",
     "village": "Puuruy",
-    "villageCode": "",
+    "villageCode": "7403105005",
     "postalCode": "93456"
   },
   {
@@ -11933,7 +11933,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Wawotobi",
     "districtCode": "7403150",
     "village": "Karandu",
-    "villageCode": "",
+    "villageCode": "7403150030",
     "postalCode": "93461"
   },
   {
@@ -11955,7 +11955,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Wawotobi",
     "districtCode": "7403150",
     "village": "Analahumbuti",
-    "villageCode": "",
+    "villageCode": "7403150033",
     "postalCode": "93461"
   },
   {
@@ -11977,7 +11977,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Wawotobi",
     "districtCode": "7403150",
     "village": "Bose-Bose",
-    "villageCode": "",
+    "villageCode": "7403150014",
     "postalCode": "93461"
   },
   {
@@ -11988,7 +11988,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Wawotobi",
     "districtCode": "7403150",
     "village": "Anggotoa",
-    "villageCode": "",
+    "villageCode": "7403150034",
     "postalCode": "93461"
   },
   {
@@ -12032,7 +12032,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Wawotobi",
     "districtCode": "7403150",
     "village": "Nario Indah",
-    "villageCode": "",
+    "villageCode": "7403150031",
     "postalCode": "93461"
   },
   {
@@ -12043,7 +12043,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Wawotobi",
     "districtCode": "7403150",
     "village": "Kukuluri",
-    "villageCode": "",
+    "villageCode": "7403150035",
     "postalCode": "93461"
   },
   {
@@ -12098,7 +12098,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Wawotobi",
     "districtCode": "7403150",
     "village": "Korumba",
-    "villageCode": "",
+    "villageCode": "7403150032",
     "postalCode": "93461"
   },
   {
@@ -12120,7 +12120,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Uepai",
     "districtCode": "7403131",
     "village": "Rawua",
-    "villageCode": "",
+    "villageCode": "7403131009",
     "postalCode": "93462"
   },
   {
@@ -12318,7 +12318,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Pondidaha",
     "districtCode": "7403140",
     "village": "Mumundowu",
-    "villageCode": "",
+    "villageCode": "7403140024",
     "postalCode": "93463"
   },
   {
@@ -12582,7 +12582,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Onembute",
     "districtCode": "7403133",
     "village": "Tawapandere",
-    "villageCode": "",
+    "villageCode": "7403133008",
     "postalCode": "93465"
   },
   {
@@ -12791,7 +12791,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Amonggedo",
     "districtCode": "7403142",
     "village": "Matabura",
-    "villageCode": "",
+    "villageCode": "7403142001",
     "postalCode": "93466"
   },
   {
@@ -12890,7 +12890,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Wonggeduku",
     "districtCode": "7403141",
     "village": "Duriaasi",
-    "villageCode": "",
+    "villageCode": "7403091007",
     "postalCode": "93467"
   },
   {
@@ -12923,7 +12923,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Wonggeduku",
     "districtCode": "7403141",
     "village": "Tetewonua",
-    "villageCode": "",
+    "villageCode": "7403141030",
     "postalCode": "93467"
   },
   {
@@ -13077,7 +13077,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Meluhu",
     "districtCode": "7403151",
     "village": "Meluhu",
-    "villageCode": "",
+    "villageCode": "7403151002",
     "postalCode": "93468"
   },
   {
@@ -13231,7 +13231,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Wonggeduku Barat",
     "districtCode": "7403143",
     "village": "Anggadola",
-    "villageCode": "",
+    "villageCode": "7403143006",
     "postalCode": "93469"
   },
   {
@@ -13286,7 +13286,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Puriala",
     "districtCode": "7403132",
     "village": "Laloonaha",
-    "villageCode": "",
+    "villageCode": "7403132015",
     "postalCode": "93469"
   },
   {
@@ -13297,7 +13297,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Puriala",
     "districtCode": "7403132",
     "village": "Watundehoa",
-    "villageCode": "",
+    "villageCode": "7403132004",
     "postalCode": "93469"
   },
   {
@@ -13396,7 +13396,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Puriala",
     "districtCode": "7403132",
     "village": "Wawosanggula",
-    "villageCode": "",
+    "villageCode": "7403132016",
     "postalCode": "93469"
   },
   {
@@ -13506,7 +13506,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Soropia",
     "districtCode": "7403090",
     "village": "Leppe",
-    "villageCode": "",
+    "villageCode": "7403090025",
     "postalCode": "93471"
   },
   {
@@ -13627,7 +13627,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Lalonggasumeeto",
     "districtCode": "7403091",
     "village": "Toolawawo",
-    "villageCode": "",
+    "villageCode": "7403091003",
     "postalCode": "93472"
   },
   {
@@ -13660,7 +13660,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Lalonggasumeeto",
     "districtCode": "7403091",
     "village": "Toli Toli",
-    "villageCode": "",
+    "villageCode": "7403091010",
     "postalCode": "93472"
   },
   {
@@ -13704,7 +13704,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Bondoala",
     "districtCode": "7403101",
     "village": "Laosu",
-    "villageCode": "",
+    "villageCode": "7403101014",
     "postalCode": "93473"
   },
   {
@@ -13847,7 +13847,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Kapoiala",
     "districtCode": "7403103",
     "village": "Kapoiala",
-    "villageCode": "",
+    "villageCode": "7403103012",
     "postalCode": "93474"
   },
   {
@@ -13935,7 +13935,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Sampara",
     "districtCode": "7403100",
     "village": "Puuloro",
-    "villageCode": "",
+    "villageCode": "7403100020",
     "postalCode": "93475"
   },
   {
@@ -14023,7 +14023,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Sampara",
     "districtCode": "7403100",
     "village": "Kongga Mea",
-    "villageCode": "",
+    "villageCode": "7403100011",
     "postalCode": "93475"
   },
   {
@@ -14067,7 +14067,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Sampara",
     "districtCode": "7403100",
     "village": "Wawo Andaroa",
-    "villageCode": "",
+    "villageCode": "7403100022",
     "postalCode": "93475"
   },
   {
@@ -14122,7 +14122,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Besulutu",
     "districtCode": "7403102",
     "village": "Lalowulo",
-    "villageCode": "",
+    "villageCode": "7403102017",
     "postalCode": "93476"
   },
   {
@@ -14221,7 +14221,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Besulutu",
     "districtCode": "7403102",
     "village": "Besulutu",
-    "villageCode": "",
+    "villageCode": "7403102007",
     "postalCode": "93476"
   },
   {
@@ -14276,7 +14276,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Wawonii Barat",
     "districtCode": "7412070",
     "village": "Kawa-Kawali",
-    "villageCode": "",
+    "villageCode": "7412070015",
     "postalCode": "93491"
   },
   {
@@ -14320,7 +14320,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Wawonii Barat",
     "districtCode": "7412070",
     "village": "Lantula",
-    "villageCode": "",
+    "villageCode": "7412070011",
     "postalCode": "93491"
   },
   {
@@ -14342,7 +14342,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Wawonii Barat",
     "districtCode": "7412070",
     "village": "langkowala",
-    "villageCode": "",
+    "villageCode": "7412070014",
     "postalCode": "93491"
   },
   {
@@ -14474,7 +14474,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Wawonii Tengah",
     "districtCode": "7412060",
     "village": "Pesue",
-    "villageCode": "",
+    "villageCode": "7412060003",
     "postalCode": "93492"
   },
   {
@@ -14496,7 +14496,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Wawonii Tengah",
     "districtCode": "7412060",
     "village": "Wawo Indah",
-    "villageCode": "",
+    "villageCode": "7412060007",
     "postalCode": "93492"
   },
   {
@@ -14595,7 +14595,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Wawonii Timur",
     "districtCode": "7412020",
     "village": "Munse Indah",
-    "villageCode": "",
+    "villageCode": "7412020005",
     "postalCode": "93494"
   },
   {
@@ -14628,7 +14628,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Wawonii Timur",
     "districtCode": "7412020",
     "village": "Laywo Jaya",
-    "villageCode": "",
+    "villageCode": "7412020006",
     "postalCode": "93494"
   },
   {
@@ -14639,7 +14639,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Wawonii Tenggara",
     "districtCode": "7412010",
     "village": "Sukarela Jaya",
-    "villageCode": "",
+    "villageCode": "7412010004",
     "postalCode": "93495"
   },
   {
@@ -14716,7 +14716,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Wawonii Tenggara",
     "districtCode": "7412010",
     "village": "Masolo",
-    "villageCode": "",
+    "villageCode": "7412010012",
     "postalCode": "93495"
   },
   {
@@ -14749,7 +14749,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Wawonii Tenggara",
     "districtCode": "7412010",
     "village": "Roko Roko",
-    "villageCode": "",
+    "villageCode": "7412010002",
     "postalCode": "93495"
   },
   {
@@ -14969,7 +14969,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Wawonii Utara",
     "districtCode": "7412040",
     "village": "Wawoea",
-    "villageCode": "",
+    "villageCode": "7412040022",
     "postalCode": "93497"
   },
   {
@@ -15376,7 +15376,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Kodeoha",
     "districtCode": "7408030",
     "village": "Kalu-Kaluku",
-    "villageCode": "",
+    "villageCode": "7408030001",
     "postalCode": "93957"
   },
   {
@@ -15475,7 +15475,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Bonegunu",
     "districtCode": "7409100",
     "village": "Bonegunu",
-    "villageCode": "",
+    "villageCode": "7409100009",
     "postalCode": "93742"
   },
   {
@@ -15695,7 +15695,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Mawasangka Timur",
     "districtCode": "7414040",
     "village": "Bonemarambe",
-    "villageCode": "",
+    "villageCode": "7414040003",
     "postalCode": "93765"
   },
   {
@@ -15981,7 +15981,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Wolowa",
     "districtCode": "7401061",
     "village": "Suka Maju",
-    "villageCode": "",
+    "villageCode": "7401061029",
     "postalCode": "93733"
   },
   {
@@ -16278,7 +16278,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Kambowa",
     "districtCode": "7409101",
     "village": "Lahumoko",
-    "villageCode": "",
+    "villageCode": "7409101007",
     "postalCode": "93743"
   },
   {
@@ -16300,7 +16300,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Kambowa",
     "districtCode": "7409101",
     "village": "Bubu",
-    "villageCode": "",
+    "villageCode": "7409101008",
     "postalCode": "93743"
   },
   {
@@ -16311,7 +16311,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Kambowa",
     "districtCode": "7409101",
     "village": "Bente",
-    "villageCode": "",
+    "villageCode": "7409101009",
     "postalCode": "93743"
   },
   {
@@ -16795,7 +16795,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Lasalimu",
     "districtCode": "7401050",
     "village": "Benteng",
-    "villageCode": "",
+    "villageCode": "7401050032",
     "postalCode": "93755"
   },
   {
@@ -16872,7 +16872,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Lasalimu",
     "districtCode": "7401050",
     "village": "Togomangura",
-    "villageCode": "",
+    "villageCode": "7401050028",
     "postalCode": "93755"
   },
   {
@@ -17081,7 +17081,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Gu",
     "districtCode": "7414060",
     "village": "Lowu Lowu",
-    "villageCode": "",
+    "villageCode": "7414060017",
     "postalCode": "93761"
   },
   {
@@ -17103,7 +17103,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Gu",
     "districtCode": "7414060",
     "village": "Kamama Mekar",
-    "villageCode": "",
+    "villageCode": "7414060016",
     "postalCode": "93761"
   },
   {
@@ -17268,7 +17268,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Mawasangka",
     "districtCode": "7414020",
     "village": "Gumanano",
-    "villageCode": "",
+    "villageCode": "7414020003",
     "postalCode": "93762"
   },
   {
@@ -17312,7 +17312,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Mawasangka",
     "districtCode": "7414020",
     "village": "Kancebungi",
-    "villageCode": "",
+    "villageCode": "7414020002",
     "postalCode": "93762"
   },
   {
@@ -17433,7 +17433,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Lakudo",
     "districtCode": "7414050",
     "village": "Waraa",
-    "villageCode": "",
+    "villageCode": "7414050002",
     "postalCode": "93763"
   },
   {
@@ -17499,7 +17499,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Lakudo",
     "districtCode": "7414050",
     "village": "Metere",
-    "villageCode": "",
+    "villageCode": "7414050011",
     "postalCode": "93763"
   },
   {
@@ -17620,7 +17620,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Mawasangka Tengah",
     "districtCode": "7414030",
     "village": "Gundu Gundu",
-    "villageCode": "",
+    "villageCode": "7414030009",
     "postalCode": "93766"
   },
   {
@@ -17697,7 +17697,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Talaga Raya",
     "districtCode": "7414010",
     "village": "Wulu",
-    "villageCode": "",
+    "villageCode": "7414010005",
     "postalCode": "93769"
   },
   {
@@ -17752,7 +17752,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Talaga Raya",
     "districtCode": "7414010",
     "village": "Talaga Satu",
-    "villageCode": "",
+    "villageCode": "7414010004",
     "postalCode": "93769"
   },
   {
@@ -17763,7 +17763,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Talaga Raya",
     "districtCode": "7414010",
     "village": "Liwulompona",
-    "villageCode": "",
+    "villageCode": "7414010006",
     "postalCode": "93769"
   },
   {
@@ -17829,7 +17829,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Katobu",
     "districtCode": "7402070",
     "village": "Butung Butung",
-    "villageCode": "",
+    "villageCode": "7402070023",
     "postalCode": "93619"
   },
   {
@@ -18236,7 +18236,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Tiworo Tengah",
     "districtCode": "7413030",
     "village": "Wapae Jaya",
-    "villageCode": "",
+    "villageCode": "7413030004",
     "postalCode": "93648"
   },
   {
@@ -18852,7 +18852,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Kabawo",
     "districtCode": "7402030",
     "village": "Bente",
-    "villageCode": "",
+    "villageCode": "7402030009",
     "postalCode": "93661"
   },
   {
@@ -19215,7 +19215,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Maginti",
     "districtCode": "7413020",
     "village": "Pasipadanga",
-    "villageCode": "",
+    "villageCode": "7413020012",
     "postalCode": "93666"
   },
   {
@@ -19391,7 +19391,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Pasir Putih",
     "districtCode": "7402091",
     "village": "Bumbu",
-    "villageCode": "",
+    "villageCode": "7402091010",
     "postalCode": "93677"
   },
   {
@@ -19710,7 +19710,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Latambaga",
     "districtCode": "7404061",
     "village": "Kolakaasi",
-    "villageCode": "",
+    "villageCode": "7404061004",
     "postalCode": "93512"
   },
   {
@@ -19809,7 +19809,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Samaturu",
     "districtCode": "7404071",
     "village": "Sani-sani",
-    "villageCode": "",
+    "villageCode": "7404071002",
     "postalCode": "93552"
   },
   {
@@ -19831,7 +19831,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Samaturu",
     "districtCode": "7404071",
     "village": "Puu Tamboli",
-    "villageCode": "",
+    "villageCode": "7404071007",
     "postalCode": "93552"
   },
   {
@@ -20062,7 +20062,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Wolo",
     "districtCode": "7404070",
     "village": "Ululapao-pao",
-    "villageCode": "",
+    "villageCode": "7404070012",
     "postalCode": "93557"
   },
   {
@@ -20238,7 +20238,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Wundulako",
     "districtCode": "7404030",
     "village": "Towua",
-    "villageCode": "",
+    "villageCode": "7404030007",
     "postalCode": "93561"
   },
   {
@@ -20293,7 +20293,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Pomalaa",
     "districtCode": "7404020",
     "village": "Huko-Huko",
-    "villageCode": "",
+    "villageCode": "7404020012",
     "postalCode": "93562"
   },
   {
@@ -20359,7 +20359,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Pomalaa",
     "districtCode": "7404020",
     "village": "Oko-Oko",
-    "villageCode": "",
+    "villageCode": "7404020001",
     "postalCode": "93562"
   },
   {
@@ -20986,7 +20986,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Tirawuta",
     "districtCode": "7411070",
     "village": "Poni-Poniki",
-    "villageCode": "",
+    "villageCode": "7411070003",
     "postalCode": "93572"
   },
   {
@@ -21151,7 +21151,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Ladongi",
     "districtCode": "7411050",
     "village": "Ladongi",
-    "villageCode": "",
+    "villageCode": "7411050006",
     "postalCode": "93573"
   },
   {
@@ -21415,7 +21415,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Uluiwoi",
     "districtCode": "7411110",
     "village": "Uete",
-    "villageCode": "",
+    "villageCode": "7411110002",
     "postalCode": "93575"
   },
   {
@@ -21580,7 +21580,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Dangia",
     "districtCode": "7411040",
     "village": "Lalongkateba",
-    "villageCode": "",
+    "villageCode": "7411040001",
     "postalCode": "93577"
   },
   {
@@ -22405,7 +22405,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Wawo",
     "districtCode": "7408012",
     "village": "Ulu Wawo",
-    "villageCode": "",
+    "villageCode": "7408012002",
     "postalCode": "93952"
   },
   {
@@ -22548,7 +22548,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Pakue",
     "districtCode": "7408050",
     "village": "Olo-Oloho",
-    "villageCode": "",
+    "villageCode": "7408050017",
     "postalCode": "93954"
   },
   {
@@ -22867,7 +22867,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Ngapa",
     "districtCode": "7408040",
     "village": "Watumotaha",
-    "villageCode": "",
+    "villageCode": "7408040015",
     "postalCode": "93958"
   },
   {
@@ -22999,7 +22999,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Tiwu",
     "districtCode": "7408031",
     "village": "Tanggeawo",
-    "villageCode": "",
+    "villageCode": "7408031007",
     "postalCode": "93961"
   },
   {
@@ -23043,7 +23043,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Watunohu",
     "districtCode": "7408041",
     "village": "Nyule",
-    "villageCode": "",
+    "villageCode": "7408041006",
     "postalCode": "93962"
   },
   {
@@ -23934,7 +23934,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Rarowatu Utara",
     "districtCode": "7406041",
     "village": "Tembe",
-    "villageCode": "",
+    "villageCode": "7406041005",
     "postalCode": "93774"
   },
   {
@@ -23989,7 +23989,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Rarowatu",
     "districtCode": "7406040",
     "village": "Rau Rau",
-    "villageCode": "",
+    "villageCode": "7406040001",
     "postalCode": "93774"
   },
   {
@@ -24418,7 +24418,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Wua-Wua",
     "districtCode": "7471014",
     "village": "Wua Wua",
-    "villageCode": "",
+    "villageCode": "7471014004",
     "postalCode": "93117"
   },
   {
@@ -24539,7 +24539,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Kendari Barat",
     "districtCode": "7471031",
     "village": "Benu Benua",
-    "villageCode": "",
+    "villageCode": "7471031005",
     "postalCode": "93123"
   },
   {
@@ -24550,7 +24550,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Kendari Barat",
     "districtCode": "7471031",
     "village": "Dapu Dapura",
-    "villageCode": "",
+    "villageCode": "7471031008",
     "postalCode": "93124"
   },
   {
@@ -24836,7 +24836,7 @@ export const SULAWESI_TENGGARA: PostalCodeData[] = [
     "district": "Abeli",
     "districtCode": "7471021",
     "village": "Anggalomelai",
-    "villageCode": "",
+    "villageCode": "7471021006",
     "postalCode": "93237"
   },
   {

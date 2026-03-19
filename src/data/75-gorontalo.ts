@@ -31,7 +31,7 @@ export const GORONTALO: PostalCodeData[] = [
     "district": "Kota Timur",
     "districtCode": "7571021",
     "village": "Heledulaa Utara",
-    "villageCode": "",
+    "villageCode": "7571021011",
     "postalCode": "96100"
   },
   {
@@ -108,7 +108,7 @@ export const GORONTALO: PostalCodeData[] = [
     "district": "Sipatana",
     "districtCode": "7571032",
     "village": "Bulotadaa Timur",
-    "villageCode": "",
+    "villageCode": "7571032005",
     "postalCode": "96100"
   },
   {
@@ -130,7 +130,7 @@ export const GORONTALO: PostalCodeData[] = [
     "district": "Sipatana",
     "districtCode": "7571032",
     "village": "Bulotadaa Barat",
-    "villageCode": "",
+    "villageCode": "7571032005",
     "postalCode": "96100"
   },
   {
@@ -493,7 +493,7 @@ export const GORONTALO: PostalCodeData[] = [
     "district": "Kota Utara",
     "districtCode": "7571030",
     "village": "Wongkaditi Timur",
-    "villageCode": "",
+    "villageCode": "7571030004",
     "postalCode": "96100"
   },
   {
@@ -504,7 +504,7 @@ export const GORONTALO: PostalCodeData[] = [
     "district": "Kota Utara",
     "districtCode": "7571030",
     "village": "Dulomo Utara",
-    "villageCode": "",
+    "villageCode": "7571030012",
     "postalCode": "96100"
   },
   {
@@ -1131,7 +1131,7 @@ export const GORONTALO: PostalCodeData[] = [
     "district": "Monano",
     "districtCode": "7505031",
     "village": "Dunu",
-    "villageCode": "",
+    "villageCode": "7505031001",
     "postalCode": "96252"
   },
   {
@@ -1428,7 +1428,7 @@ export const GORONTALO: PostalCodeData[] = [
     "district": "Biau",
     "districtCode": "7505051",
     "village": "Sembihinga",
-    "villageCode": "",
+    "villageCode": "7505051010",
     "postalCode": "96252"
   },
   {
@@ -1912,7 +1912,7 @@ export const GORONTALO: PostalCodeData[] = [
     "district": "Sumalata Timur",
     "districtCode": "7505041",
     "village": "Wubudu",
-    "villageCode": "",
+    "villageCode": "7505041001",
     "postalCode": "96252"
   },
   {
@@ -1978,7 +1978,7 @@ export const GORONTALO: PostalCodeData[] = [
     "district": "Anggrek",
     "districtCode": "7505030",
     "village": "Heluma",
-    "villageCode": "",
+    "villageCode": "7505030016",
     "postalCode": "96252"
   },
   {
@@ -2341,7 +2341,7 @@ export const GORONTALO: PostalCodeData[] = [
     "district": "Atinggola",
     "districtCode": "7505010",
     "village": "Kotajin",
-    "villageCode": "",
+    "villageCode": "7505010016",
     "postalCode": "96253"
   },
   {
@@ -4255,7 +4255,7 @@ export const GORONTALO: PostalCodeData[] = [
     "district": "Mananggu",
     "districtCode": "7501031",
     "village": "Kramat",
-    "villageCode": "",
+    "villageCode": "7501031008",
     "postalCode": "96265"
   },
   {
@@ -4849,7 +4849,7 @@ export const GORONTALO: PostalCodeData[] = [
     "district": "Wonosari",
     "districtCode": "7501051",
     "village": "Suka Mulya",
-    "villageCode": "",
+    "villageCode": "7501051011",
     "postalCode": "96262"
   },
   {
@@ -5476,7 +5476,7 @@ export const GORONTALO: PostalCodeData[] = [
     "district": "Bulango Ulu",
     "districtCode": "7504014",
     "village": "Mongiilo Utara",
-    "villageCode": "",
+    "villageCode": "7504014002",
     "postalCode": "96182"
   },
   {
@@ -6367,7 +6367,7 @@ export const GORONTALO: PostalCodeData[] = [
     "district": "Suwawa",
     "districtCode": "7504030",
     "village": "Bube",
-    "villageCode": "",
+    "villageCode": "7504030013",
     "postalCode": "96184"
   },
   {
@@ -6862,7 +6862,7 @@ export const GORONTALO: PostalCodeData[] = [
     "district": "Tilongkabila",
     "districtCode": "7504022",
     "village": "Butu",
-    "villageCode": "",
+    "villageCode": "7504022024",
     "postalCode": "96184"
   },
   {

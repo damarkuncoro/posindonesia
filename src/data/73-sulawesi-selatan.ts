@@ -152,7 +152,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Galesong",
     "districtCode": "7305051",
     "village": "Tarembang",
-    "villageCode": "",
+    "villageCode": "7305051015",
     "postalCode": "92256"
   },
   {
@@ -185,7 +185,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Kurra",
     "districtCode": "7318067",
     "village": "Bambalu",
-    "villageCode": "",
+    "villageCode": "7318067001",
     "postalCode": "91865"
   },
   {
@@ -207,7 +207,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Bittuang",
     "districtCode": "7318051",
     "village": "Kole Palian",
-    "villageCode": "",
+    "villageCode": "7318051009",
     "postalCode": "91863"
   },
   {
@@ -262,7 +262,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Malimbong Balepe",
     "districtCode": "7318054",
     "village": "Kole Sawangan",
-    "villageCode": "",
+    "villageCode": "7318054005",
     "postalCode": "91866"
   },
   {
@@ -944,7 +944,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Rumbia",
     "districtCode": "7304051",
     "village": "Ujung Bulu",
-    "villageCode": "",
+    "villageCode": "7304051011",
     "postalCode": "92371"
   },
   {
@@ -1076,7 +1076,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Ujung Bulu",
     "districtCode": "7302020",
     "village": "Bentengnge",
-    "villageCode": "",
+    "villageCode": "7302020005",
     "postalCode": "92511"
   },
   {
@@ -1087,7 +1087,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Ujung Bulu",
     "districtCode": "7302020",
     "village": "Terang Terang",
-    "villageCode": "",
+    "villageCode": "7302020006",
     "postalCode": "92512"
   },
   {
@@ -1296,7 +1296,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Ujung Bulu",
     "districtCode": "7302020",
     "village": "Ela Ela",
-    "villageCode": "",
+    "villageCode": "7302020009",
     "postalCode": "92519"
   },
   {
@@ -1406,7 +1406,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Bulukumpa",
     "districtCode": "7302070",
     "village": "Bulo Bulo",
-    "villageCode": "",
+    "villageCode": "7302070003",
     "postalCode": "92552"
   },
   {
@@ -2385,7 +2385,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Kajang",
     "districtCode": "7302060",
     "village": "Lembang Lohe",
-    "villageCode": "",
+    "villageCode": "7302060003",
     "postalCode": "92574"
   },
   {
@@ -2627,7 +2627,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Bulupoddo",
     "districtCode": "7307080",
     "village": "Bulu Tellue",
-    "villageCode": "",
+    "villageCode": "7307080002",
     "postalCode": "92654"
   },
   {
@@ -2649,7 +2649,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Tanete Riattang Barat",
     "districtCode": "7311710",
     "village": "Bulu Tempe",
-    "villageCode": "",
+    "villageCode": "7311710006",
     "postalCode": "92735"
   },
   {
@@ -2726,7 +2726,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Tonra",
     "districtCode": "7311050",
     "village": "Bulu Bulu",
-    "villageCode": "",
+    "villageCode": "7311050007",
     "postalCode": "92774"
   },
   {
@@ -2792,7 +2792,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Sibulue",
     "districtCode": "7311090",
     "village": "Letta Tanah",
-    "villageCode": "",
+    "villageCode": "7311090017",
     "postalCode": "92781"
   },
   {
@@ -2946,7 +2946,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Sibulue",
     "districtCode": "7311090",
     "village": "Tunreng Tellue",
-    "villageCode": "",
+    "villageCode": "7311090004",
     "postalCode": "92781"
   },
   {
@@ -2957,7 +2957,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Bengo",
     "districtCode": "7311150",
     "village": "Bulu Allaporenge",
-    "villageCode": "",
+    "villageCode": "7311150005",
     "postalCode": "92792"
   },
   {
@@ -3705,7 +3705,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Buntu Pepasan",
     "districtCode": "7326200",
     "village": "Talimbangan",
-    "villageCode": "",
+    "villageCode": "7326200013",
     "postalCode": "91848"
   },
   {
@@ -3771,7 +3771,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Batang",
     "districtCode": "7304040",
     "village": "Bungeng",
-    "villageCode": "",
+    "villageCode": "7304040012",
     "postalCode": "92360"
   },
   {
@@ -3804,7 +3804,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Batang",
     "districtCode": "7304040",
     "village": "Camba Camba",
-    "villageCode": "",
+    "villageCode": "7304040008",
     "postalCode": "92360"
   },
   {
@@ -3826,7 +3826,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Batang",
     "districtCode": "7304040",
     "village": "Togo Togo",
-    "villageCode": "",
+    "villageCode": "7304040011",
     "postalCode": "92360"
   },
   {
@@ -4178,7 +4178,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Mandalle",
     "districtCode": "",
     "village": "Benteng",
-    "villageCode": "",
+    "villageCode": "7322030010",
     "postalCode": "90652"
   },
   {
@@ -4189,7 +4189,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Mandalle",
     "districtCode": "",
     "village": "Mandalle",
-    "villageCode": "",
+    "villageCode": "7313120005",
     "postalCode": "90652"
   },
   {
@@ -4200,7 +4200,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Mandalle",
     "districtCode": "",
     "village": "Manggalung",
-    "villageCode": "",
+    "villageCode": "7315050010",
     "postalCode": "90652"
   },
   {
@@ -4211,7 +4211,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Mandalle",
     "districtCode": "",
     "village": "Coppo Tompong",
-    "villageCode": "",
+    "villageCode": "7322121012",
     "postalCode": "90652"
   },
   {
@@ -4222,7 +4222,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Labakkang",
     "districtCode": "",
     "village": "Batara",
-    "villageCode": "",
+    "villageCode": "7373021001",
     "postalCode": "90653"
   },
   {
@@ -5311,7 +5311,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Malangke Barat",
     "districtCode": "7322031",
     "village": "Baku Baku",
-    "villageCode": "",
+    "villageCode": "7322031013",
     "postalCode": "92957"
   },
   {
@@ -5707,7 +5707,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Buntu Batu",
     "districtCode": "7316031",
     "village": "Lunjen",
-    "villageCode": "",
+    "villageCode": "7316031013",
     "postalCode": "91759"
   },
   {
@@ -5729,7 +5729,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Makale",
     "districtCode": "7318040",
     "village": "Batupapan",
-    "villageCode": "",
+    "villageCode": "7318040019",
     "postalCode": "91813"
   },
   {
@@ -5740,7 +5740,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Tikala",
     "districtCode": "7326100",
     "village": "Buntu Batu",
-    "villageCode": "",
+    "villageCode": "7326100004",
     "postalCode": "91833"
   },
   {
@@ -5773,7 +5773,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Awan Rante Karua",
     "districtCode": "7326180",
     "village": "Batu Lotong",
-    "villageCode": "",
+    "villageCode": "7326180001",
     "postalCode": "91846"
   },
   {
@@ -5784,7 +5784,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Baruppu",
     "districtCode": "7326210",
     "village": "Baruppu Benteng Batu",
-    "villageCode": "",
+    "villageCode": "7326210002",
     "postalCode": "91847"
   },
   {
@@ -5795,7 +5795,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Buntu Pepasan",
     "districtCode": "7326200",
     "village": "Batu Busa",
-    "villageCode": "",
+    "villageCode": "7326200008",
     "postalCode": "91848"
   },
   {
@@ -5806,7 +5806,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Buntu Pepasan",
     "districtCode": "7326200",
     "village": "Pangkung Batu",
-    "villageCode": "",
+    "villageCode": "7326200010",
     "postalCode": "91848"
   },
   {
@@ -5850,7 +5850,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Malimbong Balepe",
     "districtCode": "7318054",
     "village": "Kole Barebatu",
-    "villageCode": "",
+    "villageCode": "7318054006",
     "postalCode": "91866"
   },
   {
@@ -5861,7 +5861,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Rembon",
     "districtCode": "7318052",
     "village": "Batusura",
-    "villageCode": "",
+    "villageCode": "7318052011",
     "postalCode": "91867"
   },
   {
@@ -5872,7 +5872,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Makale Selatan",
     "districtCode": "7318041",
     "village": "Randan Batu",
-    "villageCode": "",
+    "villageCode": "7318041002",
     "postalCode": "91869"
   },
   {
@@ -5883,7 +5883,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Simbuang",
     "districtCode": "7318011",
     "village": "Simbuang Batutallu",
-    "villageCode": "",
+    "villageCode": "7318011010",
     "postalCode": "91873"
   },
   {
@@ -6158,7 +6158,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Galesong Utara",
     "districtCode": "7305060",
     "village": "Aeng Batu Batu",
-    "villageCode": "",
+    "villageCode": "7305060007",
     "postalCode": "92255"
   },
   {
@@ -6554,7 +6554,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Baruppu",
     "districtCode": "7326210",
     "village": "Baruppu Utara",
-    "villageCode": "",
+    "villageCode": "7326210003",
     "postalCode": "91847"
   },
   {
@@ -6576,7 +6576,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Baruppu",
     "districtCode": "7326210",
     "village": "Baruppu Parodo",
-    "villageCode": "",
+    "villageCode": "7326210004",
     "postalCode": "91847"
   },
   {
@@ -6829,7 +6829,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Bangkala",
     "districtCode": "7304010",
     "village": "Benteng",
-    "villageCode": "",
+    "villageCode": "7304010009",
     "postalCode": "92352"
   },
   {
@@ -6884,7 +6884,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Bangkala",
     "districtCode": "7304010",
     "village": "Tombo Tombolo",
-    "villageCode": "",
+    "villageCode": "7304010006",
     "postalCode": "92352"
   },
   {
@@ -7016,7 +7016,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Bangkala Barat",
     "districtCode": "7304011",
     "village": "Tuju",
-    "villageCode": "",
+    "villageCode": "7304011004",
     "postalCode": "92353"
   },
   {
@@ -7082,7 +7082,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Pasimasunggu Timur",
     "districtCode": "",
     "village": "Bontobulaeng",
-    "villageCode": "",
+    "villageCode": "7325010011",
     "postalCode": "92861"
   },
   {
@@ -7137,7 +7137,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Wajo",
     "districtCode": "7371060",
     "village": "Ende",
-    "villageCode": "",
+    "villageCode": "7371060002",
     "postalCode": "90174"
   },
   {
@@ -7159,7 +7159,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Dende Piongan Napo",
     "districtCode": "7326170",
     "village": "Kapolang",
-    "villageCode": "",
+    "villageCode": "7326170001",
     "postalCode": "91843"
   },
   {
@@ -7170,7 +7170,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Dende Piongan Napo",
     "districtCode": "7326170",
     "village": "Parinding",
-    "villageCode": "",
+    "villageCode": "7326170008",
     "postalCode": "91843"
   },
   {
@@ -7192,7 +7192,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Dende Piongan Napo",
     "districtCode": "7326170",
     "village": "Paku",
-    "villageCode": "",
+    "villageCode": "7326170005",
     "postalCode": "91843"
   },
   {
@@ -7203,7 +7203,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Dende Piongan Napo",
     "districtCode": "7326170",
     "village": "Buntu Tagari",
-    "villageCode": "",
+    "villageCode": "7326170007",
     "postalCode": "91843"
   },
   {
@@ -7214,7 +7214,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Dende Piongan Napo",
     "districtCode": "7326170",
     "village": "Dende",
-    "villageCode": "",
+    "villageCode": "7326170004",
     "postalCode": "91843"
   },
   {
@@ -7236,7 +7236,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Dende Piongan Napo",
     "districtCode": "7326170",
     "village": "Piongan",
-    "villageCode": "",
+    "villageCode": "7326170002",
     "postalCode": "91843"
   },
   {
@@ -7269,7 +7269,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Mengkendek",
     "districtCode": "7318020",
     "village": "Palipu",
-    "villageCode": "",
+    "villageCode": "7318020043",
     "postalCode": "91871"
   },
   {
@@ -7280,7 +7280,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Mengkendek",
     "districtCode": "7318020",
     "village": "Randanan",
-    "villageCode": "",
+    "villageCode": "7318020025",
     "postalCode": "91871"
   },
   {
@@ -7291,7 +7291,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Mengkendek",
     "districtCode": "7318020",
     "village": "Simbuang",
-    "villageCode": "",
+    "villageCode": "7318011004",
     "postalCode": "91871"
   },
   {
@@ -7313,7 +7313,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Mengkendek",
     "districtCode": "7318020",
     "village": "Buntu Datu",
-    "villageCode": "",
+    "villageCode": "7318020032",
     "postalCode": "91871"
   },
   {
@@ -7335,7 +7335,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Mengkendek",
     "districtCode": "7318020",
     "village": "Pakala",
-    "villageCode": "",
+    "villageCode": "7318020044",
     "postalCode": "91871"
   },
   {
@@ -7346,7 +7346,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Mengkendek",
     "districtCode": "7318020",
     "village": "Gasing",
-    "villageCode": "",
+    "villageCode": "7318020019",
     "postalCode": "91871"
   },
   {
@@ -7390,7 +7390,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Mengkendek",
     "districtCode": "7318020",
     "village": "Buntu Tangti",
-    "villageCode": "",
+    "villageCode": "7318020041",
     "postalCode": "91871"
   },
   {
@@ -7401,7 +7401,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Mengkendek",
     "districtCode": "7318020",
     "village": "Marinding",
-    "villageCode": "",
+    "villageCode": "7318020023",
     "postalCode": "91871"
   },
   {
@@ -7665,7 +7665,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Sopai",
     "districtCode": "7326010",
     "village": "Langda",
-    "villageCode": "",
+    "villageCode": "7326010001",
     "postalCode": "91841"
   },
   {
@@ -7676,7 +7676,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Sopai",
     "districtCode": "7326010",
     "village": "Tombang Langda",
-    "villageCode": "",
+    "villageCode": "7326010001",
     "postalCode": "91841"
   },
   {
@@ -7731,7 +7731,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Makassar",
     "districtCode": "7371040",
     "village": "Bara Baraya Selatan",
-    "villageCode": "",
+    "villageCode": "7371040004",
     "postalCode": "90143"
   },
   {
@@ -7742,7 +7742,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Sopai",
     "districtCode": "7326010",
     "village": "Nonongan Selatan",
-    "villageCode": "",
+    "villageCode": "7326010003",
     "postalCode": "91841"
   },
   {
@@ -7786,7 +7786,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Makale Selatan",
     "districtCode": "7318041",
     "village": "Sandabilik",
-    "villageCode": "",
+    "villageCode": "7318041007",
     "postalCode": "91869"
   },
   {
@@ -7819,7 +7819,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Makale Selatan",
     "districtCode": "7318041",
     "village": "Patekke",
-    "villageCode": "",
+    "villageCode": "7318041006",
     "postalCode": "91869"
   },
   {
@@ -7830,7 +7830,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Bonggakaradeng",
     "districtCode": "7318010",
     "village": "Bau Selatan",
-    "villageCode": "",
+    "villageCode": "7318010031",
     "postalCode": "91872"
   },
   {
@@ -8061,7 +8061,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Kamanre",
     "districtCode": "7317031",
     "village": "Salu Paremang Selatan",
-    "villageCode": "",
+    "villageCode": "7317031006",
     "postalCode": "91946"
   },
   {
@@ -8314,7 +8314,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Galesong Selatan",
     "districtCode": "7305050",
     "village": "Kale Bentang",
-    "villageCode": "",
+    "villageCode": "7305060003",
     "postalCode": "92254"
   },
   {
@@ -8325,7 +8325,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Galesong Selatan",
     "districtCode": "7305050",
     "village": "Kanaeng",
-    "villageCode": "",
+    "villageCode": "7305050006",
     "postalCode": "92254"
   },
   {
@@ -8358,7 +8358,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Galesong Selatan",
     "districtCode": "7305050",
     "village": "Bonto Kanang",
-    "villageCode": "",
+    "villageCode": "7305050020",
     "postalCode": "92254"
   },
   {
@@ -8391,7 +8391,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Galesong Selatan",
     "districtCode": "7305050",
     "village": "Bontokassi",
-    "villageCode": "",
+    "villageCode": "7305050007",
     "postalCode": "92254"
   },
   {
@@ -8402,7 +8402,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Galesong Selatan",
     "districtCode": "7305050",
     "village": "Kalukubodo",
-    "villageCode": "",
+    "villageCode": "7305050004",
     "postalCode": "92254"
   },
   {
@@ -8413,7 +8413,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Galesong Selatan",
     "districtCode": "7305050",
     "village": "Bontomarannu",
-    "villageCode": "",
+    "villageCode": "7305050019",
     "postalCode": "92254"
   },
   {
@@ -8435,7 +8435,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Galesong Selatan",
     "districtCode": "7305050",
     "village": "Barangmamase",
-    "villageCode": "",
+    "villageCode": "7305050002",
     "postalCode": "92254"
   },
   {
@@ -8457,7 +8457,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Polombangkeng Selatan",
     "districtCode": "7305030",
     "village": "Surulangi",
-    "villageCode": "",
+    "villageCode": "7305050003",
     "postalCode": "92258"
   },
   {
@@ -8490,7 +8490,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Polombangkeng Selatan",
     "districtCode": "7305030",
     "village": "Kale Lantang",
-    "villageCode": "",
+    "villageCode": "7305030009",
     "postalCode": "92258"
   },
   {
@@ -8721,7 +8721,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Bontoharu",
     "districtCode": "7301040",
     "village": "Putabangung",
-    "villageCode": "",
+    "villageCode": "7301040008",
     "postalCode": "92811"
   },
   {
@@ -8732,7 +8732,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Bontoharu",
     "districtCode": "7301040",
     "village": "Bontobangung",
-    "villageCode": "",
+    "villageCode": "7301040004",
     "postalCode": "92811"
   },
   {
@@ -8787,7 +8787,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Benteng",
     "districtCode": "7301041",
     "village": "Benteng",
-    "villageCode": "",
+    "villageCode": "7301041001",
     "postalCode": "92812"
   },
   {
@@ -8897,7 +8897,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Bontomanai",
     "districtCode": "7301042",
     "village": "Polebunging",
-    "villageCode": "",
+    "villageCode": "7301042007",
     "postalCode": "92851"
   },
   {
@@ -9051,7 +9051,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Bontomatene",
     "districtCode": "7301050",
     "village": "Bontona Saluk",
-    "villageCode": "",
+    "villageCode": "7301050007",
     "postalCode": "92854"
   },
   {
@@ -9381,7 +9381,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Pasimarannu",
     "districtCode": "7301010",
     "village": "Komba Komba",
-    "villageCode": "",
+    "villageCode": "7301010001",
     "postalCode": "92862"
   },
   {
@@ -10008,7 +10008,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Rantepao",
     "districtCode": "7326090",
     "village": "Saloso",
-    "villageCode": "",
+    "villageCode": "7326090001",
     "postalCode": "91831"
   },
   {
@@ -10129,7 +10129,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Salomekko",
     "districtCode": "7311040",
     "village": "Bellu",
-    "villageCode": "",
+    "villageCode": "7311040001",
     "postalCode": "92775"
   },
   {
@@ -10195,7 +10195,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Nanggala",
     "districtCode": "7326060",
     "village": "Tandung Nanggala",
-    "villageCode": "",
+    "villageCode": "7326060008",
     "postalCode": "91837"
   },
   {
@@ -10844,7 +10844,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Balusu",
     "districtCode": "7326120",
     "village": "Palangi",
-    "villageCode": "",
+    "villageCode": "7326120001",
     "postalCode": "91836"
   },
   {
@@ -10855,7 +10855,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Balusu",
     "districtCode": "7326120",
     "village": "Karua",
-    "villageCode": "",
+    "villageCode": "7326120002",
     "postalCode": "91836"
   },
   {
@@ -10888,7 +10888,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Buntao",
     "districtCode": "7326040",
     "village": "Issong Kalua",
-    "villageCode": "",
+    "villageCode": "7326040005",
     "postalCode": "91839"
   },
   {
@@ -10899,7 +10899,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Sopai",
     "districtCode": "7326010",
     "village": "Salu",
-    "villageCode": "",
+    "villageCode": "7326010005",
     "postalCode": "91841"
   },
   {
@@ -10910,7 +10910,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Sopai",
     "districtCode": "7326010",
     "village": "Salu Sopai",
-    "villageCode": "",
+    "villageCode": "7326010005",
     "postalCode": "91841"
   },
   {
@@ -10921,7 +10921,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Sopai",
     "districtCode": "7326010",
     "village": "Salu Sarre",
-    "villageCode": "",
+    "villageCode": "7326010006",
     "postalCode": "91841"
   },
   {
@@ -11020,7 +11020,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Sangalla Utara",
     "districtCode": "7318032",
     "village": "Saluallo",
-    "villageCode": "",
+    "villageCode": "7318032004",
     "postalCode": "91883"
   },
   {
@@ -11185,7 +11185,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Bontoramba",
     "districtCode": "7304021",
     "village": "Balumbungan",
-    "villageCode": "",
+    "villageCode": "7304021004",
     "postalCode": "92351"
   },
   {
@@ -11603,7 +11603,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Duampanua",
     "districtCode": "7315070",
     "village": "Kaballangan",
-    "villageCode": "",
+    "villageCode": "7315070007",
     "postalCode": "91253"
   },
   {
@@ -11625,7 +11625,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Bittuang",
     "districtCode": "7318051",
     "village": "Balla",
-    "villageCode": "",
+    "villageCode": "7318051010",
     "postalCode": "91863"
   },
   {
@@ -12098,7 +12098,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Gantarang Keke",
     "districtCode": "",
     "village": "Tombolo",
-    "villageCode": "",
+    "villageCode": "7304050008",
     "postalCode": "92461"
   },
   {
@@ -12252,7 +12252,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Binamu",
     "districtCode": "7304030",
     "village": "Biring Kassi",
-    "villageCode": "",
+    "villageCode": "7305060015",
     "postalCode": "92311"
   },
   {
@@ -12428,7 +12428,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Binamu",
     "districtCode": "7304030",
     "village": "Monro Monro",
-    "villageCode": "",
+    "villageCode": "7304030004",
     "postalCode": "92316"
   },
   {
@@ -12582,7 +12582,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Bontoramba",
     "districtCode": "7304021",
     "village": "Lentu",
-    "villageCode": "",
+    "villageCode": "7304021003",
     "postalCode": "92351"
   },
   {
@@ -12670,7 +12670,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Arungkeke",
     "districtCode": "7304041",
     "village": "Bulo Bulo",
-    "villageCode": "",
+    "villageCode": "7304041002",
     "postalCode": "92361"
   },
   {
@@ -12747,7 +12747,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Tarowang",
     "districtCode": "7304042",
     "village": "Balangloe Tarowang",
-    "villageCode": "",
+    "villageCode": "7304042004",
     "postalCode": "92362"
   },
   {
@@ -13220,7 +13220,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Polongbangkeng Timur",
     "districtCode": "",
     "village": "Kampung Beru",
-    "villageCode": "",
+    "villageCode": "7305051017",
     "postalCode": "92252"
   },
   {
@@ -13297,7 +13297,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Mappakasunggu",
     "districtCode": "7305020",
     "village": "Takalar",
-    "villageCode": "",
+    "villageCode": "7305020003",
     "postalCode": "92253"
   },
   {
@@ -13330,7 +13330,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Galesong Utara",
     "districtCode": "7305060",
     "village": "Sawakung Beba",
-    "villageCode": "",
+    "villageCode": "7305060014",
     "postalCode": "92255"
   },
   {
@@ -13396,7 +13396,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Galesong Utara",
     "districtCode": "7305060",
     "village": "Kaballokang Pakkabba",
-    "villageCode": "",
+    "villageCode": "7305060009",
     "postalCode": "92255"
   },
   {
@@ -13429,7 +13429,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Galesong Utara",
     "districtCode": "7305060",
     "village": "Maccini Sombala",
-    "villageCode": "",
+    "villageCode": "7305060013",
     "postalCode": "92255"
   },
   {
@@ -13462,7 +13462,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Galesong Utara",
     "districtCode": "7305060",
     "village": "Bontolanra",
-    "villageCode": "",
+    "villageCode": "7305060008",
     "postalCode": "92255"
   },
   {
@@ -13495,7 +13495,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Galesong",
     "districtCode": "7305051",
     "village": "Galesong Timur",
-    "villageCode": "",
+    "villageCode": "7305051016",
     "postalCode": "92256"
   },
   {
@@ -13990,7 +13990,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Bajeng",
     "districtCode": "7306020",
     "village": "Pabentengang",
-    "villageCode": "",
+    "villageCode": "7308021001",
     "postalCode": "92152"
   },
   {
@@ -14089,7 +14089,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Bontonompo",
     "districtCode": "7306010",
     "village": "Kalabarembeng",
-    "villageCode": "",
+    "villageCode": "7306020005",
     "postalCode": "92153"
   },
   {
@@ -14144,7 +14144,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Bontonompo",
     "districtCode": "7306010",
     "village": "Bontobiraeng",
-    "villageCode": "",
+    "villageCode": "7306010010",
     "postalCode": "92153"
   },
   {
@@ -14210,7 +14210,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Barombong",
     "districtCode": "7306031",
     "village": "Biringala",
-    "villageCode": "",
+    "villageCode": "7306010016",
     "postalCode": "92155"
   },
   {
@@ -15915,7 +15915,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Lau",
     "districtCode": "7308023",
     "village": "Bonto Marrannu",
-    "villageCode": "",
+    "villageCode": "7308023003",
     "postalCode": "90514"
   },
   {
@@ -15948,7 +15948,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Lau",
     "districtCode": "7308023",
     "village": "Marannu",
-    "villageCode": "",
+    "villageCode": "7308023004",
     "postalCode": "90514"
   },
   {
@@ -16069,7 +16069,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Mandai",
     "districtCode": "7308010",
     "village": "Pattontongang",
-    "villageCode": "",
+    "villageCode": "7308010006",
     "postalCode": "90552"
   },
   {
@@ -16311,7 +16311,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Bantimurung",
     "districtCode": "7308040",
     "village": "Leang Leang",
-    "villageCode": "",
+    "villageCode": "7308040012",
     "postalCode": "90561"
   },
   {
@@ -16322,7 +16322,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Bantimurung",
     "districtCode": "7308040",
     "village": "Mattoanging",
-    "villageCode": "",
+    "villageCode": "7308040010",
     "postalCode": "90561"
   },
   {
@@ -16388,7 +16388,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Camba",
     "districtCode": "7308060",
     "village": "Benteng",
-    "villageCode": "",
+    "villageCode": "7308060013",
     "postalCode": "90562"
   },
   {
@@ -16674,7 +16674,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Kurra",
     "districtCode": "7318067",
     "village": "Maroson",
-    "villageCode": "",
+    "villageCode": "7318052008",
     "postalCode": "91865"
   },
   {
@@ -16707,7 +16707,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Barru",
     "districtCode": "7310030",
     "village": "Sepee",
-    "villageCode": "",
+    "villageCode": "7310030008",
     "postalCode": "90711"
   },
   {
@@ -16740,7 +16740,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Barru",
     "districtCode": "7310030",
     "village": "Tuwung",
-    "villageCode": "",
+    "villageCode": "7310030003",
     "postalCode": "90711"
   },
   {
@@ -16828,7 +16828,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Soppeng Riaja",
     "districtCode": "7310040",
     "village": "Kiru Kiru",
-    "villageCode": "",
+    "villageCode": "7310040007",
     "postalCode": "90752"
   },
   {
@@ -16938,7 +16938,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Tanete Rilau",
     "districtCode": "7310020",
     "village": "Pao Pao",
-    "villageCode": "",
+    "villageCode": "7310020005",
     "postalCode": "90761"
   },
   {
@@ -17158,7 +17158,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Pujananting",
     "districtCode": "7310011",
     "village": "Bulo Bulo",
-    "villageCode": "",
+    "villageCode": "7310011001",
     "postalCode": "90763"
   },
   {
@@ -17180,7 +17180,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Pujananting",
     "districtCode": "7310011",
     "village": "Jangan Jangan",
-    "villageCode": "",
+    "villageCode": "7310011004",
     "postalCode": "90763"
   },
   {
@@ -17191,7 +17191,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Pujananting",
     "districtCode": "7310011",
     "village": "Bacu Bacu",
-    "villageCode": "",
+    "villageCode": "7310011006",
     "postalCode": "90763"
   },
   {
@@ -17202,7 +17202,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Latimojong",
     "districtCode": "7317051",
     "village": "Tobarru",
-    "villageCode": "",
+    "villageCode": "7311110014",
     "postalCode": "91942"
   },
   {
@@ -17356,7 +17356,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Tanete Riattang Timur",
     "districtCode": "7311730",
     "village": "Cellu",
-    "villageCode": "",
+    "villageCode": "7311730002",
     "postalCode": "92715"
   },
   {
@@ -17455,7 +17455,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Tanete Riattang Barat",
     "districtCode": "7311710",
     "village": "Jeppee",
-    "villageCode": "",
+    "villageCode": "7311710003",
     "postalCode": "92732"
   },
   {
@@ -17884,7 +17884,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Dua Boccoe",
     "districtCode": "7311220",
     "village": "Ujung",
-    "villageCode": "",
+    "villageCode": "7318040038",
     "postalCode": "92753"
   },
   {
@@ -17972,7 +17972,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Dua Boccoe",
     "districtCode": "7311220",
     "village": "Unyi",
-    "villageCode": "",
+    "villageCode": "7311220016",
     "postalCode": "92753"
   },
   {
@@ -18060,7 +18060,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Dua Boccoe",
     "districtCode": "7311220",
     "village": "Melle",
-    "villageCode": "",
+    "villageCode": "7311220011",
     "postalCode": "92753"
   },
   {
@@ -18082,7 +18082,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Dua Boccoe",
     "districtCode": "7311220",
     "village": "Tempe",
-    "villageCode": "",
+    "villageCode": "7313020015",
     "postalCode": "92753"
   },
   {
@@ -18104,7 +18104,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Cenrana",
     "districtCode": "7311230",
     "village": "Ajalase",
-    "villageCode": "",
+    "villageCode": "7311220010",
     "postalCode": "92754"
   },
   {
@@ -18148,7 +18148,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Cenrana",
     "districtCode": "7311230",
     "village": "Nagauleng",
-    "villageCode": "",
+    "villageCode": "7311170015",
     "postalCode": "92754"
   },
   {
@@ -18269,7 +18269,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Cenrana",
     "districtCode": "7311230",
     "village": "Pusungnge",
-    "villageCode": "",
+    "villageCode": "7311230009",
     "postalCode": "92754"
   },
   {
@@ -18412,7 +18412,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Ajangale",
     "districtCode": "7311210",
     "village": "Telle",
-    "villageCode": "",
+    "villageCode": "7311210013",
     "postalCode": "92755"
   },
   {
@@ -18456,7 +18456,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Palakka",
     "districtCode": "7311170",
     "village": "Ureng",
-    "villageCode": "",
+    "villageCode": "7311170006",
     "postalCode": "92761"
   },
   {
@@ -18852,7 +18852,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Lamuru",
     "districtCode": "7311140",
     "village": "Massenreng pulu",
-    "villageCode": "",
+    "villageCode": "7311140016",
     "postalCode": "92764"
   },
   {
@@ -19094,7 +19094,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Libureng",
     "districtCode": "7311070",
     "village": "Ponre Ponre",
-    "villageCode": "",
+    "villageCode": "7311070003",
     "postalCode": "92766"
   },
   {
@@ -19160,7 +19160,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Libureng",
     "districtCode": "7311070",
     "village": "Bune",
-    "villageCode": "",
+    "villageCode": "7311070018",
     "postalCode": "92766"
   },
   {
@@ -19193,7 +19193,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Kahu",
     "districtCode": "7311020",
     "village": "Cenrana",
-    "villageCode": "",
+    "villageCode": "7311020015",
     "postalCode": "92767"
   },
   {
@@ -19710,7 +19710,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Cina",
     "districtCode": "7311100",
     "village": "Walenreng",
-    "villageCode": "",
+    "villageCode": "7313110009",
     "postalCode": "92772"
   },
   {
@@ -19831,7 +19831,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Mare",
     "districtCode": "7311080",
     "village": "Cege",
-    "villageCode": "",
+    "villageCode": "7311080007",
     "postalCode": "92773"
   },
   {
@@ -20073,7 +20073,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Tonra",
     "districtCode": "7311050",
     "village": "Ujunge",
-    "villageCode": "",
+    "villageCode": "7311050004",
     "postalCode": "92774"
   },
   {
@@ -20150,7 +20150,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Kajuara",
     "districtCode": "7311030",
     "village": "Pude",
-    "villageCode": "",
+    "villageCode": "7311030015",
     "postalCode": "92776"
   },
   {
@@ -20337,7 +20337,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Amali",
     "districtCode": "7311200",
     "village": "Benteng Tellue",
-    "villageCode": "",
+    "villageCode": "7311200014",
     "postalCode": "92791"
   },
   {
@@ -20403,7 +20403,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Amali",
     "districtCode": "7311200",
     "village": "Waempubbu",
-    "villageCode": "",
+    "villageCode": "7311200005",
     "postalCode": "92791"
   },
   {
@@ -20524,7 +20524,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Bengo",
     "districtCode": "7311150",
     "village": "Tungke",
-    "villageCode": "",
+    "villageCode": "7311150003",
     "postalCode": "92792"
   },
   {
@@ -20755,7 +20755,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Lalabata",
     "districtCode": "7312020",
     "village": "Umpungeng",
-    "villageCode": "",
+    "villageCode": "7312020001",
     "postalCode": "90811"
   },
   {
@@ -20898,7 +20898,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Donri Donri",
     "districtCode": "7312050",
     "village": "Donri Donri",
-    "villageCode": "",
+    "villageCode": "7312050004",
     "postalCode": "90853"
   },
   {
@@ -20931,7 +20931,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Donri Donri",
     "districtCode": "7312050",
     "village": "Pesse",
-    "villageCode": "",
+    "villageCode": "7312050001",
     "postalCode": "90853"
   },
   {
@@ -21426,7 +21426,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Wajo",
     "districtCode": "7371060",
     "village": "Butung",
-    "villageCode": "",
+    "villageCode": "7371060005",
     "postalCode": "90173"
   },
   {
@@ -21943,7 +21943,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Belawa",
     "districtCode": "7313090",
     "village": "Wele",
-    "villageCode": "",
+    "villageCode": "7313090009",
     "postalCode": "90953"
   },
   {
@@ -22405,7 +22405,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Takkalalla",
     "districtCode": "7313050",
     "village": "Leweng",
-    "villageCode": "",
+    "villageCode": "7313050008",
     "postalCode": "90981"
   },
   {
@@ -22614,7 +22614,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Penrang",
     "districtCode": "7313061",
     "village": "Benteng",
-    "villageCode": "",
+    "villageCode": "7313061006",
     "postalCode": "90983"
   },
   {
@@ -22735,7 +22735,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Bola",
     "districtCode": "7313040",
     "village": "Pattangngae",
-    "villageCode": "",
+    "villageCode": "7313040010",
     "postalCode": "90984"
   },
   {
@@ -22856,7 +22856,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Majauleng",
     "districtCode": "7313070",
     "village": "Watanrumpia",
-    "villageCode": "",
+    "villageCode": "7313070009",
     "postalCode": "90991"
   },
   {
@@ -23098,7 +23098,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Pitumpanua",
     "districtCode": "7313120",
     "village": "Bulete",
-    "villageCode": "",
+    "villageCode": "7313120010",
     "postalCode": "90992"
   },
   {
@@ -23285,7 +23285,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Maritengngae",
     "districtCode": "7314060",
     "village": "Majjelling Watang",
-    "villageCode": "",
+    "villageCode": "7314060009",
     "postalCode": "91612"
   },
   {
@@ -23593,7 +23593,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Baranti",
     "districtCode": "7314040",
     "village": "Benteng",
-    "villageCode": "",
+    "villageCode": "7314040003",
     "postalCode": "91652"
   },
   {
@@ -23912,7 +23912,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Panca Lautang",
     "districtCode": "7314010",
     "village": "WetteE",
-    "villageCode": "",
+    "villageCode": "7314010010",
     "postalCode": "91672"
   },
   {
@@ -24231,7 +24231,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Pitu Riase",
     "districtCode": "7314081",
     "village": "Dengeng-Dengeng",
-    "villageCode": "",
+    "villageCode": "7314081011",
     "postalCode": "91691"
   },
   {
@@ -24275,7 +24275,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Pitu Riase",
     "districtCode": "7314081",
     "village": "Buntu Buangin",
-    "villageCode": "",
+    "villageCode": "7314081012",
     "postalCode": "91691"
   },
   {
@@ -24561,7 +24561,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Lembang",
     "districtCode": "7315080",
     "village": "Betteng",
-    "villageCode": "",
+    "villageCode": "7315080010",
     "postalCode": "91254"
   },
   {
@@ -24682,7 +24682,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Tiroang",
     "districtCode": "7315042",
     "village": "Samaturue",
-    "villageCode": "",
+    "villageCode": "7315042006",
     "postalCode": "91256"
   },
   {
@@ -24913,7 +24913,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Lanrisang",
     "districtCode": "7315021",
     "village": "Mallongi-longi",
-    "villageCode": "",
+    "villageCode": "7315021004",
     "postalCode": "91272"
   },
   {
@@ -25067,7 +25067,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Enrekang",
     "districtCode": "7316020",
     "village": "Puserren",
-    "villageCode": "",
+    "villageCode": "7316020016",
     "postalCode": "91713"
   },
   {
@@ -25584,7 +25584,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Curio",
     "districtCode": "7316051",
     "village": "Tallung Ura",
-    "villageCode": "",
+    "villageCode": "7326110002",
     "postalCode": "91755"
   },
   {
@@ -25606,7 +25606,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Curio",
     "districtCode": "7316051",
     "village": "Mekkala",
-    "villageCode": "",
+    "villageCode": "7316051003",
     "postalCode": "91755"
   },
   {
@@ -25727,7 +25727,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Maiwa",
     "districtCode": "7316010",
     "village": "Mangkawani",
-    "villageCode": "",
+    "villageCode": "7318051011",
     "postalCode": "91761"
   },
   {
@@ -25804,7 +25804,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Maiwa",
     "districtCode": "7316010",
     "village": "Tuncung",
-    "villageCode": "",
+    "villageCode": "7316010004",
     "postalCode": "91761"
   },
   {
@@ -26090,7 +26090,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Bajo Barat",
     "districtCode": "7317041",
     "village": "Tumbubara",
-    "villageCode": "",
+    "villageCode": "7318053008",
     "postalCode": "91943"
   },
   {
@@ -26706,7 +26706,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Walenrang Utara",
     "districtCode": "7317091",
     "village": "Basso",
-    "villageCode": "",
+    "villageCode": "7318052002",
     "postalCode": "91957"
   },
   {
@@ -26739,7 +26739,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Walenrang Barat",
     "districtCode": "7317092",
     "village": "Lempe",
-    "villageCode": "",
+    "villageCode": "7317092003",
     "postalCode": "91958"
   },
   {
@@ -26970,7 +26970,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Bua",
     "districtCode": "7317070",
     "village": "Puty",
-    "villageCode": "",
+    "villageCode": "7317070006",
     "postalCode": "91991"
   },
   {
@@ -27949,7 +27949,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Masamba",
     "districtCode": "7322120",
     "village": "Maipi",
-    "villageCode": "",
+    "villageCode": "7322120034",
     "postalCode": "92919"
   },
   {
@@ -28224,7 +28224,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Mappedeceng",
     "districtCode": "7322121",
     "village": "Hasana",
-    "villageCode": "",
+    "villageCode": "7326010004",
     "postalCode": "92962"
   },
   {
@@ -28235,7 +28235,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Mappedeceng",
     "districtCode": "7322121",
     "village": "Mekar Jaya Tondok",
-    "villageCode": "",
+    "villageCode": "7322121005",
     "postalCode": "92962"
   },
   {
@@ -28246,7 +28246,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Mappedeceng",
     "districtCode": "7322121",
     "village": "Benteng",
-    "villageCode": "",
+    "villageCode": "7322121006",
     "postalCode": "92962"
   },
   {
@@ -28257,7 +28257,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Mappedeceng",
     "districtCode": "7322121",
     "village": "Cendana Putih I",
-    "villageCode": "",
+    "villageCode": "7322121007",
     "postalCode": "92962"
   },
   {
@@ -28301,7 +28301,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Mappedeceng",
     "districtCode": "7322121",
     "village": "Cendana Putih II",
-    "villageCode": "",
+    "villageCode": "7322121007",
     "postalCode": "92962"
   },
   {
@@ -28444,7 +28444,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Rampi",
     "districtCode": "7322122",
     "village": "Onondowa",
-    "villageCode": "",
+    "villageCode": "7322122004",
     "postalCode": "92964"
   },
   {
@@ -28543,7 +28543,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Tana Lili",
     "districtCode": "7322051",
     "village": "Munte",
-    "villageCode": "",
+    "villageCode": "7322051006",
     "postalCode": "92967"
   },
   {
@@ -29192,7 +29192,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Burau",
     "districtCode": "7325010",
     "village": "Lumbewe",
-    "villageCode": "",
+    "villageCode": "7325010004",
     "postalCode": "92975"
   },
   {
@@ -29401,7 +29401,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Malili",
     "districtCode": "7325050",
     "village": "Pasi-Pasi",
-    "villageCode": "",
+    "villageCode": "7325050020",
     "postalCode": "92981"
   },
   {
@@ -29423,7 +29423,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Malili",
     "districtCode": "7325050",
     "village": "Ussu",
-    "villageCode": "",
+    "villageCode": "7325050010",
     "postalCode": "92981"
   },
   {
@@ -29654,7 +29654,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Wasuponda",
     "districtCode": "7325071",
     "village": "Ledu Ledu",
-    "villageCode": "",
+    "villageCode": "7325071017",
     "postalCode": "92983"
   },
   {
@@ -29786,7 +29786,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Makale",
     "districtCode": "7318040",
     "village": "Tondon Mamullu",
-    "villageCode": "",
+    "villageCode": "7318040032",
     "postalCode": "91819"
   },
   {
@@ -29885,7 +29885,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Rantetayo",
     "districtCode": "7318061",
     "village": "Madandan",
-    "villageCode": "",
+    "villageCode": "7326060001",
     "postalCode": "91862"
   },
   {
@@ -29896,7 +29896,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Rantetayo",
     "districtCode": "7318061",
     "village": "Padangiring",
-    "villageCode": "",
+    "villageCode": "7318061003",
     "postalCode": "91862"
   },
   {
@@ -29918,7 +29918,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Rantetayo",
     "districtCode": "7318061",
     "village": "Tapparan Utara",
-    "villageCode": "",
+    "villageCode": "7318061010",
     "postalCode": "91862"
   },
   {
@@ -29929,7 +29929,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Rantetayo",
     "districtCode": "7318061",
     "village": "Tonglo",
-    "villageCode": "",
+    "villageCode": "7318061009",
     "postalCode": "91862"
   },
   {
@@ -29951,7 +29951,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Bittuang",
     "districtCode": "7318051",
     "village": "Tiroan",
-    "villageCode": "",
+    "villageCode": "7318051004",
     "postalCode": "91863"
   },
   {
@@ -29962,7 +29962,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Bittuang",
     "districtCode": "7318051",
     "village": "Letek",
-    "villageCode": "",
+    "villageCode": "7318061011",
     "postalCode": "91863"
   },
   {
@@ -29973,7 +29973,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Bittuang",
     "districtCode": "7318051",
     "village": "Pali",
-    "villageCode": "",
+    "villageCode": "7318051001",
     "postalCode": "91863"
   },
   {
@@ -29984,7 +29984,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Bittuang",
     "districtCode": "7318051",
     "village": "Sandana",
-    "villageCode": "",
+    "villageCode": "7318051014",
     "postalCode": "91863"
   },
   {
@@ -29995,7 +29995,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Bittuang",
     "districtCode": "7318051",
     "village": "Sasak",
-    "villageCode": "",
+    "villageCode": "7318051012",
     "postalCode": "91863"
   },
   {
@@ -30017,7 +30017,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Bittuang",
     "districtCode": "7318051",
     "village": "Buttu Limbong",
-    "villageCode": "",
+    "villageCode": "7318051008",
     "postalCode": "91863"
   },
   {
@@ -30039,7 +30039,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Bittuang",
     "districtCode": "7318051",
     "village": "Kandua",
-    "villageCode": "",
+    "villageCode": "7318051015",
     "postalCode": "91863"
   },
   {
@@ -30050,7 +30050,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Bittuang",
     "districtCode": "7318051",
     "village": "Bau",
-    "villageCode": "",
+    "villageCode": "7318051005",
     "postalCode": "91863"
   },
   {
@@ -30072,7 +30072,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Bittuang",
     "districtCode": "7318051",
     "village": "Seseng",
-    "villageCode": "",
+    "villageCode": "7318010025",
     "postalCode": "91863"
   },
   {
@@ -30083,7 +30083,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Bittuang",
     "districtCode": "7318051",
     "village": "Burasia",
-    "villageCode": "",
+    "villageCode": "7318051007",
     "postalCode": "91863"
   },
   {
@@ -30094,7 +30094,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Masanda",
     "districtCode": "7318053",
     "village": "Ratte",
-    "villageCode": "",
+    "villageCode": "7318053004",
     "postalCode": "91864"
   },
   {
@@ -30116,7 +30116,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Masanda",
     "districtCode": "7318053",
     "village": "Paliorong",
-    "villageCode": "",
+    "villageCode": "7318053007",
     "postalCode": "91864"
   },
   {
@@ -30127,7 +30127,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Masanda",
     "districtCode": "7318053",
     "village": "Pondingao",
-    "villageCode": "",
+    "villageCode": "7318053005",
     "postalCode": "91864"
   },
   {
@@ -30138,7 +30138,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Masanda",
     "districtCode": "7318053",
     "village": "Belau Utara",
-    "villageCode": "",
+    "villageCode": "7318053006",
     "postalCode": "91864"
   },
   {
@@ -30149,7 +30149,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Masanda",
     "districtCode": "7318053",
     "village": "Paku",
-    "villageCode": "",
+    "villageCode": "7318053002",
     "postalCode": "91864"
   },
   {
@@ -30160,7 +30160,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Masanda",
     "districtCode": "7318053",
     "village": "Belau",
-    "villageCode": "",
+    "villageCode": "7318053001",
     "postalCode": "91864"
   },
   {
@@ -30182,7 +30182,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Kurra",
     "districtCode": "7318067",
     "village": "Lipungan Tanete",
-    "villageCode": "",
+    "villageCode": "7318067002",
     "postalCode": "91865"
   },
   {
@@ -30193,7 +30193,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Kurra",
     "districtCode": "7318067",
     "village": "Limbong Sangpolo",
-    "villageCode": "",
+    "villageCode": "7318067005",
     "postalCode": "91865"
   },
   {
@@ -30204,7 +30204,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Kurra",
     "districtCode": "7318067",
     "village": "Rante limbong",
-    "villageCode": "",
+    "villageCode": "7318067004",
     "postalCode": "91865"
   },
   {
@@ -30215,7 +30215,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Malimbong Balepe",
     "districtCode": "7318054",
     "village": "Lemo Menduruk",
-    "villageCode": "",
+    "villageCode": "7318054004",
     "postalCode": "91866"
   },
   {
@@ -30237,7 +30237,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Malimbong Balepe",
     "districtCode": "7318054",
     "village": "Balepe",
-    "villageCode": "",
+    "villageCode": "7318054001",
     "postalCode": "91866"
   },
   {
@@ -30248,7 +30248,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Malimbong Balepe",
     "districtCode": "7318054",
     "village": "Leppan",
-    "villageCode": "",
+    "villageCode": "7318054002",
     "postalCode": "91866"
   },
   {
@@ -30259,7 +30259,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Rembon",
     "districtCode": "7318052",
     "village": "Palesan",
-    "villageCode": "",
+    "villageCode": "7318052009",
     "postalCode": "91867"
   },
   {
@@ -30270,7 +30270,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Rembon",
     "districtCode": "7318052",
     "village": "Sarapeang",
-    "villageCode": "",
+    "villageCode": "7318052003",
     "postalCode": "91867"
   },
   {
@@ -30281,7 +30281,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Rembon",
     "districtCode": "7318052",
     "village": "Kayuosing",
-    "villageCode": "",
+    "villageCode": "7318052010",
     "postalCode": "91867"
   },
   {
@@ -30292,7 +30292,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Rembon",
     "districtCode": "7318052",
     "village": "Ullin",
-    "villageCode": "",
+    "villageCode": "7318052007",
     "postalCode": "91867"
   },
   {
@@ -30314,7 +30314,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Rembon",
     "districtCode": "7318052",
     "village": "Buri",
-    "villageCode": "",
+    "villageCode": "7318052005",
     "postalCode": "91867"
   },
   {
@@ -30325,7 +30325,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Rembon",
     "districtCode": "7318052",
     "village": "Bua  Tarrung",
-    "villageCode": "",
+    "villageCode": "7318052013",
     "postalCode": "91867"
   },
   {
@@ -30369,7 +30369,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Rembon",
     "districtCode": "7318052",
     "village": "Banga",
-    "villageCode": "",
+    "villageCode": "7318052004",
     "postalCode": "91867"
   },
   {
@@ -30435,7 +30435,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Bonggakaradeng",
     "districtCode": "7318010",
     "village": "Mappa",
-    "villageCode": "",
+    "villageCode": "7318010015",
     "postalCode": "91872"
   },
   {
@@ -30446,7 +30446,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Bonggakaradeng",
     "districtCode": "7318010",
     "village": "Buakayu",
-    "villageCode": "",
+    "villageCode": "7318010027",
     "postalCode": "91872"
   },
   {
@@ -30457,7 +30457,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Bonggakaradeng",
     "districtCode": "7318010",
     "village": "Poton",
-    "villageCode": "",
+    "villageCode": "7318010029",
     "postalCode": "91872"
   },
   {
@@ -30501,7 +30501,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Simbuang",
     "districtCode": "7318011",
     "village": "Makkodo",
-    "villageCode": "",
+    "villageCode": "7318011011",
     "postalCode": "91873"
   },
   {
@@ -30534,7 +30534,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Simbuang",
     "districtCode": "7318011",
     "village": "Pongbembe",
-    "villageCode": "",
+    "villageCode": "7318011006",
     "postalCode": "91873"
   },
   {
@@ -30545,7 +30545,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Mappak",
     "districtCode": "7318013",
     "village": "Miallo",
-    "villageCode": "",
+    "villageCode": "7318013002",
     "postalCode": "91874"
   },
   {
@@ -30567,7 +30567,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Mappak",
     "districtCode": "7318013",
     "village": "Butang",
-    "villageCode": "",
+    "villageCode": "7318013001",
     "postalCode": "91874"
   },
   {
@@ -30589,7 +30589,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Mappak",
     "districtCode": "7318013",
     "village": "Dewata",
-    "villageCode": "",
+    "villageCode": "7318013004",
     "postalCode": "91874"
   },
   {
@@ -30600,7 +30600,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Mappak",
     "districtCode": "7318013",
     "village": "Tanete",
-    "villageCode": "",
+    "villageCode": "7318013003",
     "postalCode": "91874"
   },
   {
@@ -30611,7 +30611,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Rano",
     "districtCode": "7318012",
     "village": "Rano Tengah",
-    "villageCode": "",
+    "villageCode": "7318012004",
     "postalCode": "91875"
   },
   {
@@ -30622,7 +30622,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Rano",
     "districtCode": "7318012",
     "village": "Rano Timur",
-    "villageCode": "",
+    "villageCode": "7318012003",
     "postalCode": "91875"
   },
   {
@@ -30633,7 +30633,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Rano",
     "districtCode": "7318012",
     "village": "Rano",
-    "villageCode": "",
+    "villageCode": "7318012001",
     "postalCode": "91875"
   },
   {
@@ -30644,7 +30644,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Rano",
     "districtCode": "7318012",
     "village": "Rano Utara",
-    "villageCode": "",
+    "villageCode": "7318012005",
     "postalCode": "91875"
   },
   {
@@ -30655,7 +30655,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Rano",
     "districtCode": "7318012",
     "village": "Rumandan",
-    "villageCode": "",
+    "villageCode": "7318012002",
     "postalCode": "91875"
   },
   {
@@ -30699,7 +30699,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Sangalla",
     "districtCode": "7318030",
     "village": "Kaero",
-    "villageCode": "",
+    "villageCode": "7318030013",
     "postalCode": "91881"
   },
   {
@@ -30710,7 +30710,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Sangalla",
     "districtCode": "7318030",
     "village": "Turunan",
-    "villageCode": "",
+    "villageCode": "7318030029",
     "postalCode": "91881"
   },
   {
@@ -30732,7 +30732,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Sangalla Utara",
     "districtCode": "7318032",
     "village": "Tumbang Datu",
-    "villageCode": "",
+    "villageCode": "7318032006",
     "postalCode": "91883"
   },
   {
@@ -30743,7 +30743,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Sangalla Utara",
     "districtCode": "7318032",
     "village": "Leatung Matallo",
-    "villageCode": "",
+    "villageCode": "7318032002",
     "postalCode": "91883"
   },
   {
@@ -30897,7 +30897,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Tallunglipu",
     "districtCode": "7326080",
     "village": "Tallunglipu",
-    "villageCode": "",
+    "villageCode": "7326080001",
     "postalCode": "91832"
   },
   {
@@ -30919,7 +30919,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Tallunglipu",
     "districtCode": "7326080",
     "village": "Buntu Tallunglipu",
-    "villageCode": "",
+    "villageCode": "7326080007",
     "postalCode": "91832"
   },
   {
@@ -30963,7 +30963,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Tikala",
     "districtCode": "7326100",
     "village": "Sereale",
-    "villageCode": "",
+    "villageCode": "7326100003",
     "postalCode": "91833"
   },
   {
@@ -30974,7 +30974,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Tikala",
     "districtCode": "7326100",
     "village": "Embatau",
-    "villageCode": "",
+    "villageCode": "7326100005",
     "postalCode": "91833"
   },
   {
@@ -30985,7 +30985,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Tikala",
     "districtCode": "7326100",
     "village": "Pangden",
-    "villageCode": "",
+    "villageCode": "7326100007",
     "postalCode": "91833"
   },
   {
@@ -31018,7 +31018,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Kapala Pitu",
     "districtCode": "7326160",
     "village": "Polo Padang",
-    "villageCode": "",
+    "villageCode": "7326160006",
     "postalCode": "91835"
   },
   {
@@ -31029,7 +31029,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Kapala Pitu",
     "districtCode": "7326160",
     "village": "Kantun Poya",
-    "villageCode": "",
+    "villageCode": "7326160003",
     "postalCode": "91835"
   },
   {
@@ -31051,7 +31051,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Kapala Pitu",
     "districtCode": "7326160",
     "village": "Sikuku",
-    "villageCode": "",
+    "villageCode": "7326160005",
     "postalCode": "91835"
   },
   {
@@ -31062,7 +31062,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Kapala Pitu",
     "districtCode": "7326160",
     "village": "Kapala Pitu",
-    "villageCode": "",
+    "villageCode": "7326160002",
     "postalCode": "91835"
   },
   {
@@ -31084,7 +31084,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Nanggala",
     "districtCode": "7326060",
     "village": "Nanggala",
-    "villageCode": "",
+    "villageCode": "7326060004",
     "postalCode": "91837"
   },
   {
@@ -31095,7 +31095,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Nanggala",
     "districtCode": "7326060",
     "village": "Nanna Nanggala",
-    "villageCode": "",
+    "villageCode": "7326060004",
     "postalCode": "91837"
   },
   {
@@ -31117,7 +31117,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Nanggala",
     "districtCode": "7326060",
     "village": "Lilikira",
-    "villageCode": "",
+    "villageCode": "7326060009",
     "postalCode": "91837"
   },
   {
@@ -31128,7 +31128,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Nanggala",
     "districtCode": "7326060",
     "village": "Basokan",
-    "villageCode": "",
+    "villageCode": "7326060005",
     "postalCode": "91837"
   },
   {
@@ -31139,7 +31139,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Nanggala",
     "districtCode": "7326060",
     "village": "Karre Limbong",
-    "villageCode": "",
+    "villageCode": "7326060003",
     "postalCode": "91837"
   },
   {
@@ -31183,7 +31183,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Rantebua",
     "districtCode": "7326050",
     "village": "Pitung Penanian",
-    "villageCode": "",
+    "villageCode": "7326050007",
     "postalCode": "91838"
   },
   {
@@ -31216,7 +31216,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Buntao",
     "districtCode": "7326040",
     "village": "Sapan Kua-kua",
-    "villageCode": "",
+    "villageCode": "7326040001",
     "postalCode": "91839"
   },
   {
@@ -31304,7 +31304,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Kesu",
     "districtCode": "7326020",
     "village": "Angin-angin",
-    "villageCode": "",
+    "villageCode": "7326020003",
     "postalCode": "91842"
   },
   {
@@ -31326,7 +31326,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Kesu",
     "districtCode": "7326020",
     "village": "Sangbua",
-    "villageCode": "",
+    "villageCode": "7326020001",
     "postalCode": "91842"
   },
   {
@@ -31348,7 +31348,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Sesean Suloara",
     "districtCode": "7326150",
     "village": "Lempo",
-    "villageCode": "",
+    "villageCode": "7326150005",
     "postalCode": "91844"
   },
   {
@@ -31359,7 +31359,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Sesean Suloara",
     "districtCode": "7326150",
     "village": "Landorundun",
-    "villageCode": "",
+    "villageCode": "7326150002",
     "postalCode": "91844"
   },
   {
@@ -31370,7 +31370,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Sesean Suloara",
     "districtCode": "7326150",
     "village": "Sesean Matallo",
-    "villageCode": "",
+    "villageCode": "7326150004",
     "postalCode": "91844"
   },
   {
@@ -31381,7 +31381,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Sesean Suloara",
     "districtCode": "7326150",
     "village": "Suloara",
-    "villageCode": "",
+    "villageCode": "7326150003",
     "postalCode": "91844"
   },
   {
@@ -31392,7 +31392,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Sesean Suloara",
     "districtCode": "7326150",
     "village": "Tonga Riu",
-    "villageCode": "",
+    "villageCode": "7326150001",
     "postalCode": "91844"
   },
   {
@@ -31425,7 +31425,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Awan Rante Karua",
     "districtCode": "7326180",
     "village": "Awan",
-    "villageCode": "",
+    "villageCode": "7326180002",
     "postalCode": "91846"
   },
   {
@@ -31436,7 +31436,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Awan Rante Karua",
     "districtCode": "7326180",
     "village": "Buntu Karua",
-    "villageCode": "",
+    "villageCode": "7326180004",
     "postalCode": "91846"
   },
   {
@@ -31447,7 +31447,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Awan Rante Karua",
     "districtCode": "7326180",
     "village": "Londong Biang",
-    "villageCode": "",
+    "villageCode": "7326180003",
     "postalCode": "91846"
   },
   {
@@ -31458,7 +31458,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Buntu Pepasan",
     "districtCode": "7326200",
     "village": "Paonganan",
-    "villageCode": "",
+    "villageCode": "7326200012",
     "postalCode": "91848"
   },
   {
@@ -31480,7 +31480,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Buntu Pepasan",
     "districtCode": "7326200",
     "village": "Buntu Minanga",
-    "villageCode": "",
+    "villageCode": "7326200002",
     "postalCode": "91848"
   },
   {
@@ -31491,7 +31491,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Buntu Pepasan",
     "districtCode": "7326200",
     "village": "Parandangan",
-    "villageCode": "",
+    "villageCode": "7326200001",
     "postalCode": "91848"
   },
   {
@@ -31502,7 +31502,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Buntu Pepasan",
     "districtCode": "7326200",
     "village": "Ponglu",
-    "villageCode": "",
+    "villageCode": "7326200011",
     "postalCode": "91848"
   },
   {
@@ -31524,7 +31524,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Buntu Pepasan",
     "districtCode": "7326200",
     "village": "Rante Uma",
-    "villageCode": "",
+    "villageCode": "7326200005",
     "postalCode": "91848"
   },
   {
@@ -31546,7 +31546,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Buntu Pepasan",
     "districtCode": "7326200",
     "village": "Sarambu",
-    "villageCode": "",
+    "villageCode": "7326200003",
     "postalCode": "91848"
   },
   {
@@ -31590,7 +31590,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Sanggalangi",
     "districtCode": "7326030",
     "village": "Tallung Penanian",
-    "villageCode": "",
+    "villageCode": "7326030001",
     "postalCode": "91852"
   },
   {
@@ -31656,7 +31656,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Sesean",
     "districtCode": "7326110",
     "village": "Buntu Lobo",
-    "villageCode": "",
+    "villageCode": "7326110001",
     "postalCode": "91853"
   },
   {
@@ -31667,7 +31667,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Sesean",
     "districtCode": "7326110",
     "village": "Bori Lombongan",
-    "villageCode": "",
+    "villageCode": "7326110006",
     "postalCode": "91853"
   },
   {
@@ -31678,7 +31678,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Sesean",
     "districtCode": "7326110",
     "village": "Bori Ranteletok",
-    "villageCode": "",
+    "villageCode": "7326110004",
     "postalCode": "91853"
   },
   {
@@ -31689,7 +31689,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Sesean",
     "districtCode": "7326110",
     "village": "Palawa",
-    "villageCode": "",
+    "villageCode": "7326110009",
     "postalCode": "91853"
   },
   {
@@ -31788,7 +31788,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Tondon",
     "districtCode": "7326070",
     "village": "Tondon Matallo",
-    "villageCode": "",
+    "villageCode": "7326070002",
     "postalCode": "91855"
   },
   {
@@ -31799,7 +31799,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Tondon",
     "districtCode": "7326070",
     "village": "Tondon Langi",
-    "villageCode": "",
+    "villageCode": "7326070003",
     "postalCode": "91855"
   },
   {
@@ -31821,7 +31821,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Tondon",
     "districtCode": "7326070",
     "village": "Tondon",
-    "villageCode": "",
+    "villageCode": "7326070001",
     "postalCode": "91855"
   },
   {
@@ -32041,7 +32041,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Mariso",
     "districtCode": "7371010",
     "village": "Lette",
-    "villageCode": "",
+    "villageCode": "7371010006",
     "postalCode": "90123"
   },
   {
@@ -32239,7 +32239,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Makassar",
     "districtCode": "7371040",
     "village": "Bara Baraya",
-    "villageCode": "",
+    "villageCode": "7371040005",
     "postalCode": "90143"
   },
   {
@@ -32250,7 +32250,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Makassar",
     "districtCode": "7371040",
     "village": "Bara Baraya Timur",
-    "villageCode": "",
+    "villageCode": "7371040009",
     "postalCode": "90143"
   },
   {
@@ -32261,7 +32261,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Makassar",
     "districtCode": "7371040",
     "village": "Bara Baraya Utara",
-    "villageCode": "",
+    "villageCode": "7371040008",
     "postalCode": "90143"
   },
   {
@@ -32448,7 +32448,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Ujung Tanah",
     "districtCode": "7371080",
     "village": "Gusung",
-    "villageCode": "",
+    "villageCode": "7371080009",
     "postalCode": "90163"
   },
   {
@@ -33086,7 +33086,7 @@ export const SULAWESI_SELATAN: PostalCodeData[] = [
     "district": "Tamalanrea",
     "districtCode": "7371111",
     "village": "Buntusu",
-    "villageCode": "",
+    "villageCode": "7371111007",
     "postalCode": "90245"
   },
   {
