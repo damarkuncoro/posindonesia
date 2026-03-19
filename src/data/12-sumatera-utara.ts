@@ -614,7 +614,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Siempat Nempu Hulu",
     "districtCode": "1210080",
     "village": "Sigambir-gambir",
-    "villageCode": "",
+    "villageCode": "1210080006",
     "postalCode": "22254"
   },
   {
@@ -757,7 +757,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Jawa Maraja Bah Jambi",
     "districtCode": "1209171",
     "village": "Bah Jambi",
-    "villageCode": "",
+    "villageCode": "1209171008",
     "postalCode": "21192"
   },
   {
@@ -1307,7 +1307,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Kota Kisaran Barat",
     "districtCode": "1208160",
     "village": "Dadimulyo",
-    "villageCode": "",
+    "villageCode": "1208160010",
     "postalCode": "21212"
   },
   {
@@ -1450,7 +1450,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Gebang",
     "districtCode": "1213150",
     "village": "Sangga Lima",
-    "villageCode": "",
+    "villageCode": "1213150007",
     "postalCode": "20856"
   },
   {
@@ -1560,7 +1560,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Batang Serangan",
     "districtCode": "1213090",
     "village": "Paluh Pakeh Babussalam",
-    "villageCode": "",
+    "villageCode": "1213090008",
     "postalCode": "20883"
   },
   {
@@ -1604,7 +1604,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Portibi",
     "districtCode": "1220030",
     "village": "Tanjung Salamat",
-    "villageCode": "",
+    "villageCode": "1220030049",
     "postalCode": "22782"
   },
   {
@@ -1615,7 +1615,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Ulu Barumun",
     "districtCode": "1221020",
     "village": "Subulussalam",
-    "villageCode": "",
+    "villageCode": "1221020001",
     "postalCode": "22791"
   },
   {
@@ -1868,7 +1868,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Kutambaru",
     "districtCode": "1213021",
     "village": "Namoteras",
-    "villageCode": "",
+    "villageCode": "1213021004",
     "postalCode": "20775"
   },
   {
@@ -1912,7 +1912,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Sawit Seberang",
     "districtCode": "1213100",
     "village": "Simpang Tiga",
-    "villageCode": "",
+    "villageCode": "1213100004",
     "postalCode": "20884"
   },
   {
@@ -1978,7 +1978,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Binjai",
     "districtCode": "1213060",
     "village": "Sambi Rejo",
-    "villageCode": "",
+    "villageCode": "1213060004",
     "postalCode": "20761"
   },
   {
@@ -2033,7 +2033,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Kabanjahe",
     "districtCode": "1211090",
     "village": "Lau Simomo",
-    "villageCode": "",
+    "villageCode": "1211090001",
     "postalCode": "22111"
   },
   {
@@ -2374,7 +2374,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Munte",
     "districtCode": "1211050",
     "village": "Buluhnaman",
-    "villageCode": "",
+    "villageCode": "1211050019",
     "postalCode": "22161"
   },
   {
@@ -2418,7 +2418,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Lae Parira",
     "districtCode": "1210061",
     "village": "Buluduri",
-    "villageCode": "",
+    "villageCode": "1210061004",
     "postalCode": "22264"
   },
   {
@@ -2517,7 +2517,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Parbuluan",
     "districtCode": "1210040",
     "village": "Bangun",
-    "villageCode": "",
+    "villageCode": "1210040008",
     "postalCode": "22282"
   },
   {
@@ -2682,7 +2682,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Barumun Selatan",
     "districtCode": "1221031",
     "village": "Batang Bulu Lama",
-    "villageCode": "",
+    "villageCode": "1221031006",
     "postalCode": "22792"
   },
   {
@@ -2693,7 +2693,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Barumun Selatan",
     "districtCode": "1221031",
     "village": "Batang Bulu Baru",
-    "villageCode": "",
+    "villageCode": "1221031007",
     "postalCode": "22792"
   },
   {
@@ -2704,7 +2704,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Lubuk Barumun",
     "districtCode": "1221040",
     "village": "Batang Bulu Jae",
-    "villageCode": "",
+    "villageCode": "1221040072",
     "postalCode": "22795"
   },
   {
@@ -2957,7 +2957,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Batang Onang",
     "districtCode": "1220010",
     "village": "Gunungtua Tumbu Jati",
-    "villageCode": "",
+    "villageCode": "1220010014",
     "postalCode": "22761"
   },
   {
@@ -3243,7 +3243,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Pancur Batu",
     "districtCode": "1212050",
     "village": "Lama",
-    "villageCode": "",
+    "villageCode": "1212240014",
     "postalCode": "20353"
   },
   {
@@ -3342,7 +3342,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Pancur Batu",
     "districtCode": "1212050",
     "village": "Baru",
-    "villageCode": "",
+    "villageCode": "1212050025",
     "postalCode": "20353"
   },
   {
@@ -3452,7 +3452,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Pancur Batu",
     "districtCode": "1212050",
     "village": "Durin Simbelang",
-    "villageCode": "",
+    "villageCode": "1212050006",
     "postalCode": "20353"
   },
   {
@@ -3463,7 +3463,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Pancur Batu",
     "districtCode": "1212050",
     "village": "Tengah",
-    "villageCode": "",
+    "villageCode": "1212050016",
     "postalCode": "20353"
   },
   {
@@ -3892,7 +3892,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Serba Jadi",
     "districtCode": "",
     "village": "Karang Tengah",
-    "villageCode": "",
+    "villageCode": "1220010011",
     "postalCode": "20985"
   },
   {
@@ -3914,7 +3914,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Medan Tuntungan",
     "districtCode": "1275010",
     "village": "Namo Gajah",
-    "villageCode": "",
+    "villageCode": "1275010004",
     "postalCode": "20136"
   },
   {
@@ -3925,7 +3925,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Galang",
     "districtCode": "1212190",
     "village": "Keramat Gajah",
-    "villageCode": "",
+    "villageCode": "1209020014",
     "postalCode": "20585"
   },
   {
@@ -4585,7 +4585,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Salapian",
     "districtCode": "1213020",
     "village": "Perkebunan Bandar Telu",
-    "villageCode": "",
+    "villageCode": "1213020015",
     "postalCode": "20773"
   },
   {
@@ -4959,7 +4959,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Bandar",
     "districtCode": "1209190",
     "village": "Sidotani",
-    "villageCode": "",
+    "villageCode": "1209190013",
     "postalCode": "21184"
   },
   {
@@ -5223,7 +5223,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Bandar Huluan",
     "districtCode": "1209181",
     "village": "Naga Soppa",
-    "villageCode": "",
+    "villageCode": "1209181010",
     "postalCode": "21193"
   },
   {
@@ -5278,7 +5278,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Bandar Huluan",
     "districtCode": "1209181",
     "village": "Laras",
-    "villageCode": "",
+    "villageCode": "1209181001",
     "postalCode": "21193"
   },
   {
@@ -5311,7 +5311,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Bandar Huluan",
     "districtCode": "1209181",
     "village": "Bandar Tonga",
-    "villageCode": "",
+    "villageCode": "1209181003",
     "postalCode": "21193"
   },
   {
@@ -5355,7 +5355,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Tanjung Tiram",
     "districtCode": "1219020",
     "village": "Bandar Rahmat",
-    "villageCode": "",
+    "villageCode": "1219020033",
     "postalCode": "21254"
   },
   {
@@ -5685,7 +5685,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Rantau Selatan",
     "districtCode": "",
     "village": "Ujung Bandar",
-    "villageCode": "",
+    "villageCode": "1213060007",
     "postalCode": "21422"
   },
   {
@@ -5696,7 +5696,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Bilah Barat",
     "districtCode": "",
     "village": "Bandar Kumbul",
-    "villageCode": "",
+    "villageCode": "1277010007",
     "postalCode": "21459"
   },
   {
@@ -6004,7 +6004,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Batang Serangan",
     "districtCode": "1213090",
     "village": "Kwala Musam",
-    "villageCode": "",
+    "villageCode": "1213090006",
     "postalCode": "20883"
   },
   {
@@ -6059,7 +6059,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Batang Serangan",
     "districtCode": "1213090",
     "village": "Namo Sialang",
-    "villageCode": "",
+    "villageCode": "1213090002",
     "postalCode": "20883"
   },
   {
@@ -6235,7 +6235,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Batang Toru",
     "districtCode": "1203100",
     "village": "Wek III",
-    "villageCode": "",
+    "villageCode": "1203100027",
     "postalCode": "22738"
   },
   {
@@ -6279,7 +6279,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Batang Toru",
     "districtCode": "1203100",
     "village": "Wek IV",
-    "villageCode": "",
+    "villageCode": "1203100029",
     "postalCode": "22738"
   },
   {
@@ -6554,7 +6554,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Halongonan Timur",
     "districtCode": "1220061",
     "village": "Batang Pane III",
-    "villageCode": "",
+    "villageCode": "1220061012",
     "postalCode": "22753"
   },
   {
@@ -6565,7 +6565,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Halongonan Timur",
     "districtCode": "1220061",
     "village": "Batang Pane I",
-    "villageCode": "",
+    "villageCode": "1220061012",
     "postalCode": "22753"
   },
   {
@@ -6730,7 +6730,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Batang Onang",
     "districtCode": "1220010",
     "village": "Pangkal Dolok Julu",
-    "villageCode": "",
+    "villageCode": "1221030048",
     "postalCode": "22761"
   },
   {
@@ -6774,7 +6774,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Batang Onang",
     "districtCode": "1220010",
     "village": "Pasir Ampolu Hopong",
-    "villageCode": "",
+    "villageCode": "1220010002",
     "postalCode": "22761"
   },
   {
@@ -6862,7 +6862,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Batang Onang",
     "districtCode": "1220010",
     "village": "Gunungtua Batang Onang",
-    "villageCode": "",
+    "villageCode": "1220010025",
     "postalCode": "22761"
   },
   {
@@ -7115,7 +7115,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Batang Angkola",
     "districtCode": "1203010",
     "village": "Sitampa Simatoras",
-    "villageCode": "",
+    "villageCode": "1220010009",
     "postalCode": "22772"
   },
   {
@@ -7137,7 +7137,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Batang Angkola",
     "districtCode": "1203010",
     "village": "Sorimadingin PP",
-    "villageCode": "",
+    "villageCode": "1203010118",
     "postalCode": "22772"
   },
   {
@@ -7236,7 +7236,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Batang Lubu Sutam",
     "districtCode": "1221060",
     "village": "Tandolan",
-    "villageCode": "",
+    "villageCode": "1221060015",
     "postalCode": "22793"
   },
   {
@@ -7291,7 +7291,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Batang Lubu Sutam",
     "districtCode": "1221060",
     "village": "Tanjung Botung Pinarik",
-    "villageCode": "",
+    "villageCode": "1221060008",
     "postalCode": "22793"
   },
   {
@@ -7346,7 +7346,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Batang Lubu Sutam",
     "districtCode": "1221060",
     "village": "Huta Nopan",
-    "villageCode": "",
+    "villageCode": "1211040018",
     "postalCode": "22793"
   },
   {
@@ -7357,7 +7357,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Batang Lubu Sutam",
     "districtCode": "1221060",
     "village": "Pagaran Dolok Pinarik",
-    "villageCode": "",
+    "villageCode": "1221060017",
     "postalCode": "22793"
   },
   {
@@ -7390,7 +7390,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Batang Lubu Sutam",
     "districtCode": "1221060",
     "village": "Muara Malinto Lama",
-    "villageCode": "",
+    "villageCode": "1221060018",
     "postalCode": "22793"
   },
   {
@@ -7401,7 +7401,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Batang Lubu Sutam",
     "districtCode": "1221060",
     "village": "Hutabaru",
-    "villageCode": "",
+    "villageCode": "1220070035",
     "postalCode": "22793"
   },
   {
@@ -7874,7 +7874,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Muara Batang Gadis",
     "districtCode": "1202070",
     "village": "Pasar Singkuang II",
-    "villageCode": "",
+    "villageCode": "1220060001",
     "postalCode": "22989"
   },
   {
@@ -7951,7 +7951,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Pagindar",
     "districtCode": "1216012",
     "village": "Napatalun Perlambuken",
-    "villageCode": "",
+    "villageCode": "1216012004",
     "postalCode": "22276"
   },
   {
@@ -8116,7 +8116,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Mandrehe",
     "districtCode": "1225060",
     "village": "Fadoro Bahili",
-    "villageCode": "",
+    "villageCode": "1225060002",
     "postalCode": "22862"
   },
   {
@@ -8182,7 +8182,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Mandrehe Barat",
     "districtCode": "1225070",
     "village": "Fadorosifulubanua",
-    "villageCode": "",
+    "villageCode": "1225070007",
     "postalCode": "22895"
   },
   {
@@ -8842,7 +8842,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Sirapit",
     "districtCode": "1213011",
     "village": "Tanjung Kariahan",
-    "villageCode": "",
+    "villageCode": "1213011009",
     "postalCode": "20776"
   },
   {
@@ -9029,7 +9029,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Tanjung Pura",
     "districtCode": "1213140",
     "village": "Suka Maju",
-    "villageCode": "",
+    "villageCode": "1213140017",
     "postalCode": "20853"
   },
   {
@@ -9095,7 +9095,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Hinai",
     "districtCode": "1213120",
     "village": "Tanjung Mulya",
-    "villageCode": "",
+    "villageCode": "1212230014",
     "postalCode": "20854"
   },
   {
@@ -9480,7 +9480,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Sei Suka",
     "districtCode": "1219060",
     "village": "Kuala Tanjung",
-    "villageCode": "",
+    "villageCode": "1219060012",
     "postalCode": "21257"
   },
   {
@@ -9755,7 +9755,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Tanjung Balai",
     "districtCode": "1208050",
     "village": "Sei Apung",
-    "villageCode": "",
+    "villageCode": "1208050003",
     "postalCode": "21351"
   },
   {
@@ -9821,7 +9821,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Tanjung Balai",
     "districtCode": "1208050",
     "village": "Pematang Sei Baru",
-    "villageCode": "",
+    "villageCode": "1208050002",
     "postalCode": "21351"
   },
   {
@@ -10195,7 +10195,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Padang Bolak",
     "districtCode": "1220040",
     "village": "Tanjung Tiram",
-    "villageCode": "",
+    "villageCode": "1220040074",
     "postalCode": "22753"
   },
   {
@@ -10217,7 +10217,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Sihapas Barumun",
     "districtCode": "1221092",
     "village": "Tanjung Morang",
-    "villageCode": "",
+    "villageCode": "1221092010",
     "postalCode": "22755"
   },
   {
@@ -10272,7 +10272,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Sosa Julu",
     "districtCode": "",
     "village": "Tanjung",
-    "villageCode": "",
+    "villageCode": "1221080102",
     "postalCode": "22765"
   },
   {
@@ -10294,7 +10294,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Sosa",
     "districtCode": "1221050",
     "village": "Tanjung Botung Sosa Jae",
-    "villageCode": "",
+    "villageCode": "1221050057",
     "postalCode": "22765"
   },
   {
@@ -10360,7 +10360,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Barumun Selatan",
     "districtCode": "1221031",
     "village": "Tanjung Baringin Simarulak",
-    "villageCode": "",
+    "villageCode": "1221031008",
     "postalCode": "22792"
   },
   {
@@ -10800,7 +10800,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Dolok Masihul",
     "districtCode": "1218020",
     "village": "Batu",
-    "villageCode": "",
+    "villageCode": "1218020015",
     "postalCode": "20991"
   },
   {
@@ -10899,7 +10899,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Dolok Batu Nanggar",
     "districtCode": "1209150",
     "village": "Dolok Merangir I",
-    "villageCode": "",
+    "villageCode": "1209150004",
     "postalCode": "21155"
   },
   {
@@ -10943,7 +10943,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Dolok Batu Nanggar",
     "districtCode": "1209150",
     "village": "Dolok Ilir II",
-    "villageCode": "",
+    "villageCode": "1209150007",
     "postalCode": "21155"
   },
   {
@@ -10954,7 +10954,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Dolok Batu Nanggar",
     "districtCode": "1209150",
     "village": "Dolok Tenera",
-    "villageCode": "",
+    "villageCode": "1209150012",
     "postalCode": "21155"
   },
   {
@@ -10976,7 +10976,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Dolok Batu Nanggar",
     "districtCode": "1209150",
     "village": "Dolok Merangir II",
-    "villageCode": "",
+    "villageCode": "1209150004",
     "postalCode": "21155"
   },
   {
@@ -10998,7 +10998,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Dolok Batu Nanggar",
     "districtCode": "1209150",
     "village": "Dolok Ilir I",
-    "villageCode": "",
+    "villageCode": "1209150007",
     "postalCode": "21155"
   },
   {
@@ -11075,7 +11075,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Datuk Tanah Datar",
     "districtCode": "1219031",
     "village": "Binjai Baru",
-    "villageCode": "",
+    "villageCode": "1219031005",
     "postalCode": "21252"
   },
   {
@@ -11262,7 +11262,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Talawi",
     "districtCode": "1219030",
     "village": "Dahari Silebar",
-    "villageCode": "",
+    "villageCode": "1213110001",
     "postalCode": "21253"
   },
   {
@@ -11383,7 +11383,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Nibung Hangus",
     "districtCode": "1219021",
     "village": "Sei Mentaram",
-    "villageCode": "",
+    "villageCode": "1219021002",
     "postalCode": "21253"
   },
   {
@@ -11614,7 +11614,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Lima Puluh Pesisir",
     "districtCode": "1219041",
     "village": "Tanah Itam Ilir",
-    "villageCode": "",
+    "villageCode": "1219041007",
     "postalCode": "21255"
   },
   {
@@ -11911,7 +11911,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Sei Suka",
     "districtCode": "1219060",
     "village": "Sei Suka Deras",
-    "villageCode": "",
+    "villageCode": "1219060007",
     "postalCode": "21257"
   },
   {
@@ -11933,7 +11933,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Sei Suka",
     "districtCode": "1219060",
     "village": "Perkebunan Sipare Pare",
-    "villageCode": "",
+    "villageCode": "1219060008",
     "postalCode": "21257"
   },
   {
@@ -11966,7 +11966,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Sei Suka",
     "districtCode": "1219060",
     "village": "Kuala Indah",
-    "villageCode": "",
+    "villageCode": "1219060013",
     "postalCode": "21257"
   },
   {
@@ -12054,7 +12054,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Air Batu",
     "districtCode": "1208070",
     "village": "Sei Alim Ulu",
-    "villageCode": "",
+    "villageCode": "1208070003",
     "postalCode": "21272"
   },
   {
@@ -12076,7 +12076,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Air Batu",
     "districtCode": "1208070",
     "village": "Pulau Pule",
-    "villageCode": "",
+    "villageCode": "1208070012",
     "postalCode": "21272"
   },
   {
@@ -12340,7 +12340,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Bilah Barat",
     "districtCode": "",
     "village": "Janji",
-    "villageCode": "",
+    "villageCode": "1210090005",
     "postalCode": "21459"
   },
   {
@@ -12538,7 +12538,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Bilah Hulu",
     "districtCode": "",
     "village": "Gunung Selamat",
-    "villageCode": "",
+    "villageCode": "1220070041",
     "postalCode": "21462"
   },
   {
@@ -12780,7 +12780,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Bilah Hilir",
     "districtCode": "",
     "village": "Sidomulyo",
-    "villageCode": "",
+    "villageCode": "1219070001",
     "postalCode": "21471"
   },
   {
@@ -13242,7 +13242,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Silangkitang",
     "districtCode": "",
     "village": "Sukadame",
-    "villageCode": "",
+    "villageCode": "1210120011",
     "postalCode": "21561"
   },
   {
@@ -13770,7 +13770,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Laut Tador",
     "districtCode": "1219061",
     "village": "Dewi Sri",
-    "villageCode": "",
+    "villageCode": "1219061008",
     "postalCode": "21657"
   },
   {
@@ -13913,7 +13913,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Medang Deras",
     "districtCode": "1219070",
     "village": "Pematang Cengkering",
-    "villageCode": "",
+    "villageCode": "1219070006",
     "postalCode": "21658"
   },
   {
@@ -14903,7 +14903,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Gunung Sitember",
     "districtCode": "1210101",
     "village": "Batu Gun Gun",
-    "villageCode": "",
+    "villageCode": "1210101003",
     "postalCode": "22255"
   },
   {
@@ -15376,7 +15376,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Padangsidimpuan Tenggara",
     "districtCode": "1277010",
     "village": "Purbatua Pijor Koling",
-    "villageCode": "",
+    "villageCode": "1277010008",
     "postalCode": "22748"
   },
   {
@@ -15717,7 +15717,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Ulu Barumun",
     "districtCode": "1221020",
     "village": "Paran Batu",
-    "villageCode": "",
+    "villageCode": "1221020029",
     "postalCode": "22791"
   },
   {
@@ -15728,7 +15728,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Huta Raja Tinggi",
     "districtCode": "1221070",
     "village": "Ujung Batu V",
-    "villageCode": "",
+    "villageCode": "1220040101",
     "postalCode": "22794"
   },
   {
@@ -15827,7 +15827,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Pulau-Pulau Batu",
     "districtCode": "1214020",
     "village": "Rapa-rapa Melayu",
-    "villageCode": "",
+    "villageCode": "1221070077",
     "postalCode": "22881"
   },
   {
@@ -15871,7 +15871,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Pulau-Pulau Batu",
     "districtCode": "1214020",
     "village": "Hiliamaodula",
-    "villageCode": "",
+    "villageCode": "1214020029",
     "postalCode": "22881"
   },
   {
@@ -15893,7 +15893,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Pulau-Pulau Batu",
     "districtCode": "1214020",
     "village": "Sidua Ewali",
-    "villageCode": "",
+    "villageCode": "1214020038",
     "postalCode": "22881"
   },
   {
@@ -15981,7 +15981,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Pulau-Pulau Batu",
     "districtCode": "1214020",
     "village": "Silima Ewali",
-    "villageCode": "",
+    "villageCode": "1214020034",
     "postalCode": "22881"
   },
   {
@@ -16058,7 +16058,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Pulau-Pulau Batu Barat",
     "districtCode": "1214023",
     "village": "Hilizamorogotano",
-    "villageCode": "",
+    "villageCode": "1214020033",
     "postalCode": "22881"
   },
   {
@@ -16069,7 +16069,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Pulau-Pulau Batu Barat",
     "districtCode": "1214023",
     "village": "Bawolawindra",
-    "villageCode": "",
+    "villageCode": "1214023010",
     "postalCode": "22881"
   },
   {
@@ -16190,7 +16190,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Pulau-Pulau Batu Utara",
     "districtCode": "1214024",
     "village": "Bale-bale",
-    "villageCode": "",
+    "villageCode": "1214023009",
     "postalCode": "22881"
   },
   {
@@ -16201,7 +16201,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Pulau-Pulau Batu Utara",
     "districtCode": "1214024",
     "village": "Zia Biang",
-    "villageCode": "",
+    "villageCode": "1214024003",
     "postalCode": "22881"
   },
   {
@@ -16256,7 +16256,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Pulau-Pulau Batu Utara",
     "districtCode": "1214024",
     "village": "Afore Gobo",
-    "villageCode": "",
+    "villageCode": "1214024012",
     "postalCode": "22881"
   },
   {
@@ -16300,7 +16300,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Pulau-Pulau Batu Timur",
     "districtCode": "1214021",
     "village": "Labuhan Hiu",
-    "villageCode": "",
+    "villageCode": "1214024014",
     "postalCode": "22883"
   },
   {
@@ -16366,7 +16366,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Pulau-Pulau Batu Timur",
     "districtCode": "1214021",
     "village": "Labuhan Bazau",
-    "villageCode": "",
+    "villageCode": "1214021006",
     "postalCode": "22883"
   },
   {
@@ -16399,7 +16399,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Batahan",
     "districtCode": "1202010",
     "village": "Batu Sondat",
-    "villageCode": "",
+    "villageCode": "1202010006",
     "postalCode": "22988"
   },
   {
@@ -16432,7 +16432,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Medan Baru",
     "districtCode": "1275090",
     "village": "Darat",
-    "villageCode": "",
+    "villageCode": "1275090004",
     "postalCode": "20153"
   },
   {
@@ -16476,7 +16476,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Medan Baru",
     "districtCode": "1275090",
     "village": "Titi Rante",
-    "villageCode": "",
+    "villageCode": "1275090001",
     "postalCode": "20156"
   },
   {
@@ -16850,7 +16850,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Kutambaru",
     "districtCode": "1213021",
     "village": "Namotogan",
-    "villageCode": "",
+    "villageCode": "1213021008",
     "postalCode": "20775"
   },
   {
@@ -16894,7 +16894,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Hinai",
     "districtCode": "1213120",
     "village": "Baru Pasar VIII",
-    "villageCode": "",
+    "villageCode": "1213120003",
     "postalCode": "20854"
   },
   {
@@ -16905,7 +16905,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Babalan",
     "districtCode": "1213160",
     "village": "Berandan Timur Baru",
-    "villageCode": "",
+    "villageCode": "1213160005",
     "postalCode": "20857"
   },
   {
@@ -16971,7 +16971,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Siantar Utara",
     "districtCode": "",
     "village": "Baru",
-    "villageCode": "",
+    "villageCode": "1211071011",
     "postalCode": "21145"
   },
   {
@@ -17103,7 +17103,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Kota Kisaran Timur",
     "districtCode": "1208170",
     "village": "Siumbut Baru",
-    "villageCode": "",
+    "villageCode": "1208170008",
     "postalCode": "21226"
   },
   {
@@ -17268,7 +17268,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Barusjahe",
     "districtCode": "1211130",
     "village": "Bulanjahe",
-    "villageCode": "",
+    "villageCode": "1211130007",
     "postalCode": "22172"
   },
   {
@@ -17290,7 +17290,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Barusjahe",
     "districtCode": "1211130",
     "village": "Sikab",
-    "villageCode": "",
+    "villageCode": "1211130017",
     "postalCode": "22172"
   },
   {
@@ -17334,7 +17334,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Barusjahe",
     "districtCode": "1211130",
     "village": "Tangkidik",
-    "villageCode": "",
+    "villageCode": "1211130014",
     "postalCode": "22172"
   },
   {
@@ -17367,7 +17367,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Barusjahe",
     "districtCode": "1211130",
     "village": "Bulanjulu",
-    "villageCode": "",
+    "villageCode": "1211130006",
     "postalCode": "22172"
   },
   {
@@ -17576,7 +17576,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Barus",
     "districtCode": "1204070",
     "village": "Patupangan",
-    "villageCode": "",
+    "villageCode": "1204070010",
     "postalCode": "22564"
   },
   {
@@ -17807,7 +17807,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Padangsidimpuan Hutaimbaru",
     "districtCode": "1277050",
     "village": "Tinjoman Lama",
-    "villageCode": "",
+    "villageCode": "1277050010",
     "postalCode": "22729"
   },
   {
@@ -18016,7 +18016,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Sihapas Barumun",
     "districtCode": "1221092",
     "village": "Sitada-Tada",
-    "villageCode": "",
+    "villageCode": "1221092003",
     "postalCode": "22755"
   },
   {
@@ -18071,7 +18071,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Barumun Tengah",
     "districtCode": "1221090",
     "village": "Janji Matogu",
-    "villageCode": "",
+    "villageCode": "1221090082",
     "postalCode": "22755"
   },
   {
@@ -18159,7 +18159,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Barumun Tengah",
     "districtCode": "1221090",
     "village": "Gunung Manaon",
-    "villageCode": "",
+    "villageCode": "1220030046",
     "postalCode": "22755"
   },
   {
@@ -18313,7 +18313,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Barumun Tengah",
     "districtCode": "1221090",
     "village": "Unterudang",
-    "villageCode": "",
+    "villageCode": "1221080077",
     "postalCode": "22755"
   },
   {
@@ -18324,7 +18324,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Barumun Barat",
     "districtCode": "",
     "village": "Gading",
-    "villageCode": "",
+    "villageCode": "1221090045",
     "postalCode": "22755"
   },
   {
@@ -18335,7 +18335,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Barumun Barat",
     "districtCode": "",
     "village": "Paran Napa Dolok",
-    "villageCode": "",
+    "villageCode": "1220050109",
     "postalCode": "22755"
   },
   {
@@ -18412,7 +18412,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Dolok",
     "districtCode": "1220070",
     "village": "Hutaimbaru Gul",
-    "villageCode": "",
+    "villageCode": "1220070001",
     "postalCode": "22756"
   },
   {
@@ -18434,7 +18434,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Dolok",
     "districtCode": "1220070",
     "village": "Huta Baru Sip",
-    "villageCode": "",
+    "villageCode": "1220070034",
     "postalCode": "22756"
   },
   {
@@ -18456,7 +18456,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Sosopan",
     "districtCode": "1221010",
     "village": "Hutabaru Sosopan",
-    "villageCode": "",
+    "villageCode": "1221010015",
     "postalCode": "22762"
   },
   {
@@ -18467,7 +18467,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Sosopan",
     "districtCode": "1221010",
     "village": "Hutabaru Siundol",
-    "villageCode": "",
+    "villageCode": "1221010007",
     "postalCode": "22762"
   },
   {
@@ -18621,7 +18621,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Barumun",
     "districtCode": "1221030",
     "village": "Pasar Sibuhuan",
-    "villageCode": "",
+    "villageCode": "1221030039",
     "postalCode": "22763"
   },
   {
@@ -18643,7 +18643,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Barumun",
     "districtCode": "1221030",
     "village": "Pagaran Baringin",
-    "villageCode": "",
+    "villageCode": "1221030043",
     "postalCode": "22763"
   },
   {
@@ -18709,7 +18709,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Barumun",
     "districtCode": "1221030",
     "village": "Sialambue",
-    "villageCode": "",
+    "villageCode": "1221030049",
     "postalCode": "22763"
   },
   {
@@ -18841,7 +18841,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Halongonan Timur",
     "districtCode": "1220061",
     "village": "Hutabaru Nangka",
-    "villageCode": "",
+    "villageCode": "1220061009",
     "postalCode": "22784"
   },
   {
@@ -18863,7 +18863,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Dolok Sigompulon",
     "districtCode": "1220080",
     "village": "Hutaimbaru Simundol",
-    "villageCode": "",
+    "villageCode": "1220080002",
     "postalCode": "22785"
   },
   {
@@ -18874,7 +18874,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Dolok Sigompulon",
     "districtCode": "1220080",
     "village": "Tj. Baru Silaiya",
-    "villageCode": "",
+    "villageCode": "1220080013",
     "postalCode": "22785"
   },
   {
@@ -18940,7 +18940,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Ulu Barumun",
     "districtCode": "1221020",
     "village": "Aek Haruaya",
-    "villageCode": "",
+    "villageCode": "1221020032",
     "postalCode": "22791"
   },
   {
@@ -19061,7 +19061,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Barumun Selatan",
     "districtCode": "1221031",
     "village": "Sayur Mahincat",
-    "villageCode": "",
+    "villageCode": "1221031002",
     "postalCode": "22792"
   },
   {
@@ -19105,7 +19105,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Lubuk Barumun",
     "districtCode": "1221040",
     "village": "Siali-Ali",
-    "villageCode": "",
+    "villageCode": "1221040076",
     "postalCode": "22795"
   },
   {
@@ -19149,7 +19149,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Lubuk Barumun",
     "districtCode": "1221040",
     "village": "Hutaibus",
-    "villageCode": "",
+    "villageCode": "1221040061",
     "postalCode": "22795"
   },
   {
@@ -19193,7 +19193,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Lubuk Barumun",
     "districtCode": "1221040",
     "village": "Hutanopan",
-    "villageCode": "",
+    "villageCode": "1221040063",
     "postalCode": "22795"
   },
   {
@@ -19259,7 +19259,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Lubuk Barumun",
     "districtCode": "1221040",
     "village": "Pagaran Jalu-Jalu",
-    "villageCode": "",
+    "villageCode": "1221040062",
     "postalCode": "22795"
   },
   {
@@ -19314,7 +19314,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Aek Nabara Barumun",
     "districtCode": "1221091",
     "village": "Paran Tonga",
-    "villageCode": "",
+    "villageCode": "1221080095",
     "postalCode": "22796"
   },
   {
@@ -19369,7 +19369,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Aek Nabara Barumun",
     "districtCode": "1221091",
     "village": "Hadungdung Pintu Padang",
-    "villageCode": "",
+    "villageCode": "1220060002",
     "postalCode": "22796"
   },
   {
@@ -19512,7 +19512,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Aek Nabara Barumun",
     "districtCode": "1221091",
     "village": "Tobing Tinggi",
-    "villageCode": "",
+    "villageCode": "1221080096",
     "postalCode": "22796"
   },
   {
@@ -19589,7 +19589,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Gunungsitoli",
     "districtCode": "",
     "village": "Hilimbaruzo",
-    "villageCode": "",
+    "villageCode": "1221091003",
     "postalCode": "22818"
   },
   {
@@ -19600,7 +19600,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Susua",
     "districtCode": "1214061",
     "village": "Bintang Baru",
-    "villageCode": "",
+    "villageCode": "1221091008",
     "postalCode": "22837"
   },
   {
@@ -19633,7 +19633,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Idanogawo",
     "districtCode": "",
     "village": "Laowo Hilimbaruzo",
-    "villageCode": "",
+    "villageCode": "1221091001",
     "postalCode": "22872"
   },
   {
@@ -19644,7 +19644,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Idanogawo",
     "districtCode": "",
     "village": "Baruzo",
-    "villageCode": "",
+    "villageCode": "1214061013",
     "postalCode": "22872"
   },
   {
@@ -19655,7 +19655,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Idanotae",
     "districtCode": "1214064",
     "village": "Balombaruzo Orahua",
-    "villageCode": "",
+    "villageCode": "1214064003",
     "postalCode": "22873"
   },
   {
@@ -19732,7 +19732,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Panyabungan Selatan",
     "districtCode": "1202051",
     "village": "Hutarimbaru",
-    "villageCode": "",
+    "villageCode": "1202051008",
     "postalCode": "22952"
   },
   {
@@ -19798,7 +19798,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Ulu Pungkut",
     "districtCode": "1202031",
     "village": "Hutaimbaru UP",
-    "villageCode": "",
+    "villageCode": "1202031009",
     "postalCode": "22964"
   },
   {
@@ -20018,7 +20018,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Sinunukan",
     "districtCode": "1202011",
     "village": "Sido Makmur",
-    "villageCode": "",
+    "villageCode": "1213120006",
     "postalCode": "22988"
   },
   {
@@ -20172,7 +20172,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Dolog Masagal",
     "districtCode": "1209101",
     "village": "Bintang Mariah",
-    "villageCode": "",
+    "villageCode": "1209101005",
     "postalCode": "21162"
   },
   {
@@ -20216,7 +20216,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Tarabintang",
     "districtCode": "",
     "village": "Sibongkare Sianju",
-    "villageCode": "",
+    "villageCode": "1208091003",
     "postalCode": "22485"
   },
   {
@@ -20359,7 +20359,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Simpang Empat",
     "districtCode": "1211080",
     "village": "Linggajulu",
-    "villageCode": "",
+    "villageCode": "1211080004",
     "postalCode": "22153"
   },
   {
@@ -20656,7 +20656,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Lingga Bayu",
     "districtCode": "1202021",
     "village": "Perbatasan",
-    "villageCode": "",
+    "villageCode": "1202021031",
     "postalCode": "22984"
   },
   {
@@ -20975,7 +20975,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Tiganderket",
     "districtCode": "1211071",
     "village": "Sukatendel",
-    "villageCode": "",
+    "villageCode": "1211071005",
     "postalCode": "22154"
   },
   {
@@ -21558,7 +21558,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Kotarih",
     "districtCode": "1218010",
     "village": "Sei Kari",
-    "villageCode": "",
+    "villageCode": "1218010009",
     "postalCode": "20984"
   },
   {
@@ -22108,7 +22108,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Dolok Masihul",
     "districtCode": "1218020",
     "village": "Pekan Kamis",
-    "villageCode": "",
+    "villageCode": "1275170004",
     "postalCode": "20991"
   },
   {
@@ -22207,7 +22207,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Dolok Masihul",
     "districtCode": "1218020",
     "village": "Blok",
-    "villageCode": "",
+    "villageCode": "1218020027",
     "postalCode": "20991"
   },
   {
@@ -22581,7 +22581,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Dolok Merawan",
     "districtCode": "1218040",
     "village": "Gunung Para II",
-    "villageCode": "",
+    "villageCode": "1218040004",
     "postalCode": "20993"
   },
   {
@@ -22812,7 +22812,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Tigapanah",
     "districtCode": "1211110",
     "village": "Manukmulia",
-    "villageCode": "",
+    "villageCode": "1211110007",
     "postalCode": "22171"
   },
   {
@@ -23296,7 +23296,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Kotanopan",
     "districtCode": "1202030",
     "village": "Muara Potan",
-    "villageCode": "",
+    "villageCode": "1202030033",
     "postalCode": "22994"
   },
   {
@@ -23571,7 +23571,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Dolok Sigompulon",
     "districtCode": "1220080",
     "village": "Pamarai",
-    "villageCode": "",
+    "villageCode": "1220080022",
     "postalCode": "22785"
   },
   {
@@ -24308,7 +24308,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Angkola Selatan",
     "districtCode": "1203080",
     "village": "Sibong-bong",
-    "villageCode": "",
+    "villageCode": "1203080012",
     "postalCode": "22732"
   },
   {
@@ -25199,7 +25199,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Arse",
     "districtCode": "1203120",
     "village": "Arse",
-    "villageCode": "",
+    "villageCode": "1203120034",
     "postalCode": "22747"
   },
   {
@@ -25309,7 +25309,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Saipar Dolok Hole",
     "districtCode": "1203160",
     "village": "Parau Sorat Sitabo-tabo",
-    "villageCode": "",
+    "villageCode": "1203160117",
     "postalCode": "22757"
   },
   {
@@ -25375,7 +25375,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Saipar Dolok Hole",
     "districtCode": "1203160",
     "village": "Pasar Sipagimbar",
-    "villageCode": "",
+    "villageCode": "1203160120",
     "postalCode": "22757"
   },
   {
@@ -25386,7 +25386,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Saipar Dolok Hole",
     "districtCode": "1203160",
     "village": "Sunge Sigiring-giring",
-    "villageCode": "",
+    "villageCode": "1203160118",
     "postalCode": "22757"
   },
   {
@@ -25815,7 +25815,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Tano Tombangan Angkola",
     "districtCode": "1203012",
     "village": "Simaninggir Tano Tombangan",
-    "villageCode": "",
+    "villageCode": "1203012001",
     "postalCode": "22775"
   },
   {
@@ -26266,7 +26266,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Aramo",
     "districtCode": "1214041",
     "village": "Hiliorudua",
-    "villageCode": "",
+    "villageCode": "1225060003",
     "postalCode": "22832"
   },
   {
@@ -26299,7 +26299,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Aramo",
     "districtCode": "1214041",
     "village": "Hilimezaya",
-    "villageCode": "",
+    "villageCode": "1214041002",
     "postalCode": "22832"
   },
   {
@@ -26431,7 +26431,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Maniamolo",
     "districtCode": "1214033",
     "village": "Bawohosi Maniamolo",
-    "villageCode": "",
+    "villageCode": "1214033016",
     "postalCode": "22833"
   },
   {
@@ -26552,7 +26552,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Luahagundre Maniamolo",
     "districtCode": "1214035",
     "village": "Hiliamaetaniha",
-    "villageCode": "",
+    "villageCode": "1214035006",
     "postalCode": "22834"
   },
   {
@@ -26607,7 +26607,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Fanayama",
     "districtCode": "1214031",
     "village": "Eho Orahili",
-    "villageCode": "",
+    "villageCode": "1214031018",
     "postalCode": "22834"
   },
   {
@@ -26629,7 +26629,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Fanayama",
     "districtCode": "1214031",
     "village": "Hilifarokha Lawa",
-    "villageCode": "",
+    "villageCode": "1214031022",
     "postalCode": "22834"
   },
   {
@@ -26739,7 +26739,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Fanayama",
     "districtCode": "1214031",
     "village": "Hiligito",
-    "villageCode": "",
+    "villageCode": "1214031017",
     "postalCode": "22834"
   },
   {
@@ -26750,7 +26750,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Fanayama",
     "districtCode": "1214031",
     "village": "Hilikara Maha",
-    "villageCode": "",
+    "villageCode": "1214031020",
     "postalCode": "22834"
   },
   {
@@ -26794,7 +26794,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Toma",
     "districtCode": "1214032",
     "village": "Hilisataro Eho Sofayo",
-    "villageCode": "",
+    "villageCode": "1214032002",
     "postalCode": "22835"
   },
   {
@@ -26937,7 +26937,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Mazino",
     "districtCode": "1214034",
     "village": "Hilizoroi Lawa",
-    "villageCode": "",
+    "villageCode": "1214034004",
     "postalCode": "22836"
   },
   {
@@ -27069,7 +27069,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Susua",
     "districtCode": "1214061",
     "village": "Hilitobara Susua",
-    "villageCode": "",
+    "villageCode": "1214061017",
     "postalCode": "22837"
   },
   {
@@ -27080,7 +27080,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Susua",
     "districtCode": "1214061",
     "village": "Hiliadulosoi",
-    "villageCode": "",
+    "villageCode": "1214061014",
     "postalCode": "22837"
   },
   {
@@ -27355,7 +27355,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Ulu Idanotae",
     "districtCode": "",
     "village": "Lolozukhu",
-    "villageCode": "",
+    "villageCode": "1201061001",
     "postalCode": "22839"
   },
   {
@@ -27784,7 +27784,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Oou",
     "districtCode": "1214082",
     "village": "Simandraolo",
-    "villageCode": "",
+    "villageCode": "1214082004",
     "postalCode": "22864"
   },
   {
@@ -28092,7 +28092,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Teluk Dalam",
     "districtCode": "1214030",
     "village": "Hiliamuri",
-    "villageCode": "",
+    "villageCode": "1214030045",
     "postalCode": "22865"
   },
   {
@@ -28158,7 +28158,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Teluk Dalam",
     "districtCode": "1214030",
     "village": "Ganowo Saua",
-    "villageCode": "",
+    "villageCode": "1214030042",
     "postalCode": "22865"
   },
   {
@@ -28235,7 +28235,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Onolalu",
     "districtCode": "1214036",
     "village": "Hilialito Saua",
-    "villageCode": "",
+    "villageCode": "1214036009",
     "postalCode": "22865"
   },
   {
@@ -28301,7 +28301,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Amandraya",
     "districtCode": "1214040",
     "village": "Tuindrao I",
-    "villageCode": "",
+    "villageCode": "1214040009",
     "postalCode": "22866"
   },
   {
@@ -28422,7 +28422,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Amandraya",
     "districtCode": "1214040",
     "village": "Tuhemberua Amandraya",
-    "villageCode": "",
+    "villageCode": "1214040025",
     "postalCode": "22866"
   },
   {
@@ -28697,7 +28697,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Huruna",
     "districtCode": "1214072",
     "village": "Tundrumbaho",
-    "villageCode": "",
+    "villageCode": "1214072005",
     "postalCode": "22867"
   },
   {
@@ -28708,7 +28708,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Huruna",
     "districtCode": "1214072",
     "village": "Sifaoroasi Huruna",
-    "villageCode": "",
+    "villageCode": "1214072007",
     "postalCode": "22867"
   },
   {
@@ -28752,7 +28752,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Huruna",
     "districtCode": "1214072",
     "village": "Sifaoroasi",
-    "villageCode": "",
+    "villageCode": "1214072007",
     "postalCode": "22867"
   },
   {
@@ -28796,7 +28796,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Lolomatua",
     "districtCode": "1214070",
     "village": "Caritas Sogawunasi",
-    "villageCode": "",
+    "villageCode": "1214070027",
     "postalCode": "22867"
   },
   {
@@ -28851,7 +28851,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Lolomatua",
     "districtCode": "1214070",
     "village": "Botohilindruria",
-    "villageCode": "",
+    "villageCode": "1214070026",
     "postalCode": "22867"
   },
   {
@@ -28983,7 +28983,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Ulunoyo",
     "districtCode": "1214071",
     "village": "Bawo Lolomatua",
-    "villageCode": "",
+    "villageCode": "1214071011",
     "postalCode": "22867"
   },
   {
@@ -29324,7 +29324,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Gomo",
     "districtCode": "1214060",
     "village": "Lawa-lawa Luo Gomo",
-    "villageCode": "",
+    "villageCode": "1214060013",
     "postalCode": "22873"
   },
   {
@@ -29346,7 +29346,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Gomo",
     "districtCode": "1214060",
     "village": "Doli-doli Idanotae",
-    "villageCode": "",
+    "villageCode": "1214060021",
     "postalCode": "22873"
   },
   {
@@ -29434,7 +29434,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Somambawa",
     "districtCode": "1214052",
     "village": "Silima Banua",
-    "villageCode": "",
+    "villageCode": "1214052004",
     "postalCode": "22874"
   },
   {
@@ -29522,7 +29522,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Somambawa",
     "districtCode": "1214052",
     "village": "Siwalu Banua",
-    "villageCode": "",
+    "villageCode": "1214052001",
     "postalCode": "22874"
   },
   {
@@ -29588,7 +29588,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Lahusa",
     "districtCode": "1214050",
     "village": "Hilisimaetano Balaekha",
-    "villageCode": "",
+    "villageCode": "1214050002",
     "postalCode": "22874"
   },
   {
@@ -29632,7 +29632,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Lahusa",
     "districtCode": "1214050",
     "village": "Sarahililaza",
-    "villageCode": "",
+    "villageCode": "1214050020",
     "postalCode": "22874"
   },
   {
@@ -29742,7 +29742,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Lahusa",
     "districtCode": "1214050",
     "village": "Oikhoda Balaekha",
-    "villageCode": "",
+    "villageCode": "1214050029",
     "postalCode": "22874"
   },
   {
@@ -29753,7 +29753,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Lahusa",
     "districtCode": "1214050",
     "village": "Lahusa I",
-    "villageCode": "",
+    "villageCode": "1214050009",
     "postalCode": "22874"
   },
   {
@@ -29808,7 +29808,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Siduaori",
     "districtCode": "1214051",
     "village": "Uluidanoduo",
-    "villageCode": "",
+    "villageCode": "1214051005",
     "postalCode": "22874"
   },
   {
@@ -29863,7 +29863,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Siduaori",
     "districtCode": "1214051",
     "village": "Umbu Sohahau",
-    "villageCode": "",
+    "villageCode": "1214051010",
     "postalCode": "22874"
   },
   {
@@ -30149,7 +30149,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Tanah Masa",
     "districtCode": "1214011",
     "village": "Bawo Analita Saeru",
-    "villageCode": "",
+    "villageCode": "1214011005",
     "postalCode": "22882"
   },
   {
@@ -30182,7 +30182,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Hibala",
     "districtCode": "1214010",
     "village": "Hiliorodua Tebolo",
-    "villageCode": "",
+    "villageCode": "1214010009",
     "postalCode": "22882"
   },
   {
@@ -30204,7 +30204,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Hibala",
     "districtCode": "1214010",
     "village": "Tano Mokinu",
-    "villageCode": "",
+    "villageCode": "1214010018",
     "postalCode": "22882"
   },
   {
@@ -30215,7 +30215,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Hibala",
     "districtCode": "1214010",
     "village": "Omega",
-    "villageCode": "",
+    "villageCode": "1214010021",
     "postalCode": "22882"
   },
   {
@@ -30831,7 +30831,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Padang Tualang",
     "districtCode": "1213110",
     "village": "Kwala Besilam",
-    "villageCode": "",
+    "villageCode": "1213110005",
     "postalCode": "20852"
   },
   {
@@ -31062,7 +31062,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Tambangan",
     "districtCode": "1202032",
     "village": "Rao Rao Dolok",
-    "villageCode": "",
+    "villageCode": "1202032025",
     "postalCode": "22963"
   },
   {
@@ -31117,7 +31117,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Tambangan",
     "districtCode": "1202032",
     "village": "Rao Rao Lombang",
-    "villageCode": "",
+    "villageCode": "1202032026",
     "postalCode": "22963"
   },
   {
@@ -31480,7 +31480,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Tigapanah",
     "districtCode": "1211110",
     "village": "Kubusimbelang",
-    "villageCode": "",
+    "villageCode": "1211110004",
     "postalCode": "22171"
   },
   {
@@ -31799,7 +31799,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Padang Bolak",
     "districtCode": "1220040",
     "village": "Bukit Raya Sordang",
-    "villageCode": "",
+    "villageCode": "1220040031",
     "postalCode": "22753"
   },
   {
@@ -32063,7 +32063,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Siantar",
     "districtCode": "1209160",
     "village": "Silou Manik",
-    "villageCode": "",
+    "villageCode": "1209160002",
     "postalCode": "21151"
   },
   {
@@ -32118,7 +32118,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Gunung Malela",
     "districtCode": "1209161",
     "village": "Margo Mulyo",
-    "villageCode": "",
+    "villageCode": "1209161014",
     "postalCode": "21153"
   },
   {
@@ -32173,7 +32173,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Gunung Malela",
     "districtCode": "1209161",
     "village": "Pamatang Gajing",
-    "villageCode": "",
+    "villageCode": "1209161008",
     "postalCode": "21153"
   },
   {
@@ -32360,7 +32360,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Raya Kahean",
     "districtCode": "1209130",
     "village": "Durian Banggal",
-    "villageCode": "",
+    "villageCode": "1209130008",
     "postalCode": "21156"
   },
   {
@@ -32613,7 +32613,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Panei",
     "districtCode": "1209090",
     "village": "Simpang Pane Raya",
-    "villageCode": "",
+    "villageCode": "1209090003",
     "postalCode": "21161"
   },
   {
@@ -32646,7 +32646,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Panei",
     "districtCode": "1209090",
     "village": "Bangun Sitolu Bah",
-    "villageCode": "",
+    "villageCode": "1209090019",
     "postalCode": "21161"
   },
   {
@@ -32679,7 +32679,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Panei",
     "districtCode": "1209090",
     "village": "Bah Bolon Tonga",
-    "villageCode": "",
+    "villageCode": "1209090015",
     "postalCode": "21161"
   },
   {
@@ -32734,7 +32734,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Panei",
     "districtCode": "1209090",
     "village": "Bah Liran Siborna",
-    "villageCode": "",
+    "villageCode": "1209090004",
     "postalCode": "21161"
   },
   {
@@ -32756,7 +32756,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Panei",
     "districtCode": "1209090",
     "village": "Panei Tongah",
-    "villageCode": "",
+    "villageCode": "1209090007",
     "postalCode": "21161"
   },
   {
@@ -33185,7 +33185,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Purba",
     "districtCode": "1209020",
     "village": "Purba Tongah",
-    "villageCode": "",
+    "villageCode": "1209020007",
     "postalCode": "21165"
   },
   {
@@ -33196,7 +33196,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Purba",
     "districtCode": "1209020",
     "village": "Hinalang",
-    "villageCode": "",
+    "villageCode": "1209020002",
     "postalCode": "21165"
   },
   {
@@ -33207,7 +33207,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Purba",
     "districtCode": "1209020",
     "village": "Tano Tinggir",
-    "villageCode": "",
+    "villageCode": "1209020011",
     "postalCode": "21165"
   },
   {
@@ -33284,7 +33284,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Haranggaol Horison",
     "districtCode": "1209021",
     "village": "Nagori Purba Pasir",
-    "villageCode": "",
+    "villageCode": "1209021003",
     "postalCode": "21166"
   },
   {
@@ -33317,7 +33317,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Haranggaol Horison",
     "districtCode": "1209021",
     "village": "Nagori Purba Horison",
-    "villageCode": "",
+    "villageCode": "1209021005",
     "postalCode": "21166"
   },
   {
@@ -33339,7 +33339,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Silimakuta",
     "districtCode": "1209010",
     "village": "Bangun Mariah",
-    "villageCode": "",
+    "villageCode": "1209010002",
     "postalCode": "21167"
   },
   {
@@ -33625,7 +33625,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Sidamanik",
     "districtCode": "1209040",
     "village": "Bah Butong I",
-    "villageCode": "",
+    "villageCode": "1209040010",
     "postalCode": "21171"
   },
   {
@@ -33746,7 +33746,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Sidamanik",
     "districtCode": "1209040",
     "village": "Bah Butong II",
-    "villageCode": "",
+    "villageCode": "1209040010",
     "postalCode": "21171"
   },
   {
@@ -33845,7 +33845,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Jorlang Hataran",
     "districtCode": "1209080",
     "village": "Panombean Hutaurung",
-    "villageCode": "",
+    "villageCode": "1209080009",
     "postalCode": "21172"
   },
   {
@@ -34219,7 +34219,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Tanah Jawa",
     "districtCode": "1209060",
     "village": "Maligas Tonga",
-    "villageCode": "",
+    "villageCode": "1209060012",
     "postalCode": "21181"
   },
   {
@@ -34615,7 +34615,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Ujung Padang",
     "districtCode": "1209210",
     "village": "Riah Na Poso",
-    "villageCode": "",
+    "villageCode": "1209210015",
     "postalCode": "21187"
   },
   {
@@ -34637,7 +34637,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Ujung Padang",
     "districtCode": "1209210",
     "village": "Aek Gerger Sidodadi",
-    "villageCode": "",
+    "villageCode": "1209210012",
     "postalCode": "21187"
   },
   {
@@ -34802,7 +34802,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Hatonduhan",
     "districtCode": "1209061",
     "village": "Jawa Tonga",
-    "villageCode": "",
+    "villageCode": "1209061006",
     "postalCode": "21191"
   },
   {
@@ -34857,7 +34857,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Gunung Maligas",
     "districtCode": "1209162",
     "village": "Ganjing",
-    "villageCode": "",
+    "villageCode": "1209162009",
     "postalCode": "21194"
   },
   {
@@ -34934,7 +34934,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Panombeian Pane",
     "districtCode": "",
     "village": "Pematang Pane",
-    "villageCode": "",
+    "villageCode": "1213070010",
     "postalCode": "21195"
   },
   {
@@ -35044,7 +35044,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Tiganderket",
     "districtCode": "1211071",
     "village": "Kutagaluh",
-    "villageCode": "",
+    "villageCode": "1211071015",
     "postalCode": "22154"
   },
   {
@@ -35077,7 +35077,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Salak",
     "districtCode": "1216010",
     "village": "Boangmanalu",
-    "villageCode": "",
+    "villageCode": "1216010006",
     "postalCode": "22272"
   },
   {
@@ -35550,7 +35550,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Mandrehe Barat",
     "districtCode": "1225070",
     "village": "Orahili Badalu",
-    "villageCode": "",
+    "villageCode": "1225070014",
     "postalCode": "22895"
   },
   {
@@ -35660,7 +35660,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Tigapanah",
     "districtCode": "1211110",
     "village": "Lauriman",
-    "villageCode": "",
+    "villageCode": "1211110006",
     "postalCode": "22171"
   },
   {
@@ -35671,7 +35671,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Tigapanah",
     "districtCode": "1211110",
     "village": "Kutambelin",
-    "villageCode": "",
+    "villageCode": "1211110002",
     "postalCode": "22171"
   },
   {
@@ -35682,7 +35682,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Tigapanah",
     "districtCode": "1211110",
     "village": "Kutakepar",
-    "villageCode": "",
+    "villageCode": "1211110008",
     "postalCode": "22171"
   },
   {
@@ -35770,7 +35770,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Tigapanah",
     "districtCode": "1211110",
     "village": "Kutabale",
-    "villageCode": "",
+    "villageCode": "1211110014",
     "postalCode": "22171"
   },
   {
@@ -35825,7 +35825,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Tigapanah",
     "districtCode": "1211110",
     "village": "Leparsamura",
-    "villageCode": "",
+    "villageCode": "1211110016",
     "postalCode": "22171"
   },
   {
@@ -35836,7 +35836,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Habinsaran",
     "districtCode": "",
     "village": "Panamparan",
-    "villageCode": "",
+    "villageCode": "1211081011",
     "postalCode": "22383"
   },
   {
@@ -35891,7 +35891,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Dolok",
     "districtCode": "1220070",
     "village": "Binanga Panasahan",
-    "villageCode": "",
+    "villageCode": "1220070013",
     "postalCode": "22756"
   },
   {
@@ -35979,7 +35979,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Pulau Rakyat",
     "districtCode": "1208030",
     "village": "Ofa Padang Mahondang",
-    "villageCode": "",
+    "villageCode": "1208030022",
     "postalCode": "21273"
   },
   {
@@ -36188,7 +36188,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Hulu Sihapas",
     "districtCode": "1220090",
     "village": "Suka Dame",
-    "villageCode": "",
+    "villageCode": "1220090010",
     "postalCode": "22733"
   },
   {
@@ -36287,7 +36287,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Hulu Sihapas",
     "districtCode": "1220090",
     "village": "Simaninggir",
-    "villageCode": "",
+    "villageCode": "1220090006",
     "postalCode": "22733"
   },
   {
@@ -36375,7 +36375,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Padangsidimpuan Tenggara",
     "districtCode": "1277010",
     "village": "Perkebunan Pijor Koling",
-    "villageCode": "",
+    "villageCode": "1277010008",
     "postalCode": "22748"
   },
   {
@@ -36452,7 +36452,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Padangsidimpuan Tenggara",
     "districtCode": "1277010",
     "village": "Palopat Pijor Koling",
-    "villageCode": "",
+    "villageCode": "1277010008",
     "postalCode": "22748"
   },
   {
@@ -36749,7 +36749,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Padang Bolak",
     "districtCode": "1220040",
     "village": "Sungai Orosan",
-    "villageCode": "",
+    "villageCode": "1220040086",
     "postalCode": "22753"
   },
   {
@@ -36771,7 +36771,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Padang Bolak",
     "districtCode": "1220040",
     "village": "Sungai Tolang",
-    "villageCode": "",
+    "villageCode": "1220040109",
     "postalCode": "22753"
   },
   {
@@ -36892,7 +36892,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Padang Bolak",
     "districtCode": "1220040",
     "village": "Liang Hasona",
-    "villageCode": "",
+    "villageCode": "1220040088",
     "postalCode": "22753"
   },
   {
@@ -36914,7 +36914,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Padang Bolak",
     "districtCode": "1220040",
     "village": "Pagaran Singkam",
-    "villageCode": "",
+    "villageCode": "1220040076",
     "postalCode": "22753"
   },
   {
@@ -37057,7 +37057,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Padang Bolak",
     "districtCode": "1220040",
     "village": "Hutalombang",
-    "villageCode": "",
+    "villageCode": "1220040082",
     "postalCode": "22753"
   },
   {
@@ -37090,7 +37090,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Padang Bolak",
     "districtCode": "1220040",
     "village": "Sungai Durian",
-    "villageCode": "",
+    "villageCode": "1220040085",
     "postalCode": "22753"
   },
   {
@@ -37123,7 +37123,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Padang Bolak",
     "districtCode": "1220040",
     "village": "Napagadung Laut",
-    "villageCode": "",
+    "villageCode": "1220040097",
     "postalCode": "22753"
   },
   {
@@ -37233,7 +37233,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Dolok",
     "districtCode": "1220070",
     "village": "Silogo Logo",
-    "villageCode": "",
+    "villageCode": "1220070067",
     "postalCode": "22756"
   },
   {
@@ -37244,7 +37244,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Dolok",
     "districtCode": "1220070",
     "village": "Pintu Padang Merdeka",
-    "villageCode": "",
+    "villageCode": "1220070010",
     "postalCode": "22756"
   },
   {
@@ -37343,7 +37343,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Dolok",
     "districtCode": "1220070",
     "village": "Sungai Pining",
-    "villageCode": "",
+    "villageCode": "1220070076",
     "postalCode": "22756"
   },
   {
@@ -37409,7 +37409,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Dolok",
     "districtCode": "1220070",
     "village": "Pangaran Julu I",
-    "villageCode": "",
+    "villageCode": "1220070066",
     "postalCode": "22756"
   },
   {
@@ -37453,7 +37453,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Dolok",
     "districtCode": "1220070",
     "village": "Siraga HP",
-    "villageCode": "",
+    "villageCode": "1220070040",
     "postalCode": "22756"
   },
   {
@@ -37475,7 +37475,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Dolok",
     "districtCode": "1220070",
     "village": "Siburbur",
-    "villageCode": "",
+    "villageCode": "1220070039",
     "postalCode": "22756"
   },
   {
@@ -37530,7 +37530,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Dolok",
     "districtCode": "1220070",
     "village": "Sijara Jara",
-    "villageCode": "",
+    "villageCode": "1220070018",
     "postalCode": "22756"
   },
   {
@@ -37574,7 +37574,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Dolok",
     "districtCode": "1220070",
     "village": "Sibio Bio",
-    "villageCode": "",
+    "villageCode": "1220070075",
     "postalCode": "22756"
   },
   {
@@ -37651,7 +37651,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Dolok",
     "districtCode": "1220070",
     "village": "Aek Rao TN",
-    "villageCode": "",
+    "villageCode": "1220070003",
     "postalCode": "22756"
   },
   {
@@ -37673,7 +37673,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Dolok",
     "districtCode": "1220070",
     "village": "Napasundali",
-    "villageCode": "",
+    "villageCode": "1220070073",
     "postalCode": "22756"
   },
   {
@@ -37684,7 +37684,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Dolok",
     "districtCode": "1220070",
     "village": "Hula Baringin",
-    "villageCode": "",
+    "villageCode": "1220070085",
     "postalCode": "22756"
   },
   {
@@ -37739,7 +37739,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Dolok",
     "districtCode": "1220070",
     "village": "Purba Tua",
-    "villageCode": "",
+    "villageCode": "1220060014",
     "postalCode": "22756"
   },
   {
@@ -38014,7 +38014,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Sosopan",
     "districtCode": "1221010",
     "village": "Simaninggir Sosopan",
-    "villageCode": "",
+    "villageCode": "1221010013",
     "postalCode": "22762"
   },
   {
@@ -38025,7 +38025,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Sosopan",
     "districtCode": "1221010",
     "village": "Sigala-Gala",
-    "villageCode": "",
+    "villageCode": "1221010017",
     "postalCode": "22762"
   },
   {
@@ -38036,7 +38036,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Sosopan",
     "districtCode": "1221010",
     "village": "Pagaranbira Jae",
-    "villageCode": "",
+    "villageCode": "1202030027",
     "postalCode": "22762"
   },
   {
@@ -38432,7 +38432,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Sosa",
     "districtCode": "1221050",
     "village": "Plasma Mondang",
-    "villageCode": "",
+    "villageCode": "1221050051",
     "postalCode": "22765"
   },
   {
@@ -38553,7 +38553,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Sosa",
     "districtCode": "1221050",
     "village": "Rao-Rao Dolok",
-    "villageCode": "",
+    "villageCode": "1221050085",
     "postalCode": "22765"
   },
   {
@@ -39004,7 +39004,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Portibi",
     "districtCode": "1220030",
     "village": "Napa Lombang",
-    "villageCode": "",
+    "villageCode": "1220030019",
     "postalCode": "22782"
   },
   {
@@ -39081,7 +39081,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Simangambat",
     "districtCode": "1220050",
     "village": "Aekraru",
-    "villageCode": "",
+    "villageCode": "1220050115",
     "postalCode": "22783"
   },
   {
@@ -39180,7 +39180,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Simangambat",
     "districtCode": "1220050",
     "village": "Jabi Jabi",
-    "villageCode": "",
+    "villageCode": "1220050111",
     "postalCode": "22783"
   },
   {
@@ -39202,7 +39202,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Simangambat",
     "districtCode": "1220050",
     "village": "Paran Tonga Sim",
-    "villageCode": "",
+    "villageCode": "1220050119",
     "postalCode": "22783"
   },
   {
@@ -39246,7 +39246,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Simangambat",
     "districtCode": "1220050",
     "village": "Janji Matogu",
-    "villageCode": "",
+    "villageCode": "1202052004",
     "postalCode": "22783"
   },
   {
@@ -39455,7 +39455,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Halongonan",
     "districtCode": "1220060",
     "village": "Sitonun",
-    "villageCode": "",
+    "villageCode": "1220060020",
     "postalCode": "22784"
   },
   {
@@ -39466,7 +39466,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Halongonan",
     "districtCode": "1220060",
     "village": "Siringki Julu",
-    "villageCode": "",
+    "villageCode": "1220060028",
     "postalCode": "22784"
   },
   {
@@ -39477,7 +39477,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Halongonan",
     "districtCode": "1220060",
     "village": "Hasahatan",
-    "villageCode": "",
+    "villageCode": "1220060039",
     "postalCode": "22784"
   },
   {
@@ -39499,7 +39499,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Halongonan",
     "districtCode": "1220060",
     "village": "Siringki Jae",
-    "villageCode": "",
+    "villageCode": "1220060029",
     "postalCode": "22784"
   },
   {
@@ -39719,7 +39719,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Dolok Sigompulon",
     "districtCode": "1220080",
     "village": "Aek Simanap",
-    "villageCode": "",
+    "villageCode": "1220080026",
     "postalCode": "22785"
   },
   {
@@ -39785,7 +39785,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Dolok Sigompulon",
     "districtCode": "1220080",
     "village": "Padang Matinggi GNT",
-    "villageCode": "",
+    "villageCode": "1220080028",
     "postalCode": "22785"
   },
   {
@@ -39818,7 +39818,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Dolok Sigompulon",
     "districtCode": "1220080",
     "village": "Sipogas",
-    "villageCode": "",
+    "villageCode": "1220080020",
     "postalCode": "22785"
   },
   {
@@ -39873,7 +39873,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Dolok Sigompulon",
     "districtCode": "1220080",
     "village": "Pulo Liman",
-    "villageCode": "",
+    "villageCode": "1220080027",
     "postalCode": "22785"
   },
   {
@@ -39939,7 +39939,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Dolok Sigompulon",
     "districtCode": "1220080",
     "village": "Sihalo Halo",
-    "villageCode": "",
+    "villageCode": "1220080018",
     "postalCode": "22785"
   },
   {
@@ -39961,7 +39961,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Dolok Sigompulon",
     "districtCode": "1220080",
     "village": "Simaninggir Simundol",
-    "villageCode": "",
+    "villageCode": "1220080002",
     "postalCode": "22785"
   },
   {
@@ -39972,7 +39972,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Dolok Sigompulon",
     "districtCode": "1220080",
     "village": "Saba Bangun",
-    "villageCode": "",
+    "villageCode": "1220080015",
     "postalCode": "22785"
   },
   {
@@ -40016,7 +40016,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Dolok Sigompulon",
     "districtCode": "1220080",
     "village": "Padang Matinggi Simundol",
-    "villageCode": "",
+    "villageCode": "1220080002",
     "postalCode": "22785"
   },
   {
@@ -40093,7 +40093,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Dolok Sigompulon",
     "districtCode": "1220080",
     "village": "Pasar Sayur Matinggi",
-    "villageCode": "",
+    "villageCode": "1220080023",
     "postalCode": "22785"
   },
   {
@@ -40236,7 +40236,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Huta Raja Tinggi",
     "districtCode": "1221070",
     "village": "Aliaga",
-    "villageCode": "",
+    "villageCode": "1221070059",
     "postalCode": "22794"
   },
   {
@@ -40280,7 +40280,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Huta Raja Tinggi",
     "districtCode": "1221070",
     "village": "Pir Trans Sosa V",
-    "villageCode": "",
+    "villageCode": "1221070062",
     "postalCode": "22794"
   },
   {
@@ -40313,7 +40313,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Huta Raja Tinggi",
     "districtCode": "1221070",
     "village": "Pir Trans Sosa III A",
-    "villageCode": "",
+    "villageCode": "1221070058",
     "postalCode": "22794"
   },
   {
@@ -40379,7 +40379,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Huta Raja Tinggi",
     "districtCode": "1221070",
     "village": "Hutaraja Tinggi",
-    "villageCode": "",
+    "villageCode": "1221070068",
     "postalCode": "22794"
   },
   {
@@ -40401,7 +40401,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Huta Raja Tinggi",
     "districtCode": "1221070",
     "village": "Pir Trans Sosa IV",
-    "villageCode": "",
+    "villageCode": "1221070098",
     "postalCode": "22794"
   },
   {
@@ -40423,7 +40423,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Huta Raja Tinggi",
     "districtCode": "1221070",
     "village": "Pir Trans Sosa II",
-    "villageCode": "",
+    "villageCode": "1221070033",
     "postalCode": "22794"
   },
   {
@@ -40434,7 +40434,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Huta Raja Tinggi",
     "districtCode": "1221070",
     "village": "Pir Trans Sosa VI",
-    "villageCode": "",
+    "villageCode": "1221070062",
     "postalCode": "22794"
   },
   {
@@ -40566,7 +40566,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Huristak",
     "districtCode": "1221080",
     "village": "Tar Sihoda-Hoda",
-    "villageCode": "",
+    "villageCode": "1221080089",
     "postalCode": "22797"
   },
   {
@@ -41226,7 +41226,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Lahewa",
     "districtCode": "1224110",
     "village": "Pasar Lahewa",
-    "villageCode": "",
+    "villageCode": "1224110017",
     "postalCode": "22853"
   },
   {
@@ -41380,7 +41380,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Hiliduho",
     "districtCode": "1201130",
     "village": "Dima",
-    "villageCode": "",
+    "villageCode": "1201130027",
     "postalCode": "22854"
   },
   {
@@ -41391,7 +41391,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Hiliduho",
     "districtCode": "1201130",
     "village": "Ombolata Sisarahili",
-    "villageCode": "",
+    "villageCode": "1201130035",
     "postalCode": "22854"
   },
   {
@@ -41413,7 +41413,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Hiliduho",
     "districtCode": "1201130",
     "village": "Onozitolidulu",
-    "villageCode": "",
+    "villageCode": "1201130020",
     "postalCode": "22854"
   },
   {
@@ -41424,7 +41424,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Hiliduho",
     "districtCode": "1201130",
     "village": "Ononamolo I Bot",
-    "villageCode": "",
+    "villageCode": "1201130025",
     "postalCode": "22854"
   },
   {
@@ -41600,7 +41600,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Afulu",
     "districtCode": "1224100",
     "village": "Lauru I",
-    "villageCode": "",
+    "villageCode": "1224100009",
     "postalCode": "22857"
   },
   {
@@ -41853,7 +41853,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Botomuzoi",
     "districtCode": "1201132",
     "village": "Ola Nori",
-    "villageCode": "",
+    "villageCode": "1201132018",
     "postalCode": "22859"
   },
   {
@@ -42150,7 +42150,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Mandrehe",
     "districtCode": "1225060",
     "village": "Doli-Doli",
-    "villageCode": "",
+    "villageCode": "1225060015",
     "postalCode": "22862"
   },
   {
@@ -42172,7 +42172,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Mandrehe",
     "districtCode": "1225060",
     "village": "Iraonogambo",
-    "villageCode": "",
+    "villageCode": "1225060004",
     "postalCode": "22862"
   },
   {
@@ -42293,7 +42293,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Mandrehe",
     "districtCode": "1225060",
     "village": "Hiliwaloo I",
-    "villageCode": "",
+    "villageCode": "1225060006",
     "postalCode": "22862"
   },
   {
@@ -42337,7 +42337,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Sirombu",
     "districtCode": "1225010",
     "village": "Sineneeto",
-    "villageCode": "",
+    "villageCode": "1225010011",
     "postalCode": "22863"
   },
   {
@@ -42370,7 +42370,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Sirombu",
     "districtCode": "1225010",
     "village": "Hilimberuanaa",
-    "villageCode": "",
+    "villageCode": "1225010025",
     "postalCode": "22863"
   },
   {
@@ -42381,7 +42381,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Sirombu",
     "districtCode": "1225010",
     "village": "Togimbogi",
-    "villageCode": "",
+    "villageCode": "1225010021",
     "postalCode": "22863"
   },
   {
@@ -42513,7 +42513,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Sirombu",
     "districtCode": "1225010",
     "village": "Tugala Gawu",
-    "villageCode": "",
+    "villageCode": "1225010015",
     "postalCode": "22863"
   },
   {
@@ -42535,7 +42535,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Sirombu",
     "districtCode": "1225010",
     "village": "Gunungcahaya",
-    "villageCode": "",
+    "villageCode": "1225010019",
     "postalCode": "22863"
   },
   {
@@ -42645,7 +42645,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Gido",
     "districtCode": "1201070",
     "village": "Akhelauwe",
-    "villageCode": "",
+    "villageCode": "1201070008",
     "postalCode": "22871"
   },
   {
@@ -42678,7 +42678,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Gido",
     "districtCode": "1201070",
     "village": "Soewe",
-    "villageCode": "",
+    "villageCode": "1201070028",
     "postalCode": "22871"
   },
   {
@@ -42777,7 +42777,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Sogaeadu",
     "districtCode": "1201071",
     "village": "Saitagaramba",
-    "villageCode": "",
+    "villageCode": "1201071005",
     "postalCode": "22871"
   },
   {
@@ -43085,7 +43085,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Lolofitu Moi",
     "districtCode": "1225040",
     "village": "Wango",
-    "villageCode": "",
+    "villageCode": "1225040008",
     "postalCode": "22875"
   },
   {
@@ -43184,7 +43184,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Bawolato",
     "districtCode": "1201061",
     "village": "Sifaoroasi Ulu Hou",
-    "villageCode": "",
+    "villageCode": "1201061022",
     "postalCode": "22876"
   },
   {
@@ -43426,7 +43426,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Ulugawo",
     "districtCode": "1201062",
     "village": "Lawalawa Luo",
-    "villageCode": "",
+    "villageCode": "1201062009",
     "postalCode": "22877"
   },
   {
@@ -43712,7 +43712,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Lahomi",
     "districtCode": "1225020",
     "village": "Bawozamaiwo",
-    "villageCode": "",
+    "villageCode": "1225020002",
     "postalCode": "22891"
   },
   {
@@ -43767,7 +43767,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Lahomi",
     "districtCode": "1225020",
     "village": "Tigaserangkai",
-    "villageCode": "",
+    "villageCode": "1225020011",
     "postalCode": "22891"
   },
   {
@@ -44031,7 +44031,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Mandrehe Barat",
     "districtCode": "1225070",
     "village": "Hillidaura",
-    "villageCode": "",
+    "villageCode": "1225070008",
     "postalCode": "22895"
   },
   {
@@ -44075,7 +44075,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Mandrehe Barat",
     "districtCode": "1225070",
     "village": "Lasara Bagawu",
-    "villageCode": "",
+    "villageCode": "1225070010",
     "postalCode": "22895"
   },
   {
@@ -44152,7 +44152,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Panyabungan",
     "districtCode": "1202050",
     "village": "Sipolu-Polu",
-    "villageCode": "",
+    "villageCode": "1202050072",
     "postalCode": "22912"
   },
   {
@@ -44405,7 +44405,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Panyabungan",
     "districtCode": "1202050",
     "village": "Sipapaga",
-    "villageCode": "",
+    "villageCode": "1202050018",
     "postalCode": "22919"
   },
   {
@@ -44427,7 +44427,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Panyabungan",
     "districtCode": "1202050",
     "village": "Perbangunan",
-    "villageCode": "",
+    "villageCode": "1202050019",
     "postalCode": "22919"
   },
   {
@@ -44504,7 +44504,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Panyabungan Barat",
     "districtCode": "1202052",
     "village": "Huta Tonga BB",
-    "villageCode": "",
+    "villageCode": "1202052007",
     "postalCode": "22953"
   },
   {
@@ -44669,7 +44669,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Panyabungan Utara",
     "districtCode": "1202053",
     "village": "Torbanua Raja",
-    "villageCode": "",
+    "villageCode": "1202053019",
     "postalCode": "22954"
   },
   {
@@ -44999,7 +44999,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Puncak Sorik Marapi",
     "districtCode": "1202034",
     "village": "Hutatinggi",
-    "villageCode": "",
+    "villageCode": "1202034001",
     "postalCode": "22963"
   },
   {
@@ -45076,7 +45076,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Puncak Sorik Marapi",
     "districtCode": "1202034",
     "village": "Hutabaringin Julu",
-    "villageCode": "",
+    "villageCode": "1202034011",
     "postalCode": "22963"
   },
   {
@@ -45582,7 +45582,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Naga Juang",
     "districtCode": "1202082",
     "village": "Banua Simanosor",
-    "villageCode": "",
+    "villageCode": "1202082006",
     "postalCode": "22977"
   },
   {
@@ -45659,7 +45659,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Natal",
     "districtCode": "1202060",
     "village": "Bonda Kase",
-    "villageCode": "",
+    "villageCode": "1202060023",
     "postalCode": "22987"
   },
   {
@@ -45989,7 +45989,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Batahan",
     "districtCode": "1202010",
     "village": "Sari Kenanga Batahan",
-    "villageCode": "",
+    "villageCode": "1202010015",
     "postalCode": "22988"
   },
   {
@@ -46154,7 +46154,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Kotanopan",
     "districtCode": "1202030",
     "village": "Hutapuli",
-    "villageCode": "",
+    "villageCode": "1202030039",
     "postalCode": "22994"
   },
   {
@@ -46484,7 +46484,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Kolang",
     "districtCode": "1204050",
     "village": "P.O. Hurlang",
-    "villageCode": "",
+    "villageCode": "1204050010",
     "postalCode": "22562"
   },
   {
@@ -46528,7 +46528,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Kolang",
     "districtCode": "1204050",
     "village": "Simarpinggang",
-    "villageCode": "",
+    "villageCode": "1204050016",
     "postalCode": "22563"
   },
   {
@@ -46638,7 +46638,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Sorkam",
     "districtCode": "1204060",
     "village": "Naipospos Barat",
-    "villageCode": "",
+    "villageCode": "1204060013",
     "postalCode": "22563"
   },
   {
@@ -46682,7 +46682,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Sorkam",
     "districtCode": "1204060",
     "village": "Bottot",
-    "villageCode": "",
+    "villageCode": "1204060002",
     "postalCode": "22563"
   },
   {
@@ -47012,7 +47012,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Sorkam Barat",
     "districtCode": "1204061",
     "village": "Pahieme I",
-    "villageCode": "",
+    "villageCode": "1204061002",
     "postalCode": "22571"
   },
   {
@@ -47155,7 +47155,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Pasaribu Tobing",
     "districtCode": "1204062",
     "village": "Suga Suga Hutagodang",
-    "villageCode": "",
+    "villageCode": "1204062001",
     "postalCode": "22572"
   },
   {
@@ -47298,7 +47298,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Andam Dewi",
     "districtCode": "1204072",
     "village": "Sitiris-Tiris",
-    "villageCode": "",
+    "villageCode": "1204072013",
     "postalCode": "22575"
   },
   {
@@ -47683,7 +47683,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Tukka",
     "districtCode": "1204031",
     "village": "Bona Lumban",
-    "villageCode": "",
+    "villageCode": "1210080012",
     "postalCode": "22632"
   },
   {
@@ -47694,7 +47694,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Tukka",
     "districtCode": "1204031",
     "village": "Huta Nabolon",
-    "villageCode": "",
+    "villageCode": "1204031007",
     "postalCode": "22633"
   },
   {
@@ -47705,7 +47705,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Tukka",
     "districtCode": "1204031",
     "village": "Tapian Nauli/ Saurmanggita",
-    "villageCode": "",
+    "villageCode": "1204031002",
     "postalCode": "22635"
   },
   {
@@ -47804,7 +47804,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Tapian Nauli",
     "districtCode": "1204040",
     "village": "Aloban Bair",
-    "villageCode": "",
+    "villageCode": "1204040006",
     "postalCode": "22645"
   },
   {
@@ -48156,7 +48156,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Badiri",
     "districtCode": "1204011",
     "village": "Jago Jago",
-    "villageCode": "",
+    "villageCode": "1204011002",
     "postalCode": "22657"
   },
   {
@@ -48266,7 +48266,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Tarutung",
     "districtCode": "1205060",
     "village": "Hutatoruan IX",
-    "villageCode": "",
+    "villageCode": "1205060013",
     "postalCode": "22412"
   },
   {
@@ -48332,7 +48332,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Tarutung",
     "districtCode": "1205060",
     "village": "Siandor-andor",
-    "villageCode": "",
+    "villageCode": "1205060001",
     "postalCode": "22414"
   },
   {
@@ -48376,7 +48376,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Tarutung",
     "districtCode": "1205060",
     "village": "Hutatoruan IV",
-    "villageCode": "",
+    "villageCode": "1205060013",
     "postalCode": "22415"
   },
   {
@@ -48750,7 +48750,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Sipoholon",
     "districtCode": "1205050",
     "village": "Hutaraja Simanungkalit",
-    "villageCode": "",
+    "villageCode": "1205050003",
     "postalCode": "22452"
   },
   {
@@ -48794,7 +48794,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Parmonangan",
     "districtCode": "1205030",
     "village": "Hutajulu",
-    "villageCode": "",
+    "villageCode": "1205030011",
     "postalCode": "22453"
   },
   {
@@ -49399,7 +49399,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Pahae Jae",
     "districtCode": "1205080",
     "village": "Sigurung-gurung",
-    "villageCode": "",
+    "villageCode": "1205080029",
     "postalCode": "22465"
   },
   {
@@ -49432,7 +49432,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Pahae Jae",
     "districtCode": "1205080",
     "village": "Sarulla",
-    "villageCode": "",
+    "villageCode": "1205080021",
     "postalCode": "22465"
   },
   {
@@ -49762,7 +49762,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Sipahutar",
     "districtCode": "1205110",
     "village": "Siabal-abal IV",
-    "villageCode": "",
+    "villageCode": "1205110022",
     "postalCode": "22471"
   },
   {
@@ -49773,7 +49773,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Sipahutar",
     "districtCode": "1205110",
     "village": "Siabal-abal II",
-    "villageCode": "",
+    "villageCode": "1205110004",
     "postalCode": "22471"
   },
   {
@@ -49817,7 +49817,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Sipahutar",
     "districtCode": "1205110",
     "village": "Siabal-abal I",
-    "villageCode": "",
+    "villageCode": "1205110003",
     "postalCode": "22471"
   },
   {
@@ -49916,7 +49916,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Sipahutar",
     "districtCode": "1205110",
     "village": "Siabal-abal III",
-    "villageCode": "",
+    "villageCode": "1205110009",
     "postalCode": "22471"
   },
   {
@@ -50202,7 +50202,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Pangaribuan",
     "districtCode": "1205090",
     "village": "Lumban SinagaSimatupang",
-    "villageCode": "",
+    "villageCode": "1205090002",
     "postalCode": "22472"
   },
   {
@@ -50279,7 +50279,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Garoga",
     "districtCode": "1205100",
     "village": "Parinsoran",
-    "villageCode": "",
+    "villageCode": "1205100003",
     "postalCode": "22473"
   },
   {
@@ -50675,7 +50675,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Kota Kisaran Timur",
     "districtCode": "1208170",
     "village": "Siumbut Umbut",
-    "villageCode": "",
+    "villageCode": "1208170009",
     "postalCode": "21225"
   },
   {
@@ -51126,7 +51126,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Pulo Bandring",
     "districtCode": "1208091",
     "village": "Suka Damai Barat",
-    "villageCode": "",
+    "villageCode": "1208091003",
     "postalCode": "21266"
   },
   {
@@ -51170,7 +51170,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Simpang Empat",
     "districtCode": "1208060",
     "village": "Sei Lama",
-    "villageCode": "",
+    "villageCode": "1208060011",
     "postalCode": "21271"
   },
   {
@@ -51192,7 +51192,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Simpang Empat",
     "districtCode": "1208060",
     "village": "Perkebunan Suka Raja",
-    "villageCode": "",
+    "villageCode": "1208060007",
     "postalCode": "21271"
   },
   {
@@ -51236,7 +51236,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Teluk Dalam",
     "districtCode": "1208061",
     "village": "Air Teluk Kiri",
-    "villageCode": "",
+    "villageCode": "1208061005",
     "postalCode": "21272"
   },
   {
@@ -51357,7 +51357,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Pulau Rakyat",
     "districtCode": "1208030",
     "village": "Tunggul",
-    "villageCode": "",
+    "villageCode": "1208030015",
     "postalCode": "21273"
   },
   {
@@ -51599,7 +51599,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Aek Kuasan",
     "districtCode": "1208031",
     "village": "Aek Loba Afd I",
-    "villageCode": "",
+    "villageCode": "1208031010",
     "postalCode": "21275"
   },
   {
@@ -51720,7 +51720,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Tinggi Raja",
     "districtCode": "1208081",
     "village": "Piasa Ulu",
-    "villageCode": "",
+    "villageCode": "1208081003",
     "postalCode": "21292"
   },
   {
@@ -51764,7 +51764,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Sei Kepayang Barat",
     "districtCode": "1208041",
     "village": "Sei Jawi-Jawi",
-    "villageCode": "",
+    "villageCode": "1208041005",
     "postalCode": "21381"
   },
   {
@@ -51962,7 +51962,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Sidikalang",
     "districtCode": "1210030",
     "village": "Huta Rakyat",
-    "villageCode": "",
+    "villageCode": "1210030011",
     "postalCode": "22219"
   },
   {
@@ -52083,7 +52083,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Tanah Pinem",
     "districtCode": "1210120",
     "village": "Lau Primbon",
-    "villageCode": "",
+    "villageCode": "1210120008",
     "postalCode": "22253"
   },
   {
@@ -52116,7 +52116,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Tanah Pinem",
     "districtCode": "1210120",
     "village": "Lau Njuhar I",
-    "villageCode": "",
+    "villageCode": "1210120014",
     "postalCode": "22253"
   },
   {
@@ -52457,7 +52457,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Siempat Nempu",
     "districtCode": "1210070",
     "village": "Juma Teguh",
-    "villageCode": "",
+    "villageCode": "1210070009",
     "postalCode": "22261"
   },
   {
@@ -52468,7 +52468,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Siempat Nempu",
     "districtCode": "1210070",
     "village": "Bunturaja",
-    "villageCode": "",
+    "villageCode": "1210070005",
     "postalCode": "22261"
   },
   {
@@ -52490,7 +52490,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Siempat Nempu",
     "districtCode": "1210070",
     "village": "Sosor Lontung",
-    "villageCode": "",
+    "villageCode": "1210070010",
     "postalCode": "22261"
   },
   {
@@ -52501,7 +52501,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Siempat Nempu",
     "districtCode": "1210070",
     "village": "Juma Siulok",
-    "villageCode": "",
+    "villageCode": "1210070008",
     "postalCode": "22261"
   },
   {
@@ -53106,7 +53106,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Pegagan Hilir",
     "districtCode": "1210110",
     "village": "Perrik Mbue",
-    "villageCode": "",
+    "villageCode": "1210110009",
     "postalCode": "22283"
   },
   {
@@ -53458,7 +53458,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Simpang Empat",
     "districtCode": "1211080",
     "village": "Sirumbia",
-    "villageCode": "",
+    "villageCode": "1211080002",
     "postalCode": "22153"
   },
   {
@@ -53491,7 +53491,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Simpang Empat",
     "districtCode": "1211080",
     "village": "Nangbelawan",
-    "villageCode": "",
+    "villageCode": "1211080003",
     "postalCode": "22153"
   },
   {
@@ -53689,7 +53689,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Payung",
     "districtCode": "1211070",
     "village": "Gurukinayan",
-    "villageCode": "",
+    "villageCode": "1211070008",
     "postalCode": "22156"
   },
   {
@@ -53700,7 +53700,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Naman Teran",
     "districtCode": "1211081",
     "village": "Kutagugung",
-    "villageCode": "",
+    "villageCode": "1211081001",
     "postalCode": "22157"
   },
   {
@@ -53722,7 +53722,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Naman Teran",
     "districtCode": "1211081",
     "village": "Sukandebi",
-    "villageCode": "",
+    "villageCode": "1211081007",
     "postalCode": "22157"
   },
   {
@@ -53788,7 +53788,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Naman Teran",
     "districtCode": "1211081",
     "village": "Kutarayat",
-    "villageCode": "",
+    "villageCode": "1211081014",
     "postalCode": "22157"
   },
   {
@@ -53832,7 +53832,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Naman Teran",
     "districtCode": "1211081",
     "village": "Sigarang-garang",
-    "villageCode": "",
+    "villageCode": "1211081002",
     "postalCode": "22157"
   },
   {
@@ -53843,7 +53843,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Merdeka",
     "districtCode": "1211082",
     "village": "Cinta Rakyat",
-    "villageCode": "",
+    "villageCode": "1211082003",
     "postalCode": "22158"
   },
   {
@@ -54063,7 +54063,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Munte",
     "districtCode": "1211050",
     "village": "Kaban Tua",
-    "villageCode": "",
+    "villageCode": "1211050004",
     "postalCode": "22161"
   },
   {
@@ -54118,7 +54118,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Munte",
     "districtCode": "1211050",
     "village": "Biaknampe",
-    "villageCode": "",
+    "villageCode": "1211050007",
     "postalCode": "22161"
   },
   {
@@ -54151,7 +54151,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Munte",
     "districtCode": "1211050",
     "village": "Kuta Gerat",
-    "villageCode": "",
+    "villageCode": "1211050022",
     "postalCode": "22161"
   },
   {
@@ -54580,7 +54580,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Laubaleng",
     "districtCode": "1211020",
     "village": "Lau Peranggunen",
-    "villageCode": "",
+    "villageCode": "1211020001",
     "postalCode": "22164"
   },
   {
@@ -54591,7 +54591,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Laubaleng",
     "districtCode": "1211020",
     "village": "Lau Baleng",
-    "villageCode": "",
+    "villageCode": "1211020005",
     "postalCode": "22164"
   },
   {
@@ -54800,7 +54800,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Merek",
     "districtCode": "1211120",
     "village": "Pangambatan",
-    "villageCode": "",
+    "villageCode": "1211120004",
     "postalCode": "22173"
   },
   {
@@ -54910,7 +54910,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Merek",
     "districtCode": "1211120",
     "village": "Dokan",
-    "villageCode": "",
+    "villageCode": "1211120015",
     "postalCode": "22173"
   },
   {
@@ -55372,7 +55372,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Namorambe",
     "districtCode": "",
     "village": "Sudirejo",
-    "villageCode": "",
+    "villageCode": "1275060002",
     "postalCode": "20356"
   },
   {
@@ -55548,7 +55548,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Sibolangit",
     "districtCode": "1212030",
     "village": "Rumah Pil Pil",
-    "villageCode": "",
+    "villageCode": "1212030011",
     "postalCode": "20357"
   },
   {
@@ -55823,7 +55823,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Patumbak",
     "districtCode": "1212210",
     "village": "Sigara-gara",
-    "villageCode": "",
+    "villageCode": "1212210005",
     "postalCode": "20361"
   },
   {
@@ -56131,7 +56131,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Lubuk Pakam",
     "districtCode": "1212300",
     "village": "Lubuk Pakam I,II",
-    "villageCode": "",
+    "villageCode": "1275170007",
     "postalCode": "20372"
   },
   {
@@ -56208,7 +56208,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Hamparan Perak",
     "districtCode": "1212240",
     "village": "Tandem Hilir I",
-    "villageCode": "",
+    "villageCode": "1275030005",
     "postalCode": "20374"
   },
   {
@@ -56373,7 +56373,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Hamparan Perak",
     "districtCode": "1212240",
     "village": "Selemak",
-    "villageCode": "",
+    "villageCode": "1212240016",
     "postalCode": "20374"
   },
   {
@@ -56571,7 +56571,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Pantai Labu",
     "districtCode": "1212280",
     "village": "Ramunia",
-    "villageCode": "",
+    "villageCode": "1212280006",
     "postalCode": "20553"
   },
   {
@@ -57110,7 +57110,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Galang",
     "districtCode": "1212190",
     "village": "Galang Suka",
-    "villageCode": "",
+    "villageCode": "1212190022",
     "postalCode": "20585"
   },
   {
@@ -57176,7 +57176,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Galang",
     "districtCode": "1212190",
     "village": "Kelapa Satu",
-    "villageCode": "",
+    "villageCode": "1212190017",
     "postalCode": "20585"
   },
   {
@@ -57198,7 +57198,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Galang",
     "districtCode": "1212190",
     "village": "Paku",
-    "villageCode": "",
+    "villageCode": "1212190001",
     "postalCode": "20585"
   },
   {
@@ -57264,7 +57264,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Binjai",
     "districtCode": "1213060",
     "village": "Perdamaian",
-    "villageCode": "",
+    "villageCode": "1213060006",
     "postalCode": "20761"
   },
   {
@@ -57308,7 +57308,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Selesai",
     "districtCode": "1213050",
     "village": "Kwala Air Hitam",
-    "villageCode": "",
+    "villageCode": "1213050012",
     "postalCode": "20762"
   },
   {
@@ -57561,7 +57561,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Kuala",
     "districtCode": "1213040",
     "village": "Blankahan",
-    "villageCode": "",
+    "villageCode": "1213040005",
     "postalCode": "20772"
   },
   {
@@ -57748,7 +57748,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Salapian",
     "districtCode": "1213020",
     "village": "Pamah Tambunan",
-    "villageCode": "",
+    "villageCode": "1213020009",
     "postalCode": "20773"
   },
   {
@@ -58023,7 +58023,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Sirapit",
     "districtCode": "1213011",
     "village": "Suka Pulung",
-    "villageCode": "",
+    "villageCode": "1213011008",
     "postalCode": "20776"
   },
   {
@@ -58155,7 +58155,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Stabat",
     "districtCode": "1213070",
     "village": "Karang Rejo",
-    "villageCode": "",
+    "villageCode": "1275010009",
     "postalCode": "20819"
   },
   {
@@ -58210,7 +58210,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Hinai",
     "districtCode": "1213120",
     "village": "Suka Jadi",
-    "villageCode": "",
+    "villageCode": "1213120002",
     "postalCode": "20854"
   },
   {
@@ -58265,7 +58265,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Babalan",
     "districtCode": "1213160",
     "village": "Berandan Timur",
-    "villageCode": "",
+    "villageCode": "1213160005",
     "postalCode": "20857"
   },
   {
@@ -58276,7 +58276,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Babalan",
     "districtCode": "1213160",
     "village": "Berandan Barat",
-    "villageCode": "",
+    "villageCode": "1213160006",
     "postalCode": "20857"
   },
   {
@@ -58606,7 +58606,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Sei Lepan",
     "districtCode": "1213170",
     "village": "Puraka I",
-    "villageCode": "",
+    "villageCode": "1213170006",
     "postalCode": "20882"
   },
   {
@@ -58683,7 +58683,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Wampu",
     "districtCode": "1213080",
     "village": "Paya Tusam",
-    "villageCode": "",
+    "villageCode": "1213080011",
     "postalCode": "20885"
   },
   {
@@ -58815,7 +58815,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Pematang Jaya",
     "districtCode": "1213201",
     "village": "Sala Haji",
-    "villageCode": "",
+    "villageCode": "1213201001",
     "postalCode": "20891"
   },
   {
@@ -58936,7 +58936,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Onan Ganjang",
     "districtCode": "1215020",
     "village": "Aek Godang Arbaan",
-    "villageCode": "",
+    "villageCode": "1215020001",
     "postalCode": "22454"
   },
   {
@@ -58991,7 +58991,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Pakkat",
     "districtCode": "1215010",
     "village": "Lumban Tonga-Tonga",
-    "villageCode": "",
+    "villageCode": "1215010011",
     "postalCode": "22455"
   },
   {
@@ -59299,7 +59299,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Parlilitan",
     "districtCode": "1215090",
     "village": "Sionom Hudon Timur",
-    "villageCode": "",
+    "villageCode": "1215090012",
     "postalCode": "22456"
   },
   {
@@ -59574,7 +59574,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Dolok Sanggul",
     "districtCode": "1215040",
     "village": "Matiti",
-    "villageCode": "",
+    "villageCode": "1215040016",
     "postalCode": "22457"
   },
   {
@@ -59827,7 +59827,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Lintong Nihuta",
     "districtCode": "1215050",
     "village": "Nagasaribu II",
-    "villageCode": "",
+    "villageCode": "1215050026",
     "postalCode": "22475"
   },
   {
@@ -59904,7 +59904,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Lintong Nihuta",
     "districtCode": "1215050",
     "village": "Nagasaribu I",
-    "villageCode": "",
+    "villageCode": "1215050024",
     "postalCode": "22475"
   },
   {
@@ -60190,7 +60190,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Paranginan",
     "districtCode": "1215060",
     "village": "Lobutolong",
-    "villageCode": "",
+    "villageCode": "1215060010",
     "postalCode": "22482"
   },
   {
@@ -60223,7 +60223,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Pollung",
     "districtCode": "1215080",
     "village": "Hutapaung",
-    "villageCode": "",
+    "villageCode": "1215080014",
     "postalCode": "22483"
   },
   {
@@ -60333,7 +60333,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Kerajaan",
     "districtCode": "1216020",
     "village": "Perpulungen",
-    "villageCode": "",
+    "villageCode": "1216020004",
     "postalCode": "22271"
   },
   {
@@ -60344,7 +60344,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Kerajaan",
     "districtCode": "1216020",
     "village": "Kuta Dame",
-    "villageCode": "",
+    "villageCode": "1216020006",
     "postalCode": "22271"
   },
   {
@@ -60432,7 +60432,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Kerajaan",
     "districtCode": "1216020",
     "village": "Kuta Saga",
-    "villageCode": "",
+    "villageCode": "1216020005",
     "postalCode": "22271"
   },
   {
@@ -60487,7 +60487,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Salak",
     "districtCode": "1216010",
     "village": "Penanggalan Binanga Boang",
-    "villageCode": "",
+    "villageCode": "1216010003",
     "postalCode": "22272"
   },
   {
@@ -60619,7 +60619,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Sitelu Tali Urang Julu",
     "districtCode": "",
     "village": "Silima Kuta",
-    "villageCode": "",
+    "villageCode": "1216021003",
     "postalCode": "22275"
   },
   {
@@ -61114,7 +61114,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Pangururan",
     "districtCode": "1217080",
     "village": "Siogung-Ogung",
-    "villageCode": "",
+    "villageCode": "1217080014",
     "postalCode": "22392"
   },
   {
@@ -61169,7 +61169,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Pangururan",
     "districtCode": "1217080",
     "village": "Sianting-Anting",
-    "villageCode": "",
+    "villageCode": "1217080018",
     "postalCode": "22392"
   },
   {
@@ -61664,7 +61664,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Simanindo",
     "districtCode": "1217090",
     "village": "Siallagan Pindaraya",
-    "villageCode": "",
+    "villageCode": "1217090019",
     "postalCode": "22395"
   },
   {
@@ -62181,7 +62181,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Sibolga Utara",
     "districtCode": "1271010",
     "village": "Huta Tonga-tonga",
-    "villageCode": "",
+    "villageCode": "1271010003",
     "postalCode": "22512"
   },
   {
@@ -62225,7 +62225,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Sibolga Kota",
     "districtCode": "1271020",
     "village": "Kota Baringin",
-    "villageCode": "",
+    "villageCode": "1271020001",
     "postalCode": "22521"
   },
   {
@@ -62269,7 +62269,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Medan Petisah",
     "districtCode": "1275130",
     "village": "Sekip",
-    "villageCode": "",
+    "villageCode": "1275130003",
     "postalCode": "20113"
   },
   {
@@ -62390,7 +62390,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Medan Sunggal",
     "districtCode": "1275110",
     "village": "Babura Sunggal",
-    "villageCode": "",
+    "villageCode": "1275110001",
     "postalCode": "20121"
   },
   {
@@ -62544,7 +62544,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Medan Tuntungan",
     "districtCode": "1275010",
     "village": "Ladang Bambu",
-    "villageCode": "",
+    "villageCode": "1275010001",
     "postalCode": "20138"
   },
   {
@@ -62676,7 +62676,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Medan Maimun",
     "districtCode": "1275070",
     "village": "Hamdan",
-    "villageCode": "",
+    "villageCode": "1275070005",
     "postalCode": "20151"
   },
   {
@@ -62764,7 +62764,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Medan Maimun",
     "districtCode": "1275070",
     "village": "Sukaraja",
-    "villageCode": "",
+    "villageCode": "1275070003",
     "postalCode": "20159"
   },
   {
@@ -62808,7 +62808,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Medan Kota",
     "districtCode": "1275060",
     "village": "Mesjid",
-    "villageCode": "",
+    "villageCode": "1275060007",
     "postalCode": "20213"
   },
   {
@@ -62885,7 +62885,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Medan Kota",
     "districtCode": "1275060",
     "village": "Kotamatsum III",
-    "villageCode": "",
+    "villageCode": "1275060008",
     "postalCode": "20215"
   },
   {
@@ -63006,7 +63006,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Medan Kota",
     "districtCode": "1275060",
     "village": "Sudirejo II",
-    "villageCode": "",
+    "villageCode": "1275060002",
     "postalCode": "20218"
   },
   {
@@ -63017,7 +63017,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Medan Kota",
     "districtCode": "1275060",
     "village": "Sitirejo I",
-    "villageCode": "",
+    "villageCode": "1275060001",
     "postalCode": "20219"
   },
   {
@@ -63083,7 +63083,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Medan Denai",
     "districtCode": "1275040",
     "village": "Denai",
-    "villageCode": "",
+    "villageCode": "1275040003",
     "postalCode": "20227"
   },
   {
@@ -63094,7 +63094,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Medan Denai",
     "districtCode": "1275040",
     "village": "Binjai",
-    "villageCode": "",
+    "villageCode": "1275040001",
     "postalCode": "20228"
   },
   {
@@ -63402,7 +63402,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Medan Labuhan",
     "districtCode": "1275190",
     "village": "Besar",
-    "villageCode": "",
+    "villageCode": "1275190001",
     "postalCode": "20251"
   },
   {
@@ -63468,7 +63468,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Medan Marelan",
     "districtCode": "1275200",
     "village": "Terjun",
-    "villageCode": "",
+    "villageCode": "1275200003",
     "postalCode": "20256"
   },
   {
@@ -63567,7 +63567,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Medan Belawan",
     "districtCode": "1275210",
     "village": "Belawan Sicanang",
-    "villageCode": "",
+    "villageCode": "1275210001",
     "postalCode": "20416"
   },
   {
@@ -64194,7 +64194,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Gunungsitoli Utara",
     "districtCode": "1278060",
     "village": "Gawu-Gawu Bouso",
-    "villageCode": "",
+    "villageCode": "1278060004",
     "postalCode": "22821"
   },
   {
@@ -64403,7 +64403,7 @@ export const SUMATERA_UTARA: PostalCodeData[] = [
     "district": "Gunungsitoli Idanoi",
     "districtCode": "1278010",
     "village": "Hilimbawodesolo",
-    "villageCode": "",
+    "villageCode": "1278010026",
     "postalCode": "22825"
   },
   {

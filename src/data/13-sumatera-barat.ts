@@ -20,7 +20,7 @@ export const SUMATERA_BARAT: PostalCodeData[] = [
     "district": "Koto Balingka",
     "districtCode": "1312030",
     "village": "Koto Tangah",
-    "villageCode": "",
+    "villageCode": "1312030002",
     "postalCode": "26575"
   },
   {
@@ -31,7 +31,7 @@ export const SUMATERA_BARAT: PostalCodeData[] = [
     "district": "Koto Balingka",
     "districtCode": "1312030",
     "village": "Ranah Koto Tinggi",
-    "villageCode": "",
+    "villageCode": "1312030006",
     "postalCode": "26575"
   },
   {
@@ -64,7 +64,7 @@ export const SUMATERA_BARAT: PostalCodeData[] = [
     "district": "Koto Balingka",
     "districtCode": "1312030",
     "village": "Koto Tuo",
-    "villageCode": "",
+    "villageCode": "1312030003",
     "postalCode": "26575"
   },
   {
@@ -75,7 +75,7 @@ export const SUMATERA_BARAT: PostalCodeData[] = [
     "district": "Koto Balingka",
     "districtCode": "1312030",
     "village": "Koto Nan Duo",
-    "villageCode": "",
+    "villageCode": "1312030004",
     "postalCode": "26575"
   },
   {
@@ -196,7 +196,7 @@ export const SUMATERA_BARAT: PostalCodeData[] = [
     "district": "IV Nagari Bayang Utara",
     "districtCode": "1302101",
     "village": "Puluik-Puluik Selatan",
-    "villageCode": "",
+    "villageCode": "1302101005",
     "postalCode": "25652"
   },
   {
@@ -229,7 +229,7 @@ export const SUMATERA_BARAT: PostalCodeData[] = [
     "district": "IV Nagari Bayang Utara",
     "districtCode": "1302101",
     "village": "Puluik-Puluik",
-    "villageCode": "",
+    "villageCode": "1302101001",
     "postalCode": "25652"
   },
   {
@@ -537,7 +537,7 @@ export const SUMATERA_BARAT: PostalCodeData[] = [
     "district": "Tanjung Mutiara",
     "districtCode": "1307010",
     "village": "Durian Kapeh Darussalam",
-    "villageCode": "",
+    "villageCode": "1307010004",
     "postalCode": "26473"
   },
   {
@@ -548,7 +548,7 @@ export const SUMATERA_BARAT: PostalCodeData[] = [
     "district": "Lintau Buo Utara",
     "districtCode": "1305081",
     "village": "Tapi Selo",
-    "villageCode": "",
+    "villageCode": "1305081001",
     "postalCode": "27291"
   },
   {
@@ -559,7 +559,7 @@ export const SUMATERA_BARAT: PostalCodeData[] = [
     "district": "Batang Anai",
     "districtCode": "1306010",
     "village": "Sungai Buluah",
-    "villageCode": "",
+    "villageCode": "1306010003",
     "postalCode": "25586"
   },
   {
@@ -570,7 +570,7 @@ export const SUMATERA_BARAT: PostalCodeData[] = [
     "district": "Batang Anai",
     "districtCode": "1306010",
     "village": "Sungai Buluah Utara",
-    "villageCode": "",
+    "villageCode": "1306010003",
     "postalCode": "25586"
   },
   {
@@ -581,7 +581,7 @@ export const SUMATERA_BARAT: PostalCodeData[] = [
     "district": "Batang Anai",
     "districtCode": "1306010",
     "village": "Sungai Buluah Barat",
-    "villageCode": "",
+    "villageCode": "1306010003",
     "postalCode": "25586"
   },
   {
@@ -592,7 +592,7 @@ export const SUMATERA_BARAT: PostalCodeData[] = [
     "district": "Batang Anai",
     "districtCode": "1306010",
     "village": "Sungai Buluah Selatan",
-    "villageCode": "",
+    "villageCode": "1306010003",
     "postalCode": "25586"
   },
   {
@@ -603,7 +603,7 @@ export const SUMATERA_BARAT: PostalCodeData[] = [
     "district": "Batang Anai",
     "districtCode": "1306010",
     "village": "Sungai Buluah Timur",
-    "villageCode": "",
+    "villageCode": "1306010003",
     "postalCode": "25586"
   },
   {
@@ -680,7 +680,7 @@ export const SUMATERA_BARAT: PostalCodeData[] = [
     "district": "Batang Kapas",
     "districtCode": "1302080",
     "village": "Teratak Tempatih IV Koto Mudiek",
-    "villageCode": "",
+    "villageCode": "1302080002",
     "postalCode": "25661"
   },
   {
@@ -779,7 +779,7 @@ export const SUMATERA_BARAT: PostalCodeData[] = [
     "district": "Pasaman",
     "districtCode": "1312080",
     "village": "Lingkuang Aua Bandarajo",
-    "villageCode": "",
+    "villageCode": "1312080001",
     "postalCode": "26566"
   },
   {
@@ -790,7 +790,7 @@ export const SUMATERA_BARAT: PostalCodeData[] = [
     "district": "Koto Tangah",
     "districtCode": "1371110",
     "village": "Batang Kabung Ganting",
-    "villageCode": "",
+    "villageCode": "1371110012",
     "postalCode": "25172"
   },
   {
@@ -1175,7 +1175,7 @@ export const SUMATERA_BARAT: PostalCodeData[] = [
     "district": "Luhak Nan Duo",
     "districtCode": "1312090",
     "village": "Sungai Talang",
-    "villageCode": "",
+    "villageCode": "1312090007",
     "postalCode": "26568"
   },
   {
@@ -1197,7 +1197,7 @@ export const SUMATERA_BARAT: PostalCodeData[] = [
     "district": "Mungka",
     "districtCode": "1308041",
     "village": "Talang Maur",
-    "villageCode": "",
+    "villageCode": "1308041003",
     "postalCode": "26654"
   },
   {
@@ -1461,7 +1461,7 @@ export const SUMATERA_BARAT: PostalCodeData[] = [
     "district": "Rao Selatan",
     "districtCode": "1309124",
     "village": "Tanjung Betung Timur",
-    "villageCode": "",
+    "villageCode": "1309124002",
     "postalCode": "26357"
   },
   {
@@ -1472,7 +1472,7 @@ export const SUMATERA_BARAT: PostalCodeData[] = [
     "district": "Rao Selatan",
     "districtCode": "1309124",
     "village": "Tanjung Betung Utara",
-    "villageCode": "",
+    "villageCode": "1309124002",
     "postalCode": "26357"
   },
   {
@@ -1516,7 +1516,7 @@ export const SUMATERA_BARAT: PostalCodeData[] = [
     "district": "Tanjung Raya",
     "districtCode": "1307030",
     "village": "Dalko",
-    "villageCode": "",
+    "villageCode": "1307030010",
     "postalCode": "26471"
   },
   {
@@ -1571,7 +1571,7 @@ export const SUMATERA_BARAT: PostalCodeData[] = [
     "district": "Tanjung Raya",
     "districtCode": "1307030",
     "village": "Koto Gadang",
-    "villageCode": "",
+    "villageCode": "1307030008",
     "postalCode": "26471"
   },
   {
@@ -1681,7 +1681,7 @@ export const SUMATERA_BARAT: PostalCodeData[] = [
     "district": "Sungayang",
     "districtCode": "1305090",
     "village": "Tanjung",
-    "villageCode": "",
+    "villageCode": "1305090004",
     "postalCode": "27294"
   },
   {
@@ -1791,7 +1791,7 @@ export const SUMATERA_BARAT: PostalCodeData[] = [
     "district": "Sumpur Kudus",
     "districtCode": "1304110",
     "village": "Tanjung Labuah",
-    "villageCode": "",
+    "villageCode": "1304110010",
     "postalCode": "27563"
   },
   {
@@ -2044,7 +2044,7 @@ export const SUMATERA_BARAT: PostalCodeData[] = [
     "district": "Koto XI Tarusan",
     "districtCode": "1302110",
     "village": "Batu Hampa",
-    "villageCode": "",
+    "villageCode": "1302110004",
     "postalCode": "25654"
   },
   {
@@ -2110,7 +2110,7 @@ export const SUMATERA_BARAT: PostalCodeData[] = [
     "district": "Akabiluru",
     "districtCode": "1308011",
     "village": "Koto Tangah Batu Ampa",
-    "villageCode": "",
+    "villageCode": "1308011001",
     "postalCode": "26652"
   },
   {
@@ -2121,7 +2121,7 @@ export const SUMATERA_BARAT: PostalCodeData[] = [
     "district": "Akabiluru",
     "districtCode": "1308011",
     "village": "Batuhampar",
-    "villageCode": "",
+    "villageCode": "1308011002",
     "postalCode": "26652"
   },
   {
@@ -2253,7 +2253,7 @@ export const SUMATERA_BARAT: PostalCodeData[] = [
     "district": "Kupitan",
     "districtCode": "1304090",
     "village": "Batu Manjulur",
-    "villageCode": "",
+    "villageCode": "1304090001",
     "postalCode": "27564"
   },
   {
@@ -2385,7 +2385,7 @@ export const SUMATERA_BARAT: PostalCodeData[] = [
     "district": "Koto XI Tarusan",
     "districtCode": "1302110",
     "village": "Barung-Barung Balantai Selatan",
-    "villageCode": "",
+    "villageCode": "1302110012",
     "postalCode": "25654"
   },
   {
@@ -2396,7 +2396,7 @@ export const SUMATERA_BARAT: PostalCodeData[] = [
     "district": "Koto XI Tarusan",
     "districtCode": "1302110",
     "village": "Barung-Barung Balantai",
-    "villageCode": "",
+    "villageCode": "1302110006",
     "postalCode": "25654"
   },
   {
@@ -2462,7 +2462,7 @@ export const SUMATERA_BARAT: PostalCodeData[] = [
     "district": "Pasaman",
     "districtCode": "1312080",
     "village": "Lingkuang Aua Baru",
-    "villageCode": "",
+    "villageCode": "1312080001",
     "postalCode": "26566"
   },
   {
@@ -2484,7 +2484,7 @@ export const SUMATERA_BARAT: PostalCodeData[] = [
     "district": "Ranah Batahan",
     "districtCode": "1312020",
     "village": "Desa Baru Barat",
-    "villageCode": "",
+    "villageCode": "1312020001",
     "postalCode": "26574"
   },
   {
@@ -2627,7 +2627,7 @@ export const SUMATERA_BARAT: PostalCodeData[] = [
     "district": "Batipuh",
     "districtCode": "1305020",
     "village": "Tanjuang Barulak",
-    "villageCode": "",
+    "villageCode": "1305020001",
     "postalCode": "27265"
   },
   {
@@ -2770,7 +2770,7 @@ export const SUMATERA_BARAT: PostalCodeData[] = [
     "district": "Kamang Baru",
     "districtCode": "1304050",
     "village": "Muaro Takuang",
-    "villageCode": "",
+    "villageCode": "1304050002",
     "postalCode": "27572"
   },
   {
@@ -2781,7 +2781,7 @@ export const SUMATERA_BARAT: PostalCodeData[] = [
     "district": "Kamang Baru",
     "districtCode": "1304050",
     "village": "Aie Amo",
-    "villageCode": "",
+    "villageCode": "1304050005",
     "postalCode": "27572"
   },
   {
@@ -2792,7 +2792,7 @@ export const SUMATERA_BARAT: PostalCodeData[] = [
     "district": "Kamang Baru",
     "districtCode": "1304050",
     "village": "Kunangan Parik Rantang",
-    "villageCode": "",
+    "villageCode": "1304050003",
     "postalCode": "27572"
   },
   {
@@ -3078,7 +3078,7 @@ export const SUMATERA_BARAT: PostalCodeData[] = [
     "district": "Akabiluru",
     "districtCode": "1308011",
     "village": "Pauh Sangik",
-    "villageCode": "",
+    "villageCode": "1308011006",
     "postalCode": "26652"
   },
   {
@@ -3188,7 +3188,7 @@ export const SUMATERA_BARAT: PostalCodeData[] = [
     "district": "Talamau",
     "districtCode": "1312070",
     "village": "Kajai Selatan",
-    "villageCode": "",
+    "villageCode": "1312070001",
     "postalCode": "26561"
   },
   {
@@ -3210,7 +3210,7 @@ export const SUMATERA_BARAT: PostalCodeData[] = [
     "district": "Talamau",
     "districtCode": "1312070",
     "village": "Simpang Timbo Abu Kajai",
-    "villageCode": "",
+    "villageCode": "1312070001",
     "postalCode": "26561"
   },
   {
@@ -3221,7 +3221,7 @@ export const SUMATERA_BARAT: PostalCodeData[] = [
     "district": "Talamau",
     "districtCode": "1312070",
     "village": "Sungai Janiah Talu",
-    "villageCode": "",
+    "villageCode": "1312070002",
     "postalCode": "26561"
   },
   {
@@ -3243,7 +3243,7 @@ export const SUMATERA_BARAT: PostalCodeData[] = [
     "district": "Talamau",
     "districtCode": "1312070",
     "village": "Tabek Sirah Talu",
-    "villageCode": "",
+    "villageCode": "1312070002",
     "postalCode": "26561"
   },
   {
@@ -3320,7 +3320,7 @@ export const SUMATERA_BARAT: PostalCodeData[] = [
     "district": "Pancung Soal",
     "districtCode": "1302030",
     "village": "Tiga Sepakat Inderapura",
-    "villageCode": "",
+    "villageCode": "1302030001",
     "postalCode": "25671"
   },
   {
@@ -3331,7 +3331,7 @@ export const SUMATERA_BARAT: PostalCodeData[] = [
     "district": "Kinali",
     "districtCode": "1312110",
     "village": "Langgam Sepakat",
-    "villageCode": "",
+    "villageCode": "1312110008",
     "postalCode": "26569"
   },
   {
@@ -3881,7 +3881,7 @@ export const SUMATERA_BARAT: PostalCodeData[] = [
     "district": "Patamuan",
     "districtCode": "1306061",
     "village": "Tandikek Selatan",
-    "villageCode": "",
+    "villageCode": "1306061002",
     "postalCode": "25575"
   },
   {
@@ -4013,7 +4013,7 @@ export const SUMATERA_BARAT: PostalCodeData[] = [
     "district": "IV Jurai",
     "districtCode": "1302090",
     "village": "Bunga Pasang Salido",
-    "villageCode": "",
+    "villageCode": "1302090001",
     "postalCode": "25651"
   },
   {
@@ -4277,7 +4277,7 @@ export const SUMATERA_BARAT: PostalCodeData[] = [
     "district": "Sutera",
     "districtCode": "1302070",
     "village": "Ganting Mudiak Selatan Surantih",
-    "villageCode": "",
+    "villageCode": "1302070002",
     "postalCode": "25661"
   },
   {
@@ -4365,7 +4365,7 @@ export const SUMATERA_BARAT: PostalCodeData[] = [
     "district": "Sutera",
     "districtCode": "1302070",
     "village": "Ganting Mudiak Utara Surantih",
-    "villageCode": "",
+    "villageCode": "1302070002",
     "postalCode": "25661"
   },
   {
@@ -4607,7 +4607,7 @@ export const SUMATERA_BARAT: PostalCodeData[] = [
     "district": "Ranah Pesisir",
     "districtCode": "1302050",
     "village": "Pelangai",
-    "villageCode": "",
+    "villageCode": "1302050005",
     "postalCode": "25666"
   },
   {
@@ -4673,7 +4673,7 @@ export const SUMATERA_BARAT: PostalCodeData[] = [
     "district": "Linggo Sari Baganti",
     "districtCode": "1302040",
     "village": "Air Haji",
-    "villageCode": "",
+    "villageCode": "1302040008",
     "postalCode": "25666"
   },
   {
@@ -4838,7 +4838,7 @@ export const SUMATERA_BARAT: PostalCodeData[] = [
     "district": "Pancung Soal",
     "districtCode": "1302030",
     "village": "Tluk Amplu Inderapura",
-    "villageCode": "",
+    "villageCode": "1302030001",
     "postalCode": "25671"
   },
   {
@@ -5454,7 +5454,7 @@ export const SUMATERA_BARAT: PostalCodeData[] = [
     "district": "Lubuk Sikaping",
     "districtCode": "1309080",
     "village": "Tanjuang Baringin Selatan",
-    "villageCode": "",
+    "villageCode": "1309080007",
     "postalCode": "26318"
   },
   {
@@ -5465,7 +5465,7 @@ export const SUMATERA_BARAT: PostalCodeData[] = [
     "district": "Lubuk Sikaping",
     "districtCode": "1309080",
     "village": "Aia Manggih Selatan",
-    "villageCode": "",
+    "villageCode": "1309080005",
     "postalCode": "26318"
   },
   {
@@ -5476,7 +5476,7 @@ export const SUMATERA_BARAT: PostalCodeData[] = [
     "district": "Lubuk Sikaping",
     "districtCode": "1309080",
     "village": "Sundata Selatan",
-    "villageCode": "",
+    "villageCode": "1309080006",
     "postalCode": "26318"
   },
   {
@@ -5498,7 +5498,7 @@ export const SUMATERA_BARAT: PostalCodeData[] = [
     "district": "Rao",
     "districtCode": "1309121",
     "village": "Taruang Taruang Selatan",
-    "villageCode": "",
+    "villageCode": "1309121003",
     "postalCode": "26353"
   },
   {
@@ -5520,7 +5520,7 @@ export const SUMATERA_BARAT: PostalCodeData[] = [
     "district": "Mapat Tunggul Selatan",
     "districtCode": "1309123",
     "village": "Muaro Sungai Lolo",
-    "villageCode": "",
+    "villageCode": "1309123001",
     "postalCode": "26356"
   },
   {
@@ -5553,7 +5553,7 @@ export const SUMATERA_BARAT: PostalCodeData[] = [
     "district": "Rao Selatan",
     "districtCode": "1309124",
     "village": "Lansek Kadok Barat",
-    "villageCode": "",
+    "villageCode": "1309124001",
     "postalCode": "26357"
   },
   {
@@ -5575,7 +5575,7 @@ export const SUMATERA_BARAT: PostalCodeData[] = [
     "district": "Luhak Nan Duo",
     "districtCode": "1312090",
     "village": "Jambak Selatan",
-    "villageCode": "",
+    "villageCode": "1312090008",
     "postalCode": "26568"
   },
   {
@@ -5586,7 +5586,7 @@ export const SUMATERA_BARAT: PostalCodeData[] = [
     "district": "Kinali",
     "districtCode": "1312110",
     "village": "Anam Koto Selatan",
-    "villageCode": "",
+    "villageCode": "1312110011",
     "postalCode": "26569"
   },
   {
@@ -5597,7 +5597,7 @@ export const SUMATERA_BARAT: PostalCodeData[] = [
     "district": "Ranah Batahan",
     "districtCode": "1312020",
     "village": "Batahan Selatan",
-    "villageCode": "",
+    "villageCode": "1312020002",
     "postalCode": "26574"
   },
   {
@@ -5971,7 +5971,7 @@ export const SUMATERA_BARAT: PostalCodeData[] = [
     "district": "Salimpaung",
     "districtCode": "1305110",
     "village": "Lawang Mandahiling",
-    "villageCode": "",
+    "villageCode": "1305110002",
     "postalCode": "27263"
   },
   {
@@ -5982,7 +5982,7 @@ export const SUMATERA_BARAT: PostalCodeData[] = [
     "district": "Kinali",
     "districtCode": "1312110",
     "village": "Langgam Saiyo",
-    "villageCode": "",
+    "villageCode": "1312110009",
     "postalCode": "26569"
   },
   {
@@ -6015,7 +6015,7 @@ export const SUMATERA_BARAT: PostalCodeData[] = [
     "district": "Lubuk Sikarah",
     "districtCode": "1372010",
     "village": "Kampai Tabu Karambia",
-    "villageCode": "",
+    "villageCode": "1372010005",
     "postalCode": "27315"
   },
   {
@@ -6576,7 +6576,7 @@ export const SUMATERA_BARAT: PostalCodeData[] = [
     "district": "Palupuh",
     "districtCode": "1307110",
     "village": "Nan Limo",
-    "villageCode": "",
+    "villageCode": "1307110005",
     "postalCode": "26151"
   },
   {
@@ -6686,7 +6686,7 @@ export const SUMATERA_BARAT: PostalCodeData[] = [
     "district": "Pasaman",
     "districtCode": "1312080",
     "village": "Lembah Binuang Aua Kuniang",
-    "villageCode": "",
+    "villageCode": "1312080002",
     "postalCode": "26566"
   },
   {
@@ -6961,7 +6961,7 @@ export const SUMATERA_BARAT: PostalCodeData[] = [
     "district": "Harau",
     "districtCode": "1308030",
     "village": "Solok Bio Bio",
-    "villageCode": "",
+    "villageCode": "1308030010",
     "postalCode": "26671"
   },
   {
@@ -7533,7 +7533,7 @@ export const SUMATERA_BARAT: PostalCodeData[] = [
     "district": "Sijunjung",
     "districtCode": "1304070",
     "village": "Silokek",
-    "villageCode": "",
+    "villageCode": "1304070008",
     "postalCode": "27515"
   },
   {
@@ -7566,7 +7566,7 @@ export const SUMATERA_BARAT: PostalCodeData[] = [
     "district": "Sijunjung",
     "districtCode": "1304070",
     "village": "Paru",
-    "villageCode": "",
+    "villageCode": "1304070007",
     "postalCode": "27519"
   },
   {
@@ -7588,7 +7588,7 @@ export const SUMATERA_BARAT: PostalCodeData[] = [
     "district": "Sijunjung",
     "districtCode": "1304070",
     "village": "Aie Angek",
-    "villageCode": "",
+    "villageCode": "1304070005",
     "postalCode": "27519"
   },
   {
@@ -7753,7 +7753,7 @@ export const SUMATERA_BARAT: PostalCodeData[] = [
     "district": "Sumpur Kudus",
     "districtCode": "1304110",
     "village": "Silantai",
-    "villageCode": "",
+    "villageCode": "1304110007",
     "postalCode": "27563"
   },
   {
@@ -7797,7 +7797,7 @@ export const SUMATERA_BARAT: PostalCodeData[] = [
     "district": "Sumpur Kudus",
     "districtCode": "1304110",
     "village": "Manganti",
-    "villageCode": "",
+    "villageCode": "1304110006",
     "postalCode": "27563"
   },
   {
@@ -7819,7 +7819,7 @@ export const SUMATERA_BARAT: PostalCodeData[] = [
     "district": "Kupitan",
     "districtCode": "1304090",
     "village": "Padang Sibusuk",
-    "villageCode": "",
+    "villageCode": "1304090002",
     "postalCode": "27564"
   },
   {
@@ -7918,7 +7918,7 @@ export const SUMATERA_BARAT: PostalCodeData[] = [
     "district": "Lima Kaum",
     "districtCode": "1305050",
     "village": "Limo Kaum",
-    "villageCode": "",
+    "villageCode": "1305050004",
     "postalCode": "27211"
   },
   {
@@ -8072,7 +8072,7 @@ export const SUMATERA_BARAT: PostalCodeData[] = [
     "district": "Salimpaung",
     "districtCode": "1305110",
     "village": "Sumanik",
-    "villageCode": "",
+    "villageCode": "1305110006",
     "postalCode": "27263"
   },
   {
@@ -8160,7 +8160,7 @@ export const SUMATERA_BARAT: PostalCodeData[] = [
     "district": "Batipuh",
     "districtCode": "1305020",
     "village": "Gunuang Rajo",
-    "villageCode": "",
+    "villageCode": "1305020004",
     "postalCode": "27265"
   },
   {
@@ -8204,7 +8204,7 @@ export const SUMATERA_BARAT: PostalCodeData[] = [
     "district": "Batipuh",
     "districtCode": "1305020",
     "village": "Bungo Tanjuang",
-    "villageCode": "",
+    "villageCode": "1305020002",
     "postalCode": "27265"
   },
   {
@@ -8567,7 +8567,7 @@ export const SUMATERA_BARAT: PostalCodeData[] = [
     "district": "IV Koto Aur Malintang",
     "districtCode": "1306100",
     "village": "Balai Baiak Malai III Koto",
-    "villageCode": "",
+    "villageCode": "1306100005",
     "postalCode": "25564"
   },
   {
@@ -8644,7 +8644,7 @@ export const SUMATERA_BARAT: PostalCodeData[] = [
     "district": "Nan Sabaris",
     "districtCode": "1306040",
     "village": "Sunua Barat",
-    "villageCode": "",
+    "villageCode": "1306040001",
     "postalCode": "25571"
   },
   {
@@ -8666,7 +8666,7 @@ export const SUMATERA_BARAT: PostalCodeData[] = [
     "district": "Nan Sabaris",
     "districtCode": "1306040",
     "village": "Sunua Tengah",
-    "villageCode": "",
+    "villageCode": "1306040001",
     "postalCode": "25571"
   },
   {
@@ -8930,7 +8930,7 @@ export const SUMATERA_BARAT: PostalCodeData[] = [
     "district": "Patamuan",
     "districtCode": "1306061",
     "village": "Tandikek",
-    "villageCode": "",
+    "villageCode": "1312110007",
     "postalCode": "25575"
   },
   {
@@ -8941,7 +8941,7 @@ export const SUMATERA_BARAT: PostalCodeData[] = [
     "district": "Patamuan",
     "districtCode": "1306061",
     "village": "Tandikek Barat",
-    "villageCode": "",
+    "villageCode": "1306061002",
     "postalCode": "25575"
   },
   {
@@ -8963,7 +8963,7 @@ export const SUMATERA_BARAT: PostalCodeData[] = [
     "district": "Patamuan",
     "districtCode": "1306061",
     "village": "Kampuang Tanjuang Koto Mambang Sungai",
-    "villageCode": "",
+    "villageCode": "1306061002",
     "postalCode": "25575"
   },
   {
@@ -8974,7 +8974,7 @@ export const SUMATERA_BARAT: PostalCodeData[] = [
     "district": "Patamuan",
     "districtCode": "1306061",
     "village": "Tandikek Utara",
-    "villageCode": "",
+    "villageCode": "1306061004",
     "postalCode": "25575"
   },
   {
@@ -8985,7 +8985,7 @@ export const SUMATERA_BARAT: PostalCodeData[] = [
     "district": "Sintuak Toboh Gadang",
     "districtCode": "",
     "village": "Toboh Gadang Barat",
-    "villageCode": "",
+    "villageCode": "1306061002",
     "postalCode": "25582"
   },
   {
@@ -9128,7 +9128,7 @@ export const SUMATERA_BARAT: PostalCodeData[] = [
     "district": "2 x 11 Kayu Tanam",
     "districtCode": "1306052",
     "village": "Anduriang",
-    "villageCode": "",
+    "villageCode": "1306052004",
     "postalCode": "25585"
   },
   {
@@ -9194,7 +9194,7 @@ export const SUMATERA_BARAT: PostalCodeData[] = [
     "district": "Kamang Magek",
     "districtCode": "1307091",
     "village": "Kamang Tangah Anam Suku",
-    "villageCode": "",
+    "villageCode": "1307091004",
     "postalCode": "26152"
   },
   {
@@ -9205,7 +9205,7 @@ export const SUMATERA_BARAT: PostalCodeData[] = [
     "district": "Kamang Magek",
     "districtCode": "1307091",
     "village": "Pauh Kamang Mudiak",
-    "villageCode": "",
+    "villageCode": "1307091003",
     "postalCode": "26152"
   },
   {
@@ -9293,7 +9293,7 @@ export const SUMATERA_BARAT: PostalCodeData[] = [
     "district": "IV Koto",
     "districtCode": "1307050",
     "village": "Guguk Tabek Sarajo",
-    "villageCode": "",
+    "villageCode": "1307080007",
     "postalCode": "26161"
   },
   {
@@ -9568,7 +9568,7 @@ export const SUMATERA_BARAT: PostalCodeData[] = [
     "district": "Candung",
     "districtCode": "",
     "village": "Lasi",
-    "villageCode": "",
+    "villageCode": "1312090006",
     "postalCode": "26191"
   },
   {
@@ -9656,7 +9656,7 @@ export const SUMATERA_BARAT: PostalCodeData[] = [
     "district": "Baso",
     "districtCode": "1307080",
     "village": "Sungai Cubadak",
-    "villageCode": "",
+    "villageCode": "1307080008",
     "postalCode": "26192"
   },
   {
@@ -9755,7 +9755,7 @@ export const SUMATERA_BARAT: PostalCodeData[] = [
     "district": "Payakumbuh",
     "districtCode": "1308010",
     "village": "Sungai Beringin",
-    "villageCode": "",
+    "villageCode": "1308010001",
     "postalCode": "26651"
   },
   {
@@ -9964,7 +9964,7 @@ export const SUMATERA_BARAT: PostalCodeData[] = [
     "district": "Bukik Barisan",
     "districtCode": "1308051",
     "village": "Banja Loweh",
-    "villageCode": "",
+    "villageCode": "1308051002",
     "postalCode": "26657"
   },
   {
@@ -10327,7 +10327,7 @@ export const SUMATERA_BARAT: PostalCodeData[] = [
     "district": "Lubuk Sikaping",
     "districtCode": "1309080",
     "village": "Aia Manggih Barat",
-    "villageCode": "",
+    "villageCode": "1309080005",
     "postalCode": "26318"
   },
   {
@@ -10338,7 +10338,7 @@ export const SUMATERA_BARAT: PostalCodeData[] = [
     "district": "Lubuk Sikaping",
     "districtCode": "1309080",
     "village": "Sundata Utara",
-    "villageCode": "",
+    "villageCode": "1309080006",
     "postalCode": "26318"
   },
   {
@@ -10349,7 +10349,7 @@ export const SUMATERA_BARAT: PostalCodeData[] = [
     "district": "Lubuk Sikaping",
     "districtCode": "1309080",
     "village": "Aia Manggih Utara",
-    "villageCode": "",
+    "villageCode": "1309080005",
     "postalCode": "26318"
   },
   {
@@ -10382,7 +10382,7 @@ export const SUMATERA_BARAT: PostalCodeData[] = [
     "district": "Lubuk Sikaping",
     "districtCode": "1309080",
     "village": "Tanjuang Baringin",
-    "villageCode": "",
+    "villageCode": "1309080007",
     "postalCode": "26318"
   },
   {
@@ -10393,7 +10393,7 @@ export const SUMATERA_BARAT: PostalCodeData[] = [
     "district": "Lubuk Sikaping",
     "districtCode": "1309080",
     "village": "Tanjuang Baringin Utara",
-    "villageCode": "",
+    "villageCode": "1309080008",
     "postalCode": "26318"
   },
   {
@@ -10426,7 +10426,7 @@ export const SUMATERA_BARAT: PostalCodeData[] = [
     "district": "Panti",
     "districtCode": "1309110",
     "village": "Panti Utara",
-    "villageCode": "",
+    "villageCode": "1309110001",
     "postalCode": "26352"
   },
   {
@@ -10437,7 +10437,7 @@ export const SUMATERA_BARAT: PostalCodeData[] = [
     "district": "Rao",
     "districtCode": "1309121",
     "village": "Taruang Taruang",
-    "villageCode": "",
+    "villageCode": "1309121001",
     "postalCode": "26353"
   },
   {
@@ -10448,7 +10448,7 @@ export const SUMATERA_BARAT: PostalCodeData[] = [
     "district": "Rao",
     "districtCode": "1309121",
     "village": "Taruang Taruang Utara",
-    "villageCode": "",
+    "villageCode": "1309121004",
     "postalCode": "26353"
   },
   {
@@ -10470,7 +10470,7 @@ export const SUMATERA_BARAT: PostalCodeData[] = [
     "district": "Rao",
     "districtCode": "1309121",
     "village": "Padang Mantinggi Utara",
-    "villageCode": "",
+    "villageCode": "1309121002",
     "postalCode": "26353"
   },
   {
@@ -10503,7 +10503,7 @@ export const SUMATERA_BARAT: PostalCodeData[] = [
     "district": "Mapat Tunggul",
     "districtCode": "1309122",
     "village": "Muaro Tais Koto Gadang",
-    "villageCode": "",
+    "villageCode": "1309122003",
     "postalCode": "26354"
   },
   {
@@ -10547,7 +10547,7 @@ export const SUMATERA_BARAT: PostalCodeData[] = [
     "district": "Padang Gelugur",
     "districtCode": "1309111",
     "village": "Sontang Cubadak",
-    "villageCode": "",
+    "villageCode": "1309111004",
     "postalCode": "26355"
   },
   {
@@ -10679,7 +10679,7 @@ export const SUMATERA_BARAT: PostalCodeData[] = [
     "district": "Bonjol",
     "districtCode": "1309070",
     "village": "Koto Kaciak Barat",
-    "villageCode": "",
+    "villageCode": "1309070001",
     "postalCode": "26381"
   },
   {
@@ -10734,7 +10734,7 @@ export const SUMATERA_BARAT: PostalCodeData[] = [
     "district": "Tigo Nagari",
     "districtCode": "1309071",
     "village": "Malampah Barat",
-    "villageCode": "",
+    "villageCode": "1309071003",
     "postalCode": "26382"
   },
   {
@@ -10745,7 +10745,7 @@ export const SUMATERA_BARAT: PostalCodeData[] = [
     "district": "Tigo Nagari",
     "districtCode": "1309071",
     "village": "Ladang Panjang Barat",
-    "villageCode": "",
+    "villageCode": "1309071002",
     "postalCode": "26382"
   },
   {
@@ -10767,7 +10767,7 @@ export const SUMATERA_BARAT: PostalCodeData[] = [
     "district": "Simpang Alahan Mati",
     "districtCode": "1309072",
     "village": "Alahan Mati Hilia",
-    "villageCode": "",
+    "villageCode": "1309072001",
     "postalCode": "26383"
   },
   {
@@ -10778,7 +10778,7 @@ export const SUMATERA_BARAT: PostalCodeData[] = [
     "district": "Simpang Alahan Mati",
     "districtCode": "1309072",
     "village": "Simpang Utara",
-    "villageCode": "",
+    "villageCode": "1309072002",
     "postalCode": "26383"
   },
   {
@@ -10888,7 +10888,7 @@ export const SUMATERA_BARAT: PostalCodeData[] = [
     "district": "Pasaman",
     "districtCode": "1312080",
     "village": "Lubuak Landua Aua Kuniang",
-    "villageCode": "",
+    "villageCode": "1312080002",
     "postalCode": "26566"
   },
   {
@@ -10899,7 +10899,7 @@ export const SUMATERA_BARAT: PostalCodeData[] = [
     "district": "Pasaman",
     "districtCode": "1312080",
     "village": "Lingkuang Aua Jambak",
-    "villageCode": "",
+    "villageCode": "1312080001",
     "postalCode": "26566"
   },
   {
@@ -10910,7 +10910,7 @@ export const SUMATERA_BARAT: PostalCodeData[] = [
     "district": "Pasaman",
     "districtCode": "1312080",
     "village": "Lingkuang Aua Barat",
-    "villageCode": "",
+    "villageCode": "1312080001",
     "postalCode": "26566"
   },
   {
@@ -10921,7 +10921,7 @@ export const SUMATERA_BARAT: PostalCodeData[] = [
     "district": "Pasaman",
     "districtCode": "1312080",
     "village": "Sukomananti Aua Kuniang",
-    "villageCode": "",
+    "villageCode": "1312080002",
     "postalCode": "26566"
   },
   {
@@ -10932,7 +10932,7 @@ export const SUMATERA_BARAT: PostalCodeData[] = [
     "district": "Pasaman",
     "districtCode": "1312080",
     "village": "Lingkuang Aua Koto Dalam",
-    "villageCode": "",
+    "villageCode": "1312080001",
     "postalCode": "26566"
   },
   {
@@ -10943,7 +10943,7 @@ export const SUMATERA_BARAT: PostalCodeData[] = [
     "district": "Pasaman",
     "districtCode": "1312080",
     "village": "Pinaga Aua Kuniang",
-    "villageCode": "",
+    "villageCode": "1312080002",
     "postalCode": "26566"
   },
   {
@@ -10954,7 +10954,7 @@ export const SUMATERA_BARAT: PostalCodeData[] = [
     "district": "Pasaman",
     "districtCode": "1312080",
     "village": "Lingkuang Aua Hilia",
-    "villageCode": "",
+    "villageCode": "1312080001",
     "postalCode": "26566"
   },
   {
@@ -10965,7 +10965,7 @@ export const SUMATERA_BARAT: PostalCodeData[] = [
     "district": "Pasaman",
     "districtCode": "1312080",
     "village": "Lingkuang Aua Timur",
-    "villageCode": "",
+    "villageCode": "1312080001",
     "postalCode": "26566"
   },
   {
@@ -10976,7 +10976,7 @@ export const SUMATERA_BARAT: PostalCodeData[] = [
     "district": "Pasaman",
     "districtCode": "1312080",
     "village": "Aia Gadang Timur",
-    "villageCode": "",
+    "villageCode": "1312080003",
     "postalCode": "26566"
   },
   {
@@ -10987,7 +10987,7 @@ export const SUMATERA_BARAT: PostalCodeData[] = [
     "district": "Pasaman",
     "districtCode": "1312080",
     "village": "Aia Gadang Barat",
-    "villageCode": "",
+    "villageCode": "1312080003",
     "postalCode": "26566"
   },
   {
@@ -10998,7 +10998,7 @@ export const SUMATERA_BARAT: PostalCodeData[] = [
     "district": "Luhak Nan Duo",
     "districtCode": "1312090",
     "village": "Ophir",
-    "villageCode": "",
+    "villageCode": "1312090004",
     "postalCode": "26568"
   },
   {
@@ -11053,7 +11053,7 @@ export const SUMATERA_BARAT: PostalCodeData[] = [
     "district": "Luhak Nan Duo",
     "districtCode": "1312090",
     "village": "Giri Maju",
-    "villageCode": "",
+    "villageCode": "1312090003",
     "postalCode": "26568"
   },
   {
@@ -11064,7 +11064,7 @@ export const SUMATERA_BARAT: PostalCodeData[] = [
     "district": "Kinali",
     "districtCode": "1312110",
     "village": "Ampek Koto",
-    "villageCode": "",
+    "villageCode": "1312110003",
     "postalCode": "26569"
   },
   {
@@ -11075,7 +11075,7 @@ export const SUMATERA_BARAT: PostalCodeData[] = [
     "district": "Kinali",
     "districtCode": "1312110",
     "village": "Ampek Koto Barat",
-    "villageCode": "",
+    "villageCode": "1312110003",
     "postalCode": "26569"
   },
   {
@@ -11108,7 +11108,7 @@ export const SUMATERA_BARAT: PostalCodeData[] = [
     "district": "Kinali",
     "districtCode": "1312110",
     "village": "Bancah Kariang",
-    "villageCode": "",
+    "villageCode": "1312110005",
     "postalCode": "26569"
   },
   {
@@ -11119,7 +11119,7 @@ export const SUMATERA_BARAT: PostalCodeData[] = [
     "district": "Kinali",
     "districtCode": "1312110",
     "village": "Koto Gadang Jaya",
-    "villageCode": "",
+    "villageCode": "1312110017",
     "postalCode": "26569"
   },
   {
@@ -11130,7 +11130,7 @@ export const SUMATERA_BARAT: PostalCodeData[] = [
     "district": "Kinali",
     "districtCode": "1312110",
     "village": "Bunuik",
-    "villageCode": "",
+    "villageCode": "1312110014",
     "postalCode": "26569"
   },
   {
@@ -11152,7 +11152,7 @@ export const SUMATERA_BARAT: PostalCodeData[] = [
     "district": "Kinali",
     "districtCode": "1312110",
     "village": "Anam Koto Utara",
-    "villageCode": "",
+    "villageCode": "1312110010",
     "postalCode": "26569"
   },
   {
@@ -11163,7 +11163,7 @@ export const SUMATERA_BARAT: PostalCodeData[] = [
     "district": "Kinali",
     "districtCode": "1312110",
     "village": "Bandua Balai",
-    "villageCode": "",
+    "villageCode": "1312110013",
     "postalCode": "26569"
   },
   {
@@ -11196,7 +11196,7 @@ export const SUMATERA_BARAT: PostalCodeData[] = [
     "district": "Kinali",
     "districtCode": "1312110",
     "village": "Mudiak Labuah",
-    "villageCode": "",
+    "villageCode": "1312110006",
     "postalCode": "26569"
   },
   {
@@ -11207,7 +11207,7 @@ export const SUMATERA_BARAT: PostalCodeData[] = [
     "district": "Kinali",
     "districtCode": "1312110",
     "village": "Sigunanti",
-    "villageCode": "",
+    "villageCode": "1312110012",
     "postalCode": "26569"
   },
   {
@@ -11361,7 +11361,7 @@ export const SUMATERA_BARAT: PostalCodeData[] = [
     "district": "Ranah Batahan",
     "districtCode": "1312020",
     "village": "Batahan Barat",
-    "villageCode": "",
+    "villageCode": "1312020002",
     "postalCode": "26574"
   },
   {
@@ -11372,7 +11372,7 @@ export const SUMATERA_BARAT: PostalCodeData[] = [
     "district": "Ranah Batahan",
     "districtCode": "1312020",
     "village": "Batahan Tengah",
-    "villageCode": "",
+    "villageCode": "1312020002",
     "postalCode": "26574"
   },
   {
@@ -11383,7 +11383,7 @@ export const SUMATERA_BARAT: PostalCodeData[] = [
     "district": "Ranah Batahan",
     "districtCode": "1312020",
     "village": "Batahan Utara",
-    "villageCode": "",
+    "villageCode": "1312020002",
     "postalCode": "26574"
   },
   {
@@ -12087,7 +12087,7 @@ export const SUMATERA_BARAT: PostalCodeData[] = [
     "district": "Nanggalo",
     "districtCode": "1371080",
     "village": "Kampung Lapai",
-    "villageCode": "",
+    "villageCode": "1371080005",
     "postalCode": "25142"
   },
   {
@@ -12274,7 +12274,7 @@ export const SUMATERA_BARAT: PostalCodeData[] = [
     "district": "Pauh",
     "districtCode": "1371100",
     "village": "Koto Lua",
-    "villageCode": "",
+    "villageCode": "1371100008",
     "postalCode": "25164"
   },
   {
@@ -12494,7 +12494,7 @@ export const SUMATERA_BARAT: PostalCodeData[] = [
     "district": "Pariaman Utara",
     "districtCode": "1377030",
     "village": "Padang Birik Birik",
-    "villageCode": "",
+    "villageCode": "1377030019",
     "postalCode": "25521"
   },
   {
@@ -12538,7 +12538,7 @@ export const SUMATERA_BARAT: PostalCodeData[] = [
     "district": "Payakumbuh Barat",
     "districtCode": "1376010",
     "village": "Padangdata Tanahmati",
-    "villageCode": "",
+    "villageCode": "1376010036",
     "postalCode": "26223"
   },
   {
@@ -12582,7 +12582,7 @@ export const SUMATERA_BARAT: PostalCodeData[] = [
     "district": "Payakumbuh Timur",
     "districtCode": "1376020",
     "village": "Padang Tangah Payobadar",
-    "villageCode": "",
+    "villageCode": "1376020005",
     "postalCode": "26234"
   },
   {
@@ -13308,7 +13308,7 @@ export const SUMATERA_BARAT: PostalCodeData[] = [
     "district": "Pariaman Tengah",
     "districtCode": "1377020",
     "village": "Jawi Jawi I",
-    "villageCode": "",
+    "villageCode": "1377020013",
     "postalCode": "25518"
   },
   {
@@ -13319,7 +13319,7 @@ export const SUMATERA_BARAT: PostalCodeData[] = [
     "district": "Pariaman Tengah",
     "districtCode": "1377020",
     "village": "Jawi Jawi II",
-    "villageCode": "",
+    "villageCode": "1377020014",
     "postalCode": "25518"
   },
   {
