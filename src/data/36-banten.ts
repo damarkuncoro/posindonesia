@@ -31,7 +31,7 @@ export const BANTEN: PostalCodeData[] = [
     "district": "Cibaliung",
     "districtCode": "3601030",
     "village": "Mendung",
-    "villageCode": "",
+    "villageCode": "3601030018",
     "postalCode": "42285"
   },
   {
@@ -53,7 +53,7 @@ export const BANTEN: PostalCodeData[] = [
     "district": "Cibaliung",
     "districtCode": "3601030",
     "village": "Curug",
-    "villageCode": "",
+    "villageCode": "3601030014",
     "postalCode": "42285"
   },
   {
@@ -548,7 +548,7 @@ export const BANTEN: PostalCodeData[] = [
     "district": "Cimanggu",
     "districtCode": "3601020",
     "village": "Tugu",
-    "villageCode": "",
+    "villageCode": "3601020004",
     "postalCode": "42284"
   },
   {
@@ -1263,7 +1263,7 @@ export const BANTEN: PostalCodeData[] = [
     "district": "Solear",
     "districtCode": "",
     "village": "Munjul",
-    "villageCode": "",
+    "villageCode": "3601070007",
     "postalCode": "15747"
   },
   {
@@ -3012,7 +3012,7 @@ export const BANTEN: PostalCodeData[] = [
     "district": "Sukaresmi",
     "districtCode": "3601112",
     "village": "Weru",
-    "villageCode": "",
+    "villageCode": "3601112009",
     "postalCode": "42268"
   },
   {
@@ -3353,7 +3353,7 @@ export const BANTEN: PostalCodeData[] = [
     "district": "Patia",
     "districtCode": "3601111",
     "village": "Turus",
-    "villageCode": "",
+    "villageCode": "3601111008",
     "postalCode": "42267"
   },
   {
@@ -3760,7 +3760,7 @@ export const BANTEN: PostalCodeData[] = [
     "district": "Bojong",
     "districtCode": "3601090",
     "village": "Geredug",
-    "villageCode": "",
+    "villageCode": "3601090001",
     "postalCode": "42274"
   },
   {
@@ -5278,7 +5278,7 @@ export const BANTEN: PostalCodeData[] = [
     "district": "Karawaci",
     "districtCode": "3671031",
     "village": "Gerendeng",
-    "villageCode": "",
+    "villageCode": "3671031011",
     "postalCode": "15113"
   },
   {
@@ -5905,7 +5905,7 @@ export const BANTEN: PostalCodeData[] = [
     "district": "Setu",
     "districtCode": "3674010",
     "village": "Setu",
-    "villageCode": "",
+    "villageCode": "3674010004",
     "postalCode": "15343"
   },
   {
@@ -5949,7 +5949,7 @@ export const BANTEN: PostalCodeData[] = [
     "district": "Setu",
     "districtCode": "3674010",
     "village": "Muncul",
-    "villageCode": "",
+    "villageCode": "3674010002",
     "postalCode": "15346"
   },
   {
@@ -5971,7 +5971,7 @@ export const BANTEN: PostalCodeData[] = [
     "district": "Ciputat",
     "districtCode": "3674040",
     "village": "Sawah Lama",
-    "villageCode": "",
+    "villageCode": "3674040005",
     "postalCode": "15413"
   },
   {

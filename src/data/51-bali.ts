@@ -9,7 +9,7 @@ export const BALI: PostalCodeData[] = [
     "district": "Bangli",
     "districtCode": "5106020",
     "village": "Tamanbali",
-    "villageCode": "",
+    "villageCode": "5106020002",
     "postalCode": "80619"
   },
   {
@@ -108,7 +108,7 @@ export const BALI: PostalCodeData[] = [
     "district": "Melaya",
     "districtCode": "5101010",
     "village": "Tuwed",
-    "villageCode": "",
+    "villageCode": "5101010004",
     "postalCode": "82252"
   },
   {
@@ -185,7 +185,7 @@ export const BALI: PostalCodeData[] = [
     "district": "Negara",
     "districtCode": "5101020",
     "village": "Cupel",
-    "villageCode": "",
+    "villageCode": "5101020001",
     "postalCode": "82251"
   },
   {
@@ -284,7 +284,7 @@ export const BALI: PostalCodeData[] = [
     "district": "Jembrana",
     "districtCode": "5101021",
     "village": "Pendem",
-    "villageCode": "",
+    "villageCode": "5101021008",
     "postalCode": "82211"
   },
   {
@@ -328,7 +328,7 @@ export const BALI: PostalCodeData[] = [
     "district": "Jembrana",
     "districtCode": "5101021",
     "village": "Budeng",
-    "villageCode": "",
+    "villageCode": "5101021004",
     "postalCode": "82219"
   },
   {
@@ -405,7 +405,7 @@ export const BALI: PostalCodeData[] = [
     "district": "Mendoyo",
     "districtCode": "5101030",
     "village": "Yeh Sumbul",
-    "villageCode": "",
+    "villageCode": "5101030011",
     "postalCode": "82261"
   },
   {
@@ -460,7 +460,7 @@ export const BALI: PostalCodeData[] = [
     "district": "Mendoyo",
     "districtCode": "5101030",
     "village": "Pergung",
-    "villageCode": "",
+    "villageCode": "5101030004",
     "postalCode": "82261"
   },
   {
@@ -702,7 +702,7 @@ export const BALI: PostalCodeData[] = [
     "district": "Selemadeg",
     "districtCode": "5102010",
     "village": "Berembeng",
-    "villageCode": "",
+    "villageCode": "5102010005",
     "postalCode": "82162"
   },
   {
@@ -724,7 +724,7 @@ export const BALI: PostalCodeData[] = [
     "district": "Selemadeg Barat",
     "districtCode": "5102012",
     "village": "Lumbung",
-    "villageCode": "",
+    "villageCode": "5102012004",
     "postalCode": "82164"
   },
   {
@@ -790,7 +790,7 @@ export const BALI: PostalCodeData[] = [
     "district": "Selemadeg Barat",
     "districtCode": "5102012",
     "village": "Mundeh",
-    "villageCode": "",
+    "villageCode": "5102012006",
     "postalCode": "82164"
   },
   {
@@ -999,7 +999,7 @@ export const BALI: PostalCodeData[] = [
     "district": "Kerambitan",
     "districtCode": "5102020",
     "village": "Kukuh",
-    "villageCode": "",
+    "villageCode": "5102020008",
     "postalCode": "82161"
   },
   {
@@ -1010,7 +1010,7 @@ export const BALI: PostalCodeData[] = [
     "district": "Kerambitan",
     "districtCode": "5102020",
     "village": "Sembung Gede",
-    "villageCode": "",
+    "villageCode": "5102020011",
     "postalCode": "82161"
   },
   {
@@ -1164,7 +1164,7 @@ export const BALI: PostalCodeData[] = [
     "district": "Tabanan",
     "districtCode": "5102030",
     "village": "Gubug",
-    "villageCode": "",
+    "villageCode": "5102030003",
     "postalCode": "82119"
   },
   {
@@ -1175,7 +1175,7 @@ export const BALI: PostalCodeData[] = [
     "district": "Tabanan",
     "districtCode": "5102030",
     "village": "Tunjuk",
-    "villageCode": "",
+    "villageCode": "5102030010",
     "postalCode": "82119"
   },
   {
@@ -1263,7 +1263,7 @@ export const BALI: PostalCodeData[] = [
     "district": "Penebel",
     "districtCode": "5102070",
     "village": "Mengesta",
-    "villageCode": "",
+    "villageCode": "5102070009",
     "postalCode": "82152"
   },
   {
@@ -1307,7 +1307,7 @@ export const BALI: PostalCodeData[] = [
     "district": "Penebel",
     "districtCode": "5102070",
     "village": "Jegu",
-    "villageCode": "",
+    "villageCode": "5102070002",
     "postalCode": "82152"
   },
   {
@@ -1329,7 +1329,7 @@ export const BALI: PostalCodeData[] = [
     "district": "Penebel",
     "districtCode": "5102070",
     "village": "Penebel",
-    "villageCode": "",
+    "villageCode": "5102070010",
     "postalCode": "82152"
   },
   {
@@ -1439,7 +1439,7 @@ export const BALI: PostalCodeData[] = [
     "district": "Pupuan",
     "districtCode": "5102080",
     "village": "Munduk Temu",
-    "villageCode": "",
+    "villageCode": "5102080008",
     "postalCode": "82163"
   },
   {
@@ -1626,7 +1626,7 @@ export const BALI: PostalCodeData[] = [
     "district": "Kediri",
     "districtCode": "5102040",
     "village": "Bengkel",
-    "villageCode": "",
+    "villageCode": "5102040008",
     "postalCode": "82171"
   },
   {
@@ -1769,7 +1769,7 @@ export const BALI: PostalCodeData[] = [
     "district": "Marga",
     "districtCode": "5102050",
     "village": "Geluntung",
-    "villageCode": "",
+    "villageCode": "5102050015",
     "postalCode": "82181"
   },
   {
@@ -1802,7 +1802,7 @@ export const BALI: PostalCodeData[] = [
     "district": "Marga",
     "districtCode": "5102050",
     "village": "Kukuh",
-    "villageCode": "",
+    "villageCode": "5102050002",
     "postalCode": "82181"
   },
   {
@@ -1824,7 +1824,7 @@ export const BALI: PostalCodeData[] = [
     "district": "Marga",
     "districtCode": "5102050",
     "village": "Kuwum",
-    "villageCode": "",
+    "villageCode": "5102050006",
     "postalCode": "82181"
   },
   {
@@ -1857,7 +1857,7 @@ export const BALI: PostalCodeData[] = [
     "district": "Marga",
     "districtCode": "5102050",
     "village": "Beringkit",
-    "villageCode": "",
+    "villageCode": "5102050003",
     "postalCode": "82181"
   },
   {
@@ -1868,7 +1868,7 @@ export const BALI: PostalCodeData[] = [
     "district": "Marga",
     "districtCode": "5102050",
     "village": "Marga Dauh Puri",
-    "villageCode": "",
+    "villageCode": "5102050009",
     "postalCode": "82181"
   },
   {
@@ -1879,7 +1879,7 @@ export const BALI: PostalCodeData[] = [
     "district": "Marga",
     "districtCode": "5102050",
     "village": "Peken",
-    "villageCode": "",
+    "villageCode": "5102050004",
     "postalCode": "82181"
   },
   {
@@ -1912,7 +1912,7 @@ export const BALI: PostalCodeData[] = [
     "district": "Marga",
     "districtCode": "5102050",
     "village": "Marga Dajan Puri",
-    "villageCode": "",
+    "villageCode": "5102050009",
     "postalCode": "82181"
   },
   {
@@ -2011,7 +2011,7 @@ export const BALI: PostalCodeData[] = [
     "district": "Baturiti",
     "districtCode": "5102060",
     "village": "Luwus",
-    "villageCode": "",
+    "villageCode": "5102060004",
     "postalCode": "82191"
   },
   {
@@ -2275,7 +2275,7 @@ export const BALI: PostalCodeData[] = [
     "district": "Banjar",
     "districtCode": "5108040",
     "village": "Munduk",
-    "villageCode": "",
+    "villageCode": "5108040003",
     "postalCode": "81152"
   },
   {
@@ -2286,7 +2286,7 @@ export const BALI: PostalCodeData[] = [
     "district": "Banjar",
     "districtCode": "5108040",
     "village": "Banyuseri",
-    "villageCode": "",
+    "villageCode": "5108040007",
     "postalCode": "81152"
   },
   {
@@ -2330,7 +2330,7 @@ export const BALI: PostalCodeData[] = [
     "district": "Banjar",
     "districtCode": "5108040",
     "village": "Temukus",
-    "villageCode": "",
+    "villageCode": "5108040016",
     "postalCode": "81152"
   },
   {
@@ -2440,7 +2440,7 @@ export const BALI: PostalCodeData[] = [
     "district": "Seririt",
     "districtCode": "5108020",
     "village": "Banjarasem",
-    "villageCode": "",
+    "villageCode": "5108020019",
     "postalCode": "81153"
   },
   {
@@ -2462,7 +2462,7 @@ export const BALI: PostalCodeData[] = [
     "district": "Gerokgak",
     "districtCode": "5108010",
     "village": "Celukanbawang",
-    "villageCode": "",
+    "villageCode": "5108010013",
     "postalCode": "81155"
   },
   {
@@ -2561,7 +2561,7 @@ export const BALI: PostalCodeData[] = [
     "district": "Denpasar Barat",
     "districtCode": "5171030",
     "village": "Padangsambian Kelod",
-    "villageCode": "",
+    "villageCode": "5171030010",
     "postalCode": "80117"
   },
   {
@@ -2594,7 +2594,7 @@ export const BALI: PostalCodeData[] = [
     "district": "Gerokgak",
     "districtCode": "5108010",
     "village": "Sumberklampok",
-    "villageCode": "",
+    "villageCode": "5108010001",
     "postalCode": "81155"
   },
   {
@@ -2726,7 +2726,7 @@ export const BALI: PostalCodeData[] = [
     "district": "Kintamani",
     "districtCode": "5106040",
     "village": "Bayung Cerik",
-    "villageCode": "",
+    "villageCode": "5106040007",
     "postalCode": "80652"
   },
   {
@@ -2814,7 +2814,7 @@ export const BALI: PostalCodeData[] = [
     "district": "Kintamani",
     "districtCode": "5106040",
     "village": "Kutuh",
-    "villageCode": "",
+    "villageCode": "5106040043",
     "postalCode": "80652"
   },
   {
@@ -2847,7 +2847,7 @@ export const BALI: PostalCodeData[] = [
     "district": "Kintamani",
     "districtCode": "5106040",
     "village": "Batudinding",
-    "villageCode": "",
+    "villageCode": "5106040020",
     "postalCode": "80652"
   },
   {
@@ -3045,7 +3045,7 @@ export const BALI: PostalCodeData[] = [
     "district": "Kintamani",
     "districtCode": "5106040",
     "village": "Suter",
-    "villageCode": "",
+    "villageCode": "5106040019",
     "postalCode": "80652"
   },
   {
@@ -3089,7 +3089,7 @@ export const BALI: PostalCodeData[] = [
     "district": "Kintamani",
     "districtCode": "5106040",
     "village": "Selulung",
-    "villageCode": "",
+    "villageCode": "5106040039",
     "postalCode": "80652"
   },
   {
@@ -3100,7 +3100,7 @@ export const BALI: PostalCodeData[] = [
     "district": "Kintamani",
     "districtCode": "5106040",
     "village": "Siakin",
-    "villageCode": "",
+    "villageCode": "5106040046",
     "postalCode": "80652"
   },
   {
@@ -3155,7 +3155,7 @@ export const BALI: PostalCodeData[] = [
     "district": "Kintamani",
     "districtCode": "5106040",
     "village": "Serai",
-    "villageCode": "",
+    "villageCode": "5106040029",
     "postalCode": "80652"
   },
   {
@@ -3188,7 +3188,7 @@ export const BALI: PostalCodeData[] = [
     "district": "Kintamani",
     "districtCode": "5106040",
     "village": "Abangsongan",
-    "villageCode": "",
+    "villageCode": "5106040021",
     "postalCode": "80652"
   },
   {
@@ -3342,7 +3342,7 @@ export const BALI: PostalCodeData[] = [
     "district": "Blahbatuh",
     "districtCode": "5104020",
     "village": "Bedulu",
-    "villageCode": "",
+    "villageCode": "5104020009",
     "postalCode": "80581"
   },
   {
@@ -3463,7 +3463,7 @@ export const BALI: PostalCodeData[] = [
     "district": "Abiansemal",
     "districtCode": "5103050",
     "village": "Sibangkaja",
-    "villageCode": "",
+    "villageCode": "5103050006",
     "postalCode": "80352"
   },
   {
@@ -3485,7 +3485,7 @@ export const BALI: PostalCodeData[] = [
     "district": "Sukasada",
     "districtCode": "5108050",
     "village": "Tegallinggah",
-    "villageCode": "",
+    "villageCode": "5108050013",
     "postalCode": "81161"
   },
   {
@@ -3683,7 +3683,7 @@ export const BALI: PostalCodeData[] = [
     "district": "Kuta Selatan",
     "districtCode": "5103010",
     "village": "Kutuh",
-    "villageCode": "",
+    "villageCode": "5103010003",
     "postalCode": "80363"
   },
   {
@@ -3694,7 +3694,7 @@ export const BALI: PostalCodeData[] = [
     "district": "Payangan",
     "districtCode": "5104070",
     "village": "Bresela",
-    "villageCode": "",
+    "villageCode": "5104070004",
     "postalCode": "80572"
   },
   {
@@ -3848,7 +3848,7 @@ export const BALI: PostalCodeData[] = [
     "district": "Bangli",
     "districtCode": "5106020",
     "village": "Kubu",
-    "villageCode": "",
+    "villageCode": "5106020006",
     "postalCode": "80611"
   },
   {
@@ -4035,7 +4035,7 @@ export const BALI: PostalCodeData[] = [
     "district": "Kubutambahan",
     "districtCode": "5108080",
     "village": "Tunjung",
-    "villageCode": "",
+    "villageCode": "5108080005",
     "postalCode": "81172"
   },
   {

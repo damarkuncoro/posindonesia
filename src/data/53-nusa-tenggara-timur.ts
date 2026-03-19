@@ -405,7 +405,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Riung",
     "districtCode": "5312080",
     "village": "Sambinasi Tengah",
-    "villageCode": "",
+    "villageCode": "5312080015",
     "postalCode": "86419"
   },
   {
@@ -471,7 +471,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Riung",
     "districtCode": "5312080",
     "village": "Lengkosambi Tengah",
-    "villageCode": "",
+    "villageCode": "5312080010",
     "postalCode": "86419"
   },
   {
@@ -482,7 +482,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Riung",
     "districtCode": "5312080",
     "village": "Lengkosambi Barat Daya",
-    "villageCode": "",
+    "villageCode": "5312080010",
     "postalCode": "86419"
   },
   {
@@ -636,7 +636,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Waigete",
     "districtCode": "5310041",
     "village": "Egon Buluk",
-    "villageCode": "",
+    "villageCode": "5310041005",
     "postalCode": "86182"
   },
   {
@@ -889,7 +889,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Riung Barat",
     "districtCode": "5312081",
     "village": "Kembang",
-    "villageCode": "",
+    "villageCode": "5312081018",
     "postalCode": "86421"
   },
   {
@@ -911,7 +911,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Sabu Timur",
     "districtCode": "5320060",
     "village": "Keduru",
-    "villageCode": "",
+    "villageCode": "5320060004",
     "postalCode": "85392"
   },
   {
@@ -1263,7 +1263,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Batu Putih",
     "districtCode": "5304041",
     "village": "Benlutu",
-    "villageCode": "",
+    "villageCode": "5304041007",
     "postalCode": "85566"
   },
   {
@@ -1340,7 +1340,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Rote Barat Daya",
     "districtCode": "5314010",
     "village": "Sakubatun",
-    "villageCode": "",
+    "villageCode": "5314010021",
     "postalCode": "85982"
   },
   {
@@ -1604,7 +1604,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Lebatukan",
     "districtCode": "5308040",
     "village": "Tapobarang",
-    "villageCode": "",
+    "villageCode": "5308040007",
     "postalCode": "86681"
   },
   {
@@ -1769,7 +1769,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Boleng",
     "districtCode": "5315011",
     "village": "Pontianak",
-    "villageCode": "",
+    "villageCode": "5315011007",
     "postalCode": "86754"
   },
   {
@@ -1890,7 +1890,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Pantai Baru",
     "districtCode": "5314050",
     "village": "Oenggae",
-    "villageCode": "",
+    "villageCode": "5314050013",
     "postalCode": "85973"
   },
   {
@@ -1901,7 +1901,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Pantai Baru",
     "districtCode": "5314050",
     "village": "Lenupetu",
-    "villageCode": "",
+    "villageCode": "5314050003",
     "postalCode": "85973"
   },
   {
@@ -1923,7 +1923,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Pantai Baru",
     "districtCode": "5314050",
     "village": "Fatelilo",
-    "villageCode": "",
+    "villageCode": "5314050014",
     "postalCode": "85973"
   },
   {
@@ -1956,7 +1956,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Pantai Baru",
     "districtCode": "5314050",
     "village": "Ofalangga",
-    "villageCode": "",
+    "villageCode": "5314050015",
     "postalCode": "85973"
   },
   {
@@ -1989,7 +1989,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Pantai Baru",
     "districtCode": "5314050",
     "village": "Lekona",
-    "villageCode": "",
+    "villageCode": "5314050012",
     "postalCode": "85973"
   },
   {
@@ -2198,7 +2198,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Inerie",
     "districtCode": "5312012",
     "village": "Nagebaru",
-    "villageCode": "",
+    "villageCode": "5312012013",
     "postalCode": "86456"
   },
   {
@@ -2539,7 +2539,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Kota Tambolaka",
     "districtCode": "5317081",
     "village": "Waitabula",
-    "villageCode": "",
+    "villageCode": "5317081003",
     "postalCode": "87413"
   },
   {
@@ -2715,7 +2715,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Loura",
     "districtCode": "5317080",
     "village": "Loko Kalada",
-    "villageCode": "",
+    "villageCode": "5317080016",
     "postalCode": "87254"
   },
   {
@@ -3298,7 +3298,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Loli",
     "districtCode": "5301050",
     "village": "Ubu Pede",
-    "villageCode": "",
+    "villageCode": "5301050004",
     "postalCode": "87284"
   },
   {
@@ -3375,7 +3375,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Kota Tambolaka",
     "districtCode": "5317081",
     "village": "Rada Mata",
-    "villageCode": "",
+    "villageCode": "5317081005",
     "postalCode": "87411"
   },
   {
@@ -3793,7 +3793,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Wewewa Timur",
     "districtCode": "5317060",
     "village": "Dangga Mangu",
-    "villageCode": "",
+    "villageCode": "5317060001",
     "postalCode": "87452"
   },
   {
@@ -3804,7 +3804,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Wewewa Timur",
     "districtCode": "5317060",
     "village": "Pada Eweta",
-    "villageCode": "",
+    "villageCode": "5317060003",
     "postalCode": "87452"
   },
   {
@@ -3859,7 +3859,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Wewewa Timur",
     "districtCode": "5317060",
     "village": "Lete Kamouna",
-    "villageCode": "",
+    "villageCode": "5317060018",
     "postalCode": "87452"
   },
   {
@@ -3914,7 +3914,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Wewewa Timur",
     "districtCode": "5317060",
     "village": "Wee Limbu",
-    "villageCode": "",
+    "villageCode": "5317060017",
     "postalCode": "87452"
   },
   {
@@ -3969,7 +3969,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Wewewa Barat",
     "districtCode": "5317050",
     "village": "Watu Labara",
-    "villageCode": "",
+    "villageCode": "5317050008",
     "postalCode": "87453"
   },
   {
@@ -3991,7 +3991,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Wewewa Barat",
     "districtCode": "5317050",
     "village": "Kalimbu Tillu",
-    "villageCode": "",
+    "villageCode": "5317050002",
     "postalCode": "87453"
   },
   {
@@ -4090,7 +4090,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Wewewa Barat",
     "districtCode": "5317050",
     "village": "Raba Ege",
-    "villageCode": "",
+    "villageCode": "5317050001",
     "postalCode": "87453"
   },
   {
@@ -4145,7 +4145,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Kota Tambolaka",
     "districtCode": "5317081",
     "village": "Wee Rena",
-    "villageCode": "",
+    "villageCode": "5317081008",
     "postalCode": "87453"
   },
   {
@@ -4266,7 +4266,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Wewewa Utara",
     "districtCode": "5317070",
     "village": "Djela Manu",
-    "villageCode": "",
+    "villageCode": "5317070008",
     "postalCode": "87455"
   },
   {
@@ -4497,7 +4497,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Kodi Balaghar",
     "districtCode": "5317011",
     "village": "Waikarara",
-    "villageCode": "",
+    "villageCode": "5317011003",
     "postalCode": "87462"
   },
   {
@@ -4541,7 +4541,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Kodi Balaghar",
     "districtCode": "5317011",
     "village": "Waiha",
-    "villageCode": "",
+    "villageCode": "5317011005",
     "postalCode": "87462"
   },
   {
@@ -4684,7 +4684,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Kodi Bangedo",
     "districtCode": "5317010",
     "village": "Ana Goka",
-    "villageCode": "",
+    "villageCode": "5317010018",
     "postalCode": "87462"
   },
   {
@@ -4695,7 +4695,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Kodi Bangedo",
     "districtCode": "5317010",
     "village": "Waikadada",
-    "villageCode": "",
+    "villageCode": "5317010010",
     "postalCode": "87462"
   },
   {
@@ -4728,7 +4728,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Kodi Bangedo",
     "districtCode": "5317010",
     "village": "Mere Kehe",
-    "villageCode": "",
+    "villageCode": "5317010016",
     "postalCode": "87462"
   },
   {
@@ -4959,7 +4959,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Kodi Utara",
     "districtCode": "5317030",
     "village": "Mangganipi",
-    "villageCode": "",
+    "villageCode": "5317030008",
     "postalCode": "87464"
   },
   {
@@ -4970,7 +4970,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Kodi Utara",
     "districtCode": "5317030",
     "village": "Wailabubur",
-    "villageCode": "",
+    "villageCode": "5317030003",
     "postalCode": "87464"
   },
   {
@@ -5113,7 +5113,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Kodi Utara",
     "districtCode": "5317030",
     "village": "Waiholo",
-    "villageCode": "",
+    "villageCode": "5317030005",
     "postalCode": "87464"
   },
   {
@@ -5586,7 +5586,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Kanatang",
     "districtCode": "5302081",
     "village": "Temu",
-    "villageCode": "",
+    "villageCode": "5302081002",
     "postalCode": "87154"
   },
   {
@@ -6697,7 +6697,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Pahunga Lodu",
     "districtCode": "5302040",
     "village": "Mburukulu",
-    "villageCode": "",
+    "villageCode": "5302040016",
     "postalCode": "87182"
   },
   {
@@ -6972,7 +6972,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Kota Raja",
     "districtCode": "5371031",
     "village": "Bakunase Dua",
-    "villageCode": "",
+    "villageCode": "5371031001",
     "postalCode": "85116"
   },
   {
@@ -7016,7 +7016,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Kota Raja",
     "districtCode": "5371031",
     "village": "Nunleu",
-    "villageCode": "",
+    "villageCode": "5371031007",
     "postalCode": "85119"
   },
   {
@@ -7313,7 +7313,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Alak",
     "districtCode": "5371010",
     "village": "Penkase Oeleta",
-    "villageCode": "",
+    "villageCode": "5371010012",
     "postalCode": "85231"
   },
   {
@@ -9370,7 +9370,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Kota Soe",
     "districtCode": "5304030",
     "village": "Nunumeu",
-    "villageCode": "",
+    "villageCode": "5304030005",
     "postalCode": "85516"
   },
   {
@@ -9392,7 +9392,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Kota Soe",
     "districtCode": "5304030",
     "village": "Karang Sirih",
-    "villageCode": "",
+    "villageCode": "5304030009",
     "postalCode": "85518"
   },
   {
@@ -9447,7 +9447,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Amanuban Barat",
     "districtCode": "5304040",
     "village": "Tublopo",
-    "villageCode": "",
+    "villageCode": "5304040013",
     "postalCode": "85551"
   },
   {
@@ -9469,7 +9469,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Amanuban Barat",
     "districtCode": "5304040",
     "village": "Pusu",
-    "villageCode": "",
+    "villageCode": "5304040011",
     "postalCode": "85551"
   },
   {
@@ -9480,7 +9480,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Amanuban Barat",
     "districtCode": "5304040",
     "village": "Nule",
-    "villageCode": "",
+    "villageCode": "5307012003",
     "postalCode": "85551"
   },
   {
@@ -9491,7 +9491,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Amanuban Barat",
     "districtCode": "5304040",
     "village": "Tubuhue",
-    "villageCode": "",
+    "villageCode": "5304040008",
     "postalCode": "85551"
   },
   {
@@ -9557,7 +9557,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Mollo Utara",
     "districtCode": "5304010",
     "village": "Halmei",
-    "villageCode": "",
+    "villageCode": "5304010014",
     "postalCode": "85552"
   },
   {
@@ -9733,7 +9733,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Kuatnana",
     "districtCode": "5304042",
     "village": "Supul",
-    "villageCode": "",
+    "villageCode": "5304042002",
     "postalCode": "85553"
   },
   {
@@ -9810,7 +9810,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Oenino",
     "districtCode": "5304072",
     "village": "Neke",
-    "villageCode": "",
+    "villageCode": "5304072001",
     "postalCode": "85554"
   },
   {
@@ -9975,7 +9975,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Tobu",
     "districtCode": "5304012",
     "village": "Tune",
-    "villageCode": "",
+    "villageCode": "5304012003",
     "postalCode": "85556"
   },
   {
@@ -9997,7 +9997,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Tobu",
     "districtCode": "5304012",
     "village": "Tutem",
-    "villageCode": "",
+    "villageCode": "5304012002",
     "postalCode": "85556"
   },
   {
@@ -10151,7 +10151,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Nunbena",
     "districtCode": "5304013",
     "village": "Tunbes",
-    "villageCode": "",
+    "villageCode": "5304013006",
     "postalCode": "85558"
   },
   {
@@ -10206,7 +10206,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Mollo Selatan",
     "districtCode": "5304020",
     "village": "Noinbila",
-    "villageCode": "",
+    "villageCode": "5304020010",
     "postalCode": "85561"
   },
   {
@@ -10558,7 +10558,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Kualin",
     "districtCode": "5304061",
     "village": "Nunusunu",
-    "villageCode": "",
+    "villageCode": "5304061007",
     "postalCode": "85564"
   },
   {
@@ -10811,7 +10811,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Amanuban Tengah",
     "districtCode": "5304070",
     "village": "Niki-Niki",
-    "villageCode": "",
+    "villageCode": "5304070019",
     "postalCode": "85571"
   },
   {
@@ -10844,7 +10844,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Amanuban Tengah",
     "districtCode": "5304070",
     "village": "Maunum Niki-Niki",
-    "villageCode": "",
+    "villageCode": "5304070011",
     "postalCode": "85571"
   },
   {
@@ -10866,7 +10866,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Amanuban Tengah",
     "districtCode": "5304070",
     "village": "Nobi-Nobi",
-    "villageCode": "",
+    "villageCode": "5304070018",
     "postalCode": "85571"
   },
   {
@@ -10899,7 +10899,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Amanuban Tengah",
     "districtCode": "5304070",
     "village": "Tumu",
-    "villageCode": "",
+    "villageCode": "5304070016",
     "postalCode": "85571"
   },
   {
@@ -10910,7 +10910,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Amanuban Timur",
     "districtCode": "5304080",
     "village": "Teluk",
-    "villageCode": "",
+    "villageCode": "5304080009",
     "postalCode": "85572"
   },
   {
@@ -11020,7 +11020,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Amanatun Selatan",
     "districtCode": "5304100",
     "village": "Fenun",
-    "villageCode": "",
+    "villageCode": "5304100013",
     "postalCode": "85573"
   },
   {
@@ -11064,7 +11064,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Amanatun Selatan",
     "districtCode": "5304100",
     "village": "Sunu",
-    "villageCode": "",
+    "villageCode": "5304100016",
     "postalCode": "85573"
   },
   {
@@ -11141,7 +11141,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Amanatun Selatan",
     "districtCode": "5304100",
     "village": "Nunleu",
-    "villageCode": "",
+    "villageCode": "5304100004",
     "postalCode": "85573"
   },
   {
@@ -11251,7 +11251,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Amanatun Utara",
     "districtCode": "5304110",
     "village": "Tumu",
-    "villageCode": "",
+    "villageCode": "5304110009",
     "postalCode": "85574"
   },
   {
@@ -11284,7 +11284,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "KIE",
     "districtCode": "5304090",
     "village": "Nekmese",
-    "villageCode": "",
+    "villageCode": "5304090009",
     "postalCode": "85575"
   },
   {
@@ -11306,7 +11306,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "KIE",
     "districtCode": "5304090",
     "village": "Eno Napi",
-    "villageCode": "",
+    "villageCode": "5304090013",
     "postalCode": "85575"
   },
   {
@@ -11361,7 +11361,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "KIE",
     "districtCode": "5304090",
     "village": "Belle",
-    "villageCode": "",
+    "villageCode": "5304090008",
     "postalCode": "85575"
   },
   {
@@ -11438,7 +11438,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Fautmolo",
     "districtCode": "5304081",
     "village": "Besleu",
-    "villageCode": "",
+    "villageCode": "5304081005",
     "postalCode": "85576"
   },
   {
@@ -11812,7 +11812,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Nunkolo",
     "districtCode": "5304102",
     "village": "Putun",
-    "villageCode": "",
+    "villageCode": "5304102008",
     "postalCode": "85583"
   },
   {
@@ -12164,7 +12164,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Fatukopa",
     "districtCode": "5304082",
     "village": "Nunfutu",
-    "villageCode": "",
+    "villageCode": "5304082004",
     "postalCode": "85588"
   },
   {
@@ -12285,7 +12285,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Kota Kefamenanu",
     "districtCode": "5305030",
     "village": "Tubuhue",
-    "villageCode": "",
+    "villageCode": "5305030004",
     "postalCode": "85617"
   },
   {
@@ -12362,7 +12362,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Bikomi Utara",
     "districtCode": "5305025",
     "village": "Banain A",
-    "villageCode": "",
+    "villageCode": "5305025007",
     "postalCode": "85623"
   },
   {
@@ -12395,7 +12395,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Bikomi Utara",
     "districtCode": "5305025",
     "village": "Tes",
-    "villageCode": "",
+    "villageCode": "5305025005",
     "postalCode": "85625"
   },
   {
@@ -12428,7 +12428,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Naibenu",
     "districtCode": "5305026",
     "village": "Benus",
-    "villageCode": "",
+    "villageCode": "5305026003",
     "postalCode": "85627"
   },
   {
@@ -12494,7 +12494,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Bikomi Tengah",
     "districtCode": "5305023",
     "village": "Buk",
-    "villageCode": "",
+    "villageCode": "5305023003",
     "postalCode": "85634"
   },
   {
@@ -12571,7 +12571,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Bikomi Nilulat",
     "districtCode": "5305024",
     "village": "Haumeni Ana",
-    "villageCode": "",
+    "villageCode": "5305024003",
     "postalCode": "85638"
   },
   {
@@ -12582,7 +12582,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Bikomi Nilulat",
     "districtCode": "5305024",
     "village": "Tubu",
-    "villageCode": "",
+    "villageCode": "5305024002",
     "postalCode": "85639"
   },
   {
@@ -13506,7 +13506,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Insana",
     "districtCode": "5305040",
     "village": "Keun",
-    "villageCode": "",
+    "villageCode": "5305040029",
     "postalCode": "85671"
   },
   {
@@ -13572,7 +13572,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Insana Utara",
     "districtCode": "5305041",
     "village": "Humusu Wini",
-    "villageCode": "",
+    "villageCode": "5305041010",
     "postalCode": "85672"
   },
   {
@@ -13627,7 +13627,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Insana Barat",
     "districtCode": "5305042",
     "village": "Subun",
-    "villageCode": "",
+    "villageCode": "5305042001",
     "postalCode": "85673"
   },
   {
@@ -13704,7 +13704,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Insana Barat",
     "districtCode": "5305042",
     "village": "Unini",
-    "villageCode": "",
+    "villageCode": "5305042004",
     "postalCode": "85673"
   },
   {
@@ -13924,7 +13924,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Biboki Selatan",
     "districtCode": "5305050",
     "village": "Supun",
-    "villageCode": "",
+    "villageCode": "5305050011",
     "postalCode": "85681"
   },
   {
@@ -14210,7 +14210,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Biboki Moenleu",
     "districtCode": "5305052",
     "village": "Tunbes",
-    "villageCode": "",
+    "villageCode": "5305052001",
     "postalCode": "85685"
   },
   {
@@ -14584,7 +14584,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Lasiolat",
     "districtCode": "5306072",
     "village": "Dualasi Rai Ulun",
-    "villageCode": "",
+    "villageCode": "5306072006",
     "postalCode": "85726"
   },
   {
@@ -14738,7 +14738,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Lamaknen",
     "districtCode": "5306080",
     "village": "Fulur",
-    "villageCode": "",
+    "villageCode": "5306080011",
     "postalCode": "85733"
   },
   {
@@ -14782,7 +14782,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Lamaknen Selatan",
     "districtCode": "5306081",
     "village": "Henes",
-    "villageCode": "",
+    "villageCode": "5306081003",
     "postalCode": "85736"
   },
   {
@@ -15156,7 +15156,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Golewa",
     "districtCode": "5312030",
     "village": "Ulu Belu",
-    "villageCode": "",
+    "villageCode": "5312030032",
     "postalCode": "86461"
   },
   {
@@ -16465,7 +16465,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Alor Tengah Utara",
     "districtCode": "5307061",
     "village": "Petleng",
-    "villageCode": "",
+    "villageCode": "5307061002",
     "postalCode": "85875"
   },
   {
@@ -16520,7 +16520,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Lembur",
     "districtCode": "5307063",
     "village": "Tulleng",
-    "villageCode": "",
+    "villageCode": "5307063004",
     "postalCode": "85876"
   },
   {
@@ -16707,7 +16707,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Pantar Barat",
     "districtCode": "5307011",
     "village": "Leer",
-    "villageCode": "",
+    "villageCode": "5307011009",
     "postalCode": "85882"
   },
   {
@@ -16773,7 +16773,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Pantar Tengah",
     "districtCode": "5307014",
     "village": "Tude",
-    "villageCode": "",
+    "villageCode": "5307014002",
     "postalCode": "85884"
   },
   {
@@ -17455,7 +17455,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Atadei",
     "districtCode": "5308020",
     "village": "Lerek",
-    "villageCode": "",
+    "villageCode": "5308020008",
     "postalCode": "86685"
   },
   {
@@ -17785,7 +17785,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Omesuri",
     "districtCode": "5308060",
     "village": "Hoelea I",
-    "villageCode": "",
+    "villageCode": "5308060011",
     "postalCode": "86691"
   },
   {
@@ -17818,7 +17818,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Omesuri",
     "districtCode": "5308060",
     "village": "Mahal I",
-    "villageCode": "",
+    "villageCode": "5308060005",
     "postalCode": "86691"
   },
   {
@@ -17884,7 +17884,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Omesuri",
     "districtCode": "5308060",
     "village": "Peusawa",
-    "villageCode": "",
+    "villageCode": "5308060004",
     "postalCode": "86691"
   },
   {
@@ -19061,7 +19061,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Adonara Timur",
     "districtCode": "5309070",
     "village": "Puhu",
-    "villageCode": "",
+    "villageCode": "5309070057",
     "postalCode": "86261"
   },
   {
@@ -19215,7 +19215,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Adonara Barat",
     "districtCode": "5309060",
     "village": "Bukit Seburi I",
-    "villageCode": "",
+    "villageCode": "5309060022",
     "postalCode": "86262"
   },
   {
@@ -19292,7 +19292,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Adonara Barat",
     "districtCode": "5309060",
     "village": "Hurung",
-    "villageCode": "",
+    "villageCode": "5309060019",
     "postalCode": "86262"
   },
   {
@@ -19303,7 +19303,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Adonara Barat",
     "districtCode": "5309060",
     "village": "Nimun Danibao",
-    "villageCode": "",
+    "villageCode": "5309060017",
     "postalCode": "86262"
   },
   {
@@ -19347,7 +19347,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Adonara Barat",
     "districtCode": "5309060",
     "village": "Wureh",
-    "villageCode": "",
+    "villageCode": "5309060010",
     "postalCode": "86262"
   },
   {
@@ -19655,7 +19655,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Adonara",
     "districtCode": "5309074",
     "village": "Tikatukan",
-    "villageCode": "",
+    "villageCode": "5309074001",
     "postalCode": "86265"
   },
   {
@@ -20271,7 +20271,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Ile Boleng",
     "districtCode": "5309071",
     "village": "Nelelamadike",
-    "villageCode": "",
+    "villageCode": "5309071010",
     "postalCode": "86268"
   },
   {
@@ -20315,7 +20315,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Solor Timur",
     "districtCode": "5309050",
     "village": "Lohayong I",
-    "villageCode": "",
+    "villageCode": "5309050016",
     "postalCode": "86271"
   },
   {
@@ -20700,7 +20700,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Solor Selatan",
     "districtCode": "5309041",
     "village": "Kenere",
-    "villageCode": "",
+    "villageCode": "5309041002",
     "postalCode": "86273"
   },
   {
@@ -20832,7 +20832,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Alok Timur",
     "districtCode": "5310082",
     "village": "Beru",
-    "villageCode": "",
+    "villageCode": "5310082010",
     "postalCode": "86121"
   },
   {
@@ -20865,7 +20865,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Alok Timur",
     "districtCode": "5310082",
     "village": "Gong Bekor",
-    "villageCode": "",
+    "villageCode": "5310082019",
     "postalCode": "86122"
   },
   {
@@ -20975,7 +20975,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Koting",
     "districtCode": "5310062",
     "village": "Watu Repa",
-    "villageCode": "",
+    "villageCode": "5310062007",
     "postalCode": "86151"
   },
   {
@@ -21041,7 +21041,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Nita",
     "districtCode": "5310070",
     "village": "Tebuk",
-    "villageCode": "",
+    "villageCode": "5310070004",
     "postalCode": "86152"
   },
   {
@@ -21052,7 +21052,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Nita",
     "districtCode": "5310070",
     "village": "Nangablo",
-    "villageCode": "",
+    "villageCode": "5310070018",
     "postalCode": "86152"
   },
   {
@@ -21063,7 +21063,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Nita",
     "districtCode": "5310070",
     "village": "Kara Kabu",
-    "villageCode": "",
+    "villageCode": "5310070016",
     "postalCode": "86152"
   },
   {
@@ -21085,7 +21085,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Nita",
     "districtCode": "5310070",
     "village": "Tada Lado",
-    "villageCode": "",
+    "villageCode": "5310070017",
     "postalCode": "86152"
   },
   {
@@ -21162,7 +21162,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Paga",
     "districtCode": "5310010",
     "village": "Mbengu",
-    "villageCode": "",
+    "villageCode": "5310010003",
     "postalCode": "86153"
   },
   {
@@ -21173,7 +21173,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Paga",
     "districtCode": "5310010",
     "village": "Rejo",
-    "villageCode": "",
+    "villageCode": "5310010021",
     "postalCode": "86153"
   },
   {
@@ -21239,7 +21239,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Paga",
     "districtCode": "5310010",
     "village": "Lowolabo",
-    "villageCode": "",
+    "villageCode": "5310010018",
     "postalCode": "86153"
   },
   {
@@ -21261,7 +21261,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Paga",
     "districtCode": "5310010",
     "village": "Begu",
-    "villageCode": "",
+    "villageCode": "5310010022",
     "postalCode": "86153"
   },
   {
@@ -21283,7 +21283,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Paga",
     "districtCode": "5310010",
     "village": "Kotandelu",
-    "villageCode": "",
+    "villageCode": "5310010023",
     "postalCode": "86153"
   },
   {
@@ -21305,7 +21305,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Paga",
     "districtCode": "5310010",
     "village": "Aebubu",
-    "villageCode": "",
+    "villageCode": "5310010019",
     "postalCode": "86153"
   },
   {
@@ -21316,7 +21316,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Tana Wawo",
     "districtCode": "5310012",
     "village": "Bu Barat",
-    "villageCode": "",
+    "villageCode": "5310012022",
     "postalCode": "86154"
   },
   {
@@ -21470,7 +21470,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Mego",
     "districtCode": "5310011",
     "village": "Ratekalo",
-    "villageCode": "",
+    "villageCode": "5310011011",
     "postalCode": "86155"
   },
   {
@@ -21514,7 +21514,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Mego",
     "districtCode": "5310011",
     "village": "Dobo Nuapuu",
-    "villageCode": "",
+    "villageCode": "5310011002",
     "postalCode": "86155"
   },
   {
@@ -21525,7 +21525,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Mego",
     "districtCode": "5310011",
     "village": "Ndaimbere",
-    "villageCode": "",
+    "villageCode": "5310011012",
     "postalCode": "86155"
   },
   {
@@ -21547,7 +21547,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Mego",
     "districtCode": "5310011",
     "village": "Napugera",
-    "villageCode": "",
+    "villageCode": "5310011005",
     "postalCode": "86155"
   },
   {
@@ -21558,7 +21558,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Magepanda",
     "districtCode": "5310071",
     "village": "Waturia",
-    "villageCode": "",
+    "villageCode": "5310071006",
     "postalCode": "86156"
   },
   {
@@ -21602,7 +21602,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Magepanda",
     "districtCode": "5310071",
     "village": "Legu Woda",
-    "villageCode": "",
+    "villageCode": "5310071008",
     "postalCode": "86156"
   },
   {
@@ -21624,7 +21624,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Magepanda",
     "districtCode": "5310071",
     "village": "Woda Mude",
-    "villageCode": "",
+    "villageCode": "5310071007",
     "postalCode": "86156"
   },
   {
@@ -21646,7 +21646,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Nelle",
     "districtCode": "5310063",
     "village": "Nelle Urung",
-    "villageCode": "",
+    "villageCode": "5310063005",
     "postalCode": "86159"
   },
   {
@@ -21679,7 +21679,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Nelle",
     "districtCode": "5310063",
     "village": "Nelle Wutung",
-    "villageCode": "",
+    "villageCode": "5310063001",
     "postalCode": "86159"
   },
   {
@@ -21734,7 +21734,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Lela",
     "districtCode": "5310020",
     "village": "Du",
-    "villageCode": "",
+    "villageCode": "5310020009",
     "postalCode": "86161"
   },
   {
@@ -21855,7 +21855,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Bola",
     "districtCode": "5310030",
     "village": "Watukrus",
-    "villageCode": "",
+    "villageCode": "5310030007",
     "postalCode": "86171"
   },
   {
@@ -21877,7 +21877,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Bola",
     "districtCode": "5310030",
     "village": "Bura Bekor",
-    "villageCode": "",
+    "villageCode": "5310030008",
     "postalCode": "86171"
   },
   {
@@ -21910,7 +21910,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Doreng",
     "districtCode": "5310031",
     "village": "Mahe Tanah",
-    "villageCode": "",
+    "villageCode": "5310031018",
     "postalCode": "86172"
   },
   {
@@ -21965,7 +21965,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Doreng",
     "districtCode": "5310031",
     "village": "Pelibaler",
-    "villageCode": "",
+    "villageCode": "5310031017",
     "postalCode": "86172"
   },
   {
@@ -22075,7 +22075,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Kewapante",
     "districtCode": "5310050",
     "village": "Watukobu",
-    "villageCode": "",
+    "villageCode": "5310050025",
     "postalCode": "86181"
   },
   {
@@ -22119,7 +22119,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Waigete",
     "districtCode": "5310041",
     "village": "Runut",
-    "villageCode": "",
+    "villageCode": "5310041009",
     "postalCode": "86182"
   },
   {
@@ -22163,7 +22163,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Waigete",
     "districtCode": "5310041",
     "village": "Mahe Kelan",
-    "villageCode": "",
+    "villageCode": "5310041010",
     "postalCode": "86182"
   },
   {
@@ -22229,7 +22229,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Talibura",
     "districtCode": "5310040",
     "village": "Nebe",
-    "villageCode": "",
+    "villageCode": "5310040018",
     "postalCode": "86183"
   },
   {
@@ -22273,7 +22273,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Talibura",
     "districtCode": "5310040",
     "village": "Likonggete",
-    "villageCode": "",
+    "villageCode": "5310040032",
     "postalCode": "86183"
   },
   {
@@ -22295,7 +22295,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Talibura",
     "districtCode": "5310040",
     "village": "Waipaar",
-    "villageCode": "",
+    "villageCode": "5310040034",
     "postalCode": "86183"
   },
   {
@@ -22306,7 +22306,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Talibura",
     "districtCode": "5310040",
     "village": "Watubaing",
-    "villageCode": "",
+    "villageCode": "5310040031",
     "postalCode": "86183"
   },
   {
@@ -22339,7 +22339,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Talibura",
     "districtCode": "5310040",
     "village": "Watu Omok",
-    "villageCode": "",
+    "villageCode": "5310040028",
     "postalCode": "86183"
   },
   {
@@ -22350,7 +22350,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Talibura",
     "districtCode": "5310040",
     "village": "Baokremot",
-    "villageCode": "",
+    "villageCode": "5310040035",
     "postalCode": "86183"
   },
   {
@@ -22383,7 +22383,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Talibura",
     "districtCode": "5310040",
     "village": "Henga",
-    "villageCode": "",
+    "villageCode": "5310040030",
     "postalCode": "86183"
   },
   {
@@ -22438,7 +22438,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Talibura",
     "districtCode": "5310040",
     "village": "Mamai",
-    "villageCode": "",
+    "villageCode": "5310040029",
     "postalCode": "86183"
   },
   {
@@ -22515,7 +22515,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Waiblama",
     "districtCode": "5310042",
     "village": "Watu Moning",
-    "villageCode": "",
+    "villageCode": "5310042026",
     "postalCode": "86184"
   },
   {
@@ -22537,7 +22537,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Kangae",
     "districtCode": "5310052",
     "village": "Mekendetung",
-    "villageCode": "",
+    "villageCode": "5310052002",
     "postalCode": "86185"
   },
   {
@@ -22955,7 +22955,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Ende Utara",
     "districtCode": "5311033",
     "village": "Kota Raja",
-    "villageCode": "",
+    "villageCode": "5312080034",
     "postalCode": "86343"
   },
   {
@@ -23054,7 +23054,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Ende",
     "districtCode": "5311020",
     "village": "Embutheru",
-    "villageCode": "",
+    "villageCode": "5311020028",
     "postalCode": "86351"
   },
   {
@@ -24946,7 +24946,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Detukeli",
     "districtCode": "5311062",
     "village": "Nggesabiri",
-    "villageCode": "",
+    "villageCode": "5311062003",
     "postalCode": "86377"
   },
   {
@@ -25012,7 +25012,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Detukeli",
     "districtCode": "5311062",
     "village": "Unggu",
-    "villageCode": "",
+    "villageCode": "5311062011",
     "postalCode": "86377"
   },
   {
@@ -25397,7 +25397,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Maurole",
     "districtCode": "5311060",
     "village": "Detuwulu",
-    "villageCode": "",
+    "villageCode": "5311060024",
     "postalCode": "86381"
   },
   {
@@ -25452,7 +25452,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Lepembusu Kelisoke",
     "districtCode": "5311063",
     "village": "Mukureku",
-    "villageCode": "",
+    "villageCode": "5311063003",
     "postalCode": "86383"
   },
   {
@@ -25518,7 +25518,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Lepembusu Kelisoke",
     "districtCode": "5311063",
     "village": "Kuru",
-    "villageCode": "",
+    "villageCode": "5311063004",
     "postalCode": "86383"
   },
   {
@@ -25595,7 +25595,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Lepembusu Kelisoke",
     "districtCode": "5311063",
     "village": "Kurusare",
-    "villageCode": "",
+    "villageCode": "5311063004",
     "postalCode": "86383"
   },
   {
@@ -25782,7 +25782,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Bajawa",
     "districtCode": "5312020",
     "village": "Ngadhamana",
-    "villageCode": "",
+    "villageCode": "5312020027",
     "postalCode": "86413"
   },
   {
@@ -25793,7 +25793,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Bajawa",
     "districtCode": "5312020",
     "village": "Ubedolumolo II",
-    "villageCode": "",
+    "villageCode": "5312020012",
     "postalCode": "86413"
   },
   {
@@ -25826,7 +25826,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Bajawa",
     "districtCode": "5312020",
     "village": "Ubedolumolo Satu",
-    "villageCode": "",
+    "villageCode": "5312020012",
     "postalCode": "86413"
   },
   {
@@ -25837,7 +25837,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Bajawa",
     "districtCode": "5312020",
     "village": "Boradho",
-    "villageCode": "",
+    "villageCode": "5312020025",
     "postalCode": "86413"
   },
   {
@@ -25870,7 +25870,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Bajawa",
     "districtCode": "5312020",
     "village": "Mukuvoka",
-    "villageCode": "",
+    "villageCode": "5312020026",
     "postalCode": "86413"
   },
   {
@@ -25914,7 +25914,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Bajawa Utara",
     "districtCode": "5312070",
     "village": "Bowado",
-    "villageCode": "",
+    "villageCode": "5312070025",
     "postalCode": "86413"
   },
   {
@@ -26024,7 +26024,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Bajawa",
     "districtCode": "5312020",
     "village": "Ngedukelu",
-    "villageCode": "",
+    "villageCode": "5312020007",
     "postalCode": "86415"
   },
   {
@@ -26046,7 +26046,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Bajawa",
     "districtCode": "5312020",
     "village": "Susu",
-    "villageCode": "",
+    "villageCode": "5312020009",
     "postalCode": "86417"
   },
   {
@@ -26057,7 +26057,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Bajawa",
     "districtCode": "5312020",
     "village": "Bolonga",
-    "villageCode": "",
+    "villageCode": "5312020028",
     "postalCode": "86417"
   },
   {
@@ -26068,7 +26068,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Bajawa",
     "districtCode": "5312020",
     "village": "Langagedha I",
-    "villageCode": "",
+    "villageCode": "5312020017",
     "postalCode": "86418"
   },
   {
@@ -26112,7 +26112,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Riung",
     "districtCode": "5312080",
     "village": "Taen Terong Dua",
-    "villageCode": "",
+    "villageCode": "5312080006",
     "postalCode": "86419"
   },
   {
@@ -26123,7 +26123,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Riung",
     "districtCode": "5312080",
     "village": "Wangka Barat",
-    "villageCode": "",
+    "villageCode": "5312080008",
     "postalCode": "86419"
   },
   {
@@ -26178,7 +26178,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Riung",
     "districtCode": "5312080",
     "village": "Rawangkalo I",
-    "villageCode": "",
+    "villageCode": "5312080007",
     "postalCode": "86419"
   },
   {
@@ -26222,7 +26222,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Riung",
     "districtCode": "5312080",
     "village": "Latung Barat",
-    "villageCode": "",
+    "villageCode": "5312080014",
     "postalCode": "86419"
   },
   {
@@ -26233,7 +26233,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Riung",
     "districtCode": "5312080",
     "village": "Wakamanga",
-    "villageCode": "",
+    "villageCode": "5312080028",
     "postalCode": "86419"
   },
   {
@@ -26244,7 +26244,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Riung",
     "districtCode": "5312080",
     "village": "Tadho Tengah",
-    "villageCode": "",
+    "villageCode": "5312080011",
     "postalCode": "86419"
   },
   {
@@ -26255,7 +26255,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Riung",
     "districtCode": "5312080",
     "village": "Tadho Barat",
-    "villageCode": "",
+    "villageCode": "5312080011",
     "postalCode": "86419"
   },
   {
@@ -26266,7 +26266,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Riung",
     "districtCode": "5312080",
     "village": "Taen Terong Satu",
-    "villageCode": "",
+    "villageCode": "5312080006",
     "postalCode": "86419"
   },
   {
@@ -26277,7 +26277,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Riung",
     "districtCode": "5312080",
     "village": "Ite Jaya",
-    "villageCode": "",
+    "villageCode": "5312080035",
     "postalCode": "86419"
   },
   {
@@ -26288,7 +26288,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Riung",
     "districtCode": "5312080",
     "village": "Tadho Timur",
-    "villageCode": "",
+    "villageCode": "5312080011",
     "postalCode": "86419"
   },
   {
@@ -26310,7 +26310,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Riung",
     "districtCode": "5312080",
     "village": "Rawangkalo II",
-    "villageCode": "",
+    "villageCode": "5312080007",
     "postalCode": "86419"
   },
   {
@@ -26332,7 +26332,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Riung Barat",
     "districtCode": "5312081",
     "village": "Benteng Tawa V",
-    "villageCode": "",
+    "villageCode": "5312081004",
     "postalCode": "86421"
   },
   {
@@ -26365,7 +26365,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Riung Barat",
     "districtCode": "5312081",
     "village": "Lanamai II",
-    "villageCode": "",
+    "villageCode": "5312081003",
     "postalCode": "86421"
   },
   {
@@ -26387,7 +26387,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Riung Barat",
     "districtCode": "5312081",
     "village": "Benteng Tawa II",
-    "villageCode": "",
+    "villageCode": "5312081004",
     "postalCode": "86421"
   },
   {
@@ -26409,7 +26409,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Riung Barat",
     "districtCode": "5312081",
     "village": "Benteng Tawa III",
-    "villageCode": "",
+    "villageCode": "5312081004",
     "postalCode": "86421"
   },
   {
@@ -26431,7 +26431,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Riung Barat",
     "districtCode": "5312081",
     "village": "Ngara I",
-    "villageCode": "",
+    "villageCode": "5312081005",
     "postalCode": "86421"
   },
   {
@@ -26442,7 +26442,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Riung Barat",
     "districtCode": "5312081",
     "village": "Wate",
-    "villageCode": "",
+    "villageCode": "5312081016",
     "postalCode": "86421"
   },
   {
@@ -26497,7 +26497,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Riung Barat",
     "districtCode": "5312081",
     "village": "Benteng Tawa IV",
-    "villageCode": "",
+    "villageCode": "5312081004",
     "postalCode": "86421"
   },
   {
@@ -26519,7 +26519,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Riung Barat",
     "districtCode": "5312081",
     "village": "Nili Waru Sae",
-    "villageCode": "",
+    "villageCode": "5312081015",
     "postalCode": "86421"
   },
   {
@@ -26541,7 +26541,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Soa",
     "districtCode": "5312071",
     "village": "Lokaweka",
-    "villageCode": "",
+    "villageCode": "5312071016",
     "postalCode": "86422"
   },
   {
@@ -26552,7 +26552,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Soa",
     "districtCode": "5312071",
     "village": "Piga Satu",
-    "villageCode": "",
+    "villageCode": "5312071004",
     "postalCode": "86422"
   },
   {
@@ -26596,7 +26596,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Soa",
     "districtCode": "5312071",
     "village": "Waepana I",
-    "villageCode": "",
+    "villageCode": "5312071007",
     "postalCode": "86422"
   },
   {
@@ -26640,7 +26640,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Soa",
     "districtCode": "5312071",
     "village": "Masumeli",
-    "villageCode": "",
+    "villageCode": "5312071005",
     "postalCode": "86422"
   },
   {
@@ -26717,7 +26717,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Wolomeze",
     "districtCode": "5312082",
     "village": "Larilaki",
-    "villageCode": "",
+    "villageCode": "5312082009",
     "postalCode": "86423"
   },
   {
@@ -26750,7 +26750,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Wolomeze",
     "districtCode": "5312082",
     "village": "Turaloa Timur",
-    "villageCode": "",
+    "villageCode": "5312082001",
     "postalCode": "86423"
   },
   {
@@ -26761,7 +26761,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Wolomeze",
     "districtCode": "5312082",
     "village": "Wue",
-    "villageCode": "",
+    "villageCode": "5312082007",
     "postalCode": "86423"
   },
   {
@@ -26794,7 +26794,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Wolomeze",
     "districtCode": "5312082",
     "village": "Mulumese",
-    "villageCode": "",
+    "villageCode": "5312082010",
     "postalCode": "86423"
   },
   {
@@ -26882,7 +26882,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Jerebuu",
     "districtCode": "5312011",
     "village": "Wongawea",
-    "villageCode": "",
+    "villageCode": "5312011014",
     "postalCode": "86451"
   },
   {
@@ -26893,7 +26893,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Jerebuu",
     "districtCode": "5312011",
     "village": "Bowaru",
-    "villageCode": "",
+    "villageCode": "5312011015",
     "postalCode": "86451"
   },
   {
@@ -27069,7 +27069,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Aimere",
     "districtCode": "5312010",
     "village": "Mawwo Kisa",
-    "villageCode": "",
+    "villageCode": "5312010024",
     "postalCode": "86452"
   },
   {
@@ -27190,7 +27190,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Inerie",
     "districtCode": "5312012",
     "village": "Enabhara",
-    "villageCode": "",
+    "villageCode": "5312012012",
     "postalCode": "86456"
   },
   {
@@ -27212,7 +27212,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Inerie",
     "districtCode": "5312012",
     "village": "Ruto",
-    "villageCode": "",
+    "villageCode": "5312012011",
     "postalCode": "86456"
   },
   {
@@ -27245,7 +27245,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Golewa Barat",
     "districtCode": "5312032",
     "village": "Sobo II",
-    "villageCode": "",
+    "villageCode": "5312032006",
     "postalCode": "86460"
   },
   {
@@ -27278,7 +27278,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Golewa Barat",
     "districtCode": "5312032",
     "village": "Rakalaba I",
-    "villageCode": "",
+    "villageCode": "5312032008",
     "postalCode": "86460"
   },
   {
@@ -27289,7 +27289,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Golewa Barat",
     "districtCode": "5312032",
     "village": "Sobo Satu",
-    "villageCode": "",
+    "villageCode": "5312032006",
     "postalCode": "86460"
   },
   {
@@ -27344,7 +27344,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Golewa Barat",
     "districtCode": "5312032",
     "village": "Bopoma",
-    "villageCode": "",
+    "villageCode": "5312032013",
     "postalCode": "86460"
   },
   {
@@ -27388,7 +27388,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Golewa Selatan",
     "districtCode": "5312031",
     "village": "Were VI",
-    "villageCode": "",
+    "villageCode": "5312031017",
     "postalCode": "86461"
   },
   {
@@ -27421,7 +27421,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Golewa Selatan",
     "districtCode": "5312031",
     "village": "Bobawa",
-    "villageCode": "",
+    "villageCode": "5312031004",
     "postalCode": "86461"
   },
   {
@@ -27432,7 +27432,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Golewa Selatan",
     "districtCode": "5312031",
     "village": "Boba Satu",
-    "villageCode": "",
+    "villageCode": "5312031004",
     "postalCode": "86461"
   },
   {
@@ -27476,7 +27476,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Golewa Selatan",
     "districtCode": "5312031",
     "village": "Takatunga I",
-    "villageCode": "",
+    "villageCode": "5312031010",
     "postalCode": "86461"
   },
   {
@@ -27520,7 +27520,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Golewa Selatan",
     "districtCode": "5312031",
     "village": "Were V",
-    "villageCode": "",
+    "villageCode": "5312031017",
     "postalCode": "86461"
   },
   {
@@ -27553,7 +27553,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Golewa Selatan",
     "districtCode": "5312031",
     "village": "Kezewea I",
-    "villageCode": "",
+    "villageCode": "5312031008",
     "postalCode": "86461"
   },
   {
@@ -27564,7 +27564,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Golewa Selatan",
     "districtCode": "5312031",
     "village": "Sadha I",
-    "villageCode": "",
+    "villageCode": "5312031011",
     "postalCode": "86461"
   },
   {
@@ -27619,7 +27619,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Golewa",
     "districtCode": "5312030",
     "village": "Kelimolo",
-    "villageCode": "",
+    "villageCode": "5312030038",
     "postalCode": "86461"
   },
   {
@@ -27641,7 +27641,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Golewa",
     "districtCode": "5312030",
     "village": "Were",
-    "villageCode": "",
+    "villageCode": "5312030012",
     "postalCode": "86461"
   },
   {
@@ -27652,7 +27652,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Golewa",
     "districtCode": "5312030",
     "village": "Sarasedu Satu",
-    "villageCode": "",
+    "villageCode": "5312030007",
     "postalCode": "86461"
   },
   {
@@ -27674,7 +27674,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Golewa",
     "districtCode": "5312030",
     "village": "Tiwo Toda",
-    "villageCode": "",
+    "villageCode": "5312030040",
     "postalCode": "86461"
   },
   {
@@ -27696,7 +27696,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Golewa",
     "districtCode": "5312030",
     "village": "Malanuza Satu",
-    "villageCode": "",
+    "villageCode": "5312030008",
     "postalCode": "86461"
   },
   {
@@ -27707,7 +27707,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Golewa",
     "districtCode": "5312030",
     "village": "Wogo",
-    "villageCode": "",
+    "villageCode": "5312030037",
     "postalCode": "86461"
   },
   {
@@ -27740,7 +27740,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Golewa",
     "districtCode": "5312030",
     "village": "Radabata I",
-    "villageCode": "",
+    "villageCode": "5312030013",
     "postalCode": "86461"
   },
   {
@@ -27762,7 +27762,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Golewa",
     "districtCode": "5312030",
     "village": "Dolupore",
-    "villageCode": "",
+    "villageCode": "5312030039",
     "postalCode": "86461"
   },
   {
@@ -27773,7 +27773,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Golewa",
     "districtCode": "5312030",
     "village": "Bodosare",
-    "villageCode": "",
+    "villageCode": "5312030036",
     "postalCode": "86461"
   },
   {
@@ -27872,7 +27872,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Welak",
     "districtCode": "5315031",
     "village": "Gurung",
-    "villageCode": "",
+    "villageCode": "5315031005",
     "postalCode": "86352"
   },
   {
@@ -28213,7 +28213,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Rahong Utara",
     "districtCode": "5313123",
     "village": "Tengku Lese",
-    "villageCode": "",
+    "villageCode": "5313123003",
     "postalCode": "86513"
   },
   {
@@ -28532,7 +28532,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Ruteng",
     "districtCode": "5313120",
     "village": "Meler",
-    "villageCode": "",
+    "villageCode": "5313120013",
     "postalCode": "86523"
   },
   {
@@ -28576,7 +28576,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Ruteng",
     "districtCode": "5313120",
     "village": "Benteng Kuwu",
-    "villageCode": "",
+    "villageCode": "5313120016",
     "postalCode": "86523"
   },
   {
@@ -28642,7 +28642,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Ruteng",
     "districtCode": "5313120",
     "village": "Pong Lale",
-    "villageCode": "",
+    "villageCode": "5313120032",
     "postalCode": "86523"
   },
   {
@@ -28840,7 +28840,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Satar Mese",
     "districtCode": "5313040",
     "village": "Legu",
-    "villageCode": "",
+    "villageCode": "5313040011",
     "postalCode": "86561"
   },
   {
@@ -29038,7 +29038,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Satar Mese",
     "districtCode": "5313040",
     "village": "Umung",
-    "villageCode": "",
+    "villageCode": "5313040021",
     "postalCode": "86561"
   },
   {
@@ -29093,7 +29093,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Satar Mese Utara",
     "districtCode": "5313042",
     "village": "Gulung",
-    "villageCode": "",
+    "villageCode": "5313042003",
     "postalCode": "86562"
   },
   {
@@ -29401,7 +29401,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Kota Komba",
     "districtCode": "5319020",
     "village": "Gunung",
-    "villageCode": "",
+    "villageCode": "5319020006",
     "postalCode": "86572"
   },
   {
@@ -29412,7 +29412,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Kota Komba",
     "districtCode": "5319020",
     "village": "Lembur",
-    "villageCode": "",
+    "villageCode": "5319020009",
     "postalCode": "86572"
   },
   {
@@ -29621,7 +29621,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Wae Rii",
     "districtCode": "5313121",
     "village": "Golo Wuas",
-    "villageCode": "",
+    "villageCode": "5313121013",
     "postalCode": "86580"
   },
   {
@@ -30127,7 +30127,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Lamba Leda",
     "districtCode": "5319060",
     "village": "Keli",
-    "villageCode": "",
+    "villageCode": "5319060017",
     "postalCode": "86582"
   },
   {
@@ -30787,7 +30787,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Cibal",
     "districtCode": "5313130",
     "village": "Nenu",
-    "villageCode": "",
+    "villageCode": "5313130002",
     "postalCode": "86591"
   },
   {
@@ -30908,7 +30908,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Cibal",
     "districtCode": "5313130",
     "village": "Welu",
-    "villageCode": "",
+    "villageCode": "5313130005",
     "postalCode": "86591"
   },
   {
@@ -30996,7 +30996,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Cibal barat",
     "districtCode": "5313131",
     "village": "Bere",
-    "villageCode": "",
+    "villageCode": "5313131001",
     "postalCode": "86591"
   },
   {
@@ -31205,7 +31205,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Reok Barat",
     "districtCode": "5313141",
     "village": "Kajong",
-    "villageCode": "",
+    "villageCode": "5313141008",
     "postalCode": "86593"
   },
   {
@@ -31282,7 +31282,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Wae Rii",
     "districtCode": "5313121",
     "village": "Ndehes",
-    "villageCode": "",
+    "villageCode": "5313121003",
     "postalCode": "86594"
   },
   {
@@ -31381,7 +31381,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Kuwus",
     "districtCode": "5315040",
     "village": "Lewur",
-    "villageCode": "",
+    "villageCode": "5315040009",
     "postalCode": "86752"
   },
   {
@@ -32349,7 +32349,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Ndoso",
     "districtCode": "5315041",
     "village": "Lumut",
-    "villageCode": "",
+    "villageCode": "5315041009",
     "postalCode": "86759"
   },
   {
@@ -32426,7 +32426,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Ndoso",
     "districtCode": "5315041",
     "village": "Pateng Lesuh",
-    "villageCode": "",
+    "villageCode": "5315041011",
     "postalCode": "86759"
   },
   {
@@ -32558,7 +32558,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Lembor Selatan",
     "districtCode": "5315032",
     "village": "Surunumbeng",
-    "villageCode": "",
+    "villageCode": "5315032006",
     "postalCode": "86761"
   },
   {
@@ -33031,7 +33031,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Lobalain",
     "districtCode": "5314030",
     "village": "Lekunik",
-    "villageCode": "",
+    "villageCode": "5314030015",
     "postalCode": "85911"
   },
   {
@@ -33108,7 +33108,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Lobalain",
     "districtCode": "5314030",
     "village": "Oeleka",
-    "villageCode": "",
+    "villageCode": "5314030018",
     "postalCode": "85911"
   },
   {
@@ -33130,7 +33130,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Lobalain",
     "districtCode": "5314030",
     "village": "Loleoen",
-    "villageCode": "",
+    "villageCode": "5314030016",
     "postalCode": "85911"
   },
   {
@@ -33141,7 +33141,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Lobalain",
     "districtCode": "5314030",
     "village": "Kuli Aisele",
-    "villageCode": "",
+    "villageCode": "5314030001",
     "postalCode": "85911"
   },
   {
@@ -33185,7 +33185,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Rote Tengah",
     "districtCode": "5314040",
     "village": "Siomeda",
-    "villageCode": "",
+    "villageCode": "5314040013",
     "postalCode": "85972"
   },
   {
@@ -33229,7 +33229,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Rote Tengah",
     "districtCode": "5314040",
     "village": "Onatali",
-    "villageCode": "",
+    "villageCode": "5314040012",
     "postalCode": "85972"
   },
   {
@@ -33284,7 +33284,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Rote Timur",
     "districtCode": "5314060",
     "village": "Pengodua",
-    "villageCode": "",
+    "villageCode": "5314060008",
     "postalCode": "85974"
   },
   {
@@ -33295,7 +33295,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Rote Timur",
     "districtCode": "5314060",
     "village": "Matanae",
-    "villageCode": "",
+    "villageCode": "5314060011",
     "postalCode": "85974"
   },
   {
@@ -33306,7 +33306,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Rote Timur",
     "districtCode": "5314060",
     "village": "Batefalu",
-    "villageCode": "",
+    "villageCode": "5314060009",
     "postalCode": "85974"
   },
   {
@@ -33350,7 +33350,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Rote Timur",
     "districtCode": "5314060",
     "village": "Mukekuku",
-    "villageCode": "",
+    "villageCode": "5314060002",
     "postalCode": "85974"
   },
   {
@@ -33361,7 +33361,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Rote Timur",
     "districtCode": "5314060",
     "village": "Papela",
-    "villageCode": "",
+    "villageCode": "5314060010",
     "postalCode": "85974"
   },
   {
@@ -33416,7 +33416,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Landu Leko",
     "districtCode": "5314061",
     "village": "Tena Lai",
-    "villageCode": "",
+    "villageCode": "5314061007",
     "postalCode": "85975"
   },
   {
@@ -33504,7 +33504,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Rote Selatan",
     "districtCode": "5314041",
     "village": "Nggelodae",
-    "villageCode": "",
+    "villageCode": "5314041006",
     "postalCode": "85976"
   },
   {
@@ -33515,7 +33515,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Rote Selatan",
     "districtCode": "5314041",
     "village": "Lenguselu",
-    "villageCode": "",
+    "villageCode": "5314041005",
     "postalCode": "85976"
   },
   {
@@ -33526,7 +33526,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Rote Selatan",
     "districtCode": "5314041",
     "village": "Pilasue",
-    "villageCode": "",
+    "villageCode": "5314041007",
     "postalCode": "85976"
   },
   {
@@ -33702,7 +33702,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Rote Barat Laut",
     "districtCode": "5314020",
     "village": "Hundihuk",
-    "villageCode": "",
+    "villageCode": "5314020017",
     "postalCode": "85981"
   },
   {
@@ -33724,7 +33724,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Rote Barat Laut",
     "districtCode": "5314020",
     "village": "Saindule",
-    "villageCode": "",
+    "villageCode": "5314020019",
     "postalCode": "85981"
   },
   {
@@ -33735,7 +33735,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Rote Barat Laut",
     "districtCode": "5314020",
     "village": "Busalangga Timur",
-    "villageCode": "",
+    "villageCode": "5314020006",
     "postalCode": "85981"
   },
   {
@@ -33768,7 +33768,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Rote Barat Laut",
     "districtCode": "5314020",
     "village": "Busalangga Barat",
-    "villageCode": "",
+    "villageCode": "5314020006",
     "postalCode": "85981"
   },
   {
@@ -33867,7 +33867,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Rote Barat Daya",
     "districtCode": "5314010",
     "village": "Dalek Esa",
-    "villageCode": "",
+    "villageCode": "5314010023",
     "postalCode": "85982"
   },
   {
@@ -33933,7 +33933,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Rote Barat Daya",
     "districtCode": "5314010",
     "village": "Lentera",
-    "villageCode": "",
+    "villageCode": "5314010019",
     "postalCode": "85982"
   },
   {
@@ -33988,7 +33988,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Rote Barat Daya",
     "districtCode": "5314010",
     "village": "Sanggandolu",
-    "villageCode": "",
+    "villageCode": "5314010020",
     "postalCode": "85982"
   },
   {
@@ -33999,7 +33999,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Rote Barat Daya",
     "districtCode": "5314010",
     "village": "Fuafuni",
-    "villageCode": "",
+    "villageCode": "5314010022",
     "postalCode": "85982"
   },
   {
@@ -34032,7 +34032,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Ndao Nuse",
     "districtCode": "5314071",
     "village": "Nuse",
-    "villageCode": "",
+    "villageCode": "5314071001",
     "postalCode": "85984"
   },
   {
@@ -34043,7 +34043,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Ndao Nuse",
     "districtCode": "5314071",
     "village": "Ndaonuse",
-    "villageCode": "",
+    "villageCode": "5314071005",
     "postalCode": "85984"
   },
   {
@@ -35308,7 +35308,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Keo Tengah",
     "districtCode": "5318020",
     "village": "Kotowuji Timur",
-    "villageCode": "",
+    "villageCode": "5318020003",
     "postalCode": "86464"
   },
   {
@@ -35352,7 +35352,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Keo Tengah",
     "districtCode": "5318020",
     "village": "Kotodirumali",
-    "villageCode": "",
+    "villageCode": "5318020008",
     "postalCode": "86464"
   },
   {
@@ -35374,7 +35374,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Keo Tengah",
     "districtCode": "5318020",
     "village": "Kotowuji Barat",
-    "villageCode": "",
+    "villageCode": "5318020004",
     "postalCode": "86464"
   },
   {
@@ -35440,7 +35440,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Aesesa Selatan",
     "districtCode": "5318050",
     "village": "Renduteno",
-    "villageCode": "",
+    "villageCode": "5318050001",
     "postalCode": "86470"
   },
   {
@@ -35814,7 +35814,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Nangaroro",
     "districtCode": "5318030",
     "village": "Kotakeo Dua",
-    "villageCode": "",
+    "villageCode": "5318030009",
     "postalCode": "86964"
   },
   {
@@ -35825,7 +35825,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Nangaroro",
     "districtCode": "5318030",
     "village": "Kodaute",
-    "villageCode": "",
+    "villageCode": "5318030022",
     "postalCode": "86964"
   },
   {
@@ -35847,7 +35847,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Nangaroro",
     "districtCode": "5318030",
     "village": "Ulupulu",
-    "villageCode": "",
+    "villageCode": "5318030015",
     "postalCode": "86964"
   },
   {
@@ -35891,7 +35891,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Nangaroro",
     "districtCode": "5318030",
     "village": "Ulupulu I",
-    "villageCode": "",
+    "villageCode": "5318030015",
     "postalCode": "86964"
   },
   {
@@ -35913,7 +35913,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Nangaroro",
     "districtCode": "5318030",
     "village": "Kotakeo Satu",
-    "villageCode": "",
+    "villageCode": "5318030009",
     "postalCode": "86964"
   },
   {
@@ -36034,7 +36034,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Sabu Barat",
     "districtCode": "5320040",
     "village": "Djadu",
-    "villageCode": "",
+    "villageCode": "5320040016",
     "postalCode": "85391"
   },
   {
@@ -36056,7 +36056,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Sabu Barat",
     "districtCode": "5320040",
     "village": "Depe",
-    "villageCode": "",
+    "villageCode": "5320040003",
     "postalCode": "85391"
   },
   {
@@ -36276,7 +36276,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Raijua",
     "districtCode": "5320010",
     "village": "Ledeunu",
-    "villageCode": "",
+    "villageCode": "5320010004",
     "postalCode": "85393"
   },
   {
@@ -36287,7 +36287,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Raijua",
     "districtCode": "5320010",
     "village": "Ledeke",
-    "villageCode": "",
+    "villageCode": "5320010003",
     "postalCode": "85393"
   },
   {
@@ -36441,7 +36441,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Sabu Liae",
     "districtCode": "5320030",
     "village": "Ledeke",
-    "villageCode": "",
+    "villageCode": "5320030006",
     "postalCode": "85395"
   },
   {
@@ -36474,7 +36474,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Sabu Liae",
     "districtCode": "5320030",
     "village": "Deme",
-    "villageCode": "",
+    "villageCode": "5320030012",
     "postalCode": "85395"
   },
   {
@@ -36815,7 +36815,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Malaka Tengah",
     "districtCode": "5321070",
     "village": "Umanen Lawalu",
-    "villageCode": "",
+    "villageCode": "5321070009",
     "postalCode": "85762"
   },
   {
@@ -36826,7 +36826,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Malaka Tengah",
     "districtCode": "5321070",
     "village": "Harekakae",
-    "villageCode": "",
+    "villageCode": "5321070014",
     "postalCode": "85762"
   },
   {
@@ -36848,7 +36848,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Malaka Tengah",
     "districtCode": "5321070",
     "village": "Kletek",
-    "villageCode": "",
+    "villageCode": "5321070012",
     "postalCode": "85762"
   },
   {
@@ -37035,7 +37035,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Rinhat",
     "districtCode": "5321040",
     "village": "Muke",
-    "villageCode": "",
+    "villageCode": "5321040004",
     "postalCode": "85764"
   },
   {
@@ -37090,7 +37090,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Rinhat",
     "districtCode": "5321040",
     "village": "Webetun",
-    "villageCode": "",
+    "villageCode": "5321040008",
     "postalCode": "85764"
   },
   {
@@ -37145,7 +37145,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Rinhat",
     "districtCode": "5321040",
     "village": "Wekeke",
-    "villageCode": "",
+    "villageCode": "5321040015",
     "postalCode": "85764"
   },
   {
@@ -37398,7 +37398,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Weliman",
     "districtCode": "5321030",
     "village": "Wesey",
-    "villageCode": "",
+    "villageCode": "5321030009",
     "postalCode": "85768"
   },
   {
@@ -37464,7 +37464,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Weliman",
     "districtCode": "5321030",
     "village": "Haliklaran",
-    "villageCode": "",
+    "villageCode": "5321030005",
     "postalCode": "85768"
   },
   {
@@ -37563,7 +37563,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Wewiku",
     "districtCode": "5321010",
     "village": "Weulun",
-    "villageCode": "",
+    "villageCode": "5321010007",
     "postalCode": "85769"
   },
   {
@@ -37640,7 +37640,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Wewiku",
     "districtCode": "5321010",
     "village": "Weseben",
-    "villageCode": "",
+    "villageCode": "5321010003",
     "postalCode": "85769"
   },
   {
@@ -37794,7 +37794,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Io Kufeu",
     "districtCode": "5321050",
     "village": "Ikan Tuanbeis",
-    "villageCode": "",
+    "villageCode": "5321050004",
     "postalCode": "85782"
   },
   {
@@ -37805,7 +37805,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Io Kufeu",
     "districtCode": "5321050",
     "village": "Kufeu",
-    "villageCode": "",
+    "villageCode": "5321050005",
     "postalCode": "85782"
   },
   {
@@ -37838,7 +37838,7 @@ export const NUSA_TENGGARA_TIMUR: PostalCodeData[] = [
     "district": "Io Kufeu",
     "districtCode": "5321050",
     "village": "Bani-Bani",
-    "villageCode": "",
+    "villageCode": "5321050002",
     "postalCode": "85782"
   },
   {
