@@ -1,7 +1,14 @@
 /**
- * Script scrape data BPS - VERSI SEDERHANA
- * Hanya mengambil: Province -> District -> Village
- * (Tanpa intermediate city level untuk mempercepat)
+ * Script scrape data WILAYAH (province, district, village) dari BPS
+ * Tanpa kode pos - karena data kode pos sudah ada di src/data/
+ * 
+ * Struktur Output:
+ * data/sig.bps.go.id/2025_1.2025/
+ *   ├── provinces.json
+ *   ├── 11/
+ *   │   ├── districts.json
+ *   │   └── 1101010/villages.json
+ *   └── ...
  * 
  * Run: node scrape-bps-simple.cjs
  */
@@ -26,16 +33,18 @@ function fetchBpsData(level, parentCode) {
         try {
           resolve(JSON.parse(data));
         } catch (e) {
+          console.error(`Error: ${url}`);
           resolve([]);
         }
       });
-    }).on('error', () => {
+    }).on('error', (err) => {
+      console.error(`Error: ${url} - ${err.message}`);
       resolve([]);
     });
   });
 }
 
-// Delay between requests (avoid rate limit)
+// Delay between requests
 function delay(ms) {
   return new Promise(resolve => setTimeout(resolve, ms));
 }
@@ -50,25 +59,34 @@ function saveJson(filePath, data) {
 }
 
 async function main() {
-  console.log('=== SCRAPE DATA WILAYAH BPS (Simple) ===\n');
+  console.log('=== SCRAPE DATA WILAYAH BPS ===');
+  console.log(`Output: ${OUTPUT_DIR}\n`);
+  
+  // Create base directory
+  if (!fs.existsSync(OUTPUT_DIR)) {
+    fs.mkdirSync(OUTPUT_DIR, { recursive: true });
+  }
   
   // Get provinces
+  console.log('Fetching provinces...');
   const provinces = await fetchBpsData('provinsi', PERIODE);
-  console.log(`Provinces: ${provinces.length}`);
+  console.log(`Found ${provinces.length} provinces\n`);
   
   saveJson(path.join(OUTPUT_DIR, 'provinces.json'), provinces);
   
   let totalDistricts = 0;
   let totalVillages = 0;
   
+  // Process each province
   for (const province of provinces) {
-    console.log(`\n[${province.kode}] ${province.nama}...`);
+    const provCode = province.kode;
+    console.log(`[${provCode}] ${province.nama}...`);
     
-    // Get districts directly from province
-    const districts = await fetchBpsData('kecamatan', province.kode);
+    // Get districts
+    const districts = await fetchBpsData('kecamatan', provCode);
     
-    // Save districts for this province
-    const provDir = path.join(OUTPUT_DIR, province.kode);
+    // Save districts
+    const provDir = path.join(OUTPUT_DIR, provCode);
     saveJson(path.join(provDir, 'districts.json'), districts);
     
     totalDistricts += districts.length;
@@ -76,24 +94,23 @@ async function main() {
     
     // Get villages for each district
     for (const district of districts) {
+      await delay(30); // Rate limiting
+      
       const villages = await fetchBpsData('desa', district.kode);
       
       const distDir = path.join(provDir, district.kode);
       saveJson(path.join(distDir, 'villages.json'), villages);
       
       totalVillages += villages.length;
-      
-      // Small delay to avoid rate limit
-      await delay(50);
     }
     
-    await delay(100);
+    await delay(50); // Rate limiting between provinces
   }
   
   console.log('\n=== COMPLETE ===');
-  console.log(`Total Provinces: ${provinces.length}`);
-  console.log(`Total Districts: ${totalDistricts}`);
-  console.log(`Total Villages: ${totalVillages}`);
+  console.log(`Provinces: ${provinces.length}`);
+  console.log(`Districts: ${totalDistricts}`);
+  console.log(`Villages: ${totalVillages}`);
   console.log(`\nSaved to: ${OUTPUT_DIR}`);
 }
 
